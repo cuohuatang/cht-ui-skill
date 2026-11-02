@@ -6,7 +6,7 @@ description: "一站式前端视觉与动效技能集，融合 22 大能力：p5
 description_zh: "cht-ui-skill：前端视觉/动效/设计/工程/审美全家桶——创意编码、生成图案、动画编排、物理动画、微交互、设计规范、后期特效、组件系统、界面设计评审、设计稿生成还原、可拖拽 UI 设计、开发方法论（TDD/计划/验证/评审）、设计哲学（反 AI 味）、研究方向引擎、25 种风格配方、设计稿动效展示（MP4/GIF 导出）、高转化落地页系统、设计词汇表（24 改稿指令 + 62 反-slop 规则 + critique/audit 评审）、界面评审打磨（无障碍/字体/色彩/布局/文案/UI 精修 + 组件状态机/变体）、生成式 UI 框架（catalog 护栏约束的 AI 受控 JSON Spec → 流式渲染，覆盖 React/RN/Vue/Svelte/Solid/3D/邮件/PDF/终端）"
 description_en: "cht-ui-skill: a frontend visual & motion toolkit covering p5.js, css-doodle, Theatre.js, React Spring, Inure micro-interactions, UI/UX craft, React PostFX, Chakra UI, oil-ui design/review, draw-ui design-to-code, m3e-canvas draggable UI design, superpowers dev methodology, Anthropic frontend-design philosophy, taste-skill direction engine, garden-skills style recipes, ai-design-skills demo/conversion engine (design-to-motion, landing-page-design), impeccable design-vocabulary & anti-slop steerer (24 steer commands + 62 deterministic slop rules + critique/audit), and jakubkrehel-skills interface review/polish suite (14 sub-skills), and json-render generative-UI framework (vercel-labs, Apache-2.0: catalog-guarded AI-generated JSON specs streamed to renderers across React/RN/Vue/Svelte/Solid/3D/email/PDF/terminal)."
 category: frontend
-version: 1.7.0
+version: 1.7.1
 author: cuohuatang
 tags:
   - frontend

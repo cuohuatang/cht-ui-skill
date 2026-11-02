@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## v1.7.1 — 2026-11-02
+
+**发版（Tag Release）**
+- 打上首个 TAG：`v1.7.1`（基于 v1.7.0 内容，无功能变更）。
+- 版本号同步：SKILL.md `version: 1.7.0 → 1.7.1`；重打包 `/workspace/cht-ui-skill.zip`。
+- 当前能力快照：22 大能力（含 hallmark 反 AI 味设计技能、ui-ux-pro-max 设计智能数据库、json-render 生成式 UI 框架、impeccable × jakubkrehel-skills × hallmark 三方交付前评审）。
+
 ## v1.7.0 — 2026-10-31
 
 **新增（反 AI 味设计技能，来源 `Nutlope/hallmark`，⭐ ~42k，MIT，Together AI 出品）**
