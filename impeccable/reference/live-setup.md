@@ -1,1 +1,104 @@
-T25lLXRpbWUgbGl2ZS1tb2RlIHByb2plY3Qgc2V0dXAuIExvYWRlZCBmcm9tIFtsaXZlLm1kXShsaXZlLm1kKSBvbmx5IHdoZW4gYGltcGVjY2FibGUgbGl2ZWAgcmVwb3J0cyBgY29uZmlnX21pc3NpbmdgIC8gYGNvbmZpZ19pbnZhbGlkYCwgd2hlbiBgY29uZmlnRHJpZnRgIG5lZWRzIGhhbmRsaW5nLCBvciB3aGVuIHRoZSBjb25maWcgbGFja3MgYGNzcENoZWNrZWRgLiBOb3QgcGFydCBvZiB0aGUgcGVyLXNlc3Npb24gaG90IHBhdGguCgojIyBXcml0ZSB0aGUgY29uZmlnCgpDcmVhdGUgdGhlIGZpbGUgYXQgdGhlIGBwYXRoYCB0aGUgYm9vdCByZXBvcnRlZCAoZGVmYXVsdCBgLmltcGVjY2FibGUvbGl2ZS9jb25maWcuanNvbmApOgoKYGBganNvbgp7CiAgImZpbGVzIjogWyI8cGF0aC1vci1nbG9iPiIsICI8cGF0aC1vci1nbG9iPiIsIC4uLl0sCiAgImV4Y2x1ZGUiOiBbIjxvcHRpb25hbC1nbG9iPiIsIC4uLl0sCiAgImluc2VydEJlZm9yZSI6ICI8L2JvZHk+IiwKICAiY29tbWVudFN5bnRheCI6ICJodG1sIiwKICAiY3NwQ2hlY2tlZCI6IHRydWUKfQpgYGAKCmBmaWxlc2AgaXMgdGhlIGluamVjdCB0YXJnZXQ6ICoqdGhlIEhUTUwgZmlsZXMgdGhlIGJyb3dzZXIgYWN0dWFsbHkgbG9hZHMqKiwgbm90IG5lY2Vzc2FyaWx5IHNvdXJjZSAodHJhY2tlZCB2cyBnZW5lcmF0ZWQgZG9lcyBub3QgbWF0dGVyIGhlcmU7IHdyYXAgaGFzIGl0cyBvd24gZ2VuZXJhdGVkLWZpbGUgZ3VhcmQpLiBFbnRyaWVzIGFyZSBsaXRlcmFsIHBhdGhzIG9yIGdsb2JzLiBgZXhjbHVkZWAgKG9wdGlvbmFsKSBza2lwcyBmaWxlcyBhIGBmaWxlc2AgZ2xvYiB3b3VsZCBvdGhlcndpc2UgaW5jbHVkZSAoZW1haWwgdGVtcGxhdGVzLCBkZW1vIGZpeHR1cmVzKS4gYGNzcENoZWNrZWRgIHJlY29yZHMgdGhhdCB0aGUgQ1NQIHN0ZXAgYmVsb3cgaGFzIHJ1bjsgYWJzZW50IG9uIGZpcnN0IHNldHVwLgoKKipIYXJkLWV4Y2x1ZGVkIHBhdGhzIChjYW5ub3QgYmUgb3ZlcnJpZGRlbik6KiogYCoqL25vZGVfbW9kdWxlcy8qKmAgYW5kIGAqKi8uZ2l0LyoqYDsgaW5qZWN0aW5nIHRoZXJlIHdvdWxkIGluc3RydW1lbnQgdGhpcmQtcGFydHkgY29kZS4KCioqR2xvYiBzeW50YXg6KiogYCoqYCBtYXRjaGVzIGFueSBudW1iZXIgb2Ygc2VnbWVudHMgKGluY2x1ZGluZyB6ZXJvKSwgYCpgIG1hdGNoZXMgd2l0aGluIGEgc2VnbWVudCwgYD9gIG1hdGNoZXMgb25lIGNoYXJhY3Rlci4gUGF0aHMgYXJlIHByb2plY3Qtcm9vdC1yZWxhdGl2ZSB3aXRoIGZvcndhcmQgc2xhc2hlcy4KCnwgRnJhbWV3b3JrIHwgYGZpbGVzYCB8IGBpbnNlcnRCZWZvcmVgIHwgYGNvbW1lbnRTeW50YXhgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tfAp8IFNQQSB3aXRoIHNpbmdsZSBzaGVsbCAoVml0ZSAvIFJlYWN0IC8gUGxhaW4gSFRNTCkgfCBgWyJpbmRleC5odG1sIl1gIHwgYDwvYm9keT5gIHwgYGh0bWxgIHwKfCBOZXh0LmpzIChBcHAgUm91dGVyKSB8IGBbImFwcC9sYXlvdXQudHN4Il1gIHwgYDwvYm9keT5gIHwgYGpzeGAgfAp8IE5leHQuanMgKFBhZ2VzKSB8IGBbInBhZ2VzL19kb2N1bWVudC50c3giXWAgfCBgPC9ib2R5PmAgfCBganN4YCB8CnwgTnV4dCB8IGBbImFwcC52dWUiXWAgfCBgPC9ib2R5PmAgfCBgaHRtbGAgfAp8IFN2ZWx0ZSAvIFN2ZWx0ZUtpdCB8IGBbInNyYy9hcHAuaHRtbCJdYCB8IGA8L2JvZHk+YCB8IGBodG1sYCB8CnwgVGFuU3RhY2sgUm91dGVyIChTUEEsIFZpdGUpIHwgYFsiaW5kZXguaHRtbCJdYCB8IGA8L2JvZHk+YCB8IGBodG1sYCB8CnwgVGFuU3RhY2sgU3RhcnQgKFNTUikgfCBgWyJzcmMvcm91dGVzL19fcm9vdC50c3giXWAgfCBgPFNjcmlwdHNgIHwgYGpzeGAgfAp8IEFzdHJvIHwgYFsiIDxyb290IGxheW91dCAuYXN0cm8+Il1gIHwgYDwvYm9keT5gIHwgYGh0bWxgIHwKfCBNdWx0aS1wYWdlIChzZXBhcmF0ZSBIVE1MIHBlciByb3V0ZSkgfCBgWyJwdWJsaWMvKiovKi5odG1sIl1gIGdsb2Igb3ZlciB0aGUgc2VydmVkIGRpciB8IGA8L2JvZHk+YCB8IGBodG1sYCB8CgpQaWNrIGFuIGFuY2hvciB0aGF0IGV4aXN0cyBpbiBldmVyeSBmaWxlIChgPC9ib2R5PmAgYWxtb3N0IGFsd2F5cyB3b3Jrcyk7IGBpbnNlcnRBZnRlcmAgbWF0Y2hlcyBhZnRlciBhIGxpbmUgaW5zdGVhZC4gRm9yIG11bHRpLXBhZ2Ugc2l0ZXMgcHJlZmVyIGEgZ2xvYiBzbyBuZXcgcGFnZXMgYXJlIHBpY2tlZCB1cCBhdXRvbWF0aWNhbGx5LiBGb3Igc2l0ZXMgd2hvc2UgcGFnZXMgYXJlIHJlYnVpbHQgYnkgYSBnZW5lcmF0b3IsIHRoZSBpbmplY3Qgc3Vydml2ZXMgb25seSB1bnRpbCB0aGUgbmV4dCByZWdlbmVyYXRpb246IHJlLXJ1biBgaW1wZWNjYWJsZSBsaXZlYCBhZnRlciBlYWNoIGJ1aWxkIChhY2NlcHQgaXMgdW5hZmZlY3RlZDsgaXQgd3JpdGVzIHRydWUgc291cmNlIHZpYSB0aGUgZmFsbGJhY2sgZmxvdykuCgoqKkZyYW1ld29yayBhZGFwdGVycyAoYXV0by1kZXRlY3RlZCBhdCBpbmplY3QgdGltZSkuKiogRXZlcnkgaW5qZWN0IHJlY29yZHMgd2hhdCBpdCB3cm90ZSBpbiBgLmltcGVjY2FibGUvbGl2ZS9pbmplY3Qtam91cm5hbC5qc29uYDsgdGhlIG5leHQgaW5qZWN0IG9yIHJlbW92ZSBoZWFscyBhcnRpZmFjdHMgYSBjcmFzaCBvciB3cm9uZy1kaXJlY3Rvcnkgc3RvcCBsZWZ0IGJlaGluZC4gU3ZlbHRlS2l0LCBOdXh0LCBhbmQgVGFuU3RhY2sgU3RhcnQgc2VydmVyLXJlbmRlciB0aGVpciBkb2N1bWVudCBzaGVsbCwgc28gYSByYXcgYDxzY3JpcHQ+YCBpbiB0aGUgZW50cnkgdGVtcGxhdGUgd2lsbCBub3QgZXhlY3V0ZSByZWxpYWJseTsgYGltcGVjY2FibGUgbGl2ZS1pbmplY3RgIGRldGVjdHMgdGhlbSBhbmQgcm91dGVzIHRvIGEgZGVkaWNhdGVkIGFkYXB0ZXIgKFN2ZWx0ZUtpdDogZGV2LW9ubHkgcm9vdCBjb21wb25lbnQgZnJvbSBgK2xheW91dC5zdmVsdGVgOyBOdXh0OiBkZXYtb25seSBgLmNsaWVudC50c2AgcGx1Z2luOyBUYW5TdGFjayBTdGFydDogYSBnZW5lcmF0ZWQgZGV2LW9ubHkgYEltcGVjY2FibGVMaXZlUm9vdGAgY29tcG9uZW50IGluIGBfX3Jvb3RgKS4gVGhlIGBmaWxlc2AgdmFsdWUgc3RheXMgYSB2YWxpZCBkZXRlY3Rpb24vQ1NQIGhpbnQgYnV0IGlzIG5vdCB0aGUgbGl0ZXJhbCBpbnNlcnRpb24gc2l0ZS4gQSBwbGFpbiBUYW5TdGFjayBSb3V0ZXIgU1BBIHRha2VzIHRoZSBiYXNlbGluZSBWaXRlIHBhdGguCgojIyBDb25maWcgZHJpZnQKCk9uIGV2ZXJ5IGJvb3QgdGhlIHByb2plY3QgaXMgc2Nhbm5lZCBmb3IgSFRNTCBmaWxlcyB1bmRlciBjb21tb24gcGFnZSByb290cyAoYHB1YmxpYy9gLCBgc3JjL2AsIGBhcHAvYCwgYHBhZ2VzL2ApIHRoYXQgdGhlIHJlc29sdmVkIGBmaWxlc2AgbGlzdCBkb2VzIG5vdCBjb3ZlcjsgdGhleSBzdXJmYWNlIGFzIGBjb25maWdEcmlmdC5vcnBoYW5zYCB3aXRoIGEgaGludC4gVGVsbCB0aGUgdXNlciBvbmNlIHBlciBzZXNzaW9uIHdoaWNoIGZpbGVzIGFyZSB1bmNvdmVyZWQgYW5kIG9mZmVyIHRvIGFkZCB0aGVtIG9yIHN3aXRjaCBgZmlsZXNgIHRvIGEgZ2xvYi4gTmV2ZXIgYXV0by11cGRhdGUgdGhlIGNvbmZpZzsgdGhlIHVzZXIgZGVjaWRlcy4gYGNvbmZpZ0RyaWZ0YCBpcyBgbnVsbGAgd2hlbiB0aGVyZSBpcyBubyBkcmlmdC4KCiMjIENTUCBkZXRlY3Rpb24gKGZpcnN0LXRpbWUgb25seSkKCktlZXAgYWxsIGFsbG93YW5jZXMgYmVsb3cgZGV2ZWxvcG1lbnQtb25seSwgaW5jbHVkaW5nIG1hbnVhbCBtaWRkbGV3YXJlIGFuZCBtZXRhLXRhZyBlZGl0cy4gRG8gbm90IGNoYW5nZSBhIGRlcGxveWVkIHByb2R1Y3Rpb24gc2l0ZSdzIENTUCB0byBsb2FkIHRoZSBsb2NhbGhvc3QgaGVscGVyOyBzZWUgW2xpdmUubWRdKGxpdmUubWQpIGZvciBwcm9kdWN0aW9uIGluc3BlY3Rpb24gYWx0ZXJuYXRpdmVzLgoKSWYgYGNvbmZpZy5jc3BDaGVja2VkID09PSB0cnVlYCwgc2tpcCB0aGlzIHdob2xlIHNlY3Rpb247IHRoZSB1c2VyIHdhcyBhbHJlYWR5IGFza2VkIG9uY2UuCgpgYGBiYXNoCi5hZ2VudC9za2lsbHMvaW1wZWNjYWJsZS9zY3JpcHRzL2ltcGVjY2FibGUgZGV0ZWN0LWNzcApgYGAKCk91dHB1dCBgeyBzaGFwZSwgc2lnbmFscyB9YDsgdGhlIHNoYXBlIG5hbWVzIHRoZSAqcGF0Y2ggbWVjaGFuaXNtKiwgc28gb25lIHRlbXBsYXRlIGNvdmVycyBtYW55IGZyYW1ld29ya3M6CgotICoqYG51bGxgKio6IG5vIENTUDsgd3JpdGUgdGhlIGNvbmZpZyB3aXRoIGBjc3BDaGVja2VkOiB0cnVlYCBhbmQgc3RvcCBoZXJlLgotICoqYGFwcGVuZC1hcnJheXNgKio6IENTUCBhcyBzdHJ1Y3R1cmVkIGRpcmVjdGl2ZSBhcnJheXM7IGF1dG8tcGF0Y2hhYmxlIChtb25vcmVwbyBoZWxwZXJzIHdpdGggYGFkZGl0aW9uYWxTY3JpcHRTcmNgL2BhZGRpdGlvbmFsQ29ubmVjdFNyY2AsIFN2ZWx0ZUtpdCBga2l0LmNzcC5kaXJlY3RpdmVzYCwgTnV4dCBgbnV4dC1zZWN1cml0eWApLgotICoqYGFwcGVuZC1zdHJpbmdgKio6IENTUCBhcyBhIGxpdGVyYWwgdmFsdWUgc3RyaW5nOyBhdXRvLXBhdGNoYWJsZSAoaW5saW5lIGBuZXh0LmNvbmZpZy4qYCBgaGVhZGVycygpYCwgTnV4dCBgcm91dGVSdWxlc2ApLgotICoqYG1pZGRsZXdhcmVgKiogLyAqKmBtZXRhLXRhZ2AqKjogZGV0ZWN0ZWQgYnV0IG5vdCBhdXRvLXBhdGNoZWQuIFNob3cgdGhlIHVzZXIgdGhlIGRldGVjdGVkIGZpbGVzLCBhc2sgdGhlbSB0byBhZGQgYGh0dHA6Ly9sb2NhbGhvc3Q6ODQwMGAgdG8gYHNjcmlwdC1zcmNgIGFuZCBgY29ubmVjdC1zcmNgIG1hbnVhbGx5LCB0aGVuIG1hcmsgYGNzcENoZWNrZWQ6IHRydWVgIGFuZCBwcm9jZWVkLgoKIyMjIENvbnNlbnQgcHJvbXB0ICh1c2UgdGhpcyBwaHJhc2luZykKCj4gKipDU1AgcGF0Y2ggbmVlZGVkLioqIEkgZGV0ZWN0ZWQgYSBDb250ZW50IFNlY3VyaXR5IFBvbGljeSBpbiB5b3VyIHByb2plY3QgdGhhdCBibG9ja3MgYGh0dHA6Ly9sb2NhbGhvc3Q6ODQwMGA6IHRoZSBsaXZlIHBpY2tlciB3b24ndCBsb2FkIHdpdGhvdXQgYW4gYWxsb3dhbmNlLiBIZXJlJ3MgdGhlIGNoYW5nZSBJJ2QgbWFrZToKPgo+IGBgYGRpZmYKPiBbZmlsZTogPHBhdGNoVGFyZ2V0Pl0KPiBbZXhhY3QgZGlmZiwgMi01IGxpbmVzXQo+IGBgYAo+Cj4gSXQncyBndWFyZGVkIGJ5IGBOT0RFX0VOViA9PT0gImRldmVsb3BtZW50ImAgc28gdGhlIGV4dHJhIGVudHJ5IG9ubHkgYXBwZWFycyBpbiBkZXYgYW5kIG5ldmVyIHJlYWNoZXMgcHJvZHVjdGlvbi4gWW91IGNhbiByZW1vdmUgaXQgYW55IHRpbWUgYnkgcmV2ZXJ0aW5nIHRoaXMgZmlsZS4gQXBwbHk/IFt5L25dCgpPbiAibm8iOiBza2lwIHRoZSBwYXRjaCwgbm90ZSB0aGF0IGxpdmUgd2lsbCBub3Qgd29yayB1bnRpbCB0aGUgYWxsb3dhbmNlIGlzIGFkZGVkIG1hbnVhbGx5LCBhbmQgc3RpbGwgd3JpdGUgYGNzcENoZWNrZWQ6IHRydWVgICh0aGUgcXVlc3Rpb24gaGFzIGJlZW4gYXNrZWQpLiBPbiAieWVzIjogYXBwbHkgdGhlIHNoYXBlJ3MgcGF0Y2ggYmVsb3csIHRoZW4gd3JpdGUgYGNzcENoZWNrZWQ6IHRydWVgLgoKIyMjIGFwcGVuZC1hcnJheXMKCkRlY2xhcmUgbmVhciB0aGUgdG9wIG9mIHRoZSBmaWxlIHRoYXQgaG9sZHMgdGhlIENTUCBhcnJheXMsIHRoZW4gYXBwZW5kIGAuLi5fX2ltcGVjY2FibGVMaXZlRGV2YCB0byB0aGUgc2NyaXB0LXNyYyBhbmQgY29ubmVjdC1zcmMgYXJyYXlzOgoKYGBgdHMKLy8gRGV2LW9ubHkgYWxsb3dhbmNlIHNvIGltcGVjY2FibGUgbGl2ZSBtb2RlIGNhbiBsb2FkLiBHdWFyZGVkIGJ5IE5PREVfRU5WLgpjb25zdCBfX2ltcGVjY2FibGVMaXZlRGV2ID0KICBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gImRldmVsb3BtZW50IiA/IFsiaHR0cDovL2xvY2FsaG9zdDo4NDAwIl0gOiBbXTsKYGBgCgpQZXItZnJhbWV3b3JrOiBOZXh0LmpzICsgbW9ub3JlcG8gaGVscGVyOiBlZGl0IHRoZSAqYXBwJ3MqIGBuZXh0LmNvbmZpZy4qYCAobm90IHRoZSBzaGFyZWQgaGVscGVyKSwgYXBwZW5kaW5nIHRvIGBhZGRpdGlvbmFsU2NyaXB0U3JjYCAvIGBhZGRpdGlvbmFsQ29ubmVjdFNyY2AuIFN2ZWx0ZUtpdDogYHN2ZWx0ZS5jb25maWcuanNgLCBga2l0LmNzcC5kaXJlY3RpdmVzWydzY3JpcHQtc3JjJ11gIGFuZCBgWydjb25uZWN0LXNyYyddYC4gTnV4dCArIG51eHQtc2VjdXJpdHk6IGBudXh0LmNvbmZpZy4qYCwgYHNlY3VyaXR5LmhlYWRlcnMuY29udGVudFNlY3VyaXR5UG9saWN5WydzY3JpcHQtc3JjJ11gIGFuZCBgWydjb25uZWN0LXNyYyddYC4gUmVmZXJlbmNlIG91dHB1dHM6IFtuZXh0anMtdHVyYm9yZXBvL2V4cGVjdGVkLWFmdGVyLXBhdGNoLnRzXShodHRwczovL2dpdGh1Yi5jb20vcGJha2F1cy9pbXBlY2NhYmxlL2Jsb2IvOGRhYzZhZTdlMDIwYzQzYWIxMGNlOWI0MTkzOWY2ZmQ0MjYyN2I5Ni90ZXN0cy9mcmFtZXdvcmstZml4dHVyZXMvbmV4dGpzLXR1cmJvcmVwby9leHBlY3RlZC1hZnRlci1wYXRjaC50cyksIFtzdmVsdGVraXQtY3NwL2V4cGVjdGVkLWFmdGVyLXBhdGNoLmpzXShodHRwczovL2dpdGh1Yi5jb20vcGJha2F1cy9pbXBlY2NhYmxlL2Jsb2IvOGRhYzZhZTdlMDIwYzQzYWIxMGNlOWI0MTkzOWY2ZmQ0MjYyN2I5Ni90ZXN0cy9mcmFtZXdvcmstZml4dHVyZXMvc3ZlbHRla2l0LWNzcC9leHBlY3RlZC1hZnRlci1wYXRjaC5qcykuIElkZW1wb3RlbmN5OiBpZiBgX19pbXBlY2NhYmxlTGl2ZURldmAgYWxyZWFkeSBleGlzdHMgaW4gdGhlIGZpbGUsIHRoZSBwYXRjaCBpcyBhcHBsaWVkOyBqdXN0IG1hcmsgYGNzcENoZWNrZWQ6IHRydWVgLgoKIyMjIGFwcGVuZC1zdHJpbmcKClR3by1wb2ludCBwYXRjaDogZGVjbGFyZSBhIGRldi1vbmx5IHN0cmluZywgaW50ZXJwb2xhdGUgaXQgaW50byB0aGUgQ1NQIHZhbHVlIGF0IGJvdGggZGlyZWN0aXZlcyAobGVhZGluZyBzcGFjZSBzbyBpdCBjb25jYXRlbmF0ZXMgY2xlYW5seTsgY29udmVydCBsaXRlcmFscyB0byB0ZW1wbGF0ZSBzdHJpbmdzIGFzIHBhcnQgb2YgdGhlIGVkaXQpOgoKYGBgdHMKLy8gRGV2LW9ubHkgYWxsb3dhbmNlIHNvIGltcGVjY2FibGUgbGl2ZSBtb2RlIGNhbiBsb2FkLgpjb25zdCBfX2ltcGVjY2FibGVMaXZlRGV2ID0KICBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gImRldmVsb3BtZW50IiA/ICIgaHR0cDovL2xvY2FsaG9zdDo4NDAwIiA6ICIiOwpgYGAKCi0gYHNjcmlwdC1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJ2AgYmVjb21lcyBgYCBgc2NyaXB0LXNyYyAnc2VsZicgJ3Vuc2FmZS1pbmxpbmUnJHtfX2ltcGVjY2FibGVMaXZlRGV2fWAgYGAKLSBgY29ubmVjdC1zcmMgJ3NlbGYnYCBiZWNvbWVzIGBgIGBjb25uZWN0LXNyYyAnc2VsZicke19faW1wZWNjYWJsZUxpdmVEZXZ9YCBgYAoKUGVyLWZyYW1ld29yazogTmV4dC5qcyBpbmxpbmUgYGhlYWRlcnMoKWAgaW4gYG5leHQuY29uZmlnLipgOyBOdXh0IGByb3V0ZVJ1bGVzWycvKionXS5oZWFkZXJzWydDb250ZW50LVNlY3VyaXR5LVBvbGljeSddYCBpbiBgbnV4dC5jb25maWcuKmAuIFJlZmVyZW5jZSBvdXRwdXRzOiBbbmV4dGpzLWlubGluZS1jc3AvZXhwZWN0ZWQtYWZ0ZXItcGF0Y2guanNdKGh0dHBzOi8vZ2l0aHViLmNvbS9wYmFrYXVzL2ltcGVjY2FibGUvYmxvYi84ZGFjNmFlN2UwMjBjNDNhYjEwY2U5YjQxOTM5ZjZmZDQyNjI3Yjk2L3Rlc3RzL2ZyYW1ld29yay1maXh0dXJlcy9uZXh0anMtaW5saW5lLWNzcC9leHBlY3RlZC1hZnRlci1wYXRjaC5qcyksIFtudXh0LWNzcC9leHBlY3RlZC1hZnRlci1wYXRjaC50c10oaHR0cHM6Ly9naXRodWIuY29tL3BiYWthdXMvaW1wZWNjYWJsZS9ibG9iLzhkYWM2YWU3ZTAyMGM0M2FiMTBjZTliNDE5MzlmNmZkNDI2MjdiOTYvdGVzdHMvZnJhbWV3b3JrLWZpeHR1cmVzL251eHQtY3NwL2V4cGVjdGVkLWFmdGVyLXBhdGNoLnRzKS4KCiMjIFRyb3VibGVzaG9vdGluZwoKSWYgdGhlIHVzZXIgc2FpZCAibm8iIHRvIHRoZSBDU1AgcGF0Y2ggYW5kIGxhdGVyIHJlcG9ydHMgbGl2ZSBub3Qgd29ya2luZzogdGhlaXIgZGV2IENTUCBibG9ja3MgYGh0dHA6Ly9sb2NhbGhvc3Q6ODQwMGAuIERlbGV0ZSBgY3NwQ2hlY2tlZGAgZnJvbSBgLmltcGVjY2FibGUvbGl2ZS9jb25maWcuanNvbmAgYW5kIHJlLXJ1biBgaW1wZWNjYWJsZSBsaXZlYDsgc2V0dXAgYXNrcyBhZ2Fpbi4KCkFmdGVyIHNldHVwLCByZS1ydW4gYGltcGVjY2FibGUgbGl2ZWAuCg==
+One-time live-mode project setup. Loaded from [live.md](live.md) only when `impeccable live` reports `config_missing` / `config_invalid`, when `configDrift` needs handling, or when the config lacks `cspChecked`. Not part of the per-session hot path.
+
+## Write the config
+
+Create the file at the `path` the boot reported (default `.impeccable/live/config.json`):
+
+```json
+{
+  "files": ["<path-or-glob>", "<path-or-glob>", ...],
+  "exclude": ["<optional-glob>", ...],
+  "insertBefore": "</body>",
+  "commentSyntax": "html",
+  "cspChecked": true
+}
+```
+
+`files` is the inject target: **the HTML files the browser actually loads**, not necessarily source (tracked vs generated does not matter here; wrap has its own generated-file guard). Entries are literal paths or globs. `exclude` (optional) skips files a `files` glob would otherwise include (email templates, demo fixtures). `cspChecked` records that the CSP step below has run; absent on first setup.
+
+**Hard-excluded paths (cannot be overridden):** `**/node_modules/**` and `**/.git/**`; injecting there would instrument third-party code.
+
+**Glob syntax:** `**` matches any number of segments (including zero), `*` matches within a segment, `?` matches one character. Paths are project-root-relative with forward slashes.
+
+| Framework | `files` | `insertBefore` | `commentSyntax` |
+|-----------|---------|----------------|-----------------|
+| SPA with single shell (Vite / React / Plain HTML) | `["index.html"]` | `</body>` | `html` |
+| Next.js (App Router) | `["app/layout.tsx"]` | `</body>` | `jsx` |
+| Next.js (Pages) | `["pages/_document.tsx"]` | `</body>` | `jsx` |
+| Nuxt | `["app.vue"]` | `</body>` | `html` |
+| Svelte / SvelteKit | `["src/app.html"]` | `</body>` | `html` |
+| TanStack Router (SPA, Vite) | `["index.html"]` | `</body>` | `html` |
+| TanStack Start (SSR) | `["src/routes/__root.tsx"]` | `<Scripts` | `jsx` |
+| Astro | `[" <root layout .astro>"]` | `</body>` | `html` |
+| Multi-page (separate HTML per route) | `["public/**/*.html"]` glob over the served dir | `</body>` | `html` |
+
+Pick an anchor that exists in every file (`</body>` almost always works); `insertAfter` matches after a line instead. For multi-page sites prefer a glob so new pages are picked up automatically. For sites whose pages are rebuilt by a generator, the inject survives only until the next regeneration: re-run `impeccable live` after each build (accept is unaffected; it writes true source via the fallback flow).
+
+**Framework adapters (auto-detected at inject time).** Every inject records what it wrote in `.impeccable/live/inject-journal.json`; the next inject or remove heals artifacts a crash or wrong-directory stop left behind. SvelteKit, Nuxt, and TanStack Start server-render their document shell, so a raw `<script>` in the entry template will not execute reliably; `impeccable live-inject` detects them and routes to a dedicated adapter (SvelteKit: dev-only root component from `+layout.svelte`; Nuxt: dev-only `.client.ts` plugin; TanStack Start: a generated dev-only `ImpeccableLiveRoot` component in `__root`). The `files` value stays a valid detection/CSP hint but is not the literal insertion site. A plain TanStack Router SPA takes the baseline Vite path.
+
+## Config drift
+
+On every boot the project is scanned for HTML files under common page roots (`public/`, `src/`, `app/`, `pages/`) that the resolved `files` list does not cover; they surface as `configDrift.orphans` with a hint. Tell the user once per session which files are uncovered and offer to add them or switch `files` to a glob. Never auto-update the config; the user decides. `configDrift` is `null` when there is no drift.
+
+## CSP detection (first-time only)
+
+Keep all allowances below development-only, including manual middleware and meta-tag edits. Do not change a deployed production site's CSP to load the localhost helper; see [live.md](live.md) for production inspection alternatives.
+
+If `config.cspChecked === true`, skip this whole section; the user was already asked once.
+
+```bash
+.agent/skills/impeccable/scripts/impeccable detect-csp
+```
+
+Output `{ shape, signals }`; the shape names the *patch mechanism*, so one template covers many frameworks:
+
+- **`null`**: no CSP; write the config with `cspChecked: true` and stop here.
+- **`append-arrays`**: CSP as structured directive arrays; auto-patchable (monorepo helpers with `additionalScriptSrc`/`additionalConnectSrc`, SvelteKit `kit.csp.directives`, Nuxt `nuxt-security`).
+- **`append-string`**: CSP as a literal value string; auto-patchable (inline `next.config.*` `headers()`, Nuxt `routeRules`).
+- **`middleware`** / **`meta-tag`**: detected but not auto-patched. Show the user the detected files, ask them to add `http://localhost:8400` to `script-src` and `connect-src` manually, then mark `cspChecked: true` and proceed.
+
+### Consent prompt (use this phrasing)
+
+> **CSP patch needed.** I detected a Content Security Policy in your project that blocks `http://localhost:8400`: the live picker won't load without an allowance. Here's the change I'd make:
+>
+> ```diff
+> [file: <patchTarget>]
+> [exact diff, 2-5 lines]
+> ```
+>
+> It's guarded by `NODE_ENV === "development"` so the extra entry only appears in dev and never reaches production. You can remove it any time by reverting this file. Apply? [y/n]
+
+On "no": skip the patch, note that live will not work until the allowance is added manually, and still write `cspChecked: true` (the question has been asked). On "yes": apply the shape's patch below, then write `cspChecked: true`.
+
+### append-arrays
+
+Declare near the top of the file that holds the CSP arrays, then append `...__impeccableLiveDev` to the script-src and connect-src arrays:
+
+```ts
+// Dev-only allowance so impeccable live mode can load. Guarded by NODE_ENV.
+const __impeccableLiveDev =
+  process.env.NODE_ENV === "development" ? ["http://localhost:8400"] : [];
+```
+
+Per-framework: Next.js + monorepo helper: edit the *app's* `next.config.*` (not the shared helper), appending to `additionalScriptSrc` / `additionalConnectSrc`. SvelteKit: `svelte.config.js`, `kit.csp.directives['script-src']` and `['connect-src']`. Nuxt + nuxt-security: `nuxt.config.*`, `security.headers.contentSecurityPolicy['script-src']` and `['connect-src']`. Reference outputs: [nextjs-turborepo/expected-after-patch.ts](https://github.com/pbakaus/impeccable/blob/8dac6ae7e020c43ab10ce9b41939f6fd42627b96/tests/framework-fixtures/nextjs-turborepo/expected-after-patch.ts), [sveltekit-csp/expected-after-patch.js](https://github.com/pbakaus/impeccable/blob/8dac6ae7e020c43ab10ce9b41939f6fd42627b96/tests/framework-fixtures/sveltekit-csp/expected-after-patch.js). Idempotency: if `__impeccableLiveDev` already exists in the file, the patch is applied; just mark `cspChecked: true`.
+
+### append-string
+
+Two-point patch: declare a dev-only string, interpolate it into the CSP value at both directives (leading space so it concatenates cleanly; convert literals to template strings as part of the edit):
+
+```ts
+// Dev-only allowance so impeccable live mode can load.
+const __impeccableLiveDev =
+  process.env.NODE_ENV === "development" ? " http://localhost:8400" : "";
+```
+
+- `script-src 'self' 'unsafe-inline'` becomes `` `script-src 'self' 'unsafe-inline'${__impeccableLiveDev}` ``
+- `connect-src 'self'` becomes `` `connect-src 'self'${__impeccableLiveDev}` ``
+
+Per-framework: Next.js inline `headers()` in `next.config.*`; Nuxt `routeRules['/**'].headers['Content-Security-Policy']` in `nuxt.config.*`. Reference outputs: [nextjs-inline-csp/expected-after-patch.js](https://github.com/pbakaus/impeccable/blob/8dac6ae7e020c43ab10ce9b41939f6fd42627b96/tests/framework-fixtures/nextjs-inline-csp/expected-after-patch.js), [nuxt-csp/expected-after-patch.ts](https://github.com/pbakaus/impeccable/blob/8dac6ae7e020c43ab10ce9b41939f6fd42627b96/tests/framework-fixtures/nuxt-csp/expected-after-patch.ts).
+
+## Troubleshooting
+
+If the user said "no" to the CSP patch and later reports live not working: their dev CSP blocks `http://localhost:8400`. Delete `cspChecked` from `.impeccable/live/config.json` and re-run `impeccable live`; setup asks again.
+
+After setup, re-run `impeccable live`.

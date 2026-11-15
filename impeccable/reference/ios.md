@@ -1,1 +1,51 @@
-IyBpT1MgcGxhdGZvcm0KCkZvciBuYXRpdmUgaU9TIC8gaVBhZE9TIGFwcHM6IFN3aWZ0VUksIFVJS2l0LCBSZWFjdCBOYXRpdmUsIEV4cG8sIEZsdXR0ZXIgc2hpcHBpbmcgdG8gQXBwbGUgaGFyZHdhcmUuCgpPbiBuYXRpdmUsIHRoZSB2aXNpdG9yIG1vZGUgbmFycm93cyB3aGF0IGV4cHJlc3Npb24gbWF5IG92ZXJyaWRlLiBISUcgY29uZm9ybWFuY2UgZ292ZXJucyBzdHJ1Y3R1cmUsIG5hdmlnYXRpb24sIGFuZCBpbnRlcmFjdGlvbiBpbiBldmVyeSBtb2RlOyBicmFuZCBleHByZXNzZXMgdGhyb3VnaCB0aGUgbGF5ZXIgdGhlIHBsYXRmb3JtIGxlYXZlcyBvcGVuICh0aW50LCB0eXBlLCBtb3Rpb24sIGNvbnRlbnQpLgoKIyMgVGhlIGlPUyBzbG9wIHRlc3QKCldvdWxkIGEgZmx1ZW50IGlQaG9uZSB1c2VyIHRydXN0IHRoaXMgYXBwLCBvciBwYXVzZSBhdCBvZmYtc3BlYyBjb250cm9scz8gVGhlIHRlbGwgaXMgInBvcnRlZCBmcm9tIGEgd2Vic2l0ZSI6IHJlaW52ZW50ZWQgbmF2aWdhdGlvbiBiYXJzLCBjdXN0b20gYmFjayBnZXN0dXJlcywgd2ViLXNoYXBlZCBidXR0b25zLCBob3Zlci1kZXBlbmRlbnQgYWZmb3JkYW5jZXMuIERlZmF1bHQgdG8gdGhlIHBsYXRmb3JtJ3MgY29tcG9uZW50czsgZGVwYXJ0IG9ubHkgZm9yIGEgcmVhc29uIHRoZSB1c2VyIHdvdWxkIHRoYW5rIHlvdSBmb3IuCgojIyBMYXlvdXQgJiBzdHJ1Y3R1cmUKCi0gKipTYWZlIGFyZWEuKiogTGF5IG91dCBpbnNpZGUgdGhlIHNhZmUtYXJlYSBpbnNldHMuIE5vIGNvbnRyb2xzIHVuZGVyIHRoZSBub3RjaCwgRHluYW1pYyBJc2xhbmQsIGhvbWUgaW5kaWNhdG9yLCBvciByb3VuZGVkIGNvcm5lcnMuCi0gKipTeXN0ZW0gbmF2aWdhdGlvbi4qKiBUYWIgYmFyIGZvciAy4oCTNSB0b3AtbGV2ZWwgc2VjdGlvbnMgKHNlY3Rpb25zLCBuZXZlciBhY3Rpb25zKSwgbmF2aWdhdGlvbiBzdGFjayBmb3IgaGllcmFyY2h5LCBzaGVldCBmb3Igc2VsZi1jb250YWluZWQgdGFza3MuIE5vIGN1c3RvbSBnbG9iYWwgbmF2LCBubyBtaXhlZCBtZXRhcGhvcnMuCi0gKipFZGdlLXN3aXBlIGJhY2sgc3RheXMgYWxpdmUuKiogVGhlIGxlZnQtZWRnZSBiYWNrIGdlc3R1cmUgaXMgbXVzY2xlIG1lbW9yeTsgbmV2ZXIgZGlzYWJsZSBvciBvdmVybGF5IGl0LgotICoqTGFyZ2UgdGl0bGVzKiogb24gdG9wLWxldmVsIHNjcmVlbnMsIGNvbGxhcHNpbmcgdG8gaW5saW5lIG9uIHNjcm9sbC4gRGVlcCBkZXRhaWwgc2NyZWVucyBzdGF5IGlubGluZS4KCiMjIFRvdWNoIHRhcmdldHMKCi0gKio0NMOXNDQgcHQgbWluaW11bSoqIGZvciBldmVyeSB0YXBwYWJsZSBjb250cm9sLCB3aXRoIGJyZWF0aGluZyByb29tIGJldHdlZW4gYWRqYWNlbnQgdGFyZ2V0cy4KCiMjIFR5cG9ncmFwaHkKCi0gKipEeW5hbWljIFR5cGUuKiogVXNlIHRoZSBzeXN0ZW0gdGV4dCBzdHlsZXMgKExhcmdlIFRpdGxlIHRocm91Z2ggQ2FwdGlvbikgc28gdGV4dCBmb2xsb3dzIHRoZSB1c2VyJ3MgcmVhZGluZyBzaXplLiBObyBoYXJkLWNvZGVkIHBvaW50IHNpemVzLgotICoqU2FuIEZyYW5jaXNjbyBjYXJyaWVzIHRoZSBVSS4qKiBCb2R5LCBsYWJlbHMsIGFuZCBjb250cm9scyBzdGF5IG9uIFNGIFBybyAvIFNGIENvbXBhY3Q7IGEgYnJhbmQgZmFjZSBtYXkgYXBwZWFyIGluIGRpc3BsYXkgbW9tZW50cy4KLSAqKjExIHB0IGZsb29yKio7IEJvZHkgaXMgMTcgcHQuCgojIyBDb2xvciAmIG1hdGVyaWFscwoKLSAqKlNlbWFudGljIHN5c3RlbSBjb2xvcnMqKiAobGFiZWwsIHNlY29uZGFyeUxhYmVsLCBzeXN0ZW1CYWNrZ3JvdW5kLCBzZXBhcmF0b3IsIHRpbnQpLiBUaGV5IGFkYXB0IHRvIERhcmsgTW9kZSBhbmQgaW5jcmVhc2VkIGNvbnRyYXN0IGF1dG9tYXRpY2FsbHk7IHJhdyBoZXggYnJlYWtzIHRoZXJlLgotICoqRGFyayBNb2RlIGlzIGEgZmlyc3QtY2xhc3MgYXBwZWFyYW5jZS4qKiBEZXNpZ24gYW5kIHRlc3QgYm90aC4KLSAqKk9uZSB0aW50IGNvbG9yKiogZHJpdmVzIGludGVyYWN0aXZlIGVsZW1lbnRzOyBkZWNvcmF0aW9uIGlzIG5vdCBpdHMgam9iLgotICoqU3lzdGVtIG1hdGVyaWFscyoqIGZvciBibHVyIGFuZCB0cmFuc2x1Y2VuY3kgYmVoaW5kIGJhcnMgYW5kIHNoZWV0czsgbm8gaGFuZC1yb2xsZWQgZ2xhc3Ntb3JwaGlzbS4KCiMjIENvbXBvbmVudHMgJiBjb250cm9scwoKLSAqKlBsYXRmb3JtIGNvbnRyb2xzLioqIFN3aXRjaCwgc2VnbWVudGVkIGNvbnRyb2wsIHN0ZXBwZXIsIHN5c3RlbSBwaWNrZXJzLCBhY3Rpb24gc2hlZXRzLCBhbGVydHMsIGNvbnRleHQgbWVudXMsIHN3aXBlIGFjdGlvbnMuIFJlaW52ZW50aW5nIHRoZXNlIGZvciBmbGF2b3IgaXMgdGhlIG1vc3QgY29tbW9uIG5hdGl2ZSBzbG9wLgotICoqU0YgU3ltYm9scyoqIGZvciBpY29ub2dyYXBoeTogYmFzZWxpbmUtYWxpZ25lZCwgRHluYW1pYyBUeXBlLWF3YXJlLCB3ZWlnaHQgYW5kIHNjYWxlIHZhcmlhbnRzLiBEb24ndCBtaXggaW4gYSB3ZWIgaWNvbiBzZXQuCi0gKipEZWxpYmVyYXRlIG1vZGFsaXR5LioqIFNoZWV0IGZvciBhIGZvY3VzZWQgZGlzbWlzc2libGUgc3ViLXRhc2ssIGZ1bGwtc2NyZWVuIGNvdmVyIGZvciBpbW1lcnNpb24uIENsZWFyIENhbmNlbC9Eb25lOyBob25vciBzd2lwZS10by1kaXNtaXNzIHVubGVzcyBkYXRhIGxvc3MgcmVxdWlyZXMgYSBndWFyZC4KLSAqKkdyb3VwZWQvaW5zZXQgbGlzdHMqKiBmb3Igc2V0dGluZ3Mtc2hhcGVkIGNvbnRlbnQ7IG5vIGJlc3Bva2UgY2FyZCBzdGFja3MuCgojIyBNb3Rpb24KCi0gKipTeXN0ZW0gdHJhbnNpdGlvbnMuKiogUHVzaCBzbGlkZXMsIHNoZWV0cyByaXNlLCBkaXNtaXNzIHJldmVyc2VzIHRoZSBlbnRyYW5jZS4gQ3VzdG9tIHRyYW5zaXRpb25zIHRoYXQgZmlnaHQgdGhlIG5hdmlnYXRpb24gbW9kZWwgZGlzb3JpZW50LgotICoqSG9ub3IgUmVkdWNlIE1vdGlvbi4qKiBDcm9zc2ZhZGUgaW5zdGVhZCBvZiBwYXJhbGxheCBhbmQgbGFyZ2Ugc2xpZGVzLgoKIyMgVmVyaWZ5aW5nIHRoZSBidWlsZAoKLSAqKlNjcmVlbnNob3RzIGNvbWUgZnJvbSB0aGUgU2ltdWxhdG9yLCBuZXZlciBhIGJyb3dzZXIuKiogQnVpbGQgYW5kIHJ1biwgdGhlbiBjYXB0dXJlIHdpdGggYHhjcnVuIHNpbWN0bCBpbyBib290ZWQgc2NyZWVuc2hvdCA8cGF0aD5gICh3aXRoIHNldmVyYWwgcnVubmluZywgcmVwbGFjZSBgYm9vdGVkYCB3aXRoIHRoZSB0YXJnZXQncyBVRElEIGZyb20gYHhjcnVuIHNpbWN0bCBsaXN0IGRldmljZXMgYm9vdGVkYDsgZGlzcGxheSBuYW1lcyBjYW4gY29sbGlkZSwgdGhlIFVESUQgbmV2ZXIgZG9lcykuIENhcHR1cmUgZXZlcnkgZGV2aWNlIGNsYXNzIHRoZSBhcHAgc2hpcHMgdG8sIGF0IGxlYXN0IG9uZSBpUGhvbmUgYW5kLCB3aGVuIGlQYWQgaXMgYSB0YXJnZXQsIG9uZSBpUGFkLCBhbmQgd3JpdGUgdGhlIGZpbGVzIHdoZXJlIHRoZSByZXZpZXcgZmxvdyBleHBlY3RzIHRoZW0uCi0gKipEYXJrIE1vZGUgYW5kIER5bmFtaWMgVHlwZSBiZWxvbmcgaW4gdGhlIHBhc3MuKiogYHhjcnVuIHNpbWN0bCB1aSBib290ZWQgYXBwZWFyYW5jZSBkYXJrYCBmbGlwcyBhcHBlYXJhbmNlLCByZXVzaW5nIHRoZSBjYXB0dXJlJ3MgVURJRCB3aGVuIHNldmVyYWwgYXJlIGJvb3RlZDsgYSBjaGVjayBhdCBhIGxhcmdlIER5bmFtaWMgVHlwZSBzaXplIGNhdGNoZXMgdGhlIHRydW5jYXRpb24gYSBmaXhlZCBsYXlvdXQgaGlkZXMuCi0gKipTaW11bGF0b3JzIGdpdmUgYnJlYWR0aDsgcG9zdHVyZSwgZ2VzdHVyZXMsIGFuZCBwZXJmb3JtYW5jZSBuZWVkIGhhcmR3YXJlLioqIFNheSB3aGljaCBvbmUgcHJvZHVjZWQgdGhlIGV2aWRlbmNlLgo=
+# iOS platform
+
+For native iOS / iPadOS apps: SwiftUI, UIKit, React Native, Expo, Flutter shipping to Apple hardware.
+
+On native, the visitor mode narrows what expression may override. HIG conformance governs structure, navigation, and interaction in every mode; brand expresses through the layer the platform leaves open (tint, type, motion, content).
+
+## The iOS slop test
+
+Would a fluent iPhone user trust this app, or pause at off-spec controls? The tell is "ported from a website": reinvented navigation bars, custom back gestures, web-shaped buttons, hover-dependent affordances. Default to the platform's components; depart only for a reason the user would thank you for.
+
+## Layout & structure
+
+- **Safe area.** Lay out inside the safe-area insets. No controls under the notch, Dynamic Island, home indicator, or rounded corners.
+- **System navigation.** Tab bar for 2–5 top-level sections (sections, never actions), navigation stack for hierarchy, sheet for self-contained tasks. No custom global nav, no mixed metaphors.
+- **Edge-swipe back stays alive.** The left-edge back gesture is muscle memory; never disable or overlay it.
+- **Large titles** on top-level screens, collapsing to inline on scroll. Deep detail screens stay inline.
+
+## Touch targets
+
+- **44×44 pt minimum** for every tappable control, with breathing room between adjacent targets.
+
+## Typography
+
+- **Dynamic Type.** Use the system text styles (Large Title through Caption) so text follows the user's reading size. No hard-coded point sizes.
+- **San Francisco carries the UI.** Body, labels, and controls stay on SF Pro / SF Compact; a brand face may appear in display moments.
+- **11 pt floor**; Body is 17 pt.
+
+## Color & materials
+
+- **Semantic system colors** (label, secondaryLabel, systemBackground, separator, tint). They adapt to Dark Mode and increased contrast automatically; raw hex breaks there.
+- **Dark Mode is a first-class appearance.** Design and test both.
+- **One tint color** drives interactive elements; decoration is not its job.
+- **System materials** for blur and translucency behind bars and sheets; no hand-rolled glassmorphism.
+
+## Components & controls
+
+- **Platform controls.** Switch, segmented control, stepper, system pickers, action sheets, alerts, context menus, swipe actions. Reinventing these for flavor is the most common native slop.
+- **SF Symbols** for iconography: baseline-aligned, Dynamic Type-aware, weight and scale variants. Don't mix in a web icon set.
+- **Deliberate modality.** Sheet for a focused dismissible sub-task, full-screen cover for immersion. Clear Cancel/Done; honor swipe-to-dismiss unless data loss requires a guard.
+- **Grouped/inset lists** for settings-shaped content; no bespoke card stacks.
+
+## Motion
+
+- **System transitions.** Push slides, sheets rise, dismiss reverses the entrance. Custom transitions that fight the navigation model disorient.
+- **Honor Reduce Motion.** Crossfade instead of parallax and large slides.
+
+## Verifying the build
+
+- **Screenshots come from the Simulator, never a browser.** Build and run, then capture with `xcrun simctl io booted screenshot <path>` (with several running, replace `booted` with the target's UDID from `xcrun simctl list devices booted`; display names can collide, the UDID never does). Capture every device class the app ships to, at least one iPhone and, when iPad is a target, one iPad, and write the files where the review flow expects them.
+- **Dark Mode and Dynamic Type belong in the pass.** `xcrun simctl ui booted appearance dark` flips appearance, reusing the capture's UDID when several are booted; a check at a large Dynamic Type size catches the truncation a fixed layout hides.
+- **Simulators give breadth; posture, gestures, and performance need hardware.** Say which one produced the evidence.

@@ -1,1 +1,84 @@
-TGF5b3V0IHR1cm5zIHByb2R1Y3QgcHJpb3JpdHkgaW50byByZWFkaW5nIG9yZGVyLCBncm91cGluZywgcmh5dGhtLCBhbmQgdXNhYmxlIHNwYWNlLiBEaWFnbm9zZSB0aGUgc3RydWN0dXJhbCBwcm9ibGVtIGJlZm9yZSBtb3ZpbmcgYm94ZXMuCgotLS0KCiMjIFZpc2l0b3IgbW9kZQoKLSAqKlBlcnN1YWRlICsgRXhwZXJpZW5jZToqKiBjb21wb3NpdGlvbiBtYXkgYmUgYXN5bW1ldHJpYywgZmx1aWQsIG9yIGludGVudGlvbmFsbHkgZGlzcnVwdGl2ZSB3aGVuIHRoZSBzZWxlY3RlZCB3b3JsZCBlYXJucyBpdC4KLSAqKk9wZXJhdGUgKyBSZWFkOioqIHByZWRpY3RhYmxlIHN0cnVjdHVyZSwgc3RhYmxlIGRlbnNpdHksIGFuZCBuYXZpZ2FibGUgbGluZWFyaXR5IGFyZSBhZmZvcmRhbmNlcy4KLSAqKk5hdGl2ZToqKiBmb2xsb3cgW2lvcy5tZF0oaW9zLm1kKSBvciBbYW5kcm9pZC5tZF0oYW5kcm9pZC5tZCkgZm9yIG5hdmlnYXRpb24sIGluc2V0cywgYWRhcHRhdGlvbiwgYW5kIHRvdWNoIHRhcmdldHMuCgpQcmVzZXJ2ZSB0aGUgZXN0YWJsaXNoZWQgdmlzdWFsIHdvcmxkLiBBIGxheW91dCBjb21tYW5kIGNoYW5nZXMgc3RydWN0dXJlIGluc2lkZSBpdDsgaWRlbnRpdHkgcmVwbGFjZW1lbnQgYmVsb25ncyB0byBbbmV3LXdvcmsubWRdKG5ldy13b3JrLm1kKS4KCiMjIFR3byBpc29sYXRlZCBhc3Nlc3NtZW50cwoKV2hlbiBhIHN1Yi1hZ2VudCB0b29sIGlzIGF2YWlsYWJsZSBhbmQgcGVybWl0dGVkLCBydW4gdGhlc2UgaW5kZXBlbmRlbnRseTsgb3RoZXJ3aXNlIHJ1biB0aGVtIHlvdXJzZWxmIGluIHRoaXMgb3JkZXIuCgoxLiAqKkxheW91dCBhc3Nlc3NtZW50OioqIGluc3BlY3QgcmVwcmVzZW50YXRpdmUgc3RhdGVzIGFuZCB2aWV3cG9ydHMuIEFuc3dlciBldmVyeSBxdWVzdGlvbiBiZWxvdyB3aXRoIHJlbmRlcmVkIG9yIHNvdXJjZSBldmlkZW5jZToKICAgLSAqKlJlYWRpbmcgb3JkZXI6KiogQXBwbHkgdGhlIHNxdWludCB0ZXN0LiBXaXRoIGRldGFpbCBibHVycmVkLCBjYW4geW91IHN0aWxsIGlkZW50aWZ5IHRoZSBwcmltYXJ5IGVsZW1lbnQsIHRoZSBzZWNvbmRhcnkgZWxlbWVudCwgYW5kIHRoZSBtYWpvciBncm91cHMgaW4gb3JkZXI/CiAgIC0gKipHcm91cGluZzoqKiBBcmUgcmVsYXRlZCBpdGVtcyBjbG9zZSBhbmQgZGlzdGluY3QgZ3JvdXBzIHNlcGFyYXRlZCwgb3IgYXJlIGNvbnRhaW5lcnMgY29tcGVuc2F0aW5nIGZvciB3ZWFrIHByb3hpbWl0eT8KICAgLSAqKlJoeXRobToqKiBEbyB0aWdodCBhbmQgZ2VuZXJvdXMgaW50ZXJ2YWxzIGNyZWF0ZSBhIGRlbGliZXJhdGUgY2FkZW5jZSwgb3IgaXMgb25lIHNwYWNpbmcgdmFsdWUgcmVwZWF0ZWQgdW50aWwgZXZlcnl0aGluZyBoYXMgZXF1YWwgd2VpZ2h0PwogICAtICoqU3RydWN0dXJlOioqIERvZXMgdGhlIHRvcG9sb2d5IG1hdGNoIHRoZSBjb250ZW50IGFuZCB0YXNrPyBBcmUgcmVwZWF0ZWQgY2FyZHMsIGNvbHVtbnMsIG9yIHNlY3Rpb25zIGdlbnVpbmVseSBlcXVpdmFsZW50LCBvciBtZXJlbHkgYSBmcmFtZXdvcmsgZGVmYXVsdD8KICAgLSAqKkRlbnNpdHk6KiogRG9lcyB0aGUgYW1vdW50IG9mIGluZm9ybWF0aW9uIHBlciByZWdpb24gZml0IHVzZSBmcmVxdWVuY3ksIGRlY2lzaW9uIGNvbXBsZXhpdHksIGFuZCB2aXNpdG9yIG1vZGU/CiAgIC0gKipBZGFwdGF0aW9uOioqIEF0IG5hcnJvdywgaW50ZXJtZWRpYXRlLCB3aWRlLCB6b29tZWQsIGFuZCBsb2NhbGl6ZWQgc3RhdGVzLCB3aGF0IHJlb3JkZXJzLCBjb2xsYXBzZXMsIHdyYXBzLCBzY3JvbGxzLCBvciByZW1haW5zIGZpeGVkPyBEb2VzIERPTSBhbmQgZm9jdXMgb3JkZXIgc3RpbGwgYWdyZWUgd2l0aCB0aGUgdmlzdWFsIG9yZGVyPwogICAtICoqRXh0cmVtZXM6KiogRG8gbG9uZyBjb250ZW50LCBlbXB0eSBzdGF0ZXMsIG92ZXJsYXlzLCBzdGlja3kgZWxlbWVudHMsIHNhZmUgYXJlYXMsIGFuZCBzbWFsbCB0b3VjaCB0YXJnZXRzIGV4cG9zZSBzdHJ1Y3R1cmFsIGZhaWx1cmVzPwoyLiAqKk1lY2hhbmljYWwgc2NhbjoqKiBydW46CgpgYGBiYXNoCi5hZ2VudC9za2lsbHMvaW1wZWNjYWJsZS9zY3JpcHRzL2ltcGVjY2FibGUgZGV0ZWN0IC0tanNvbiAtLXNjb3BlIGxheW91dCBbdGFyZ2V0IGZpbGVzIG9yIGRpcnNdCmBgYAoKQWxzbyBpbnNwZWN0IGFyYml0cmFyeSBzcGFjaW5nLCBvdmVyZmxvdywgc3RhY2tpbmcsIGFuZCBjb250YWluZXIgYmVoYXZpb3IgdGhlIGRldGVjdG9yIGNhbm5vdCByZXNvbHZlLiBLZWVwIG1lY2hhbmljYWwgZXZpZGVuY2Ugb3V0IG9mIHRoZSBmaXJzdCBhc3Nlc3NtZW50LCB0aGVuIHN5bnRoZXNpemUgYm90aCBwYXNzZXMgYmVmb3JlIGVkaXRpbmcuIEEgY2xlYW4gc2NhbiBjYW5ub3QgcHJvdmUgaGllcmFyY2h5IG9yIHJoeXRobS4KCiMjIFNldCB0aGUgc3BhdGlhbCB0aGVzaXMKCkJlZm9yZSBlZGl0aW5nLCBuYW1lOgoKLSB0aGUgcHJpbWFyeSByZWFkaW5nIG9yIHRhc2sgcGF0aDsKLSB3aGF0IGJlbG9uZ3MgdG9nZXRoZXIgYW5kIHdoYXQgbXVzdCBzZXBhcmF0ZTsKLSB3aGljaCBlbGVtZW50IGxlYWRzIGFuZCB3aGljaCBzdXBwb3J0czsKLSB0aGUgaW50ZW5kZWQgZGVuc2l0eSBhbmQgc3BhY2luZyByaHl0aG07Ci0gaG93IHRoZSBzdHJ1Y3R1cmUgY2hhbmdlcyBhY3Jvc3MgY29udGFpbmVycywgdmlld3BvcnRzLCBpbnB1dCBtb2RlcywgYW5kIGNvbnRlbnQgZXh0cmVtZXMuCgpDaG9vc2UgdGhlIHNpbXBsZXN0IHN0cnVjdHVyYWwgbW9kZWwgdGhhdCBleHByZXNzZXMgdGhvc2UgcmVsYXRpb25zaGlwcy4gVXNlIGxheW91dCBwcmltaXRpdmVzIGFjY29yZGluZyB0byB0aGUgcmVsYXRpb25zaGlwcyB0aGV5IGNvbnRyb2wsIGFuZCBuYW1lIHJldXNhYmxlIHNwYWNpbmcgYW5kIGNvbnRhaW5lciByb2xlcyBzZW1hbnRpY2FsbHkuCgojIyBBcHBseQoKLSBHcm91cCBieSBtZWFuaW5nLiBVc2UgcHJveGltaXR5IGJlZm9yZSBhZGRpbmcgY29udGFpbmVycyBvciBkZWNvcmF0aW9uLgotIENyZWF0ZSByaHl0aG0gdGhyb3VnaCBkZWxpYmVyYXRlIGNvbnRyYXN0IGJldHdlZW4gdGlnaHQgYW5kIGdlbmVyb3VzIGludGVydmFscy4KLSBVc2UgYSBkb2N1bWVudGVkIHNwYWNpbmcgc2NhbGUgcmF0aGVyIHRoYW4gb25lLW9mZiB2YWx1ZXMuIEEgNC11bml0IGJhc2UgdXN1YWxseSBwcm92aWRlcyB0aGUgdXNlZnVsIG1pZGRsZSBzdGVwcyB0aGF0IGFuIDgtb25seSBzY2FsZSBtaXNzZXMuCi0gTGV0IGhpZXJhcmNoeSBmb2xsb3cgcHJvZHVjdCBwcmlvcml0eSwgbm90IGZyYW1ld29yayBkZWZhdWx0cy4KLSBLZWVwIGRpc3RpbmN0IGNvbnRlbnQgdmlzdWFsbHkgZGlzdGluY3Qgd2l0aG91dCB0dXJuaW5nIGV2ZXJ5IGdyb3VwIGludG8gYW4gaXNvbGF0ZWQgY29tcG9uZW50LgotIE1ha2UgcmVzcG9uc2l2ZSBiZWhhdmlvciBzdHJ1Y3R1cmFsOiByZW9yZGVyLCBjb2xsYXBzZSwgcmVmbG93LCBvciByZXZlYWwgYmFzZWQgb24gd2hhdCByZW1haW5zIGltcG9ydGFudC4KLSBQcmVmZXIgY29udGFpbmVyLWF3YXJlIGNvbXBvbmVudHMgd2hlbiB0aGUgc2FtZSBjb21wb25lbnQgYXBwZWFycyBpbiBkaWZmZXJlbnQgY29udGV4dHMuCi0gVXNlIGBnYXBgIGZvciBzaWJsaW5nIHJoeXRobSB3aGVuIGl0IGV4cHJlc3NlcyB0aGUgcmVsYXRpb25zaGlwIG1vcmUgZGlyZWN0bHkgdGhhbiBjaGlsZCBtYXJnaW5zLgotIEtlZXAgdG91Y2ggdGFyZ2V0cyB1c2FibGUgZXZlbiB3aGVuIHRoZWlyIHZpc2libGUgbWFya3MgYXJlIHNtYWxsLgotIFVzZSBkZXB0aCBvbmx5IHdoZW4gaXQgY2xhcmlmaWVzIHN0YXRlIG9yIGhpZXJhcmNoeS4KLSBNYWtlIG9wdGljYWwgY29ycmVjdGlvbnMgb25seSBhZnRlciBpbnNwZWN0aW5nIHRoZSByZW5kZXJlZCByZXN1bHQuCgpWYXJpYXRpb24gaXMgbm90IGEgZ29hbCBieSBpdHNlbGYuIFJlcGV0aXRpb24gc2hvdWxkIHN1cHBvcnQgcmVjb2duaXRpb247IGJyZWFrIGl0IG9ubHkgd2hlbiBjb250ZW50IG9yIHByaW9yaXR5IGNoYW5nZXMuCgojIyBWZXJpZnkKCi0gVGhlIHNxdWludCB0ZXN0IHN0aWxsIHJldmVhbHMgdGhlIHByaW1hcnksIHNlY29uZGFyeSwgYW5kIG1ham9yIGdyb3VwcyBpbiBvcmRlci4KLSBUaGUgcmVhZGluZyBhbmQgdGFzayBwYXRoIHJlbWFpbnMgY2xlYXIgYXQgZXZlcnkgc3VwcG9ydGVkIHNpemUuCi0gUmVsYXRlZCBjb250ZW50IGdyb3VwcyBuYXR1cmFsbHk7IHVucmVsYXRlZCBjb250ZW50IGRvZXMgbm90IGJsdXIgdG9nZXRoZXIuCi0gVGlnaHQgYW5kIGdlbmVyb3VzIHNwYWNpbmcgY3JlYXRlIGludGVudGlvbmFsIHJoeXRobSBpbnN0ZWFkIG9mIG1vbm90b25vdXMgcmVwZXRpdGlvbi4KLSBEZW5zaXR5IG1hdGNoZXMgdXNlIGZyZXF1ZW5jeSBhbmQgY29udGVudCBjb21wbGV4aXR5LgotIExvbmcgdGV4dCwgZW1wdHkgc3RhdGVzLCBsb2NhbGl6YXRpb24sIHpvb20sIGFuZCBkeW5hbWljIGNvbnRlbnQgZG8gbm90IGJyZWFrIHRoZSBzdHJ1Y3R1cmUuCi0gS2V5Ym9hcmQsIHRvdWNoLCBhbmQgYXNzaXN0aXZlLXRlY2hub2xvZ3kgb3JkZXIgYWdyZWUgd2l0aCB0aGUgdmlzdWFsIG9yZGVyLgotIFRoZSBmaW5hbCBtZWNoYW5pY2FsIHNjYW4gaGFzIG5vIHVuZXhwbGFpbmVkIGZpbmRpbmdzLgoKQW5zd2VyIGVhY2ggaXRlbSB3aXRoIHJlbmRlcmVkIG9yIHNvdXJjZSBldmlkZW5jZSwgdGhlbiByZXJ1biB0aGUgc2Nhbi4gRG8gbm90IHN1YnN0aXR1dGUgYSBiYXJlIOKAnHllc+KAnSBmb3IgdmVyaWZpY2F0aW9uLgoKV2hlbiB0aGUgc3RydWN0dXJlIGhvbGRzLCBoYW5kIG9mZiB0byBgL2ltcGVjY2FibGUgcG9saXNoYC4KCiMjIExpdmUtbW9kZSBzaWduYXR1cmUgcGFyYW1zCgpFdmVyeSB2YXJpYW50IGRlY2xhcmVzIGEgY29hcnNlIGBkZW5zaXR5YCBwYXJhbWV0ZXIgYW5kIGF1dGhvcnMgc3BhY2luZyBhZ2FpbnN0IGB2YXIoLS1wLWRlbnNpdHksIDEpYC4KCmBgYGpzb24KeyJpZCI6ImRlbnNpdHkiLCJraW5kIjoicmFuZ2UiLCJtaW4iOjAuNiwibWF4IjoxLjQsInN0ZXAiOjAuMDUsImRlZmF1bHQiOjEsImxhYmVsIjoiRGVuc2l0eSJ9CmBgYAoKQWRkIG9uZSBzdHJ1Y3R1cmFsIHBhcmFtZXRlciBvbmx5IHdoZW4gdGhlIHRvcG9sb2d5IGdlbnVpbmVseSBicmFuY2hlcy4gRm9sbG93IFtsaXZlLm1kXShsaXZlLm1kKSdzIHBhcmFtZXRlciBjb250cmFjdC4K
+Layout turns product priority into reading order, grouping, rhythm, and usable space. Diagnose the structural problem before moving boxes.
+
+---
+
+## Visitor mode
+
+- **Persuade + Experience:** composition may be asymmetric, fluid, or intentionally disruptive when the selected world earns it.
+- **Operate + Read:** predictable structure, stable density, and navigable linearity are affordances.
+- **Native:** follow [ios.md](ios.md) or [android.md](android.md) for navigation, insets, adaptation, and touch targets.
+
+Preserve the established visual world. A layout command changes structure inside it; identity replacement belongs to [new-work.md](new-work.md).
+
+## Two isolated assessments
+
+When a sub-agent tool is available and permitted, run these independently; otherwise run them yourself in this order.
+
+1. **Layout assessment:** inspect representative states and viewports. Answer every question below with rendered or source evidence:
+   - **Reading order:** Apply the squint test. With detail blurred, can you still identify the primary element, the secondary element, and the major groups in order?
+   - **Grouping:** Are related items close and distinct groups separated, or are containers compensating for weak proximity?
+   - **Rhythm:** Do tight and generous intervals create a deliberate cadence, or is one spacing value repeated until everything has equal weight?
+   - **Structure:** Does the topology match the content and task? Are repeated cards, columns, or sections genuinely equivalent, or merely a framework default?
+   - **Density:** Does the amount of information per region fit use frequency, decision complexity, and visitor mode?
+   - **Adaptation:** At narrow, intermediate, wide, zoomed, and localized states, what reorders, collapses, wraps, scrolls, or remains fixed? Does DOM and focus order still agree with the visual order?
+   - **Extremes:** Do long content, empty states, overlays, sticky elements, safe areas, and small touch targets expose structural failures?
+2. **Mechanical scan:** run:
+
+```bash
+.agent/skills/impeccable/scripts/impeccable detect --json --scope layout [target files or dirs]
+```
+
+Also inspect arbitrary spacing, overflow, stacking, and container behavior the detector cannot resolve. Keep mechanical evidence out of the first assessment, then synthesize both passes before editing. A clean scan cannot prove hierarchy or rhythm.
+
+## Set the spatial thesis
+
+Before editing, name:
+
+- the primary reading or task path;
+- what belongs together and what must separate;
+- which element leads and which supports;
+- the intended density and spacing rhythm;
+- how the structure changes across containers, viewports, input modes, and content extremes.
+
+Choose the simplest structural model that expresses those relationships. Use layout primitives according to the relationships they control, and name reusable spacing and container roles semantically.
+
+## Apply
+
+- Group by meaning. Use proximity before adding containers or decoration.
+- Create rhythm through deliberate contrast between tight and generous intervals.
+- Use a documented spacing scale rather than one-off values. A 4-unit base usually provides the useful middle steps that an 8-only scale misses.
+- Let hierarchy follow product priority, not framework defaults.
+- Keep distinct content visually distinct without turning every group into an isolated component.
+- Make responsive behavior structural: reorder, collapse, reflow, or reveal based on what remains important.
+- Prefer container-aware components when the same component appears in different contexts.
+- Use `gap` for sibling rhythm when it expresses the relationship more directly than child margins.
+- Keep touch targets usable even when their visible marks are small.
+- Use depth only when it clarifies state or hierarchy.
+- Make optical corrections only after inspecting the rendered result.
+
+Variation is not a goal by itself. Repetition should support recognition; break it only when content or priority changes.
+
+## Verify
+
+- The squint test still reveals the primary, secondary, and major groups in order.
+- The reading and task path remains clear at every supported size.
+- Related content groups naturally; unrelated content does not blur together.
+- Tight and generous spacing create intentional rhythm instead of monotonous repetition.
+- Density matches use frequency and content complexity.
+- Long text, empty states, localization, zoom, and dynamic content do not break the structure.
+- Keyboard, touch, and assistive-technology order agree with the visual order.
+- The final mechanical scan has no unexplained findings.
+
+Answer each item with rendered or source evidence, then rerun the scan. Do not substitute a bare “yes” for verification.
+
+When the structure holds, hand off to `/impeccable polish`.
+
+## Live-mode signature params
+
+Every variant declares a coarse `density` parameter and authors spacing against `var(--p-density, 1)`.
+
+```json
+{"id":"density","kind":"range","min":0.6,"max":1.4,"step":0.05,"default":1,"label":"Density"}
+```
+
+Add one structural parameter only when the topology genuinely branches. Follow [live.md](live.md)'s parameter contract.

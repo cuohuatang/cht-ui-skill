@@ -1,1 +1,61 @@
-IyBPcGVyYXRlIG1vZGUgZGVwdGggKGFuZCBSZWFkIG5vdGVzKQoKV2hlbiBkZXNpZ24gU0VSVkVTIHRoZSBwcm9kdWN0OiBhcHAgVUlzLCBhZG1pbiBkYXNoYm9hcmRzLCBzZXR0aW5ncyBwYW5lbHMsIGRhdGEgdGFibGVzLCB0b29scywgYXV0aGVudGljYXRlZCBzdXJmYWNlcywgYW55dGhpbmcgd2hlcmUgdGhlIHVzZXIgaXMgaW4gYSB0YXNrLiBUaGUgZXNzZW50aWFscyBsaXZlIGluIFNLSUxMLm1kJ3MgbW9kZXMgYW5kIFtjcmFmdC1mbG9vci5tZF0oY3JhZnQtZmxvb3IubWQpOyB0aGlzIGZpbGUgaXMgZXh0ZW5kZWQgZGVwdGgsIHdyaXR0ZW4gZm9yIE9wZXJhdGUgc3VyZmFjZXMuIFJlYWQgc3VyZmFjZXMgKGRvY3MsIGd1aWRlcywgbG9uZy1mb3JtKSB0YWtlIFNLSUxMLm1kJ3MgUmVhZCBtb2RlIHBsdXMgdGhpcyBmaWxlJ3MgdHlwb2dyYXBoeSBhbmQgY29uc2lzdGVuY3kgcnVsZXM7IHRoZWlyIHByb3NlIG1lYXN1cmUgYW5kIG5hdmlnYXRpb24gbWF0dGVyIG1vcmUgdGhhbiBjb21wb25lbnQgZGVuc2l0eS4KCiMjIFRoZSBwcm9kdWN0IHNsb3AgdGVzdAoKRmFtaWxpYXJpdHkgaXMgb2Z0ZW4gYSBmZWF0dXJlIGhlcmUuIFRoZSB0ZXN0IGlzIHdoZXRoZXIgYSBjYXRlZ29yeS1mbHVlbnQgdXNlciBjYW4gdHJ1c3QgdGhlIGludGVyZmFjZSBpbW1lZGlhdGVseSBvciBtdXN0IHBhdXNlIGF0IGV2ZXJ5IHN1YnRseS1vZmYgY29tcG9uZW50LgoKUHJvZHVjdCBVSSdzIGZhaWx1cmUgbW9kZSBpc24ndCBmbGF0bmVzcywgaXQncyBzdHJhbmdlbmVzcyB3aXRob3V0IHB1cnBvc2U6IG92ZXItZGVjb3JhdGVkIGJ1dHRvbnMsIG1pc21hdGNoZWQgZm9ybSBjb250cm9scywgZ3JhdHVpdG91cyBtb3Rpb24sIGRpc3BsYXkgZm9udHMgd2hlcmUgbGFiZWxzIHNob3VsZCBiZSwgaW52ZW50ZWQgYWZmb3JkYW5jZXMgZm9yIHN0YW5kYXJkIHRhc2tzLiBUaGUgYmFyIGlzIGVhcm5lZCBmYW1pbGlhcml0eS4gVGhlIHRvb2wgc2hvdWxkIGRpc2FwcGVhciBpbnRvIHRoZSB0YXNrLgoKIyMgVHlwb2dyYXBoeQoKLSAqKk9uZSBmYW1pbHkgaXMgb2Z0ZW4gcmlnaHQuKiogUHJvZHVjdCBVSXMgZG9uJ3QgbmVlZCBkaXNwbGF5L2JvZHkgcGFpcmluZy4gQSB3ZWxsLXR1bmVkIHNhbnMgY2FycmllcyBoZWFkaW5ncywgYnV0dG9ucywgbGFiZWxzLCBib2R5LCBkYXRhLgotICoqRml4ZWQgcmVtIHNjYWxlLCBub3QgZmx1aWQuKiogQ2xhbXAtc2l6ZWQgaGVhZGluZ3MgZG9uJ3Qgc2VydmUgcHJvZHVjdCBVSS4gVXNlcnMgdmlldyBhdCBjb25zaXN0ZW50IERQSSwgYW5kIGEgZmx1aWQgaDEgdGhhdCBzaHJpbmtzIGluIGEgc2lkZWJhciBsb29rcyB3b3JzZSwgbm90IGJldHRlci4KLSAqKlRpZ2h0ZXIgc2NhbGUgcmF0aW8uKiogMS4xMjXigJMxLjIgYmV0d2VlbiBzdGVwcyBpcyB0eXBpY2FsLiBNb3JlIHR5cGUgZWxlbWVudHMgaGVyZSB0aGFuIG9uIGJyYW5kIHN1cmZhY2VzOyBleGFnZ2VyYXRlZCBjb250cmFzdCBjcmVhdGVzIG5vaXNlLgotICoqTGluZSBsZW5ndGggc3RpbGwgYXBwbGllcyBmb3IgcHJvc2UqKiAoNjXigJM3NWNoKS4gRGF0YSBhbmQgY29tcGFjdCBVSSBjYW4gcnVuIGRlbnNlcjsgdGFibGVzIGF0IDEyMGNoKyBhcmUgZmluZS4KCiMjIENvbG9yCgpQcm9kdWN0IGRlZmF1bHRzIHRvIFJlc3RyYWluZWQuIEEgc2luZ2xlIHN1cmZhY2UgY2FuIGVhcm4gQ29tbWl0dGVkIChhIGRhc2hib2FyZCB3aGVyZSBvbmUgY2F0ZWdvcnkgY29sb3IgY2FycmllcyBhIHJlcG9ydCwgYW4gb25ib2FyZGluZyBmbG93IHdpdGggYSBkcmVuY2hlZCB3ZWxjb21lIHNjcmVlbiksIGJ1dCBSZXN0cmFpbmVkIGlzIHRoZSBmbG9vci4KCi0gU3RhdGUtcmljaCBzZW1hbnRpYyB2b2NhYnVsYXJ5OiBob3ZlciwgZm9jdXMsIGFjdGl2ZSwgZGlzYWJsZWQsIHNlbGVjdGVkLCBsb2FkaW5nLCBlcnJvciwgd2FybmluZywgc3VjY2VzcywgaW5mby4gU3RhbmRhcmRpemUgdGhlc2UuCi0gQWNjZW50IGNvbG9yIHVzZWQgZm9yIHByaW1hcnkgYWN0aW9ucywgY3VycmVudCBzZWxlY3Rpb24sIGFuZCBzdGF0ZSBpbmRpY2F0b3JzIG9ubHksIG5vdCBkZWNvcmF0aW9uLgotIEEgc2Vjb25kIG5ldXRyYWwgbGF5ZXIgZm9yIHNpZGViYXJzLCB0b29sYmFycywgYW5kIHBhbmVscyAoc2xpZ2h0bHkgY29vbGVyIG9yIHdhcm1lciB0aGFuIHRoZSBjb250ZW50IHN1cmZhY2UpLgoKIyMgTGF5b3V0CgotIFJlc3BvbnNpdmUgYmVoYXZpb3IgaXMgc3RydWN0dXJhbCAoY29sbGFwc2Ugc2lkZWJhciwgcmVzcG9uc2l2ZSB0YWJsZSwgYnJlYWtwb2ludC1kcml2ZW4gY29sdW1ucyksIG5vdCBmbHVpZCB0eXBvZ3JhcGh5LgoKIyMgQ29tcG9uZW50cwoKRXZlcnkgaW50ZXJhY3RpdmUgY29tcG9uZW50IGhhczogZGVmYXVsdCwgaG92ZXIsIGZvY3VzLCBhY3RpdmUsIGRpc2FibGVkLCBsb2FkaW5nLCBlcnJvci4gRG9uJ3Qgc2hpcCB3aXRoIGhhbGYgb2YgdGhlc2UuCgotIFNrZWxldG9uIHN0YXRlcyBmb3IgbG9hZGluZywgbm90IHNwaW5uZXJzIGluIHRoZSBtaWRkbGUgb2YgY29udGVudC4KLSBFbXB0eSBzdGF0ZXMgdGhhdCB0ZWFjaCB0aGUgaW50ZXJmYWNlLCBub3QgIm5vdGhpbmcgaGVyZS4iCi0gQ29uc2lzdGVudCBhZmZvcmRhbmNlcyBhY3Jvc3MgdGhlIHN1cmZhY2UuIFNhbWUgYnV0dG9uIHNoYXBlLiBTYW1lIGZvcm0tY29udHJvbCB2b2NhYnVsYXJ5LiBTYW1lIGljb24gc3R5bGUuCi0gT3ZlcmxheXMgZXNjYXBlIHRoZWlyIGNvbnRhaW5lci4gQW4gYWJzb2x1dGVseSBwb3NpdGlvbmVkIGRyb3Bkb3duIGluc2lkZSBhbiBgb3ZlcmZsb3c6IGhpZGRlbmAgb3IgYG92ZXJmbG93OiBhdXRvYCBhbmNlc3RvciBnZXRzIGNsaXBwZWQ7IHJlYWNoIGZvciBgPGRpYWxvZz5gLCB0aGUgcG9wb3ZlciBBUEksIGBwb3NpdGlvbjogZml4ZWRgLCBvciBhIHBvcnRhbC4KCiMjIE1vdGlvbgoKLSAxNTDigJMyNTAgbXMgb24gbW9zdCB0cmFuc2l0aW9ucy4gVXNlcnMgYXJlIGluIGZsb3c7IGRvbid0IG1ha2UgdGhlbSB3YWl0IGZvciBjaG9yZW9ncmFwaHkuCi0gTW90aW9uIGNvbnZleXMgc3RhdGUsIG5vdCBkZWNvcmF0aW9uLiBTdGF0ZSBjaGFuZ2UsIGZlZWRiYWNrLCBsb2FkaW5nLCByZXZlYWw6IG5vdGhpbmcgZWxzZS4KLSBObyBvcmNoZXN0cmF0ZWQgcGFnZS1sb2FkIHNlcXVlbmNlcy4gUHJvZHVjdCBsb2FkcyBpbnRvIGEgdGFzazsgdXNlcnMgZG9uJ3Qgd2FudCB0byB3YXRjaCBpdCBsb2FkLgoKIyMgUHJvZHVjdCBjb25zdHJhaW50cwoKLSBEZWNvcmF0aXZlIG1vdGlvbiB0aGF0IGRvZXNuJ3QgY29udmV5IHN0YXRlLgotIEluY29uc2lzdGVudCBjb21wb25lbnQgdm9jYWJ1bGFyeSBhY3Jvc3Mgc2NyZWVucy4gSWYgdGhlICJzYXZlIiBidXR0b24gbG9va3MgZGlmZmVyZW50IGluIHR3byBwbGFjZXMsIG9uZSBpcyB3cm9uZy4KLSBEaXNwbGF5IGZvbnRzIGluIFVJIGxhYmVscywgYnV0dG9ucywgZGF0YS4KLSBSZWludmVudGluZyBzdGFuZGFyZCBhZmZvcmRhbmNlcyBmb3IgZmxhdm9yIChjdXN0b20gc2Nyb2xsYmFycywgd2VpcmQgZm9ybSBjb250cm9scywgbm9uLXN0YW5kYXJkIG1vZGFscykuCi0gSGVhdnkgY29sb3Igb3IgZnVsbC1zYXR1cmF0aW9uIGFjY2VudHMgb24gaW5hY3RpdmUgc3RhdGVzLgotIE1vZGFsIGFzIGZpcnN0IHRob3VnaHQuIE1vZGFscyBhcmUgdXN1YWxseSBsYXppbmVzcy4gRXhoYXVzdCBpbmxpbmUgLyBwcm9ncmVzc2l2ZSBhbHRlcm5hdGl2ZXMgZmlyc3QuCgojIyBQcm9kdWN0IHBlcm1pc3Npb25zCgpQcm9kdWN0IGNhbiBhZmZvcmQgdGhpbmdzIGJyYW5kIHN1cmZhY2VzIGNhbid0LgoKLSBTeXN0ZW0gZm9udHMgYW5kIGZhbWlsaWFyIHNhbnMgZGVmYXVsdHMuCi0gU3RhbmRhcmQgbmF2aWdhdGlvbiBwYXR0ZXJuczogdG9wIGJhciArIHNpZGUgbmF2LCBicmVhZGNydW1icywgdGFicywgY29tbWFuZCBwYWxldHRlcy4KLSBEZW5zaXR5LiBUYWJsZXMgd2l0aCBtYW55IHJvd3MsIHBhbmVscyB3aXRoIG1hbnkgbGFiZWxzLCBkZW5zZSBpbmZvcm1hdGlvbiB3aGVuIHVzZXJzIG5lZWQgaXQuCi0gQ29uc2lzdGVuY3kgb3ZlciBzdXJwcmlzZS4gVGhlIHNhbWUgdmlzdWFsIHZvY2FidWxhcnkgc2NyZWVuIHRvIHNjcmVlbiBpcyBhIHZpcnR1ZTsgZGVsaWdodCBpcyBzYXZlZCBmb3IgbW9tZW50cywgbm90IHBhZ2VzLgo=
+# Operate mode depth (and Read notes)
+
+When design SERVES the product: app UIs, admin dashboards, settings panels, data tables, tools, authenticated surfaces, anything where the user is in a task. The essentials live in SKILL.md's modes and [craft-floor.md](craft-floor.md); this file is extended depth, written for Operate surfaces. Read surfaces (docs, guides, long-form) take SKILL.md's Read mode plus this file's typography and consistency rules; their prose measure and navigation matter more than component density.
+
+## The product slop test
+
+Familiarity is often a feature here. The test is whether a category-fluent user can trust the interface immediately or must pause at every subtly-off component.
+
+Product UI's failure mode isn't flatness, it's strangeness without purpose: over-decorated buttons, mismatched form controls, gratuitous motion, display fonts where labels should be, invented affordances for standard tasks. The bar is earned familiarity. The tool should disappear into the task.
+
+## Typography
+
+- **One family is often right.** Product UIs don't need display/body pairing. A well-tuned sans carries headings, buttons, labels, body, data.
+- **Fixed rem scale, not fluid.** Clamp-sized headings don't serve product UI. Users view at consistent DPI, and a fluid h1 that shrinks in a sidebar looks worse, not better.
+- **Tighter scale ratio.** 1.125–1.2 between steps is typical. More type elements here than on brand surfaces; exaggerated contrast creates noise.
+- **Line length still applies for prose** (65–75ch). Data and compact UI can run denser; tables at 120ch+ are fine.
+
+## Color
+
+Product defaults to Restrained. A single surface can earn Committed (a dashboard where one category color carries a report, an onboarding flow with a drenched welcome screen), but Restrained is the floor.
+
+- State-rich semantic vocabulary: hover, focus, active, disabled, selected, loading, error, warning, success, info. Standardize these.
+- Accent color used for primary actions, current selection, and state indicators only, not decoration.
+- A second neutral layer for sidebars, toolbars, and panels (slightly cooler or warmer than the content surface).
+
+## Layout
+
+- Responsive behavior is structural (collapse sidebar, responsive table, breakpoint-driven columns), not fluid typography.
+
+## Components
+
+Every interactive component has: default, hover, focus, active, disabled, loading, error. Don't ship with half of these.
+
+- Skeleton states for loading, not spinners in the middle of content.
+- Empty states that teach the interface, not "nothing here."
+- Consistent affordances across the surface. Same button shape. Same form-control vocabulary. Same icon style.
+- Overlays escape their container. An absolutely positioned dropdown inside an `overflow: hidden` or `overflow: auto` ancestor gets clipped; reach for `<dialog>`, the popover API, `position: fixed`, or a portal.
+
+## Motion
+
+- 150–250 ms on most transitions. Users are in flow; don't make them wait for choreography.
+- Motion conveys state, not decoration. State change, feedback, loading, reveal: nothing else.
+- No orchestrated page-load sequences. Product loads into a task; users don't want to watch it load.
+
+## Product constraints
+
+- Decorative motion that doesn't convey state.
+- Inconsistent component vocabulary across screens. If the "save" button looks different in two places, one is wrong.
+- Display fonts in UI labels, buttons, data.
+- Reinventing standard affordances for flavor (custom scrollbars, weird form controls, non-standard modals).
+- Heavy color or full-saturation accents on inactive states.
+- Modal as first thought. Modals are usually laziness. Exhaust inline / progressive alternatives first.
+
+## Product permissions
+
+Product can afford things brand surfaces can't.
+
+- System fonts and familiar sans defaults.
+- Standard navigation patterns: top bar + side nav, breadcrumbs, tabs, command palettes.
+- Density. Tables with many rows, panels with many labels, dense information when users need it.
+- Consistency over surprise. The same visual vocabulary screen to screen is a virtue; delight is saved for moments, not pages.

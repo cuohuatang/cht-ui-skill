@@ -1,1 +1,111 @@
-U3RyaXAgYSBkZXNpZ24gdG8gaXRzIGVzc2VuY2UuIFJlbW92ZSBhbnl0aGluZyB0aGF0IGRvZXNuJ3QgZWFybiBpdHMgcGxhY2U6IHJlZHVuZGFudCBlbGVtZW50cywgcmVwZWF0ZWQgaW5mb3JtYXRpb24sIGRlY29yYXRpdmUgbm9pc2UsIGNvc21ldGljIGNvbXBsZXhpdHkuCgoKLS0tCgojIyBBc3Nlc3MgQ3VycmVudCBTdGF0ZQoKQW5hbHl6ZSB3aGF0IG1ha2VzIHRoZSBkZXNpZ24gZmVlbCBjb21wbGV4IG9yIGNsdXR0ZXJlZDoKCjEuICoqSWRlbnRpZnkgY29tcGxleGl0eSBzb3VyY2VzKio6CiAgIC0gKipUb28gbWFueSBlbGVtZW50cyoqOiBDb21wZXRpbmcgYnV0dG9ucywgcmVkdW5kYW50IGluZm9ybWF0aW9uLCB2aXN1YWwgY2x1dHRlcgogICAtICoqRXhjZXNzaXZlIHZhcmlhdGlvbioqOiBUb28gbWFueSBjb2xvcnMsIGZvbnRzLCBzaXplcywgc3R5bGVzIHdpdGhvdXQgcHVycG9zZQogICAtICoqSW5mb3JtYXRpb24gb3ZlcmxvYWQqKjogRXZlcnl0aGluZyB2aXNpYmxlIGF0IG9uY2UsIG5vIHByb2dyZXNzaXZlIGRpc2Nsb3N1cmUKICAgLSAqKlZpc3VhbCBub2lzZSoqOiBVbm5lY2Vzc2FyeSBib3JkZXJzLCBzaGFkb3dzLCBiYWNrZ3JvdW5kcywgZGVjb3JhdGlvbnMKICAgLSAqKkNvbmZ1c2luZyBoaWVyYXJjaHkqKjogVW5jbGVhciB3aGF0IG1hdHRlcnMgbW9zdAogICAtICoqRmVhdHVyZSBjcmVlcCoqOiBUb28gbWFueSBvcHRpb25zLCBhY3Rpb25zLCBvciBwYXRocyBmb3J3YXJkCgoyLiAqKkZpbmQgdGhlIGVzc2VuY2UqKjoKICAgLSBXaGF0J3MgdGhlIHByaW1hcnkgdXNlciBnb2FsPyAoVGhlcmUgc2hvdWxkIGJlIE9ORSkKICAgLSBXaGF0J3MgYWN0dWFsbHkgbmVjZXNzYXJ5IHZzIG5pY2UtdG8taGF2ZT8KICAgLSBXaGF0IGNhbiBiZSByZW1vdmVkLCBoaWRkZW4sIG9yIGNvbWJpbmVkPwogICAtIFdoYXQncyB0aGUgMjAlIHRoYXQgZGVsaXZlcnMgODAlIG9mIHZhbHVlPwoKSWYgYW55IG9mIHRoZXNlIGFyZSB1bmNsZWFyIGZyb20gdGhlIGNvZGViYXNlLCBkbyBub3QgZ3Vlc3MuIEFzayB0aGUgdXNlciBkaXJlY3RseSB0byBjbGFyaWZ5IHdoYXQgeW91IGNhbm5vdCBpbmZlci4KClNpbXBsaWNpdHkgaXMgbm90IGFib3V0IHJlbW92aW5nIGZlYXR1cmVzLiBJdCdzIGFib3V0IHJlbW92aW5nIG9ic3RhY2xlcyBiZXR3ZWVuIHVzZXJzIGFuZCB0aGVpciBnb2Fscy4gRXZlcnkgZWxlbWVudCBzaG91bGQganVzdGlmeSBpdHMgZXhpc3RlbmNlLgoKIyMgUGxhbiBTaW1wbGlmaWNhdGlvbgoKQ3JlYXRlIGEgcnV0aGxlc3MgZWRpdGluZyBzdHJhdGVneToKCi0gKipDb3JlIHB1cnBvc2UqKjogV2hhdCdzIHRoZSBPTkUgdGhpbmcgdGhpcyBzaG91bGQgYWNjb21wbGlzaD8KLSAqKkVzc2VudGlhbCBlbGVtZW50cyoqOiBXaGF0J3MgdHJ1bHkgbmVjZXNzYXJ5IHRvIGFjaGlldmUgdGhhdCBwdXJwb3NlPwotICoqUHJvZ3Jlc3NpdmUgZGlzY2xvc3VyZSoqOiBXaGF0IGNhbiBiZSBoaWRkZW4gdW50aWwgbmVlZGVkPwotICoqQ29uc29saWRhdGlvbiBvcHBvcnR1bml0aWVzKio6IFdoYXQgY2FuIGJlIGNvbWJpbmVkIG9yIGludGVncmF0ZWQ/CgpFeHBlY3QgdG8gc2F5IG5vIHRvIGdvb2QgaWRlYXMgdG8gbWFrZSByb29tIGZvciBncmVhdCBleGVjdXRpb24uCgojIyBTaW1wbGlmeSB0aGUgRGVzaWduCgpTeXN0ZW1hdGljYWxseSByZW1vdmUgY29tcGxleGl0eSBhY3Jvc3MgdGhlc2UgZGltZW5zaW9uczoKCiMjIyBJbmZvcm1hdGlvbiBBcmNoaXRlY3R1cmUKLSAqKlJlZHVjZSBzY29wZSoqOiBSZW1vdmUgc2Vjb25kYXJ5IGFjdGlvbnMsIHJlZHVuZGFudCBpbmZvcm1hdGlvbgotICoqUHJvZ3Jlc3NpdmUgZGlzY2xvc3VyZSoqOiBIaWRlIGNvbXBsZXhpdHkgYmVoaW5kIGNsZWFyIGVudHJ5IHBvaW50cyAoYWNjb3JkaW9ucywgbW9kYWxzLCBzdGVwLXRocm91Z2ggZmxvd3MpCi0gKipDb21iaW5lIHJlbGF0ZWQgYWN0aW9ucyoqOiBNZXJnZSBzaW1pbGFyIGJ1dHRvbnMsIGNvbnNvbGlkYXRlIGZvcm1zLCBncm91cCByZWxhdGVkIGNvbnRlbnQKLSAqKkNsZWFyIGhpZXJhcmNoeSoqOiBPTkUgcHJpbWFyeSBhY3Rpb24sIGZldyBzZWNvbmRhcnkgYWN0aW9ucywgZXZlcnl0aGluZyBlbHNlIHRlcnRpYXJ5IG9yIGhpZGRlbgotICoqUmVtb3ZlIHJlZHVuZGFuY3kqKjogSWYgaXQncyBzYWlkIGVsc2V3aGVyZSwgZG9uJ3QgcmVwZWF0IGl0IGhlcmUKCiMjIyBWaXN1YWwgU2ltcGxpZmljYXRpb24KLSAqKlJlZHVjZSBjb2xvciBwYWxldHRlKio6IFVzZSAxLTIgY29sb3JzIHBsdXMgbmV1dHJhbHMsIG5vdCA1LTcgY29sb3JzCi0gKipMaW1pdCB0eXBvZ3JhcGh5Kio6IE9uZSBmb250IGZhbWlseSwgMy00IHNpemVzIG1heGltdW0sIDItMyB3ZWlnaHRzCi0gKipSZW1vdmUgZGVjb3JhdGlvbnMqKjogRWxpbWluYXRlIGJvcmRlcnMsIHNoYWRvd3MsIGJhY2tncm91bmRzIHRoYXQgZG9uJ3Qgc2VydmUgaGllcmFyY2h5IG9yIGZ1bmN0aW9uCi0gKipGbGF0dGVuIHN0cnVjdHVyZSoqOiBSZWR1Y2UgbmVzdGluZywgcmVtb3ZlIHVubmVjZXNzYXJ5IGNvbnRhaW5lcnM7IG5ldmVyIG5lc3QgY2FyZHMgaW5zaWRlIGNhcmRzCi0gKipSZW1vdmUgdW5uZWNlc3NhcnkgY2FyZHMqKjogQ2FyZHMgYXJlbid0IG5lZWRlZCBmb3IgYmFzaWMgbGF5b3V0OyB1c2Ugc3BhY2luZyBhbmQgYWxpZ25tZW50IGluc3RlYWQKLSAqKkNvbnNpc3RlbnQgc3BhY2luZyoqOiBVc2Ugb25lIHNwYWNpbmcgc2NhbGUsIHJlbW92ZSBhcmJpdHJhcnkgZ2FwcwoKIyMjIExheW91dCBTaW1wbGlmaWNhdGlvbgotICoqTGluZWFyIGZsb3cqKjogUmVwbGFjZSBjb21wbGV4IGdyaWRzIHdpdGggc2ltcGxlIHZlcnRpY2FsIGZsb3cgd2hlcmUgcG9zc2libGUKLSAqKlJlbW92ZSBzaWRlYmFycyoqOiBNb3ZlIHNlY29uZGFyeSBjb250ZW50IGlubGluZSBvciBoaWRlIGl0Ci0gKipGdWxsLXdpZHRoKio6IFVzZSBhdmFpbGFibGUgc3BhY2UgZ2VuZXJvdXNseSBpbnN0ZWFkIG9mIGNvbXBsZXggbXVsdGktY29sdW1uIGxheW91dHMKLSAqKkNvbnNpc3RlbnQgYWxpZ25tZW50Kio6IFBpY2sgbGVmdCBvciBjZW50ZXIsIHN0aWNrIHdpdGggaXQKLSAqKkdlbmVyb3VzIHdoaXRlIHNwYWNlKio6IExldCBjb250ZW50IGJyZWF0aGUsIGRvbid0IHBhY2sgZXZlcnl0aGluZyB0aWdodAoKIyMjIEludGVyYWN0aW9uIFNpbXBsaWZpY2F0aW9uCi0gKipSZWR1Y2UgY2hvaWNlcyoqOiBGZXdlciBidXR0b25zLCBmZXdlciBvcHRpb25zLCBjbGVhcmVyIHBhdGggZm9yd2FyZCAocGFyYWRveCBvZiBjaG9pY2UgaXMgcmVhbCkKLSAqKlNtYXJ0IGRlZmF1bHRzKio6IE1ha2UgY29tbW9uIGNob2ljZXMgYXV0b21hdGljLCBvbmx5IGFzayB3aGVuIG5lY2Vzc2FyeQotICoqSW5saW5lIGFjdGlvbnMqKjogUmVwbGFjZSBtb2RhbCBmbG93cyB3aXRoIGlubGluZSBlZGl0aW5nIHdoZXJlIHBvc3NpYmxlCi0gKipSZW1vdmUgc3RlcHMqKjogQ2FuIHRoZSBmbG93IGxvc2UgYSBzdGVwPwotICoqQ2xlYXIgbmV4dCBhY3Rpb24qKjogT05FIG9idmlvdXMgbmV4dCBhY3Rpb24sIG5vdCBmaXZlIGNvbXBldGluZyBvbmVzCgojIyMgQ29udGVudCBTaW1wbGlmaWNhdGlvbgotICoqU2hvcnRlciBjb3B5Kio6IEN1dCBmaWxsZXIsIG5vdCBtZWFuaW5nCi0gKipBY3RpdmUgdm9pY2UqKjogIlNhdmUgY2hhbmdlcyIgbm90ICJDaGFuZ2VzIHdpbGwgYmUgc2F2ZWQiCi0gKipSZW1vdmUgamFyZ29uKio6IFBsYWluIGxhbmd1YWdlIGFsd2F5cyB3aW5zCi0gKipTY2FubmFibGUgc3RydWN0dXJlKio6IFNob3J0IHBhcmFncmFwaHMsIGJ1bGxldCBwb2ludHMsIGNsZWFyIGhlYWRpbmdzCi0gKipFc3NlbnRpYWwgaW5mb3JtYXRpb24gb25seSoqOiBSZW1vdmUgbWFya2V0aW5nIGZsdWZmLCBoZWRnaW5nCi0gKipSZW1vdmUgcmVkdW5kYW50IGNvcHkqKjogTm8gaGVhZGVycyByZXN0YXRpbmcgaW50cm9zLCBubyByZXBlYXRlZCBleHBsYW5hdGlvbnMsIHNheSBpdCBvbmNlCgojIyMgQ29kZSBTaW1wbGlmaWNhdGlvbgotICoqUmVtb3ZlIHVudXNlZCBjb2RlKio6IERlYWQgQ1NTLCB1bnVzZWQgY29tcG9uZW50cywgb3JwaGFuZWQgZmlsZXMKLSAqKkZsYXR0ZW4gY29tcG9uZW50IHRyZWVzKio6IFJlZHVjZSBuZXN0aW5nIGRlcHRoCi0gKipDb25zb2xpZGF0ZSBzdHlsZXMqKjogTWVyZ2Ugc2ltaWxhciBzdHlsZXMsIHVzZSB1dGlsaXRpZXMgY29uc2lzdGVudGx5Ci0gKipSZWR1Y2UgdmFyaWFudHMqKjogRG9lcyB0aGF0IGNvbXBvbmVudCBuZWVkIDEyIHZhcmlhdGlvbnMsIG9yIGNhbiAzIGNvdmVyIDkwJSBvZiBjYXNlcz8KCioqQXZvaWQqKjoKLSBSZW1vdmUgbmVjZXNzYXJ5IGZ1bmN0aW9uYWxpdHkgKHNpbXBsaWNpdHkg4omgIGZlYXR1cmUtbGVzcykKLSBTYWNyaWZpY2UgYWNjZXNzaWJpbGl0eSBmb3Igc2ltcGxpY2l0eSAoY2xlYXIgbGFiZWxzIGFuZCBBUklBIHN0aWxsIHJlcXVpcmVkKQotIE1ha2UgdGhpbmdzIHNvIHNpbXBsZSB0aGV5J3JlIHVuY2xlYXIgKG15c3Rlcnkg4omgIG1pbmltYWxpc20pCi0gUmVtb3ZlIGluZm9ybWF0aW9uIHVzZXJzIG5lZWQgdG8gbWFrZSBkZWNpc2lvbnMKLSBFbGltaW5hdGUgaGllcmFyY2h5IGNvbXBsZXRlbHkgKHNvbWUgdGhpbmdzIHNob3VsZCBzdGFuZCBvdXQpCi0gT3ZlcnNpbXBsaWZ5IGNvbXBsZXggZG9tYWlucyAobWF0Y2ggY29tcGxleGl0eSB0byBhY3R1YWwgdGFzayBjb21wbGV4aXR5KQoKIyMgVmVyaWZ5IFNpbXBsaWZpY2F0aW9uCgpFbnN1cmUgc2ltcGxpZmljYXRpb24gaW1wcm92ZXMgdXNhYmlsaXR5OgoKLSAqKkZhc3RlciB0YXNrIGNvbXBsZXRpb24qKjogQ2FuIHVzZXJzIGFjY29tcGxpc2ggZ29hbHMgbW9yZSBxdWlja2x5PwotICoqUmVkdWNlZCBjb2duaXRpdmUgbG9hZCoqOiBJcyBpdCBlYXNpZXIgdG8gdW5kZXJzdGFuZCB3aGF0IHRvIGRvPwotICoqU3RpbGwgY29tcGxldGUqKjogQXJlIGFsbCBuZWNlc3NhcnkgZmVhdHVyZXMgc3RpbGwgYWNjZXNzaWJsZT8KLSAqKkNsZWFyZXIgaGllcmFyY2h5Kio6IElzIGl0IG9idmlvdXMgd2hhdCBtYXR0ZXJzIG1vc3Q/Ci0gKipCZXR0ZXIgcGVyZm9ybWFuY2UqKjogRG9lcyBzaW1wbGVyIGRlc2lnbiBsb2FkIGZhc3Rlcj8KCiMjIERvY3VtZW50IFJlbW92ZWQgQ29tcGxleGl0eQoKSWYgeW91IHJlbW92ZWQgZmVhdHVyZXMgb3Igb3B0aW9uczoKLSBEb2N1bWVudCB3aHkgdGhleSB3ZXJlIHJlbW92ZWQKLSBDb25zaWRlciBpZiB0aGV5IG5lZWQgYWx0ZXJuYXRpdmUgYWNjZXNzIHBvaW50cwotIE5vdGUgYW55IHVzZXIgZmVlZGJhY2sgdG8gbW9uaXRvcgoKV2hlbiB0aGUgY3V0cyBmZWVsIHJpZ2h0LCBoYW5kIG9mZiB0byBgL2ltcGVjY2FibGUgcG9saXNoYCBmb3IgdGhlIGZpbmFsIHBhc3MuIEFzIEFudG9pbmUgZGUgU2FpbnQtRXh1cMOpcnkgcHV0IGl0OiAiUGVyZmVjdGlvbiBpcyBhY2hpZXZlZCBub3Qgd2hlbiB0aGVyZSBpcyBub3RoaW5nIG1vcmUgdG8gYWRkLCBidXQgd2hlbiB0aGVyZSBpcyBub3RoaW5nIGxlZnQgdG8gdGFrZSBhd2F5LiIK
+Strip a design to its essence. Remove anything that doesn't earn its place: redundant elements, repeated information, decorative noise, cosmetic complexity.
+
+
+---
+
+## Assess Current State
+
+Analyze what makes the design feel complex or cluttered:
+
+1. **Identify complexity sources**:
+   - **Too many elements**: Competing buttons, redundant information, visual clutter
+   - **Excessive variation**: Too many colors, fonts, sizes, styles without purpose
+   - **Information overload**: Everything visible at once, no progressive disclosure
+   - **Visual noise**: Unnecessary borders, shadows, backgrounds, decorations
+   - **Confusing hierarchy**: Unclear what matters most
+   - **Feature creep**: Too many options, actions, or paths forward
+
+2. **Find the essence**:
+   - What's the primary user goal? (There should be ONE)
+   - What's actually necessary vs nice-to-have?
+   - What can be removed, hidden, or combined?
+   - What's the 20% that delivers 80% of value?
+
+If any of these are unclear from the codebase, do not guess. Ask the user directly to clarify what you cannot infer.
+
+Simplicity is not about removing features. It's about removing obstacles between users and their goals. Every element should justify its existence.
+
+## Plan Simplification
+
+Create a ruthless editing strategy:
+
+- **Core purpose**: What's the ONE thing this should accomplish?
+- **Essential elements**: What's truly necessary to achieve that purpose?
+- **Progressive disclosure**: What can be hidden until needed?
+- **Consolidation opportunities**: What can be combined or integrated?
+
+Expect to say no to good ideas to make room for great execution.
+
+## Simplify the Design
+
+Systematically remove complexity across these dimensions:
+
+### Information Architecture
+- **Reduce scope**: Remove secondary actions, redundant information
+- **Progressive disclosure**: Hide complexity behind clear entry points (accordions, modals, step-through flows)
+- **Combine related actions**: Merge similar buttons, consolidate forms, group related content
+- **Clear hierarchy**: ONE primary action, few secondary actions, everything else tertiary or hidden
+- **Remove redundancy**: If it's said elsewhere, don't repeat it here
+
+### Visual Simplification
+- **Reduce color palette**: Use 1-2 colors plus neutrals, not 5-7 colors
+- **Limit typography**: One font family, 3-4 sizes maximum, 2-3 weights
+- **Remove decorations**: Eliminate borders, shadows, backgrounds that don't serve hierarchy or function
+- **Flatten structure**: Reduce nesting, remove unnecessary containers; never nest cards inside cards
+- **Remove unnecessary cards**: Cards aren't needed for basic layout; use spacing and alignment instead
+- **Consistent spacing**: Use one spacing scale, remove arbitrary gaps
+
+### Layout Simplification
+- **Linear flow**: Replace complex grids with simple vertical flow where possible
+- **Remove sidebars**: Move secondary content inline or hide it
+- **Full-width**: Use available space generously instead of complex multi-column layouts
+- **Consistent alignment**: Pick left or center, stick with it
+- **Generous white space**: Let content breathe, don't pack everything tight
+
+### Interaction Simplification
+- **Reduce choices**: Fewer buttons, fewer options, clearer path forward (paradox of choice is real)
+- **Smart defaults**: Make common choices automatic, only ask when necessary
+- **Inline actions**: Replace modal flows with inline editing where possible
+- **Remove steps**: Can the flow lose a step?
+- **Clear next action**: ONE obvious next action, not five competing ones
+
+### Content Simplification
+- **Shorter copy**: Cut filler, not meaning
+- **Active voice**: "Save changes" not "Changes will be saved"
+- **Remove jargon**: Plain language always wins
+- **Scannable structure**: Short paragraphs, bullet points, clear headings
+- **Essential information only**: Remove marketing fluff, hedging
+- **Remove redundant copy**: No headers restating intros, no repeated explanations, say it once
+
+### Code Simplification
+- **Remove unused code**: Dead CSS, unused components, orphaned files
+- **Flatten component trees**: Reduce nesting depth
+- **Consolidate styles**: Merge similar styles, use utilities consistently
+- **Reduce variants**: Does that component need 12 variations, or can 3 cover 90% of cases?
+
+**Avoid**:
+- Remove necessary functionality (simplicity ≠ feature-less)
+- Sacrifice accessibility for simplicity (clear labels and ARIA still required)
+- Make things so simple they're unclear (mystery ≠ minimalism)
+- Remove information users need to make decisions
+- Eliminate hierarchy completely (some things should stand out)
+- Oversimplify complex domains (match complexity to actual task complexity)
+
+## Verify Simplification
+
+Ensure simplification improves usability:
+
+- **Faster task completion**: Can users accomplish goals more quickly?
+- **Reduced cognitive load**: Is it easier to understand what to do?
+- **Still complete**: Are all necessary features still accessible?
+- **Clearer hierarchy**: Is it obvious what matters most?
+- **Better performance**: Does simpler design load faster?
+
+## Document Removed Complexity
+
+If you removed features or options:
+- Document why they were removed
+- Consider if they need alternative access points
+- Note any user feedback to monitor
+
+When the cuts feel right, hand off to `/impeccable polish` for the final pass. As Antoine de Saint-Exupéry put it: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."

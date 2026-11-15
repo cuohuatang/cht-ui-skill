@@ -1,1 +1,362 @@
-RGVzaWducyB0aGF0IG9ubHkgd29yayB3aXRoIHBlcmZlY3QgZGF0YSBhcmVuJ3QgcHJvZHVjdGlvbi1yZWFkeS4gSGFyZGVuIHRoZSBpbnRlcmZhY2UgYWdhaW5zdCB0aGUgaW5wdXRzLCBlcnJvcnMsIGxhbmd1YWdlcywgYW5kIG5ldHdvcmsgY29uZGl0aW9ucyB0aGF0IHJlYWwgdXNlcnMgd2lsbCB0aHJvdyBhdCBpdC4KCiMjIEFzc2VzcyBIYXJkZW5pbmcgTmVlZHMKCklkZW50aWZ5IHdlYWtuZXNzZXMgYW5kIGVkZ2UgY2FzZXM6CgoxLiAqKlRlc3Qgd2l0aCBleHRyZW1lIGlucHV0cyoqOgogICAtIFZlcnkgbG9uZyB0ZXh0IChuYW1lcywgZGVzY3JpcHRpb25zLCB0aXRsZXMpCiAgIC0gVmVyeSBzaG9ydCB0ZXh0IChlbXB0eSwgc2luZ2xlIGNoYXJhY3RlcikKICAgLSBTcGVjaWFsIGNoYXJhY3RlcnMgKGVtb2ppLCBSVEwgdGV4dCwgYWNjZW50cykKICAgLSBMYXJnZSBudW1iZXJzIChtaWxsaW9ucywgYmlsbGlvbnMpCiAgIC0gTWFueSBpdGVtcyAoMTAwMCsgbGlzdCBpdGVtcywgNTArIG9wdGlvbnMpCiAgIC0gTm8gZGF0YSAoZW1wdHkgc3RhdGVzKQoKMi4gKipUZXN0IGVycm9yIHNjZW5hcmlvcyoqOgogICAtIE5ldHdvcmsgZmFpbHVyZXMgKG9mZmxpbmUsIHNsb3csIHRpbWVvdXQpCiAgIC0gQVBJIGVycm9ycyAoNDAwLCA0MDEsIDQwMywgNDA0LCA1MDApCiAgIC0gVmFsaWRhdGlvbiBlcnJvcnMKICAgLSBQZXJtaXNzaW9uIGVycm9ycwogICAtIFJhdGUgbGltaXRpbmcKICAgLSBDb25jdXJyZW50IG9wZXJhdGlvbnMKCjMuICoqVGVzdCBpbnRlcm5hdGlvbmFsaXphdGlvbioqOgogICAtIExvbmcgdHJhbnNsYXRpb25zIChHZXJtYW4gaXMgb2Z0ZW4gMzAlIGxvbmdlciB0aGFuIEVuZ2xpc2gpCiAgIC0gUlRMIGxhbmd1YWdlcyAoQXJhYmljLCBIZWJyZXcpCiAgIC0gQ2hhcmFjdGVyIHNldHMgKENoaW5lc2UsIEphcGFuZXNlLCBLb3JlYW4sIGVtb2ppKQogICAtIERhdGUvdGltZSBmb3JtYXRzCiAgIC0gTnVtYmVyIGZvcm1hdHMgKDEsMDAwIHZzIDEuMDAwKQogICAtIEN1cnJlbmN5IHN5bWJvbHMKCkRlc2lnbnMgdGhhdCBvbmx5IHdvcmsgd2l0aCBwZXJmZWN0IGRhdGEgYXJlbid0IHByb2R1Y3Rpb24tcmVhZHkuCgojIyBIYXJkZW5pbmcgRGltZW5zaW9ucwoKU3lzdGVtYXRpY2FsbHkgaW1wcm92ZSByZXNpbGllbmNlOgoKIyMjIFRleHQgT3ZlcmZsb3cgJiBXcmFwcGluZwoKKipMb25nIHRleHQgaGFuZGxpbmcqKjoKYGBgY3NzCi8qIFNpbmdsZSBsaW5lIHdpdGggZWxsaXBzaXMgKi8KLnRydW5jYXRlIHsKICBvdmVyZmxvdzogaGlkZGVuOwogIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzOwogIHdoaXRlLXNwYWNlOiBub3dyYXA7Cn0KCi8qIE11bHRpLWxpbmUgd2l0aCBjbGFtcCAqLwoubGluZS1jbGFtcCB7CiAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgLXdlYmtpdC1saW5lLWNsYW1wOiAzOwogIC13ZWJraXQtYm94LW9yaWVudDogdmVydGljYWw7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKfQoKLyogQWxsb3cgd3JhcHBpbmcgKi8KLndyYXAgewogIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICBvdmVyZmxvdy13cmFwOiBicmVhay13b3JkOwogIGh5cGhlbnM6IGF1dG87Cn0KYGBgCgoqKkZsZXgvR3JpZCBvdmVyZmxvdyoqOgpgYGBjc3MKLyogUHJldmVudCBmbGV4IGl0ZW1zIGZyb20gb3ZlcmZsb3dpbmcgKi8KLmZsZXgtaXRlbSB7CiAgbWluLXdpZHRoOiAwOyAvKiBBbGxvdyBzaHJpbmtpbmcgYmVsb3cgY29udGVudCBzaXplICovCiAgb3ZlcmZsb3c6IGhpZGRlbjsKfQoKLyogUHJldmVudCBncmlkIGl0ZW1zIGZyb20gb3ZlcmZsb3dpbmcgKi8KLmdyaWQtaXRlbSB7CiAgbWluLXdpZHRoOiAwOwogIG1pbi1oZWlnaHQ6IDA7Cn0KYGBgCgoqKlJlc3BvbnNpdmUgdGV4dCBzaXppbmcqKjoKLSBVc2UgYGNsYW1wKClgIGZvciBmbHVpZCB0eXBvZ3JhcGh5Ci0gU2V0IG1pbmltdW0gcmVhZGFibGUgc2l6ZXMgKDE2cHggYm9keSBvbiBtb2JpbGUsIHRoZSBzYW1lIGZsb29yIHRoZSB0eXBvZ3JhcGh5IGd1aWRhbmNlIHNldHM7IDE0cHggb25seSBmb3IgZ2VudWluZWx5IHNlY29uZGFyeSB0ZXh0LiBpT1MgU2FmYXJpIGZvcmNlLXpvb21zIGZvY3VzZWQgaW5wdXRzIHVuZGVyIDE2cHgsIHdoaWNoIGJyZWFrcyBmb3JtIGxheW91dHMpCi0gVGVzdCB0ZXh0IHNjYWxpbmcgKHpvb20gdG8gMjAwJSkKLSBFbnN1cmUgY29udGFpbmVycyBleHBhbmQgd2l0aCB0ZXh0CgojIyMgSW50ZXJuYXRpb25hbGl6YXRpb24gKGkxOG4pCgoqKlRleHQgZXhwYW5zaW9uKio6Ci0gQWRkIDMwLTQwJSBzcGFjZSBidWRnZXQgZm9yIHRyYW5zbGF0aW9ucwotIFVzZSBmbGV4Ym94L2dyaWQgdGhhdCBhZGFwdHMgdG8gY29udGVudAotIFRlc3Qgd2l0aCBsb25nZXN0IGxhbmd1YWdlICh1c3VhbGx5IEdlcm1hbikKLSBBdm9pZCBmaXhlZCB3aWR0aHMgb24gdGV4dCBjb250YWluZXJzCgpgYGBqc3gKLy8g4p2MIEJhZDogQXNzdW1lcyBzaG9ydCBFbmdsaXNoIHRleHQKPGJ1dHRvbiBjbGFzc05hbWU9InctMjQiPlN1Ym1pdDwvYnV0dG9uPgoKLy8g4pyFIEdvb2Q6IEFkYXB0cyB0byBjb250ZW50CjxidXR0b24gY2xhc3NOYW1lPSJweC00IHB5LTIiPlN1Ym1pdDwvYnV0dG9uPgpgYGAKCioqUlRMIChSaWdodC10by1MZWZ0KSBzdXBwb3J0Kio6CmBgYGNzcwovKiBVc2UgbG9naWNhbCBwcm9wZXJ0aWVzICovCm1hcmdpbi1pbmxpbmUtc3RhcnQ6IDFyZW07IC8qIE5vdCBtYXJnaW4tbGVmdCAqLwpwYWRkaW5nLWlubGluZTogMXJlbTsgLyogTm90IHBhZGRpbmctbGVmdC9yaWdodCAqLwpib3JkZXItaW5saW5lLWVuZDogMXB4IHNvbGlkOyAvKiBOb3QgYm9yZGVyLXJpZ2h0ICovCgovKiBPciB1c2UgZGlyIGF0dHJpYnV0ZSAqLwpbZGlyPSJydGwiXSAuYXJyb3cgeyB0cmFuc2Zvcm06IHNjYWxlWCgtMSk7IH0KYGBgCgoqKkFyYWJpYy1zY3JpcHQgc3BlY2lmaWNzKiogKEFyYWJpYywgUGVyc2lhbiwgVXJkdSwgUGFzaHRvLCBLdXJkaXNoKToKLSBQcmVzZXJ2ZSBaZXJvLVdpZHRoIE5vbi1Kb2luZXIgKFUrMjAwQykuIFBlcnNpYW4gYW5kIEt1cmRpc2ggdXNlIFpXTkogYmV0d2VlbiBjb21wb3VuZC13b3JkIHBhcnRzIHRvIGJyZWFrIGN1cnNpdmUgam9pbmluZyB3aGlsZSBrZWVwaW5nIHRoZSB3b3JkIHRvZ2V0aGVyLiBBIGZpbHRlciBvciBzYW5pdGl6ZXIgdGhhdCBzdHJpcHMgaXQgY2hhbmdlcyBtZWFuaW5nLiBOZXZlciBub3JtYWxpemUgaXQgYXdheS4KLSBIYW5kbGUgWWVoIGFuZCBLYWYgdmFyaWFudHMuIFBlcnNpYW4gdXNlcyDbjCAoVSswNkNDKSBhbmQg2qkgKFUrMDZBOSksIHdoaWxlIEFyYWJpYyB1c2VzINmKIChVKzA2NEEpIGFuZCDZgyAoVSswNjQzKS4gUHJlc2VydmUgdGhlIG9yaWdpbmFsIGZvcm0gaW4gc3RvcmFnZS4gRm9yIHNlYXJjaCBhbmQgdmFsaWRhdGlvbiwgdHJlYXQgdGhlIGNvcnJlc3BvbmRpbmcgbGV0dGVycyBhcyBlcXVpdmFsZW50IHNvIHRoYXQgQXJhYmljLWtleWJvYXJkIGlucHV0IG1hdGNoZXMgUGVyc2lhbiB0ZXh0LiBSZWplY3Rpbmcgb25lIHZhcmlhbnQgbG9ja3Mgb3V0IHVzZXJzIHdob3NlIGtleWJvYXJkIHNlbmRzIHRoZSBvdGhlci4KLSBTdXBwb3J0IGxvY2FsZS1hd2FyZSBkaWdpdHMuIFBlcnNpYW4gKGBmYS1JUmApIGFuZCBBcmFiaWMgbG9jYWxlcyB1c2UgRWFzdGVybiBBcmFiaWMtSW5kaWMgbnVtZXJhbHMgKNuwLdu5IGFuZCDZoC3ZqSkuIFVzZSBgSW50bC5OdW1iZXJGb3JtYXRgIHdpdGggdGhlIGNvcnJlY3QgbG9jYWxlIHJhdGhlciB0aGFuIGhhcmRjb2RpbmcgV2VzdGVybiBkaWdpdHMuCgpgYGBqYXZhc2NyaXB0Ci8vIOKchSBMb2NhbGUtYXdhcmUgZGlnaXQgZm9ybWF0dGluZwpuZXcgSW50bC5OdW1iZXJGb3JtYXQoJ2ZhLUlSJykuZm9ybWF0KDEyMzQpOyAvLyDbsdms27Lbs9u0Cm5ldyBJbnRsLk51bWJlckZvcm1hdCgnYXItU0EnKS5mb3JtYXQoMTIzNCk7IC8vINmh2azZotmj2aQKYGBgCgotIFJlc3BlY3QgY2FsZW5kYXIgc3lzdGVtcy4gUGVyc2lhbiB1c2VycyBleHBlY3QgdGhlIFNvbGFyIEhpanJpIChKYWxhbGkpIGNhbGVuZGFyOyBtYW55IEFyYWJpYy1zcGVha2luZyB1c2VycyBleHBlY3QgdGhlIEhpanJpIChJc2xhbWljKSBjYWxlbmRhci4gVXNlIGBJbnRsLkRhdGVUaW1lRm9ybWF0YCB3aXRoIHRoZSBhcHByb3ByaWF0ZSBsb2NhbGUgb3IgY2FsZW5kYXIgcGFyYW1ldGVyLgoKYGBgamF2YXNjcmlwdAovLyDinIUgTG9jYWxlLWFwcHJvcHJpYXRlIGNhbGVuZGFyCm5ldyBJbnRsLkRhdGVUaW1lRm9ybWF0KCdmYS1JUicpLmZvcm1hdChuZXcgRGF0ZSgpKTsKbmV3IEludGwuRGF0ZVRpbWVGb3JtYXQoJ2FyLVNBLXUtY2EtaXNsYW1pYycpLmZvcm1hdChuZXcgRGF0ZSgpKTsKYGBgCgoqKkNoYXJhY3RlciBzZXQgc3VwcG9ydCoqOgotIFVzZSBVVEYtOCBlbmNvZGluZyBldmVyeXdoZXJlCi0gVGVzdCB3aXRoIENoaW5lc2UvSmFwYW5lc2UvS29yZWFuIChDSkspIGNoYXJhY3RlcnMKLSBUZXN0IHdpdGggZW1vamkgKHRoZXkgY2FuIGJlIDItNCBieXRlcykKLSBIYW5kbGUgZGlmZmVyZW50IHNjcmlwdHMgKExhdGluLCBDeXJpbGxpYywgQXJhYmljLCBldGMuKQoKKipEYXRlL1RpbWUgZm9ybWF0dGluZyoqOgpgYGBqYXZhc2NyaXB0Ci8vIOKchSBVc2UgSW50bCBBUEkgZm9yIHByb3BlciBmb3JtYXR0aW5nCm5ldyBJbnRsLkRhdGVUaW1lRm9ybWF0KCdlbi1VUycpLmZvcm1hdChkYXRlKTsgLy8gMS8xNS8yMDI0Cm5ldyBJbnRsLkRhdGVUaW1lRm9ybWF0KCdkZS1ERScpLmZvcm1hdChkYXRlKTsgLy8gMTUuMS4yMDI0CgpuZXcgSW50bC5OdW1iZXJGb3JtYXQoJ2VuLVVTJywgeyAKICBzdHlsZTogJ2N1cnJlbmN5JywgCiAgY3VycmVuY3k6ICdVU0QnIAp9KS5mb3JtYXQoMTIzNC41Nik7IC8vICQxLDIzNC41NgpgYGAKCioqUGx1cmFsaXphdGlvbioqOgpgYGBqYXZhc2NyaXB0Ci8vIOKdjCBCYWQ6IEFzc3VtZXMgRW5nbGlzaCBwbHVyYWxpemF0aW9uCmAke2NvdW50fSBpdGVtJHtjb3VudCAhPT0gMSA/ICdzJyA6ICcnfWAKCi8vIOKchSBHb29kOiBVc2UgcHJvcGVyIGkxOG4gbGlicmFyeQp0KCdpdGVtcycsIHsgY291bnQgfSkgLy8gSGFuZGxlcyBjb21wbGV4IHBsdXJhbCBydWxlcwpgYGAKCiMjIyBFcnJvciBIYW5kbGluZwoKKipOZXR3b3JrIGVycm9ycyoqOgotIFNob3cgY2xlYXIgZXJyb3IgbWVzc2FnZXMKLSBQcm92aWRlIHJldHJ5IGJ1dHRvbgotIEV4cGxhaW4gd2hhdCBoYXBwZW5lZAotIE9mZmVyIG9mZmxpbmUgbW9kZSAoaWYgYXBwbGljYWJsZSkKLSBIYW5kbGUgdGltZW91dCBzY2VuYXJpb3MKCmBgYGpzeAovLyBFcnJvciBzdGF0ZXMgd2l0aCByZWNvdmVyeQp7ZXJyb3IgJiYgKAogIDxFcnJvck1lc3NhZ2U+CiAgICA8cD5GYWlsZWQgdG8gbG9hZCBkYXRhLiB7ZXJyb3IubWVzc2FnZX08L3A+CiAgICA8YnV0dG9uIG9uQ2xpY2s9e3JldHJ5fT5UcnkgYWdhaW48L2J1dHRvbj4KICA8L0Vycm9yTWVzc2FnZT4KKX0KYGBgCgoqKkZvcm0gdmFsaWRhdGlvbiBlcnJvcnMqKjoKLSBJbmxpbmUgZXJyb3JzIG5lYXIgZmllbGRzCi0gQ2xlYXIsIHNwZWNpZmljIG1lc3NhZ2VzCi0gU3VnZ2VzdCBjb3JyZWN0aW9ucwotIERvbid0IGJsb2NrIHN1Ym1pc3Npb24gdW5uZWNlc3NhcmlseQotIFByZXNlcnZlIHVzZXIgaW5wdXQgb24gZXJyb3IKCioqQVBJIGVycm9ycyoqOgotIEhhbmRsZSBlYWNoIHN0YXR1cyBjb2RlIGFwcHJvcHJpYXRlbHkKICAtIDQwMDogU2hvdyB2YWxpZGF0aW9uIGVycm9ycwogIC0gNDAxOiBSZWRpcmVjdCB0byBsb2dpbgogIC0gNDAzOiBTaG93IHBlcm1pc3Npb24gZXJyb3IKICAtIDQwNDogU2hvdyBub3QgZm91bmQgc3RhdGUKICAtIDQyOTogU2hvdyByYXRlIGxpbWl0IG1lc3NhZ2UKICAtIDUwMDogU2hvdyBnZW5lcmljIGVycm9yLCBvZmZlciBzdXBwb3J0CgoqKkdyYWNlZnVsIGRlZ3JhZGF0aW9uKio6Ci0gQ29yZSBmdW5jdGlvbmFsaXR5IHdvcmtzIHdpdGhvdXQgSmF2YVNjcmlwdAotIEltYWdlcyBoYXZlIGFsdCB0ZXh0Ci0gUHJvZ3Jlc3NpdmUgZW5oYW5jZW1lbnQKLSBGYWxsYmFja3MgZm9yIHVuc3VwcG9ydGVkIGZlYXR1cmVzCgojIyMgRWRnZSBDYXNlcyAmIEJvdW5kYXJ5IENvbmRpdGlvbnMKCioqRW1wdHkgc3RhdGVzKio6Ci0gTm8gaXRlbXMgaW4gbGlzdAotIE5vIHNlYXJjaCByZXN1bHRzCi0gTm8gbm90aWZpY2F0aW9ucwotIE5vIGRhdGEgdG8gZGlzcGxheQotIFByb3ZpZGUgY2xlYXIgbmV4dCBhY3Rpb24KCioqTG9hZGluZyBzdGF0ZXMqKjoKLSBJbml0aWFsIGxvYWQKLSBQYWdpbmF0aW9uIGxvYWQKLSBSZWZyZXNoCi0gU2hvdyB3aGF0J3MgbG9hZGluZyAoIkxvYWRpbmcgeW91ciBwcm9qZWN0cy4uLiIpCi0gVGltZSBlc3RpbWF0ZXMgZm9yIGxvbmcgb3BlcmF0aW9ucwoKKipMYXJnZSBkYXRhc2V0cyoqOgotIFBhZ2luYXRpb24gb3IgdmlydHVhbCBzY3JvbGxpbmcKLSBTZWFyY2gvZmlsdGVyIGNhcGFiaWxpdGllcwotIFBlcmZvcm1hbmNlIG9wdGltaXphdGlvbgotIERvbid0IGxvYWQgYWxsIDEwLDAwMCBpdGVtcyBhdCBvbmNlCgoqKkNvbmN1cnJlbnQgb3BlcmF0aW9ucyoqOgotIFByZXZlbnQgZG91YmxlLXN1Ym1pc3Npb24gKGRpc2FibGUgYnV0dG9uIHdoaWxlIGxvYWRpbmcpCi0gSGFuZGxlIHJhY2UgY29uZGl0aW9ucwotIE9wdGltaXN0aWMgdXBkYXRlcyB3aXRoIHJvbGxiYWNrCi0gQ29uZmxpY3QgcmVzb2x1dGlvbgoKKipJbnRlcnJ1cHRlZCBnZXN0dXJlcyoqIChjdXN0b20gc2xpZGVycywgZHJhZyBzdXJmYWNlcywgc2Nyb2xsYWJsZSBjb250cm9sIHN0cmlwcyk6Ci0gQSBzZWNvbmQgZmluZ2VyIG9yIHBvaW50ZXIgbGFuZHMgbWlkLWRyYWc6IHRoZSBmaXJzdCBkcmFnIGtlZXBzIGl0cyBwb2ludGVyIG9yIGVuZHMgY2xlYW5seSwgbmV2ZXIganVtcHMgdG8gdGhlIG5ldyBvbmUKLSBUaGUgYnJvd3NlciBjYW5jZWxzIHRoZSBnZXN0dXJlIHRvIHNjcm9sbCAoYHBvaW50ZXJjYW5jZWxgKSwgY2FwdHVyZSBpcyBsb3N0IChgbG9zdHBvaW50ZXJjYXB0dXJlYCksIHRoZSBwb2ludGVyIGlzIHJlbGVhc2VkIG91dHNpZGUgdGhlIGNvbnRyb2wsIG9yIHRoZSB3aW5kb3cgbG9zZXMgZm9jdXMgKGBibHVyYCkgbWlkLWRyYWc6IGNsZWFyIHRoZSBkcmFnZ2luZyBzdGF0ZSBhbmQgcmVsZWFzZSBjYXB0dXJlCi0gQWZ0ZXIgZWFjaCBvZiB0aGVzZSwgdGhlIG5leHQgdGFwIG9yIGRyYWcgd29ya3Mgd2l0aG91dCBhIHJlbG9hZAoKKipQZXJtaXNzaW9uIHN0YXRlcyoqOgotIE5vIHBlcm1pc3Npb24gdG8gdmlldwotIE5vIHBlcm1pc3Npb24gdG8gZWRpdAotIFJlYWQtb25seSBtb2RlCi0gQ2xlYXIgZXhwbGFuYXRpb24gb2Ygd2h5CgoqKkJyb3dzZXIgY29tcGF0aWJpbGl0eSoqOgotIFBvbHlmaWxscyBmb3IgbW9kZXJuIGZlYXR1cmVzCi0gRmFsbGJhY2tzIGZvciB1bnN1cHBvcnRlZCBDU1MKLSBGZWF0dXJlIGRldGVjdGlvbiAobm90IGJyb3dzZXIgZGV0ZWN0aW9uKQotIFRlc3QgaW4gdGFyZ2V0IGJyb3dzZXJzCgojIyMgSW5wdXQgVmFsaWRhdGlvbiAmIFNhbml0aXphdGlvbgoKKipDbGllbnQtc2lkZSB2YWxpZGF0aW9uKio6Ci0gUmVxdWlyZWQgZmllbGRzCi0gRm9ybWF0IHZhbGlkYXRpb24gKGVtYWlsLCBwaG9uZSwgVVJMKQotIExlbmd0aCBsaW1pdHMKLSBQYXR0ZXJuIG1hdGNoaW5nCi0gQ3VzdG9tIHZhbGlkYXRpb24gcnVsZXMKCioqU2VydmVyLXNpZGUgdmFsaWRhdGlvbioqIChhbHdheXMpOgotIE5ldmVyIHRydXN0IGNsaWVudC1zaWRlIG9ubHkKLSBWYWxpZGF0ZSBhbmQgc2FuaXRpemUgYWxsIGlucHV0cwotIFByb3RlY3QgYWdhaW5zdCBpbmplY3Rpb24gYXR0YWNrcwotIFJhdGUgbGltaXRpbmcKCioqQ29uc3RyYWludCBoYW5kbGluZyoqOgpgYGBodG1sCjwhLS0gU2V0IGNsZWFyIGNvbnN0cmFpbnRzIC0tPgo8aW5wdXQgCiAgdHlwZT0idGV4dCIKICBtYXhsZW5ndGg9IjEwMCIKICBwYXR0ZXJuPSJbQS1aYS16MC05XSsiCiAgcmVxdWlyZWQKICBhcmlhLWRlc2NyaWJlZGJ5PSJ1c2VybmFtZS1oaW50IgovPgo8c21hbGwgaWQ9InVzZXJuYW1lLWhpbnQiPgogIExldHRlcnMgYW5kIG51bWJlcnMgb25seSwgdXAgdG8gMTAwIGNoYXJhY3RlcnMKPC9zbWFsbD4KYGBgCgojIyMgQWNjZXNzaWJpbGl0eSBSZXNpbGllbmNlCgoqKktleWJvYXJkIG5hdmlnYXRpb24qKjoKLSBBbGwgZnVuY3Rpb25hbGl0eSBhY2Nlc3NpYmxlIHZpYSBrZXlib2FyZAotIExvZ2ljYWwgdGFiIG9yZGVyCi0gRm9jdXMgbWFuYWdlbWVudCBpbiBtb2RhbHMKLSBTa2lwIGxpbmtzIGZvciBsb25nIGNvbnRlbnQKCioqU2NyZWVuIHJlYWRlciBzdXBwb3J0Kio6Ci0gUHJvcGVyIEFSSUEgbGFiZWxzCi0gQW5ub3VuY2UgZHluYW1pYyBjaGFuZ2VzIChsaXZlIHJlZ2lvbnMpCi0gRGVzY3JpcHRpdmUgYWx0IHRleHQKLSBTZW1hbnRpYyBIVE1MCgoqKkhpZ2ggY29udHJhc3QgbW9kZSoqOgotIFRlc3QgaW4gV2luZG93cyBoaWdoIGNvbnRyYXN0IG1vZGUKLSBEb24ndCByZWx5IG9ubHkgb24gY29sb3IKLSBQcm92aWRlIGFsdGVybmF0aXZlIHZpc3VhbCBjdWVzCgojIyMgUGVyZm9ybWFuY2UgUmVzaWxpZW5jZQoKKipTbG93IGNvbm5lY3Rpb25zKio6Ci0gUHJvZ3Jlc3NpdmUgaW1hZ2UgbG9hZGluZwotIFNrZWxldG9uIHNjcmVlbnMKLSBPcHRpbWlzdGljIFVJIHVwZGF0ZXMKLSBPZmZsaW5lIHN1cHBvcnQgKHNlcnZpY2Ugd29ya2VycykKCioqTWVtb3J5IGxlYWtzKio6Ci0gQ2xlYW4gdXAgZXZlbnQgbGlzdGVuZXJzCi0gQ2FuY2VsIHN1YnNjcmlwdGlvbnMKLSBDbGVhciB0aW1lcnMvaW50ZXJ2YWxzCi0gQWJvcnQgcGVuZGluZyByZXF1ZXN0cyBvbiB1bm1vdW50CgoqKlRocm90dGxpbmcgJiBEZWJvdW5jaW5nKio6CmBgYGphdmFzY3JpcHQKLy8gRGVib3VuY2Ugc2VhcmNoIGlucHV0CmNvbnN0IGRlYm91bmNlZFNlYXJjaCA9IGRlYm91bmNlKGhhbmRsZVNlYXJjaCwgMzAwKTsKCi8vIFRocm90dGxlIHNjcm9sbCBoYW5kbGVyCmNvbnN0IHRocm90dGxlZFNjcm9sbCA9IHRocm90dGxlKGhhbmRsZVNjcm9sbCwgMTAwKTsKYGBgCgojIyBUZXN0aW5nIFN0cmF0ZWdpZXMKCioqTWFudWFsIHRlc3RpbmcqKjoKLSBUZXN0IHdpdGggZXh0cmVtZSBkYXRhICh2ZXJ5IGxvbmcsIHZlcnkgc2hvcnQsIGVtcHR5KQotIFRlc3QgaW4gZGlmZmVyZW50IGxhbmd1YWdlcwotIFRlc3Qgb2ZmbGluZQotIFRlc3Qgc2xvdyBjb25uZWN0aW9uICh0aHJvdHRsZSB0byAzRykKLSBUZXN0IHdpdGggc2NyZWVuIHJlYWRlcgotIFRlc3Qga2V5Ym9hcmQtb25seSBuYXZpZ2F0aW9uCi0gVGVzdCBvbiBvbGQgYnJvd3NlcnMKCioqQXV0b21hdGVkIHRlc3RpbmcqKjoKLSBVbml0IHRlc3RzIGZvciBlZGdlIGNhc2VzCi0gSW50ZWdyYXRpb24gdGVzdHMgZm9yIGVycm9yIHNjZW5hcmlvcwotIEUyRSB0ZXN0cyBmb3IgY3JpdGljYWwgcGF0aHMKLSBBIGJlaGF2aW9yYWwgcmVncmVzc2lvbiBmb3IgZWFjaCBjb25maXJtZWQgZ2VzdHVyZSBmaXgsIHdoZW4gdGhlIHByb2plY3QncyB0ZXN0IHJ1bm5lciBjYW4gZHJpdmUgaW5wdXQKLSBWaXN1YWwgcmVncmVzc2lvbiB0ZXN0cwotIEFjY2Vzc2liaWxpdHkgdGVzdHMgKGF4ZSwgV0FWRSkKCioqQXZvaWQqKjoKLSBBc3N1bWUgcGVyZmVjdCBpbnB1dCAodmFsaWRhdGUgZXZlcnl0aGluZykKLSBJZ25vcmUgaW50ZXJuYXRpb25hbGl6YXRpb24gKGRlc2lnbiBmb3IgZ2xvYmFsKQotIExlYXZlIGVycm9yIG1lc3NhZ2VzIGdlbmVyaWMgKCJFcnJvciBvY2N1cnJlZCIpCi0gRm9yZ2V0IG9mZmxpbmUgc2NlbmFyaW9zCi0gVHJ1c3QgY2xpZW50LXNpZGUgdmFsaWRhdGlvbiBhbG9uZQotIFVzZSBmaXhlZCB3aWR0aHMgZm9yIHRleHQKLSBBc3N1bWUgRW5nbGlzaC1sZW5ndGggdGV4dAotIEJsb2NrIGVudGlyZSBpbnRlcmZhY2Ugd2hlbiBvbmUgY29tcG9uZW50IGVycm9ycwoKIyMgVmVyaWZ5IEhhcmRlbmluZwoKVGVzdCB0aG9yb3VnaGx5IHdpdGggZWRnZSBjYXNlczoKCi0gKipMb25nIHRleHQqKjogVHJ5IG5hbWVzIHdpdGggMTAwKyBjaGFyYWN0ZXJzCi0gKipFbW9qaSoqOiBVc2UgZW1vamkgaW4gYWxsIHRleHQgZmllbGRzCi0gKipSVEwqKjogVGVzdCB3aXRoIEFyYWJpYyBvciBIZWJyZXcKLSAqKkNKSyoqOiBUZXN0IHdpdGggQ2hpbmVzZS9KYXBhbmVzZS9Lb3JlYW4KLSAqKk5ldHdvcmsgaXNzdWVzKio6IERpc2FibGUgaW50ZXJuZXQsIHRocm90dGxlIGNvbm5lY3Rpb24KLSAqKkxhcmdlIGRhdGFzZXRzKio6IFRlc3Qgd2l0aCAxMDAwKyBpdGVtcwotICoqQ29uY3VycmVudCBhY3Rpb25zKio6IENsaWNrIHN1Ym1pdCAxMCB0aW1lcyByYXBpZGx5Ci0gKipJbnRlcnJ1cHRlZCBnZXN0dXJlcyoqOiBBZGQgYSBzZWNvbmQgZmluZ2VyIG1pZC1kcmFnLCBzY3JvbGwgYWNyb3NzIHRoZSBjb250cm9sLCByZWxlYXNlIG91dHNpZGUgaXQsIHN3aXRjaCB3aW5kb3dzIG1pZC1kcmFnOyB0aGVuIGRyYWcgYWdhaW4KLSAqKkVycm9ycyoqOiBGb3JjZSBBUEkgZXJyb3JzLCB0ZXN0IGFsbCBlcnJvciBzdGF0ZXMKLSAqKkVtcHR5Kio6IFJlbW92ZSBhbGwgZGF0YSwgdGVzdCBlbXB0eSBzdGF0ZXMKCkZvciBnZXN0dXJlcywgc2F5IHdoYXQgcHJvZHVjZWQgdGhlIGV2aWRlbmNlIChlbXVsYXRlZCB2aWV3cG9ydCwgc3ludGhlc2l6ZWQgdG91Y2gsIHdoaWNoIGVuZ2luZSwgcGh5c2ljYWwgZGV2aWNlKSBhbmQgbmFtZSB3aGF0IHN0YXllZCB1bnRlc3RlZC4KCldoZW4gZWRnZSBjYXNlcyBhcmUgY292ZXJlZCwgaGFuZCBvZmYgdG8gYC9pbXBlY2NhYmxlIHBvbGlzaGAgZm9yIHRoZSBmaW5hbCBwYXNzLgo=
+Designs that only work with perfect data aren't production-ready. Harden the interface against the inputs, errors, languages, and network conditions that real users will throw at it.
+
+## Assess Hardening Needs
+
+Identify weaknesses and edge cases:
+
+1. **Test with extreme inputs**:
+   - Very long text (names, descriptions, titles)
+   - Very short text (empty, single character)
+   - Special characters (emoji, RTL text, accents)
+   - Large numbers (millions, billions)
+   - Many items (1000+ list items, 50+ options)
+   - No data (empty states)
+
+2. **Test error scenarios**:
+   - Network failures (offline, slow, timeout)
+   - API errors (400, 401, 403, 404, 500)
+   - Validation errors
+   - Permission errors
+   - Rate limiting
+   - Concurrent operations
+
+3. **Test internationalization**:
+   - Long translations (German is often 30% longer than English)
+   - RTL languages (Arabic, Hebrew)
+   - Character sets (Chinese, Japanese, Korean, emoji)
+   - Date/time formats
+   - Number formats (1,000 vs 1.000)
+   - Currency symbols
+
+Designs that only work with perfect data aren't production-ready.
+
+## Hardening Dimensions
+
+Systematically improve resilience:
+
+### Text Overflow & Wrapping
+
+**Long text handling**:
+```css
+/* Single line with ellipsis */
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Multi-line with clamp */
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Allow wrapping */
+.wrap {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+```
+
+**Flex/Grid overflow**:
+```css
+/* Prevent flex items from overflowing */
+.flex-item {
+  min-width: 0; /* Allow shrinking below content size */
+  overflow: hidden;
+}
+
+/* Prevent grid items from overflowing */
+.grid-item {
+  min-width: 0;
+  min-height: 0;
+}
+```
+
+**Responsive text sizing**:
+- Use `clamp()` for fluid typography
+- Set minimum readable sizes (16px body on mobile, the same floor the typography guidance sets; 14px only for genuinely secondary text. iOS Safari force-zooms focused inputs under 16px, which breaks form layouts)
+- Test text scaling (zoom to 200%)
+- Ensure containers expand with text
+
+### Internationalization (i18n)
+
+**Text expansion**:
+- Add 30-40% space budget for translations
+- Use flexbox/grid that adapts to content
+- Test with longest language (usually German)
+- Avoid fixed widths on text containers
+
+```jsx
+// ❌ Bad: Assumes short English text
+<button className="w-24">Submit</button>
+
+// ✅ Good: Adapts to content
+<button className="px-4 py-2">Submit</button>
+```
+
+**RTL (Right-to-Left) support**:
+```css
+/* Use logical properties */
+margin-inline-start: 1rem; /* Not margin-left */
+padding-inline: 1rem; /* Not padding-left/right */
+border-inline-end: 1px solid; /* Not border-right */
+
+/* Or use dir attribute */
+[dir="rtl"] .arrow { transform: scaleX(-1); }
+```
+
+**Arabic-script specifics** (Arabic, Persian, Urdu, Pashto, Kurdish):
+- Preserve Zero-Width Non-Joiner (U+200C). Persian and Kurdish use ZWNJ between compound-word parts to break cursive joining while keeping the word together. A filter or sanitizer that strips it changes meaning. Never normalize it away.
+- Handle Yeh and Kaf variants. Persian uses ی (U+06CC) and ک (U+06A9), while Arabic uses ي (U+064A) and ك (U+0643). Preserve the original form in storage. For search and validation, treat the corresponding letters as equivalent so that Arabic-keyboard input matches Persian text. Rejecting one variant locks out users whose keyboard sends the other.
+- Support locale-aware digits. Persian (`fa-IR`) and Arabic locales use Eastern Arabic-Indic numerals (۰-۹ and ٠-٩). Use `Intl.NumberFormat` with the correct locale rather than hardcoding Western digits.
+
+```javascript
+// ✅ Locale-aware digit formatting
+new Intl.NumberFormat('fa-IR').format(1234); // ۱٬۲۳۴
+new Intl.NumberFormat('ar-SA').format(1234); // ١٬٢٣٤
+```
+
+- Respect calendar systems. Persian users expect the Solar Hijri (Jalali) calendar; many Arabic-speaking users expect the Hijri (Islamic) calendar. Use `Intl.DateTimeFormat` with the appropriate locale or calendar parameter.
+
+```javascript
+// ✅ Locale-appropriate calendar
+new Intl.DateTimeFormat('fa-IR').format(new Date());
+new Intl.DateTimeFormat('ar-SA-u-ca-islamic').format(new Date());
+```
+
+**Character set support**:
+- Use UTF-8 encoding everywhere
+- Test with Chinese/Japanese/Korean (CJK) characters
+- Test with emoji (they can be 2-4 bytes)
+- Handle different scripts (Latin, Cyrillic, Arabic, etc.)
+
+**Date/Time formatting**:
+```javascript
+// ✅ Use Intl API for proper formatting
+new Intl.DateTimeFormat('en-US').format(date); // 1/15/2024
+new Intl.DateTimeFormat('de-DE').format(date); // 15.1.2024
+
+new Intl.NumberFormat('en-US', { 
+  style: 'currency', 
+  currency: 'USD' 
+}).format(1234.56); // $1,234.56
+```
+
+**Pluralization**:
+```javascript
+// ❌ Bad: Assumes English pluralization
+`${count} item${count !== 1 ? 's' : ''}`
+
+// ✅ Good: Use proper i18n library
+t('items', { count }) // Handles complex plural rules
+```
+
+### Error Handling
+
+**Network errors**:
+- Show clear error messages
+- Provide retry button
+- Explain what happened
+- Offer offline mode (if applicable)
+- Handle timeout scenarios
+
+```jsx
+// Error states with recovery
+{error && (
+  <ErrorMessage>
+    <p>Failed to load data. {error.message}</p>
+    <button onClick={retry}>Try again</button>
+  </ErrorMessage>
+)}
+```
+
+**Form validation errors**:
+- Inline errors near fields
+- Clear, specific messages
+- Suggest corrections
+- Don't block submission unnecessarily
+- Preserve user input on error
+
+**API errors**:
+- Handle each status code appropriately
+  - 400: Show validation errors
+  - 401: Redirect to login
+  - 403: Show permission error
+  - 404: Show not found state
+  - 429: Show rate limit message
+  - 500: Show generic error, offer support
+
+**Graceful degradation**:
+- Core functionality works without JavaScript
+- Images have alt text
+- Progressive enhancement
+- Fallbacks for unsupported features
+
+### Edge Cases & Boundary Conditions
+
+**Empty states**:
+- No items in list
+- No search results
+- No notifications
+- No data to display
+- Provide clear next action
+
+**Loading states**:
+- Initial load
+- Pagination load
+- Refresh
+- Show what's loading ("Loading your projects...")
+- Time estimates for long operations
+
+**Large datasets**:
+- Pagination or virtual scrolling
+- Search/filter capabilities
+- Performance optimization
+- Don't load all 10,000 items at once
+
+**Concurrent operations**:
+- Prevent double-submission (disable button while loading)
+- Handle race conditions
+- Optimistic updates with rollback
+- Conflict resolution
+
+**Interrupted gestures** (custom sliders, drag surfaces, scrollable control strips):
+- A second finger or pointer lands mid-drag: the first drag keeps its pointer or ends cleanly, never jumps to the new one
+- The browser cancels the gesture to scroll (`pointercancel`), capture is lost (`lostpointercapture`), the pointer is released outside the control, or the window loses focus (`blur`) mid-drag: clear the dragging state and release capture
+- After each of these, the next tap or drag works without a reload
+
+**Permission states**:
+- No permission to view
+- No permission to edit
+- Read-only mode
+- Clear explanation of why
+
+**Browser compatibility**:
+- Polyfills for modern features
+- Fallbacks for unsupported CSS
+- Feature detection (not browser detection)
+- Test in target browsers
+
+### Input Validation & Sanitization
+
+**Client-side validation**:
+- Required fields
+- Format validation (email, phone, URL)
+- Length limits
+- Pattern matching
+- Custom validation rules
+
+**Server-side validation** (always):
+- Never trust client-side only
+- Validate and sanitize all inputs
+- Protect against injection attacks
+- Rate limiting
+
+**Constraint handling**:
+```html
+<!-- Set clear constraints -->
+<input 
+  type="text"
+  maxlength="100"
+  pattern="[A-Za-z0-9]+"
+  required
+  aria-describedby="username-hint"
+/>
+<small id="username-hint">
+  Letters and numbers only, up to 100 characters
+</small>
+```
+
+### Accessibility Resilience
+
+**Keyboard navigation**:
+- All functionality accessible via keyboard
+- Logical tab order
+- Focus management in modals
+- Skip links for long content
+
+**Screen reader support**:
+- Proper ARIA labels
+- Announce dynamic changes (live regions)
+- Descriptive alt text
+- Semantic HTML
+
+**High contrast mode**:
+- Test in Windows high contrast mode
+- Don't rely only on color
+- Provide alternative visual cues
+
+### Performance Resilience
+
+**Slow connections**:
+- Progressive image loading
+- Skeleton screens
+- Optimistic UI updates
+- Offline support (service workers)
+
+**Memory leaks**:
+- Clean up event listeners
+- Cancel subscriptions
+- Clear timers/intervals
+- Abort pending requests on unmount
+
+**Throttling & Debouncing**:
+```javascript
+// Debounce search input
+const debouncedSearch = debounce(handleSearch, 300);
+
+// Throttle scroll handler
+const throttledScroll = throttle(handleScroll, 100);
+```
+
+## Testing Strategies
+
+**Manual testing**:
+- Test with extreme data (very long, very short, empty)
+- Test in different languages
+- Test offline
+- Test slow connection (throttle to 3G)
+- Test with screen reader
+- Test keyboard-only navigation
+- Test on old browsers
+
+**Automated testing**:
+- Unit tests for edge cases
+- Integration tests for error scenarios
+- E2E tests for critical paths
+- A behavioral regression for each confirmed gesture fix, when the project's test runner can drive input
+- Visual regression tests
+- Accessibility tests (axe, WAVE)
+
+**Avoid**:
+- Assume perfect input (validate everything)
+- Ignore internationalization (design for global)
+- Leave error messages generic ("Error occurred")
+- Forget offline scenarios
+- Trust client-side validation alone
+- Use fixed widths for text
+- Assume English-length text
+- Block entire interface when one component errors
+
+## Verify Hardening
+
+Test thoroughly with edge cases:
+
+- **Long text**: Try names with 100+ characters
+- **Emoji**: Use emoji in all text fields
+- **RTL**: Test with Arabic or Hebrew
+- **CJK**: Test with Chinese/Japanese/Korean
+- **Network issues**: Disable internet, throttle connection
+- **Large datasets**: Test with 1000+ items
+- **Concurrent actions**: Click submit 10 times rapidly
+- **Interrupted gestures**: Add a second finger mid-drag, scroll across the control, release outside it, switch windows mid-drag; then drag again
+- **Errors**: Force API errors, test all error states
+- **Empty**: Remove all data, test empty states
+
+For gestures, say what produced the evidence (emulated viewport, synthesized touch, which engine, physical device) and name what stayed untested.
+
+When edge cases are covered, hand off to `/impeccable polish` for the final pass.

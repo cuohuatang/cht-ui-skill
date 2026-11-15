@@ -1,1 +1,95 @@
-IyBEaWFncmFtcwoKYGFzc2V0cy9kaWFncmFtcy9kaWFncmFtLmpzYCBkcmF3cyBhIG5vZGUtYW5kLWxpbmUgdmlzdWFsIGZvciBhIGNhcmQgcGFuZWwgKGFib3V0IDU2MCBieSAzNDApIG9yIGEKc2VjdGlvbiAoMTIwMCBieSA1NjApIGZyb20gYSBzbWFsbCBKU09OIHNwZWMuIGBwcmVzZXRzLmpzb25gIGhvbGRzIDI3IHJlYWR5IHNwZWNzLCBlYWNoIHRhZ2dlZCB3aXRoIHRoZSBwYWdlCmtpbmRzIGl0IHN1aXRzIChgdHlwZXNgOiBzb2Z0d2FyZSwgdGVjaCwgZ2FtaW5nLCBwcm9kdWN0LCBzZXJ2aWNlKTsgYGRlbW8uaHRtbGAgc2hvd3MgdGhlbSBpbiBmZWF0dXJlIGNhcmRzLCBsaWdodCBhbmQgZGFyawooYD90eXBlPWdhbWluZ2ApOyBgbGFiLmh0bWxgIGlzIHRoZSB0b29sIHRvIGJ1aWxkIG9uZSAoYmVsb3cpLgoKIyMgV2hlbiBhIGRpYWdyYW0sIHdoZW4gYSBVSSBmcmFnbWVudAoKLSBBIGRpYWdyYW0sIHdoZW4gdGhlIHBvaW50IGlzIGhvdyB0aGluZ3MgY29ubmVjdDogdGhlIHRvb2xzIGl0IHJlYWRzIGZyb20sIG9uZSBpbnB1dCBzcGxpdCBpbnRvCiAgcGFyYWxsZWwgam9icywgbWFueSBzb3VyY2VzIGludG8gb25lIHBsYWNlLCB0d28gc3lzdGVtcyBpbiBzeW5jLCBzdGVwcyBpbiBvcmRlciwgcmVnaW9ucy4KLSBBIFVJIGZyYWdtZW50IChgYXNzZXRzL3VpYCksIHdoZW4gdGhlIHBvaW50IGlzIHdoYXQgdGhlIHVzZXIgc2VlcyBvciBkb2VzOiBhIGRyYWZ0ZWQgcmVwbHksIGEKICBjYWxlbmRhciwgYSBkYXNoYm9hcmQuIE5ldmVyIGEgZGlhZ3JhbSBvZiBhIHNjcmVlbi4KLSBPbmUgZGlhZ3JhbSBhIHNlY3Rpb24sIHR3byBhIHBhZ2UgYXQgbW9zdCAodGVjaDsgYSBwcm9kdWN0IG9yIHNlcnZpY2UgcGFnZSBvbmUsIGhlbGQgc3RpbGwpLiBBCiAgcGxhY2UgcGFnZSBoYXMgbm9uZS4gT24gYSBnYW1pbmcgcGFnZSBhIGRpYWdyYW0gc2hvd3MgYSBzeXN0ZW0gb2YgdGhlIGdhbWUgKG1hdGNobWFraW5nLCBzYXZlcywKICBzdG9yZXMpLCBuZXZlciBpbiBwbGFjZSBvZiB0aGUgZ2FtZSdzIG93biBwaWN0dXJlcy4KCiMjIFBpY2sgYSBsYXlvdXQgYW5kIGEgcHJlc2V0Cgp8IGxheW91dCB8IHNob3dzIHwgcHJlc2V0cyB8CnwtLS18LS0tfC0tLXwKfCBgaHViYCB8IGEgY2VudHJlIGFuZCBpdHMgdG9vbHM7IHdpdGggYGNoaWxkcmVuYCBhIG1pbmQgbWFwLCBvciBhIHdlYiB3aXRoIGAic2hhcGUiOiAicmFkaWFsImAgfCBodWItdG9vbHMsIGh1Yi1icmFuY2hlcywgaHViLXdlYiwgaHViLXN0YWNrICh0ZWNoKSwgaHViLXN0b3JlcyAoZ2FtaW5nKSB8CnwgYHJpbmdgIHwgbG9nb3Mgb3IgcmVnaW9ucyBvbiBhbiBvcmJpdCB8IHJpbmctYXBwcywgcmluZy1yZWdpb25zLCByaW5nLWVkZ2UgKHRlY2gpLCByaW5nLXNlcnZlcnMgKGdhbWluZykgfAp8IGB0cmVlYCB8IG9uZSB0aGluZyBicmFuY2hpbmcgb3V0IHwgdHJlZS1vcmRlcnMsIHRyZWUtcmVsZWFzZSAodGVjaCkgfAp8IGBsYW5lc2AgfCBvbmUgaW5wdXQsIGEgY29yZSwgcGFyYWxsZWwgbGFuZXMgKHRocmVlIHRocmVhZHMpIHwgbGFuZXMtYWdlbnQsIGxhbmVzLW1lZGlhLCBsYW5lcy1kZXBsb3ksIGxhbmVzLXJlbmRlciAodGVjaCksIGxhbmVzLW1hdGNobWFraW5nIChnYW1pbmcpIHwKfCBgZmFuaW5gLCBgYm93dGllYCB8IG1hbnkgaW50byBvbmU7IGFuZCBvdXQgdG8gbWFueSB8IGZhbmluLXdhcmVob3VzZSwgZmFuaW4tdGVsZW1ldHJ5ICh0ZWNoKSwgYm93dGllLWV2ZW50cywgYm93dGllLW1vZGVsICh0ZWNoKSB8CnwgYHN5bmNgIHwgdHdvIHN5c3RlbXMsIHJlY29yZHMgY3Jvc3NpbmcgfCBzeW5jLWNybSwgc3luYy1zYXZlcyAoZ2FtaW5nKSB8CnwgYHRpbWVsaW5lYCB8IHN0ZXBzIGRvbmUgaW4gdHVybiB8IHRpbWVsaW5lLW9uYm9hcmRpbmcsIHRpbWVsaW5lLXNlYXNvbiAoZ2FtaW5nKSB8CnwgYGdyaWRgIHwgZmlsZXMgaW50byBhIHBpcGVsaW5lIHwgZ3JpZC1kb2N1bWVudHMsIGdyaWQtYXNzZXRzIChnYW1pbmcpIHwKfCBgZnJlZWAgfCB5b3VyIG93biBub2RlcyBhbmQgZWRnZXMgfCBmcmVlLWFwcHJvdmFsIHwKCkZpbHRlciBieSBraW5kOiBgZGcucHJlc2V0cygpYCBnaXZlcyB0aGUgb2JqZWN0OyBrZWVwIHRoZSBvbmVzIHdob3NlIGB0eXBlc2AgaGFzIHRoZSBwYWdlJ3Mga2luZC4gR2FtaW5nIGFuZCB0ZWNoIHBhZ2VzIHRha2UgdGhlIHRlY2gKYW5kIGdhbWluZyBwcmVzZXRzIHdpdGggcHVsc2VzOyBhIHByb2R1Y3Qgb3Igc2VydmljZSBwYWdlIHRha2VzIGF0IG1vc3Qgb25lLCBoZWxkIHN0aWxsLgoKYGBgaHRtbAo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImFzc2V0cy9kaWFncmFtcy9kaWFncmFtLmNzcyI+CjxkaXYgY2xhc3M9InBhbmVsIj48ZGl2IGNsYXNzPSJkZyIgZGF0YS1kaWFncmFtPSJsYW5lcy1hZ2VudCI+PC9kaXY+PC9kaXY+CjxzY3JpcHQgdHlwZT0ibW9kdWxlIiBzcmM9ImFzc2V0cy9kaWFncmFtcy9tb3VudC5qcyI+PC9zY3JpcHQ+CmBgYAoKQ29weSBhIHByZXNldCBpbnRvIGBkYXRhLWRpYWdyYW09J3suLi59J2AsIHRoZW4gcmVuYW1lIGV2ZXJ5IGxhYmVsLCBpY29uIGFuZCBudW1iZXIgdG8gdGhlIGNsaWVudCdzIG93bi4gQSBsYWJlbCB3aXRoIGFuIGFwb3N0cm9waGUKb3IgYSBxdW90ZSAoYGl0J3NgKSBlbmRzIGEgc2luZ2xlLXF1b3RlZCBhdHRyaWJ1dGUsIHNvIHRoZW4gcHV0IHRoZSBzcGVjIGluIGEgc2NyaXB0IGluc2lkZSB0aGUgZWxlbWVudDoKCmBgYGh0bWwKPGRpdiBjbGFzcz0icGFuZWwiPjxkaXYgY2xhc3M9ImRnIiBkYXRhLWRpYWdyYW0+PHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9qc29uIj57ImxheW91dCI6ICJodWIiLCAuLi59PC9zY3JpcHQ+PC9kaXY+PC9kaXY+CmBgYAoKQSBzcGVjIHRoYXQgZG9lcyBub3QgcGFyc2UgbG9ncyBhIGBjb25zb2xlLmVycm9yYCBhbmQgbGVhdmVzIG9ubHkgdGhlIG5hbWVzIGl0IGNvdWxkIHJlYWQuCgojIyBUaGUgYnVpbGRlciBwYWdlICh0aGUgdG9vbCBmb3IgYnVpbGRpbmcgb25lIGZhc3QpCgpPcGVuIGBhc3NldHMvZGlhZ3JhbXMvbGFiLmh0bWxgIG92ZXIgaHR0cC4gUGljayBhIHBhZ2Uga2luZCBhbmQgYSBwcmVzZXQsIGVkaXQgdGhlIEpTT04gKGl0IHJlZHJhd3Mgd2hpbGUgeW91IHR5cGUpIG9yIHVzZSB0aGUgY29udHJvbHMKKGdyb3VuZCwgbGlnaHQsIGxpbmUgc2hhcGUsIGN5Y2xlIDIuNSB0byA0IHMpLCBzd2l0Y2ggY2FyZCwgc2VjdGlvbiwgcGhvbmUgYW5kIGxpZ2h0LCBkYXJrLCByZXN0YXJ0IHRoZSBsb29wLCB0aGVuIGNvcHkgdGhlCm1hcmt1cCBhbmQgdGhlIGljb24gbGluZS4gSW5zaWRlIGEgY2FyZCBpdCBzaG93cyB0aGUgcmVhbCB0aGluZywgbmV2ZXIgYSBtb2NrLXVwLiBBIG5ldyBkaWFncmFtIGlzIGEgcHJlc2V0IHBsdXMgdGhlIGNsaWVudCdzIHdvcmRzOwpgZnJlZWAgdGFrZXMgbm9kZXMgYXQgZnJhY3Rpb25zIG9mIHRoZSBib3ggYW5kIHRoZSBlZGdlcyB5b3UgbGlzdC4KCiMjIEljb25zOiBvbmUgcmVzb2x2ZXIsIHJ1biBpdCBsYXN0CgpgZGlhZ3JhbS5qc2AgcmVhZHMgaWNvbiBmaWxlcyBhbmQgbm90aGluZyBlbHNlOiBubyBDRE4sIG5vIHRpbnRpbmcsIG5vIFNpbXBsZSBJY29ucyBjYWxsIGF0IHJ1bnRpbWUuIEZyb20gdGhlIHNpdGUgcm9vdDoKCmBub2RlIDxza2lsbD4vc2NyaXB0cy9pY29ucy5tanMgc2NhbiBpbmRleC5odG1sIC0tb3V0IGFzc2V0cy9pY29uc2AKCmZldGNoZXMgZXZlcnkgaWQgdGhlIHBhZ2UncyBkaWFncmFtcyBuYW1lIChjdXJhdGVkIHNob3J0IG5hbWVzIHN1Y2ggYXMgYGdtYWlsYCwgYHN0ZWFtYCwgYGdvb2dsZS1kb2NzYDsgYGxvZ29zOmAsIGBmaWxlOmAsIGBzaTpgIGlkczsgYHVpOmAgZ2x5cGhzKS4KQ29sb3VyIG1hcmtzIGNvbWUgZnJvbSB0aGUgbG9nb3Mgc2V0IGluIGZ1bGwgY29sb3VyOyB3aGVyZSBub25lIGV4aXN0cyAoR29vZ2xlIERvY3MsIFNoZWV0cywgU2xpZGVzKSB0aGUgU2ltcGxlIEljb25zIG1hcmsgaW4gaXRzIGJyYW5kIGhleCwKcGFpbnRlZCBieSBgaWNvbnMubWpzYC4gQW4gaWNvbiB0aGF0IGlzIG1pc3Npbmcgc2hvd3MgdGhlIG5hbWUncyBmaXJzdCBsZXR0ZXIsIGFuZCB0aGUgY29uc29sZSBzYXlzCmBkaWFncmFtLmpzOiBOIGljb25zIGFyZSBub3QgaW4gLi4uL2Fzc2V0cy9pY29ucyAuLi5gIHdpdGggdGhlIGZldGNoIGxpbmU6IHJ1biBpdC4gQSBmaW5pc2hlZCBwYWdlIGhhcyBubyBzdWNoIGxpbmUuCk1hcmtzIHRoYXQgYXJlIG1vc3RseSB2aW9sZXQgKFN0cmlwZSwgVHdpdGNoKSBhcmUgZHJhd24gaW4gdGhlIHRleHQgY29sb3VyLCBibGFjayBtYXJrcyB0YWtlIHRoZSBpbmssIGEgd29yZG1hcmsgZ2V0cyBhIDI6MSBzbG90IGFuZCBpdHMKdGlsZSBiZWNvbWVzIGEgcGlsbDogYWxsIGRlY2lkZWQgYnkgYGljb25zLm1qc2AgYW5kIGJha2VkIGludG8gdGhlIGZpbGUgKGBkYXRhLWljYCkuIGBkYXRhLWljb24tYmFzZWAgb24gdGhlIGVsZW1lbnQgb3IgYXJvdW5kIGl0Cm1vdmVzIHRoZSBmb2xkZXIuCgojIyBNb3Rpb246IG9uZSBjeWNsZSBvZiAyLjUgdG8gNCBzCgotIEEgZGlhZ3JhbSBjYXJkJ3MgcHVsc2UgaXMgaXRzIG93biBsb29wIChub3Qgb25lIHBlciBjYXJkIGdyb3VwKS4gVGhlIHByb2dyYW0gaXMgbGFpZCBvdXQgYXMgYSByaXBwbGU6IGVhY2ggc3Bva2UsIGJyYW5jaCBvciByb3V0ZQogIHN0YXJ0cyBhIGJlYXQgYWZ0ZXIgdGhlIG9uZSBiZWZvcmUgaXQgKDAuMjQgdG8gMC41IHMsIHRoZSBzdGFnZ2VyKSwgYW5kIHRoZSB3aG9sZSBwcm9ncmFtIGlzIHRoZW4gZml0dGVkIHRvIE9ORSBjeWNsZSBvZiAzLjIgcwogIChgIm1vdGlvbiI6IHsiY3ljbGUiOiAyLjUuLjR9YCksIHRoZSBsaW5lcyBmYWRpbmcgaW4gdGhlIHJlc3QuIGBkLlRgIGlzIGFsd2F5cyAyLjUgdG8gNCBzLiBJdCByZXBlYXRzLgogIEJlbG93IHRoZSBoZXJvIHR3byBsb29wcyBuZXZlciBzaGFyZSBhIHNjcmVlbjogYmVzaWRlIGEgbG9vcGluZyBmcmFnbWVudCBvbmUgb2YgdGhlIHR3byBob2xkcyAoYG1vdGlvbi5tZGApLgotIEl0IHJlc3RhcnRzIGZyb20gaXRzIGZpcnN0IGJlYXQgd2hlbiB0aGUgcG9pbnRlciBlbnRlcnMgdGhlIGNhcmQgKG1vdXNlIGFuZCBwZW4pIG9yIGZvY3VzIG1vdmVzIGludG8gaXQgYnkga2V5Ym9hcmQuCi0gSXQgcnVucyBvbmx5IG9uIHNjcmVlbi4gT24gYSBwaG9uZSAodW5kZXIgNjQwcHgpIGFuZCB1bmRlciByZWR1Y2VkIG1vdGlvbiBpdCBob2xkcyBvbmUgc3RpbGwsIHRoZSBidXNpZXN0IG1vbWVudDsgYCJwdWxzZSI6ICJub25lImAKICBob2xkcyBpdCB0b28uIGBkYXRhLWRnLXN0aWxsYCBob2xkcyBpdCBieSBoYW5kIGFuZCBwbGF5cyBpdCB3aGlsZSB0aGUgcG9pbnRlciBpcyBvbiB0aGUgY2FyZC4gYGRhdGEtdWktc3RpbGxgIGRvZXMgbm90IGhvbGQgYQogIGRpYWdyYW0uIEEgbG9vcCB0aGF0IHJ1bnMgZ2V0cyB0aGUgcGF1c2UgZGlzYy4KLSBUaGUgbGlnaHQgaXMgYSBncmFkaWVudCBjb21ldCB3aXRoIGEgZ2xvdyBhbmQgYSBicmlnaHQgaGVhZCAoYCJwdWxzZSI6ICJkb3QiYCBpcyB0aGUgaGVhZCBhbG9uZSkuIFRoZSBhY2NlbnQgaXMgb25seSB0aGUgbGlnaHQKICBhbmQgd2hhdCBpdCByZWFjaGVzOyBsaW5lcyBhcmUgaGFpcmxpbmVzOyB0aGUgY29yZSBpcyBhbiBpbmsgdGlsZS4gVGhlIGNhcmQgbmV2ZXIgbW92ZXMsIG5vdGhpbmcgc3RhcnRzIG9uIHNjcm9sbC4KLSBHcm91bmRzIHZhcnkgYnkgZGVmYXVsdCAoYHJpbmdzYCByb3VuZCBhIGh1YiwgYG5vbmVgIHVuZGVyIGFuIG9yYml0LCBhIHRpbWVsaW5lIG9yIGEgc3luYywgYGRvdHNgIGZvciBmbG93czsgdGhlIGRpYWdyYW0gdGhhdCBsZWFkcwogIGEgc2VjdGlvbiBhZGRzIGBnbG93YCk7IGBncm91bmRgIHNldHMgaXQuIE9uIGtpbmQgb3RoZXIgKHRoZSBvbmUgc3RpbGwgZGlhZ3JhbSBvZiBhIHByb2R1Y3Qgb3Igc2VydmljZSBwYWdlKSBzZXQKICBgImdyb3VuZCI6ICJub25lImAgYW5kIGAibW90aW9uIjogeyJwdWxzZSI6ICJub25lIn1gOiBwYXR0ZXJuLCBnbG93IGFuZCBwdWxzZXMgYXJlIHRlY2ggb25seS4gU2l6ZTogYSBmbGF0IGRyYXdpbmcgdGFrZXMgdGhlIG5leHQgc2l6ZSB1cCB3aGVuIHRoYXQgZml0czsgYCJzaXplIjogImJhbmQiYCBvciBgImNhcmQiYCBmb3JjZXMgaXQuCi0gTGluZXM6IGh1YiBzcG9rZXMgYXJlIHN0cmFpZ2h0IHJheXMgZnJvbSB0aGUgY29yZSdzIHJpbSAoYCJjdXJ2ZSI6ICJjdXJ2ZSJgLCBgImVsYm93ImAgb3IgYCJzd2lybCJgIGNoYW5nZSB0aGVtKTsgZmxvd3MgYmVuZCBpbiByb3VuZGVkIGVsYm93cy4KCiMjIExhYmVscyBwbGFpbgoKLSBBIHRvb2wgYnkgaXRzIG5hbWUgKEdtYWlsLCBaZW5kZXNrKSwgYSBzdGVwIGJ5IGl0cyByZXN1bHQgKFJlcGx5IGRyYWZ0ZWQsIExhYmVsIHByaW50ZWQpLCBhIHBsYWNlIGJ5IGl0cyBjaXR5LiBPbmUgdG8gdGhyZWUgd29yZHMuCi0gUmVhbC1sb29raW5nIG51bWJlcnMgaW4gYG1ldGFgICgyLDQ4MSwgMTQgbXMpLgotIE5vIGphcmdvbiBub2RlcyAoIk9yY2hlc3RyYXRpb24gbGF5ZXIiLCAiQUkgZW5naW5lIik6IHRoZSBjb3JlIGlzIGNhbGxlZCB3aGF0IHRoZSBwcm9kdWN0IGNhbGxzIGl0LgotIFVwIHRvIDggc3Bva2VzLCB1cCB0byAxMiBub2RlcyBpbiBhIGNhcmQuIENyb3dkZWQgbWVhbnMgaXQgc2hvdWxkIGJlIGEgbGlzdC4KLSBObyBjYXB0aW9uIHVuZGVyIHRoZSBkaWFncmFtLiBUaGUgY2FyZCB0aXRsZSBzYXlzIHdoYXQgaXQgc2hvd3M7IGBhbHRgIGluIHRoZSBzcGVjIHNheXMgaXQgZm9yIHNjcmVlbiByZWFkZXJzLgotIFRvb2wgbWFya3MgaW4gdGhlaXIgb3duIGNvbG91cnMsIG5ldmVyIGEgbGV0dGVyIGluIGEgY2lyY2xlLiBBIGNvcmUgd2l0aG91dCBhbiBpY29uIGlzIGEgcGlsbCB3aXRoIGl0cyBuYW1lLgo=
+# Diagrams
+
+`assets/diagrams/diagram.js` draws a node-and-line visual for a card panel (about 560 by 340) or a
+section (1200 by 560) from a small JSON spec. `presets.json` holds 27 ready specs, each tagged with the page
+kinds it suits (`types`: software, tech, gaming, product, service); `demo.html` shows them in feature cards, light and dark
+(`?type=gaming`); `lab.html` is the tool to build one (below).
+
+## When a diagram, when a UI fragment
+
+- A diagram, when the point is how things connect: the tools it reads from, one input split into
+  parallel jobs, many sources into one place, two systems in sync, steps in order, regions.
+- A UI fragment (`assets/ui`), when the point is what the user sees or does: a drafted reply, a
+  calendar, a dashboard. Never a diagram of a screen.
+- One diagram a section, two a page at most (tech; a product or service page one, held still). A
+  place page has none. On a gaming page a diagram shows a system of the game (matchmaking, saves,
+  stores), never in place of the game's own pictures.
+
+## Pick a layout and a preset
+
+| layout | shows | presets |
+|---|---|---|
+| `hub` | a centre and its tools; with `children` a mind map, or a web with `"shape": "radial"` | hub-tools, hub-branches, hub-web, hub-stack (tech), hub-stores (gaming) |
+| `ring` | logos or regions on an orbit | ring-apps, ring-regions, ring-edge (tech), ring-servers (gaming) |
+| `tree` | one thing branching out | tree-orders, tree-release (tech) |
+| `lanes` | one input, a core, parallel lanes (three threads) | lanes-agent, lanes-media, lanes-deploy, lanes-render (tech), lanes-matchmaking (gaming) |
+| `fanin`, `bowtie` | many into one; and out to many | fanin-warehouse, fanin-telemetry (tech), bowtie-events, bowtie-model (tech) |
+| `sync` | two systems, records crossing | sync-crm, sync-saves (gaming) |
+| `timeline` | steps done in turn | timeline-onboarding, timeline-season (gaming) |
+| `grid` | files into a pipeline | grid-documents, grid-assets (gaming) |
+| `free` | your own nodes and edges | free-approval |
+
+Filter by kind: `dg.presets()` gives the object; keep the ones whose `types` has the page's kind. Gaming and tech pages take the tech
+and gaming presets with pulses; a product or service page takes at most one, held still.
+
+```html
+<link rel="stylesheet" href="assets/diagrams/diagram.css">
+<div class="panel"><div class="dg" data-diagram="lanes-agent"></div></div>
+<script type="module" src="assets/diagrams/mount.js"></script>
+```
+
+Copy a preset into `data-diagram='{...}'`, then rename every label, icon and number to the client's own. A label with an apostrophe
+or a quote (`it's`) ends a single-quoted attribute, so then put the spec in a script inside the element:
+
+```html
+<div class="panel"><div class="dg" data-diagram><script type="application/json">{"layout": "hub", ...}</script></div></div>
+```
+
+A spec that does not parse logs a `console.error` and leaves only the names it could read.
+
+## The builder page (the tool for building one fast)
+
+Open `assets/diagrams/lab.html` over http. Pick a page kind and a preset, edit the JSON (it redraws while you type) or use the controls
+(ground, light, line shape, cycle 2.5 to 4 s), switch card, section, phone and light, dark, restart the loop, then copy the
+markup and the icon line. Inside a card it shows the real thing, never a mock-up. A new diagram is a preset plus the client's words;
+`free` takes nodes at fractions of the box and the edges you list.
+
+## Icons: one resolver, run it last
+
+`diagram.js` reads icon files and nothing else: no CDN, no tinting, no Simple Icons call at runtime. From the site root:
+
+`node <skill>/scripts/icons.mjs scan index.html --out assets/icons`
+
+fetches every id the page's diagrams name (curated short names such as `gmail`, `steam`, `google-docs`; `logos:`, `file:`, `si:` ids; `ui:` glyphs).
+Colour marks come from the logos set in full colour; where none exists (Google Docs, Sheets, Slides) the Simple Icons mark in its brand hex,
+painted by `icons.mjs`. An icon that is missing shows the name's first letter, and the console says
+`diagram.js: N icons are not in .../assets/icons ...` with the fetch line: run it. A finished page has no such line.
+Marks that are mostly violet (Stripe, Twitch) are drawn in the text colour, black marks take the ink, a wordmark gets a 2:1 slot and its
+tile becomes a pill: all decided by `icons.mjs` and baked into the file (`data-ic`). `data-icon-base` on the element or around it
+moves the folder.
+
+## Motion: one cycle of 2.5 to 4 s
+
+- A diagram card's pulse is its own loop (not one per card group). The program is laid out as a ripple: each spoke, branch or route
+  starts a beat after the one before it (0.24 to 0.5 s, the stagger), and the whole program is then fitted to ONE cycle of 3.2 s
+  (`"motion": {"cycle": 2.5..4}`), the lines fading in the rest. `d.T` is always 2.5 to 4 s. It repeats.
+  Below the hero two loops never share a screen: beside a looping fragment one of the two holds (`motion.md`).
+- It restarts from its first beat when the pointer enters the card (mouse and pen) or focus moves into it by keyboard.
+- It runs only on screen. On a phone (under 640px) and under reduced motion it holds one still, the busiest moment; `"pulse": "none"`
+  holds it too. `data-dg-still` holds it by hand and plays it while the pointer is on the card. `data-ui-still` does not hold a
+  diagram. A loop that runs gets the pause disc.
+- The light is a gradient comet with a glow and a bright head (`"pulse": "dot"` is the head alone). The accent is only the light
+  and what it reaches; lines are hairlines; the core is an ink tile. The card never moves, nothing starts on scroll.
+- Grounds vary by default (`rings` round a hub, `none` under an orbit, a timeline or a sync, `dots` for flows; the diagram that leads
+  a section adds `glow`); `ground` sets it. On kind other (the one still diagram of a product or service page) set
+  `"ground": "none"` and `"motion": {"pulse": "none"}`: pattern, glow and pulses are tech only. Size: a flat drawing takes the next size up when that fits; `"size": "band"` or `"card"` forces it.
+- Lines: hub spokes are straight rays from the core's rim (`"curve": "curve"`, `"elbow"` or `"swirl"` change them); flows bend in rounded elbows.
+
+## Labels plain
+
+- A tool by its name (Gmail, Zendesk), a step by its result (Reply drafted, Label printed), a place by its city. One to three words.
+- Real-looking numbers in `meta` (2,481, 14 ms).
+- No jargon nodes ("Orchestration layer", "AI engine"): the core is called what the product calls it.
+- Up to 8 spokes, up to 12 nodes in a card. Crowded means it should be a list.
+- No caption under the diagram. The card title says what it shows; `alt` in the spec says it for screen readers.
+- Tool marks in their own colours, never a letter in a circle. A core without an icon is a pill with its name.

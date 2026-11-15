@@ -1,1 +1,154 @@
-IyBDb3B5IHJlZ2lzdGVycwoKVGhlIHZvaWNlcyB0byBjaG9vc2UgZnJvbSwgZHJhd24gZnJvbSBob3cgcHJvZmVzc2lvbmFsIHNpdGVzIHdyb3RlIGJlZm9yZSBsYW5ndWFnZSBtb2RlbHMgKDIwMTQgdG8KMjAyMSkuIENob29zZSBvbmUgcGVyIGNsaWVudDsgYm9ycm93IGEgc2luZ2xlIG1vdmUgZnJvbSBhIHNlY29uZC4gRXZlcnkgc2FtcGxlIGxpbmUgaXMgd3JpdHRlbiBmb3IgdGhpcwpmaWxlLCBmb3IgYSBtYWRlLXVwIGNsaWVudC4gQSByZWdpc3RlciBzaGFwZXMgdGhlIHN1Yi1saW5lLCB0aGUgYm9keSwgdGhlIHN0b3J5IGFuZCB0aGUgbWljcm9jb3B5OyBpdApuZXZlciBiZW5kcyB0aGUgcnVsZXMgb2YgYGNvcHkubWRgICh0aGUgaDEncyBjYXRlZ29yeSwgdGhlIGhlYWRpbmdzJyBub3VucywgdGhlIGJ1dHRvbnMnIHZlcmJzKS4KCioqTm9uZSBpcyB0aGUgZGVmYXVsdC4qKiBDaG9vc2UgYnkgdGhlIGJ1eWVyLCB0aGUgcHJpY2UgYW5kIHRoZSBjbGllbnQncyByZWFsIGNoYXJhY3Rlcjsgd2hlbiB0aGUgYnJpZWYKZG9lcyBub3Qgc2V0dGxlIGl0LCB0YWtlIHRoZSByZWdpc3RlciBsZWFzdCBsaWtlIHRoZSBsYXN0IHBhZ2UgdGhpcyBzZXNzaW9uIHdyb3RlLgoKIyMgMC4gVGhlIG1vZGVsJ3MgZGVmYXVsdCAodGhlIG9uZSB0byBhdm9pZCkKCldhcm0sIHdyeSwgbW9kZXN0LCBhIGxpdHRsZSBsaXRlcmFyeSwgbWlsZGx5IGFnYWluc3QgYmlnIGNvbXBhbmllcy4gUGFyYWdyYXBocyBlbmQgb24gYSBkZWFkcGFuIHR3aXN0OwpzaW5jZXJpdHkgY29tZXMgZnJvbSBob25lc3QsIGNhbG0sIHF1aWV0LCBhY3R1YWxseTsgYSBzdHJpcCBvZiBmaWd1cmVzLCB0aHJlZSBwb2xpc2hlZCBxdW90ZXMsIGEgcHVuIGluCnRoZSBmb290ZXIuIFVzZSBpdCBvbmx5IHdoZW4gdGhlIGNsaWVudCBhc2tzIGZvciBpdCwgYW5kIHRoZW4gd2l0aGluIHRoZSBkZXZpY2UgYnVkZ2V0LgoKIyMgMS4gRmFjdHMgb25seQoKLSAqKlNvdW5kcyBsaWtlOioqICJLZXNzbGVyIFBhcnRuZXJzIGFkdmlzZXMgZmFtaWx5IGZpcm1zIG9uIHN1Y2Nlc3Npb24uIEZvdW5kZWQgMTk5NCwgbmluZSBwYXJ0bmVycywKICBvZmZpY2VzIGluIEJhc2VsIGFuZCBGcmVpYnVyZy4iCi0gKipNb3ZlczoqKiBwbGFpbiBkZWNsYXJhdGl2ZXMgd2l0aCBuYW1lcywgZGF0ZXMgYW5kIGNvdW50czsgdGhpcmQgcGVyc29uIG9yIGEgdGVyc2UgZmlyc3QgcGVyc29uOwogIGV4Y2x1c2l2aXR5IHNob3duIGJ5IGEgcnVsZSBvciBhIGZhY3QsIG5ldmVyIGJ5IGFuIGFkamVjdGl2ZS4KLSAqKkZpdHM6KiogYSBzdHJvbmcgdHJhY2sgcmVjb3JkLCBwcm9mZXNzaW9uYWwgc2VydmljZXMsIEIyQiBpbmZyYXN0cnVjdHVyZSwgY2x1YnMsIGNvbnN1bHRhbnRzLgotICoqRmFpbHMgd2hlbjoqKiB0aGUgZmFjdHMgYXJlIHdlYWsuIFRoZW4gaXQgcmVhZHMgYXMgYW4gZW1wdHkgQ1YuCgojIyAyLiBUZWNobmljYWwgYW5kIGRyeSwgd2l0aCBwcm9vZgoKLSAqKlNvdW5kcyBsaWtlOioqICJFdmVyeSBwdWxsIHJlcXVlc3QgZ2V0cyBpdHMgb3duIGRhdGFiYXNlLCBzZWVkZWQgZnJvbSBsYXN0IG5pZ2h0J3MgYmFja3VwLiBCcmFuY2gKICBpbiA0IHNlY29uZHM7IGRlbGV0ZSBpdCBvbiBtZXJnZS4iCi0gKipNb3ZlczoqKiBhIGxhYmVsIHBhaXJlZCB3aXRoIGEgaGFyZCBmaWd1cmU7IHRoZSBtZWNoYW5pc20gaW4gdmVyYi1sZWQgc3RlcHM7IHJlYWwgY29tbWFuZHMsIFVJCiAgc3RyaW5ncyBhbmQgZmlsZSBuYW1lcyBvbiB0aGUgcGFnZTsgdGhlIGVuZW15IGlzIGEgY2F0ZWdvcnkgKCJtb3N0IHByZXZpZXcgc2V0dXBzIik7IGphcmdvbiBrZXB0IG9uCiAgcHVycG9zZSBmb3IgZXhwZXJ0cyBvciB0cmFuc2xhdGVkIG9uY2U7IHRoZSBwcm9kdWN0IGFzIHRoZSBzdWJqZWN0IG9mIHRoZSBzZW50ZW5jZS4KLSAqKkZpdHM6KiogZGV2ZWxvcGVyIHRvb2xzLCBpbmZyYXN0cnVjdHVyZSwgQVBJcywgdGVjaG5pY2FsIHNvZnR3YXJlLgotICoqRmFpbHMgd2hlbjoqKiBpdCB0dXJucyBpbnRvIGEgc3BlYyBkdW1wIHdpdGggbm8gcGFpbiBuYW1lZCwgb3IgaW50byBhYnN0cmFjdGlvbnMgKCJwb3dlciBhbmQKICBhbGlnbm1lbnQiKS4KCiMjIDMuIFRoZSBmb3VuZGVyJ3MgbGV0dGVyCgotICoqU291bmRzIGxpa2U6KiogIldlIHJhbiBhIHByaW50IHNob3AgZm9yIGVsZXZlbiB5ZWFycyBhbmQgbG9zdCBhIGRheSBhIHdlZWsgdG8gcXVvdGVzLiBTbyB3ZSBidWlsdAogIHRoZSBxdW90aW5nIHRvb2wgd2Ugd2FudGVkLCBhbmQgbm93IDMwMCBzaG9wcyB1c2UgaXQuIgotICoqTW92ZXM6KiogZmlyc3QgcGVyc29uOyBhIG5hbWVkIGhhYml0IG9yIGEgY2F0ZWdvcnkgYXMgdGhlIGVuZW15OyB0aGUgcmVhZGVyJ3MgcGFpbiBpbiB0aGVpciBvd24KICB3b3JkczsgYSByZWZyYWluIHVzZWQgb24gcHVycG9zZTsgYW4gYXJndW1lbnQgY2FycmllZCBhY3Jvc3MgdGhlIHNlY3Rpb25zLCBlYWNoIHBhcmFncmFwaCB3aXRoaW4KICBgY29weS5tZGAncyBsZW5ndGhzOyBhIHBsYWluIGh1bWFuIHNpZ24tb2ZmIGluIHRoZSB0ZXh0IChuZXZlciB0aGUgZm9vdGVyKS4KLSAqKkZpdHM6KiogcHJvZHVjdHMgd2l0aCBhIHN0YW5jZSwgc21hbGwgc29mdHdhcmUgY29tcGFuaWVzLCBhbnl0aGluZyBmb3VuZGVyLWxlZCBhbmQgYWdhaW5zdCB0aGUgd2F5CiAgdGhpbmdzIGFyZSBkb25lLgotICoqRmFpbHMgd2hlbjoqKiB0aGUgc3RhbmNlIGlzIHB1dCBvbiwgb3IgdGhlIGZvdW5kZXIgaGFzIG5vIHJlYWwgYXJndW1lbnQuCgojIyA0LiBTZWxmLWF3YXJlIGFuZCBwbGF5ZnVsCgotICoqU291bmRzIGxpa2U6KiogIkhvdCBzYXVjZSBmcm9tIG9uZSBmYXJtIGluIEtlbnQuIE1lZGl1bSBpcyBob3QuIEhvdCBpcyBhIG1pc3Rha2UgeW91IG1ha2Ugb25jZS4iCi0gKipNb3ZlczoqKiBhIHN0cmFpZ2h0IGZhY2UgYWJvdXQgYSBzbWFsbCBwcm9kdWN0OyB0aGUgam9rZSBpbiB0aGUgc3ViLWxpbmUgb3IgYSBjYXJkLCB3aXRoIHRoZSBmYWN0CiAgcmlnaHQgdW5kZXIgaXQ7IGhvdXNlIHdvcmRzIHRoZSBicmllZiBnaXZlczsgdGhlIG1pY3JvY29weSBpbiBmdWxsIHZvaWNlOyBmYWlsdXJlcyBvbiBkaXNwbGF5LiBIeXBlCiAgd29yZHMgc3RheSBvdXQgZXZlbiBhcyBhIGpva2U6IGNvcHktbGludCBGQUlMcyB0aGVtLCBpcm9uaWMgb3Igbm90LgotICoqRml0czoqKiBkcmlua3MsIHNuYWNrcywgc21hbGwgY29uc3VtZXIgZ29vZHMsIHNtYWxsIHN0dWRpb3MsIHBsYXlmdWwgYXBwcy4KLSAqKkZhaWxzIHdoZW46KiogdGhlIGpva2VzIGFyZSByYW5kb20sIGFpbWVkIGF0IHRoZSBjdXN0b21lciwgb3IgcHV0IG9uIGEgc2VyaW91cyBwdXJjaGFzZSAobW9uZXksCiAgaGVhbHRoKS4KCiMjIDUuIExpdGVyYXJ5IGFuZCBmb3JtYWwKCi0gKipTb3VuZHMgbGlrZToqKiAiQSBiYWxtIGZvciBoYW5kcyB3b3JuIGJ5IGNvbGQgd2F0ZXIgYW5kIHJvcGUuIENpdHJ1cywgY2VkYXIsIGEgbGl0dGxlIHNtb2tlLiA3NSBtbCwKICAzNCBldXJvLiIKLSAqKk1vdmVzOioqIGFuIGV4YWN0LCBzbGlnaHRseSByYWlzZWQgdm9jYWJ1bGFyeTsgImNsaWVudHMiLCBub3QgImN1c3RvbWVycyI7IHNlbnNvcnkgbm90ZXMgaW4gdGlnaHQKICBsaXN0czsgbWF0ZXJpYWxzIGFuZCBib3RhbmljYWxzIGJ5IG5hbWU7IG5ldmVyIGFuIGV4Y2xhbWF0aW9uIG1hcms7IHRoZSBwcmljZSBwbGFpbiBvbiB0aGUgYnV0dG9uLgotICoqRml0czoqKiBza2luY2FyZSwgZnJhZ3JhbmNlLCBkZXNpZ24gb2JqZWN0cywgaGlnaC1lbmQgcmV0YWlsLgotICoqRmFpbHMgd2hlbjoqKiBpdCB0dXJucyBvcm5hdGUgd2l0aG91dCBiZWluZyBleGFjdCAoImEgbHV4dXJpb3VzIHJpdHVhbCBvZiB0aGUgc2Vuc2VzIikuCgojIyA2LiBQcm9wZXIgbm91bnMgYW5kIHJlc3RyYWludAoKLSAqKlNvdW5kcyBsaWtlOioqICJUaGUgb2xkIGN1c3RvbXMgaG91c2UgYWJvdmUgdGhlIGhhcmJvdXIsIGJ1aWx0IDE4NzEuIEVpZ2h0IHJvb21zIGZhY2UgdGhlIHN0cmFpdDsKICB0aGUgZmVycnkgdG8gdGhlIGlzbGFuZCBsZWF2ZXMgYmVsb3cgdGhlIHRlcnJhY2UgYXQgNzo0MC4iCi0gKipNb3ZlczoqKiBwbGFjZXMsIGhpc3RvcnksIGJ1aWxkaW5ncyBhbmQgZ2VvZ3JhcGh5IGRvIHRoZSB3b3JrOyB1bmh1cnJpZWQgcGh5c2ljYWwgdmVyYnMgKG92ZXJsb29rLAogIHN0cm9sbCwgcmVzaWRlKTsgbm8gcHJpY2VzIGluIHRoZSBoZXJvLCBubyBxdW90ZXM7IHRoZSBzdG9yeSBpbiB0aHJlZSBzZW50ZW5jZXMgYW5kIGEgZGF0ZS4gVGhlIHdvcmQKICAibHV4dXJ5IiBuZXZlciBhcHBlYXJzLgotICoqRml0czoqKiBsdXh1cnkgaG90ZWxzLCBoZXJpdGFnZSBob3VzZXMsIGFyY2hpdGVjdHVyZSBwcmFjdGljZXMsIGdhbGxlcmllcy4KLSAqKkZhaWxzIHdoZW46KiogdGhlcmUgaXMgbm8gcmVhbCBwbGFjZSBvciBoaXN0b3J5IGluIHRoZSBicmllZiB0byBuYW1lLgoKIyMgNy4gU2Vuc29yeSBmYWN0cywgc2Vjb25kIHBlcnNvbiwgcHJlc2VudCB0ZW5zZQoKLSAqKlNvdW5kcyBsaWtlOioqICJZb3Ugb3JkZXIgYXQgdGhlIGNvdW50ZXIgYmVzaWRlIHRoZSByb2FzdGVyLiBUaGUgY2FyZGFtb20gYnVucyBjb21lIG91dCBhdCA4OjAwCiAgYW5kIGFnYWluIGF0IDExOjAwLiIKLSAqKk1vdmVzOioqIHdoYXQgdGhlIHJlYWRlciB3aWxsIHNlZSwgc21lbGwsIGhlYXIgb3IgY2FycnksIGVhY2ggb25lIGEgbGl0ZXJhbCBmYWN0IG9mIHRoZSBwbGFjZSAodGhlCiAgb3ZlbiwgdGhlIGhvdXIsIHRoZSBmbG9vciwgdGhlIHdlaWdodCk7IGNyYWZ0IHNob3duIGFzIGEgcmVwZWF0ZWQgc3RlcCBhbmQgYSBjb25zdHJhaW50OyBvbmUgZGVmaW5pbmcKICBhYnNlbmNlICgibm8gbWlycm9ycyBpbiB0aGUgc3R1ZGlvIik7IG9kZCBodW1hbiBudW1iZXJzLiBOZXZlciBhIG1ldGFwaG9yIG9yIGEgbW9vZCBwYXJhZ3JhcGg6IHRoZQogIGZsb29yIG9mIGBjb3B5Lm1kYCBob2xkcy4KLSAqKkZpdHM6KiogY2FmZXMsIGZvb2QsIGJhcnMsIGZpdG5lc3MsIHlvZ2EsIHNwYXMsIGFueXRoaW5nIGNvbnN1bWVkIHdpdGggdGhlIGJvZHkuCi0gKipGYWlscyB3aGVuOioqIGV2ZXJ5IHNlY3Rpb24gdHVybnMgc2Vuc29yeS4gUHJpY2VzIGFuZCBib29raW5nIHN0YXkgcGxhaW4uCgojIyA4LiBIaXN0b3JpY2FsIHNjZW5lCgotICoqU291bmRzIGxpa2U6KiogIkluIDE5NTggdGhlIHRyYW0gc3RvcHBlZCBvdXRzaWRlLCBhbmQgdGhlIGJha2VyeSBvcGVuZWQgYXQgZml2ZSBmb3IgdGhlIGRyaXZlcnMuIEl0CiAgc3RpbGwgZG9lcy4iCi0gKipNb3ZlczoqKiBvcGVucyBvbiBhIGRhdGVkIG1vbWVudCwgbm90IG9uIHRoZSBicmFuZDsgc3RyZWV0cywgZnVybml0dXJlIGFuZCBwZW9wbGUgbmFtZWQ7IG9sZAogIHBob3RvZ3JhcGhzIGFzIGV2aWRlbmNlLCBuZXZlciBjYXB0aW9uZWQgb24gdGhlIHBhZ2UgKGBjb3B5Lm1kYCkuCi0gKipGaXRzOioqIHJlc3RhdXJhbnRzLCBmYW1pbHkgZmlybXMsIGFueXRoaW5nIHdpdGggYSByZWFsIGxpbmVhZ2UgaW4gdGhlIGJyaWVmLgotICoqRmFpbHMgd2hlbjoqKiB0aGUgaGlzdG9yeSBpcyBpbnZlbnRlZCBvciBnZW5lcmljICgicm9vdGVkIGluIHRyYWRpdGlvbiIpLgoKIyMgOS4gUGxhaW4tc3Bva2VuIGFjdGl2aXN0CgotICoqU291bmRzIGxpa2U6KiogIkV2ZXJ5IGphY2tldCB3ZSBzZWxsLCB3ZSB0YWtlIGJhY2suIEluIDIwMjUgdGhhdCB3YXMgMywxNDAgamFja2V0cywgYW5kIDIsMjAwIHdlbnQKICBiYWNrIG9uIHNhbGUuIgotICoqTW92ZXM6KiogYSBtaXNzaW9uIGluIG9uZSBtZWFzdXJhYmxlIHNlbnRlbmNlOyB0aGUgaGFyZCBzdWJqZWN0IHNhaWQgcGxhaW5seTsgYWRtaXRzIGl0cyBvd24gaGFybTsKICBidXR0b25zIHRoYXQgYWN0IG9uIHRoZSBtaXNzaW9uOyBwcm9vZiBpbiBudW1iZXJzIGFuZCByZXBvcnRzLgotICoqRml0czoqKiBtaXNzaW9uLWxlZCBjb25zdW1lciBicmFuZHMsIG5vbi1wcm9maXRzLCBmaXJtcyB3aXRoIHJlYWwgaW1wYWN0IGZpZ3VyZXMgaW4gdGhlIGJyaWVmLgotICoqRmFpbHMgd2hlbjoqKiB0aGUgbWlzc2lvbiBpcyBhIHBhcmFncmFwaCBvZiBhYnN0cmFjdCBub3VucyAoImluc3BpcmluZyBoZWFsdGhpZXIgY29tbXVuaXRpZXMiKS4KCiMjIDEwLiBSZWZ1c2FsIGFuZCBuYXJyb3duZXNzCgotICoqU291bmRzIGxpa2U6KiogIldlIHJlcGFpciBiaWN5Y2xlcy4gTm90IGUtYmlrZXMsIG5vdCBzY29vdGVycy4gQmljeWNsZXMsIGluIHR3byBkYXlzLCBhdCB0aGUgYmVuY2gKICB5b3UgY2FuIHNlZSBmcm9tIHRoZSBzdHJlZXQuIgotICoqTW92ZXM6KiogcG9zaXRpb25lZCBieSB3aGF0IGl0IHdpbGwgbm90IGRvOyBzY2FyY2l0eSBzdGF0ZWQgYXMgYW4gaG9uZXN0IGxpbWl0OyB0aGUgbWFrZXJzIG5hbWVkCiAgd2hlbiB0aGUgYnJpZWYgbmFtZXMgdGhlbTsgYSByaXR1YWwgYXMgY29tbXVuaXR5LgotICoqRml0czoqKiBtYWtlcnMsIHNtYWxsIGJhdGNoZXMsIHNwZWNpYWxpc3RzLCBzaW5nbGUtcHJvZHVjdCBjb21wYW5pZXMuCi0gKipGYWlscyB3aGVuOioqIHRoZSByZWZ1c2FsIGlzIGludmVudGVkIHRvIHNvdW5kIGZvY3VzZWQuIChJdCBzcGVuZHMgdGhlIHBhZ2UncyBuZWdhdGlvbiBydW4uKQoKIyMgMTEuIFRoZSBwcm9kdWN0IGFzIHRoZSBoZXJvCgotICoqU291bmRzIGxpa2U6KiogIlRoZSBYMiBydW5zIDE0MCBtaW51dGVzIG9uIGEgY2hhcmdlIGFuZCBjbGltYnMgYSAyIGNtIHNpbGwuIEl0IG1hcHMgdGhlIGZsYXQgb24gdGhlCiAgZmlyc3QgcnVuLiIKLSAqKk1vdmVzOioqIGFsbW9zdCBubyAid2UiOyB0aGUgcHJvZHVjdCBpcyB0aGUgc3ViamVjdCBvZiBldmVyeSBzZW50ZW5jZTsgYSB0dXJuIG9mIHBocmFzZSBpcyBmb2xsb3dlZAogIGF0IG9uY2UgYnkgYSBzcGVjOyBvbmUgbW9tZW50IGZyb20gbGlmZSAoImNydW1icyB1bmRlciB0aGUgc29mYSBhdCAyMjowMCIpLgotICoqRml0czoqKiBoYXJkd2FyZSwgcGh5c2ljYWwgcHJvZHVjdHMsIGFwcHMgd2l0aCBvbmUgc3Ryb25nIGZlYXR1cmUuCi0gKipGYWlscyB3aGVuOioqIGEgcGxheSBvbiB3b3JkcyBoYXMgbm8gZmFjdCB1bmRlciBpdC4KCiMjIDEyLiBIdXJyaWVkIGFuZCBjb252ZXJzYXRpb25hbAoKLSAqKlNvdW5kcyBsaWtlOioqICJQYWNrYWdpbmcgZm9yIHNtYWxsIGZvb2QgYnJhbmRzLCBieSB0aHJlZSBwZW9wbGUgaW4gb25lIHN0dWRpbyBpbiBCcmlzdG9sICh0aGUgb25lCiAgd2hvIGFuc3dlcnMgdGhlIHBob25lIGFsc28gZHJhd3MgdGhlIGJveCkuIgotICoqTW92ZXM6KiogdGFsa3MgdG8gb25lIGJ1c3kgcGVyc29uOyBhc2lkZXMgaW4gYnJhY2tldHM7IHNlbGYtZGVwcmVjYXRpb247IGNhc3VhbCBzZWN0aW9uIGxhYmVscyB0aGF0CiAgc3RpbGwgbmFtZSB0aGUgdGhpbmc7IHBlcm1pc3Npb24gdG8gbGVhdmUuCi0gKipGaXRzOioqIHNtYWxsIHN0dWRpb3MsIGZyZWVsYW5jZXJzLCBwb3J0Zm9saW9zLCBkaXJlY3QtdG8tY29uc3VtZXIgYnJhbmRzIHdpdGggYSBmb3VuZGVyLgotICoqRmFpbHMgd2hlbjoqKiBpdCBnZXRzIGNodW1teSAoIldlIGdldCBpdC4iKSBvciB0aGUgam9rZXMgcmVwbGFjZSB0aGUgaW5mb3JtYXRpb24uCgojIyBNYXRjaGluZyB2b2ljZSB0byB0aGUgdHJhZGUgKHN0YXJ0aW5nIHBvaW50cyBvbmx5KQoKfCBUcmFkZSB8IFRyeSBmaXJzdCB8IEF2b2lkIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IENhZmUsIHJvYXN0ZXJ5LCBiYWtlcnkgfCA3IHNlbnNvcnksIDggaGlzdG9yaWNhbCwgNCBwbGF5ZnVsIHwgMCB0aGUgZGVmYXVsdCB8CnwgRGV2ZWxvcGVyIHRvb2wsIGluZnJhc3RydWN0dXJlIHwgMiB0ZWNobmljYWwtZHJ5LCAzIGZvdW5kZXIncyBsZXR0ZXIgfCA0IHBsYXlmdWwgaW4gdGhlIGhlcm8gfAp8IFNvZnR3YXJlIGZvciBzbWFsbCBidXNpbmVzc2VzIHwgMyBmb3VuZGVyJ3MgbGV0dGVyLCAxMSBwcm9kdWN0IGFzIGhlcm8gfCBhYnN0cmFjdCAicG93ZXIgYW5kIGFsaWdubWVudCIgfAp8IEFJIHByb2R1Y3QgfCAyIHRlY2huaWNhbC1kcnksIDExIHByb2R1Y3QgYXMgaGVybyB8ICJtYWdpYyIsICJzdXBlcnBvd2VycyIgfAp8IEFnZW5jeSwgc3R1ZGlvIHwgMSBmYWN0cyBvbmx5LCAxMiBodXJyaWVkLCA0IHBsYXlmdWwgfCBzdGFja2VkIGNhdGVnb3J5IG5vdW5zICgiZGlnaXRhbCBicmFuZCBleHBlcmllbmNlIGNvbXBhbnkiKSB8CnwgUG9ydGZvbGlvIHwgMTIgaHVycmllZCwgMSBmYWN0cyBvbmx5IHwgYSBsaXN0IG9mIGNyZWRpdHMgd2l0aCBubyBwZXJzb24gaW4gaXQgfAp8IEx1eHVyeSBob3RlbCB8IDYgcmVzdHJhaW50IHwgdGhlIHdvcmQgImx1eHVyeSIgfAp8IEd1ZXN0aG91c2UsIHNtYWxsIGhvdGVsIHwgMTIgaHVycmllZCwgNyBzZW5zb3J5LCA2IHJlc3RyYWludCB8ICJib3V0aXF1ZSIsICJjdXJhdGVkIGV4cGVyaWVuY2VzIiB8CnwgRml0bmVzcywgeW9nYSB8IDcgc2Vuc29yeSwgMTAgcmVmdXNhbCB8ICJ0aGUgYmVzdCB2ZXJzaW9uIG9mIHlvdXJzZWxmIiB8CnwgQXJjaGl0ZWN0dXJlIHwgNiByZXN0cmFpbnQsIDEgZmFjdHMgb25seSB8ICJzcGFjZXMgdGhhdCBpbnNwaXJlIiB8CnwgQ291cnNlLCB0ZWFjaGluZyB8IDMgdGhlIHRlYWNoZXIncyBsZXR0ZXIsIDcgc2Vuc29yeSBmb3IgYSBwaHlzaWNhbCBza2lsbCB8ICJ0cmFuc2Zvcm0geW91ciBsaWZlIiB8CnwgU2tpbmNhcmUsIGJlYXV0eSB8IDUgbGl0ZXJhcnksIDEwIHJlZnVzYWwgfCAiY2xlYW4iLCAiZ2xvdyIgd2l0aCBubyBpbmdyZWRpZW50IHwKfCBGaW5hbmNlIHwgMSBmYWN0cyBvbmx5LCAzIGZvdW5kZXIncyBsZXR0ZXIgfCBqb2tlcyBhYm91dCBtb25leSB3b3JyaWVzLCB1bnNvdXJjZWQgc2F2aW5ncyB8CnwgSGFyZHdhcmUsIGFwcGxpYW5jZXMgfCAxMSBwcm9kdWN0IGFzIGhlcm8sIDIgdGVjaG5pY2FsLWRyeSB8IGFkamVjdGl2ZXMgd2hlcmUgdGhlIHNwZWMgc2hvdWxkIGJlIHwKfCBHYW1lIHwgdGhlIGdhbWUncyBvd24gd29ybGQgYW5kIHRvbmUsIDEyIGZvciB0aGUgc3R1ZGlvIHwgdGhlIGRlZmF1bHQgcmVnaXN0ZXIgb24gdGhlIHN0b3JlIHBhZ2UgfAp8IERyaW5rcywgc25hY2tzIHwgNCBwbGF5ZnVsLCA5IGFjdGl2aXN0IHwgMCB0aGUgZGVmYXVsdCB8CnwgUmVwYWlyIHNob3AsIHRyYWRlIHwgMTAgcmVmdXNhbCwgMSBmYWN0cyBvbmx5IHwgInBhc3Npb24iLCAicXVhbGl0eSB5b3UgY2FuIHRydXN0IiB8CnwgV2VkZGluZywgZXZlbnRzLCBwaG90b2dyYXBoeSB8IDcgc2Vuc29yeSwgMTIgaHVycmllZCB8ICJjYXB0dXJpbmcgeW91ciBzcGVjaWFsIGRheSIgfAo=
+# Copy registers
+
+The voices to choose from, drawn from how professional sites wrote before language models (2014 to
+2021). Choose one per client; borrow a single move from a second. Every sample line is written for this
+file, for a made-up client. A register shapes the sub-line, the body, the story and the microcopy; it
+never bends the rules of `copy.md` (the h1's category, the headings' nouns, the buttons' verbs).
+
+**None is the default.** Choose by the buyer, the price and the client's real character; when the brief
+does not settle it, take the register least like the last page this session wrote.
+
+## 0. The model's default (the one to avoid)
+
+Warm, wry, modest, a little literary, mildly against big companies. Paragraphs end on a deadpan twist;
+sincerity comes from honest, calm, quiet, actually; a strip of figures, three polished quotes, a pun in
+the footer. Use it only when the client asks for it, and then within the device budget.
+
+## 1. Facts only
+
+- **Sounds like:** "Kessler Partners advises family firms on succession. Founded 1994, nine partners,
+  offices in Basel and Freiburg."
+- **Moves:** plain declaratives with names, dates and counts; third person or a terse first person;
+  exclusivity shown by a rule or a fact, never by an adjective.
+- **Fits:** a strong track record, professional services, B2B infrastructure, clubs, consultants.
+- **Fails when:** the facts are weak. Then it reads as an empty CV.
+
+## 2. Technical and dry, with proof
+
+- **Sounds like:** "Every pull request gets its own database, seeded from last night's backup. Branch
+  in 4 seconds; delete it on merge."
+- **Moves:** a label paired with a hard figure; the mechanism in verb-led steps; real commands, UI
+  strings and file names on the page; the enemy is a category ("most preview setups"); jargon kept on
+  purpose for experts or translated once; the product as the subject of the sentence.
+- **Fits:** developer tools, infrastructure, APIs, technical software.
+- **Fails when:** it turns into a spec dump with no pain named, or into abstractions ("power and
+  alignment").
+
+## 3. The founder's letter
+
+- **Sounds like:** "We ran a print shop for eleven years and lost a day a week to quotes. So we built
+  the quoting tool we wanted, and now 300 shops use it."
+- **Moves:** first person; a named habit or a category as the enemy; the reader's pain in their own
+  words; a refrain used on purpose; an argument carried across the sections, each paragraph within
+  `copy.md`'s lengths; a plain human sign-off in the text (never the footer).
+- **Fits:** products with a stance, small software companies, anything founder-led and against the way
+  things are done.
+- **Fails when:** the stance is put on, or the founder has no real argument.
+
+## 4. Self-aware and playful
+
+- **Sounds like:** "Hot sauce from one farm in Kent. Medium is hot. Hot is a mistake you make once."
+- **Moves:** a straight face about a small product; the joke in the sub-line or a card, with the fact
+  right under it; house words the brief gives; the microcopy in full voice; failures on display. Hype
+  words stay out even as a joke: copy-lint FAILs them, ironic or not.
+- **Fits:** drinks, snacks, small consumer goods, small studios, playful apps.
+- **Fails when:** the jokes are random, aimed at the customer, or put on a serious purchase (money,
+  health).
+
+## 5. Literary and formal
+
+- **Sounds like:** "A balm for hands worn by cold water and rope. Citrus, cedar, a little smoke. 75 ml,
+  34 euro."
+- **Moves:** an exact, slightly raised vocabulary; "clients", not "customers"; sensory notes in tight
+  lists; materials and botanicals by name; never an exclamation mark; the price plain on the button.
+- **Fits:** skincare, fragrance, design objects, high-end retail.
+- **Fails when:** it turns ornate without being exact ("a luxurious ritual of the senses").
+
+## 6. Proper nouns and restraint
+
+- **Sounds like:** "The old customs house above the harbour, built 1871. Eight rooms face the strait;
+  the ferry to the island leaves below the terrace at 7:40."
+- **Moves:** places, history, buildings and geography do the work; unhurried physical verbs (overlook,
+  stroll, reside); no prices in the hero, no quotes; the story in three sentences and a date. The word
+  "luxury" never appears.
+- **Fits:** luxury hotels, heritage houses, architecture practices, galleries.
+- **Fails when:** there is no real place or history in the brief to name.
+
+## 7. Sensory facts, second person, present tense
+
+- **Sounds like:** "You order at the counter beside the roaster. The cardamom buns come out at 8:00
+  and again at 11:00."
+- **Moves:** what the reader will see, smell, hear or carry, each one a literal fact of the place (the
+  oven, the hour, the floor, the weight); craft shown as a repeated step and a constraint; one defining
+  absence ("no mirrors in the studio"); odd human numbers. Never a metaphor or a mood paragraph: the
+  floor of `copy.md` holds.
+- **Fits:** cafes, food, bars, fitness, yoga, spas, anything consumed with the body.
+- **Fails when:** every section turns sensory. Prices and booking stay plain.
+
+## 8. Historical scene
+
+- **Sounds like:** "In 1958 the tram stopped outside, and the bakery opened at five for the drivers. It
+  still does."
+- **Moves:** opens on a dated moment, not on the brand; streets, furniture and people named; old
+  photographs as evidence, never captioned on the page (`copy.md`).
+- **Fits:** restaurants, family firms, anything with a real lineage in the brief.
+- **Fails when:** the history is invented or generic ("rooted in tradition").
+
+## 9. Plain-spoken activist
+
+- **Sounds like:** "Every jacket we sell, we take back. In 2025 that was 3,140 jackets, and 2,200 went
+  back on sale."
+- **Moves:** a mission in one measurable sentence; the hard subject said plainly; admits its own harm;
+  buttons that act on the mission; proof in numbers and reports.
+- **Fits:** mission-led consumer brands, non-profits, firms with real impact figures in the brief.
+- **Fails when:** the mission is a paragraph of abstract nouns ("inspiring healthier communities").
+
+## 10. Refusal and narrowness
+
+- **Sounds like:** "We repair bicycles. Not e-bikes, not scooters. Bicycles, in two days, at the bench
+  you can see from the street."
+- **Moves:** positioned by what it will not do; scarcity stated as an honest limit; the makers named
+  when the brief names them; a ritual as community.
+- **Fits:** makers, small batches, specialists, single-product companies.
+- **Fails when:** the refusal is invented to sound focused. (It spends the page's negation run.)
+
+## 11. The product as the hero
+
+- **Sounds like:** "The X2 runs 140 minutes on a charge and climbs a 2 cm sill. It maps the flat on the
+  first run."
+- **Moves:** almost no "we"; the product is the subject of every sentence; a turn of phrase is followed
+  at once by a spec; one moment from life ("crumbs under the sofa at 22:00").
+- **Fits:** hardware, physical products, apps with one strong feature.
+- **Fails when:** a play on words has no fact under it.
+
+## 12. Hurried and conversational
+
+- **Sounds like:** "Packaging for small food brands, by three people in one studio in Bristol (the one
+  who answers the phone also draws the box)."
+- **Moves:** talks to one busy person; asides in brackets; self-deprecation; casual section labels that
+  still name the thing; permission to leave.
+- **Fits:** small studios, freelancers, portfolios, direct-to-consumer brands with a founder.
+- **Fails when:** it gets chummy ("We get it.") or the jokes replace the information.
+
+## Matching voice to the trade (starting points only)
+
+| Trade | Try first | Avoid |
+| --- | --- | --- |
+| Cafe, roastery, bakery | 7 sensory, 8 historical, 4 playful | 0 the default |
+| Developer tool, infrastructure | 2 technical-dry, 3 founder's letter | 4 playful in the hero |
+| Software for small businesses | 3 founder's letter, 11 product as hero | abstract "power and alignment" |
+| AI product | 2 technical-dry, 11 product as hero | "magic", "superpowers" |
+| Agency, studio | 1 facts only, 12 hurried, 4 playful | stacked category nouns ("digital brand experience company") |
+| Portfolio | 12 hurried, 1 facts only | a list of credits with no person in it |
+| Luxury hotel | 6 restraint | the word "luxury" |
+| Guesthouse, small hotel | 12 hurried, 7 sensory, 6 restraint | "boutique", "curated experiences" |
+| Fitness, yoga | 7 sensory, 10 refusal | "the best version of yourself" |
+| Architecture | 6 restraint, 1 facts only | "spaces that inspire" |
+| Course, teaching | 3 the teacher's letter, 7 sensory for a physical skill | "transform your life" |
+| Skincare, beauty | 5 literary, 10 refusal | "clean", "glow" with no ingredient |
+| Finance | 1 facts only, 3 founder's letter | jokes about money worries, unsourced savings |
+| Hardware, appliances | 11 product as hero, 2 technical-dry | adjectives where the spec should be |
+| Game | the game's own world and tone, 12 for the studio | the default register on the store page |
+| Drinks, snacks | 4 playful, 9 activist | 0 the default |
+| Repair shop, trade | 10 refusal, 1 facts only | "passion", "quality you can trust" |
+| Wedding, events, photography | 7 sensory, 12 hurried | "capturing your special day" |

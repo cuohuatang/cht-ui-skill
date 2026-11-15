@@ -1,1 +1,230 @@
-IyBTeXN0ZW0KCk9uZSBzeXN0ZW0gZm9yIHRoZSB3aG9sZSBwYWdlLCBpbiBgYXNzZXRzL3N5c3RlbS5jc3NgIGFuZCBgc3lzdGVtLmpzYC4gVXNlIGl0cyBjbGFzc2VzIGFuZCB0b2tlbnM7Cm5ldmVyIGFkZCBhIHNlY29uZCBncmlkLCBzcGFjaW5nIHNjYWxlLCB0eXBlIHNjYWxlLCByYWRpdXMsIGJ1dHRvbiwgY2FyZCwgaGFpcmxpbmUsIGZhZGUgb3IgbGluawpzdHlsZS4gT25lIHN0cmljdCBzeXN0ZW0gcGVyIHBhZ2U6IG9uZSBidXR0b24gc2hhcGUsIG9uZSByYWRpdXMgZmFtaWx5LCBvbmUgY2FyZCByZWNpcGUsIG9uZQpoYWlybGluZSwgb25lIGNvcm5lci1jb250cm9sIHNpemUsIG9uZSBsaW5rIGxvb2ssIG9uZSBibG9jayB0ZW1wbGF0ZSByZXBlYXRlZC4gU2VjdGlvbiBoZWlnaHRzLAp0aGUgaGVybyBmcmFtZSwgZWRnZXMsIHNwbGl0cyBhbmQgdHlwZSBzaXplczogYGxheW91dC12NC5tZGAuIEdyb3VuZHM6IGBiYWNrZ3JvdW5kcy5tZGAuIEV2ZXJ5IGhvdmVyCmFuZCBsb29wIG51bWJlcjogYG1vdGlvbi5tZGAuCgojIyBCYXNlCgotIGAqe2JveC1zaXppbmc6Ym9yZGVyLWJveH1gLCBgaHRtbCxib2R5e21hcmdpbjowfWAgYW5kIGA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLAogIGluaXRpYWwtc2NhbGU9MSwgdmlld3BvcnQtZml0PWNvdmVyIj5gICh3aXRob3V0IHRoZSByZXNldCB0aGUgaGVybyBlbmRzIGF0IDkwOCBhbmQgYC53cmFwYCBhdCB4IDg4KS4KLSBTcGFjaW5nIHNjYWxlIDQsIDgsIDEyLCAxNiwgMjQsIDMyLCA0OCwgNjQsIDk2LCAxMjggKGAtLXMtMWAgdG8gYC0tcy0xMGApIGZvciBldmVyeSBtYXJnaW4sIGdhcAogIGFuZCBwYWRkaW5nIHlvdSB3cml0ZS4gSGVhZGluZyB0byBjb250ZW50IDQ4cHggKDMyIG9uIGEgcGhvbmUpOyBjYXJkcyAyNHB4IGFwYXJ0ICgxMikuCi0gT25lIGhlaWdodCBwZXIgY2FyZCByb3cgYW5kIHBlciB0aWxlIGtpbmQsIHBhZ2Utd2lkZTsgc2VjdGlvbnMgYXQgSCBvciAySC4KLSBUaGUgc2tpcCBsaW5rIGlzIHRoZSBmaXJzdCBjaGlsZCBvZiB0aGUgaGVhZGVyJ3MgYC53cmFwYCwgYXMgYHN0YXJ0ZXIuaHRtbGAgaGFzIGl0OgogIGA8YSBjbGFzcz0ic2tpcC1saW5rIiBocmVmPSIjdG9wIj5Ta2lwIHRvIGNvbnRlbnQ8L2E+YCAoYG1haW4gaWQ9InRvcCJgKSwgaW4gdGhlIHBhZ2UncyBsYW5ndWFnZS4KICBgLnNraXAtbGlua2Aga2VlcHMgaXQgb3V0IG9mIHRoZSBsYXlvdXQgdW50aWwgdGhlIGZpcnN0IFRhYiwgdGhlbiBzaG93cyBpdCBvdmVyIHRoZSBsb2dvLCBzbyBpdAogIG5ldmVyIHB1c2hlcyB0aGUgbG9nbyBvZmYgdGhlIGxlZnQgbGluZSBbc2tpcC1saW5rXS4KLSBgPGh0bWwgbGFuZz5gIGlzIHRoZSBsYW5ndWFnZSB0aGUgcGFnZSBpcyB3cml0dGVuIGluLCBmcm9tIHRoZSBicmllZiwgb3IgaXRzIG1hcmtldCB3aGVuIHRoZQogIGJyaWVmIGRvZXMgbm90IHNheSAoImRlIiBmb3IgYSBHZXJtYW4gcGFnZSkuIFNjcmVlbiByZWFkZXJzIHJlYWQgaW4gaXQgYW5kIHRoZSBoZWFkaW5ncyBoeXBoZW5hdGUKICBieSBpdCAoYGh5cGhlbnM6IGF1dG9gIGZvciB3b3JkcyBvZiAxMCBsZXR0ZXJzIG9yIG1vcmUpIFtsYW5nXS4KCiMjIFJoeXRobSB0b2tlbnMKCk9uIGA6cm9vdGAsIHVzZWQgZXZlcnl3aGVyZSAoZGVza3RvcCAvIHVuZGVyIDY0MHB4KToKCnwgVG9rZW4gfCBWYWx1ZSB8IFVzZSB8CnwtLS18LS0tfC0tLXwKfCBgLS1uYXZgIHwgNzIgLyA1NiB8IHRoZSBmaXhlZCBoZWFkZXIgfAp8IGAtLXBhZHRgIHwgMTIwIC8gOTYgfCBhIHNlY3Rpb24ncyB0b3AgcGFkZGluZzogdGhlIGgyIHNpdHMgaGVyZSB8CnwgYC0tcGFkYmAgfCA3MiAvIDQ4IHwgYSBzZWN0aW9uJ3MgYm90dG9tIHBhZGRpbmcgKHBsdXMgYC0tYmFyYCkgfAp8IGAtLWd1dGAgfCA4MCAvIDI0IChwbGFjZSAxMjAgZnJvbSAxMDI0KSB8IHRoZSBgLndyYXBgJ3Mgc2lkZSBtYXJnaW46IDEyODAgd2lkZSwgMTIwMCBvbiBhIHBsYWNlIHwKfCBgLS1oZ2FwYCB8IDQ4IC8gNDAgKHBsYWNlIDQwIC8gMjQpIHwgdGhlIGhlYWRlciB0byB0aGUgaGVybydzIHdvcmRzLCB1bmRlciBgLS1waG90b2Agb24gYSBwbGFjZSB8CnwgYC0taHBhZGJgIHwgNjQgLyAyNCB8IHRoZSBoZXJvJ3MgYm90dG9tIHBhZGRpbmcgKHBsdXMgYC0tYmFyYCkgfAp8IGAtLWJhcmAgfCAwLCBvciBgY2FsYyg2NHB4ICsgZW52KHNhZmUtYXJlYS1pbnNldC1ib3R0b20pKWAgd2l0aCBgbmF2LmFjdGlvbmJhcmAgdW5kZXIgNjQwIHwgYWRkZWQgdG8gZXZlcnkgYm90dG9tIHBhZGRpbmcgKHRoZSBoZXJvJ3Mgb25seSB3aXRob3V0IHNjcmlwdDogdGhlIGJhciBpcyBuZXZlciBvbiB0aGUgZmlyc3Qgc2NyZWVuKTsgY29udGVudCBpcyBuZXZlciBjdXQgdG8gaGlkZSBiZWhpbmQgdGhlIGJhciB8CgpHcmlkOiBgLmdyaWRgIGlzIDEyIGNvbHVtbnMgd2l0aCBhIDI0cHggZ2FwICgxMiB1bmRlciA2NDApOyB0aGUgY29sdW1uIG51bWJlcnMgYXJlIGluCmBsYXlvdXQtdjQubWRgIHNlY3Rpb24gNC4gQSBwaWN0dXJlIHdhbGwgaXMgaXRzIG93biBncmlkIHdpdGggYSBnYXAgb2YgMCBvciAycHggKHBhZ2UgQ1NTCmAud2FsbGApLCBzbyB0aGUgYmFzZSBncmlkIGtlZXBzIGl0cyBnYXAuCgojIyBUeXBlCgpUaGUgZGVhbHQgcGFpcmluZyAoYGxheW91dC12NC5tZGAgc2VjdGlvbiA1KSBhdCB0aGUgdG9rZW5zIGAtLXQtaDFgLCBgLS10LWgyYCwgYC0tdC1oM2AsCmAtLXQtbGVhZGAsIGAtLXQtY2FyZGAsIGAtLXQtYm9keWAgMTYsIGAtLXQtc21hbGxgIDE0LCBgLS10LWxhYmVsYCAxMywgYC0tdC1zdGF0YCAoMzgvMjgsCnVuZGVyIHRoZSBoMikuIEEgcGxhY2Ugc2V0cyBgLS10LWgyOiBjbGFtcCgyNHB4LCAuNzYydncgKyAyMXB4LCAzMnB4KWAuCgotIEhlYWRsaW5lIGFuZCB0ZXh0IHdlaWdodHM6IGBsYXlvdXQtdjQubWRgIHNlY3Rpb24gNSAodGhlIG9uZSBwbGFjZSB0aGV5IGFyZSBzZXQpOyB0aWdodCB0cmFja2luZy4KLSBUZXh0IHBlb3BsZSByZWFkIChzdWItbGluZXMsIGNhcmQgbGluZXMsIGxpc3QgaXRlbXMsIGFuc3dlcnMpIGlzIDE2cHggb3IgbW9yZSwgbGluZSBoZWlnaHQgMS41IHRvCiAgMS44LCBpbiBgLS1pbmtgIGF0IDc6MSBvciBtb3JlLiBgLS1tdXRlZGAgKDQuNToxIG9yIG1vcmUpIG9ubHkgZm9yIGxhYmVscywgZGF0ZXMsIG1ldGEgYW5kIGEKICBoZWFkaW5nJ3MgZ3JleSBydW4tb246IGA8aDI+U2VuZCBpbnZvaWNlcyBpbiBtaW51dGVzLiA8c3BhbiBjbGFzcz0ibXV0ZWQiPkNsaWVudHMgcGF5IGJ5CiAgY2FyZC48L3NwYW4+PC9oMj5gLiBMYXJnZSB0ZXh0ICgyNHB4KykgaW4gYSBtdXRlZCBoYWxmIG9yIGFuIGluYWN0aXZlIHJvdyAzOjEgYXQgbGVhc3QuIE9uIGEgcGxhY2UKICBldmVyeSB0ZXh0IGlzIDQuNToxIG9yIG1vcmUsIGFuZCBldmVyeSB3b3JkIG9uIHRoZSBicmFuZCBiYW5kIDc6MS4gTmV2ZXIgMTRweCBwYXJhZ3JhcGhzIG9yIDE1cHggZ3JleSBjYXJkIHRleHQuCi0gVGhlIGhlcm8gaGFzIG9uZSBxdWlldGVyIGxldmVsIG9mIHNtYWxsIHRleHQgYXQgbW9zdCAoYSBncmV5IGZhY3QgbGluZSwgb3IgYSBwaWxsIGFib3ZlIHRoZSBoMSkuCi0gSGlnaGxpZ2h0IGJ5IGNvbnRyYXN0LCBuZXZlciBieSBjb2xvdXI6IG5vIG1hcmtlciBoaWdobGlnaHRzIG9yIGNvbG91cmVkIGJhcnMgYmVoaW5kIHdvcmRzOyBjb2xvdXIKICBpbnNpZGUgYSB3b3JkIG9uY2UgYSBwYWdlIGF0IG1vc3QsIG5ldmVyIG9uIGEgcGxhY2UuCi0gU2VudGVuY2UgY2FzZSBldmVyeXdoZXJlOyBsYWJlbHMgMTNweCBhdCA1MDAsIG5ldmVyIHRyYWNrZWQgY2FwaXRhbHMgb3Igc21hbGwgY2FwczsgaXRhbGljIG9ubHkKICBmb3IgcXVvdGVzLCBhdHRyaWJ1dGlvbnMgYW5kIGNvbnRhY3QgbGluZXMuIEN1cmx5IHF1b3RlczsgYSBudW1iZXIgbmV2ZXIgYnJlYWtzIGZyb20gaXRzIHVuaXQKICAobmV2ZXIgIjI1MCAvIFciKTsgbGluZXMgYXQgbW9zdCA2MiBjaGFyYWN0ZXJzIChgLm1lYXN1cmVgKS4gTm90aGluZyB1bmRlciAxM3B4OiBub3RlcywgdGhlIGxlZ2FsCiAgbGluZSwgZHJvcGRvd24gaGVhZHMsIGltYWdlIHRleHQuCi0gT25lIHNpemUgcGVyIGtpbmQgb2YgZWxlbWVudCBhY3Jvc3MgdGhlIHBhZ2UgKGV2ZXJ5IGNhcmQgdGl0bGUsIGFkZHJlc3MsIGZpZ3VyZSkuIEEgZmlndXJlIG5ldmVyCiAgb3V0Z3Jvd3MgdGhlIGgyIG9yIHRoZSBoMSwgYXQgMzkwIHRvby4gRXZlcnkgd29yZCBpcyBsaXZlIHRleHQsIG5ldmVyIGJha2VkIGludG8gYSBwaWN0dXJlOyB0ZXh0CiAgbmV2ZXIgc2hyaW5rcyB0byBmaXQuCgojIyBDb2xvdXIKCi0gKipUaGUgaW50ZXJmYWNlIHN0YXlzIDkwIHRvIDk1JSBuZXV0cmFsOyoqIGNvbG91ciBjb21lcyBmcm9tIHRoZSBwaG90b2dyYXBocywgdGhlIHByb2R1Y3QsIHRoZQogIHdvcmsgYW5kIHJlYWwgbG9nb3MuIE9uZSBuZWFyLWJsYWNrIGluaywgb2Z0ZW4gd2FybSwgbmV2ZXIgIzAwMCwgZm9yIHRleHQsIGhhaXJsaW5lcyAoMTIgdG8gMTUlIG9mCiAgaXQpLCBidXR0b24gYm9yZGVycywgaW50ZXJmYWNlIGdseXBocyBhbmQgYSBkZXNpZ25lZCBtYXJrLgotICoqUmVhbCBsb2dvcyBrZWVwIHRoZWlyIG93biBmdWxsIGNvbG91cnMqKiAoaG91c2UgcnVsZSk6IGEgY2xpZW50J3MgbG9nbyBvciBhIGtub3duIHByb2R1Y3QncyBpY29uICh0aGUKICBHb29nbGUgRG9jcyBpY29uKSBmcm9tIGBpY29ucy5tanNgIG9yIHRoZSBicmFuZCdzIHByZXNzIGtpdCwgbmV2ZXIgcmVkcmF3biBvciB0aW50ZWQKICAoYGljb25zLm1kYCkuIEEgZmljdGlvbmFsIGNsaWVudCdzIG93biBtYXJrIGlzIGRlc2lnbmVkLCBub3QgYm9ycm93ZWQuCi0gKipPbmUgYWNjZW50IGF0IG1vc3QsKiogZnJvbSB0aGUgY2xpZW50IChpdHMgcHJvZHVjdCwgc2hvcGZyb250IHBhaW50LCB0aWxlcywgYSBiYWcgbGFiZWwpOiB0aGUKICBwcmltYXJ5IGJ1dHRvbiAodGhlIG9ubHkgZmlsbGVkIGFjY2VudCksIHRoZSBmb2N1cyByaW5nLCBsaW5rcywgc3RhdGUgaW4gdmlzdWFscywgc21hbGwgbWFya3MgYW5kCiAgdGhlIG9uZSBicmFuZCBiYW5kOyB1bmRlciAzJSBvZiBhIHNjcmVlbiBlbHNld2hlcmU7IGl0cyBsYWJlbCA0LjU6MSBvbiBpdCBhbmQgaXQgMzoxIG9uIHRoZQogIGdyb3VuZC4gYC0tYWN0aW9uYCBkcml2ZXMgYnV0dG9ucywgbGlua3MgYW5kIGZvY3VzLgotICoqR3JvdW5kczoqKiB0aHJlZSB0b2tlbnMgKGAtLWctbWFpbmAsIGAtLWctYWx0YCwgYC0tZy1kYXJrYCksIGEgYnJhbmQgYmFuZCBvbiBwcm9kdWN0IGFuZCBwbGFjZSwKICBhbmQgdGhlIHRlY2ggQ1NTIGdyb3VuZHM6IGBiYWNrZ3JvdW5kcy5tZGAuIERhcmsgcGFnZXMgYW5kIGRhcmsgaGVyb2VzIGFyZSBmb3IgdGVjaCBvbmx5LgotICoqVGhlIGdyYWRlKiogKGxpZ2h0IG9yIGV2ZW5pbmcpIGlzIGNob3NlbiBvbmNlIG9uIGxvYWQgb3IgYnkgYSBjbGljaywgbmV2ZXIgYnkgc2Nyb2xsaW5nOyB0aGUgZGFyawogIGV2ZW5pbmcgZ3JhZGUgaXMgdGVjaCBvbmx5LgotICoqV29yZHMgb24gYSBwaG90b2dyYXBoKiogb25seSBpbiB0aGUgaGVybyBhbmQgb25lIGNsb3NpbmcgYmFuZCwgb24gdGVjaCwgcHJvZHVjdCBhbmQgc2VydmljZSwgb24KICBhIGNyb3Agd2hvc2UgY2FsbSBwYXJ0IGlzIGRhcmsgYW5kIGVtcHR5IGF0IHRoZSBwaG9uZSBjcm9wIHRvbywgb3Igb24gYSBzb2xpZCBib3g7IG5vIHNjcmltIG9yCiAgZ3JhZGllbnQgb3ZlciBhIHBob3RvZ3JhcGg7IG5ldmVyIG9uIGEgcGxhY2UuCi0gKipOZXZlciB2aW9sZXQgb3IgbGF2ZW5kZXI6KiogYSB0b2tlbiB3aG9zZSBPS0xDSCBodWUgZmFsbHMgYmV0d2VlbiBhYm91dCAyNzAgYW5kIDMzMCBkZWdyZWVzIGlzCiAgdHVybmVkIHRvIDI1NSAoYmx1ZSkgb3IgMzQ1IChyb3NlKSwgd2hpY2hldmVyIGlzIG5lYXJlcjsgYSBkZWFsIHRoYXQgcmV0dXJucyB2aW9sZXQgaXMgZGVhbHQgYWdhaW4uCgojIyBSYWRpdXMgYW5kIGJ1dHRvbnMKCi0gYDxodG1sIGRhdGEtcmFkaXVzPmA6IGBzaGFycGAgNC82LzgsIGBzb2Z0YCA4LzEyLzIwIChkZWZhdWx0KSwgYHJvdW5kYCAxMC8xNi8yNC4gYC0tci1sZ2AgY2FyZHMKICBhbmQgZnJhbWVzLCBgLS1yLW1kYCBwYW5lbHMsIGAtLXItc21gIGNvbnRyb2xzLCBgLS1yLWJ0bmAgYnV0dG9uczsgc29mdHdhcmUgd2luZG93cyBvbmUgcmFkaXVzCiAgKDEyIHRvIDIwKSB3aXRoIGEgMXB4IGxpbmUuIEEgcGxhY2U6IGAtLXItbGc6IDA7IC0tci1tZDogMDsgLS1yLXNtOiAycHg7IC0tci1idG46IDJweGAgKHNxdWFyZQogIHBob3RvZ3JhcGhzIGFuZCBjYXJkcywgMnB4IGJ1dHRvbnMpLgotIGAuYnRuLmJ0bi0tcHJpbWFyeWAgYW5kIGAuYnRuLmJ0bi0tc2Vjb25kYXJ5YCwgNDRweCBoaWdoICg0OCBvbiBhIHBsYWNlLCB3aXRoCiAgYGRhdGEtYnV0dG9ucz0iYmxvY2siYCBhbmQgaW4gdGhlIHBob25lIGJhcjsgdGhlIG5hdidzIGJ1dHRvbiBpcyB0aGUgc2FtZSBgLS1idG4taGAsIG5ldmVyCiAgc21hbGxlciksIGxhYmVsIDE2cHgsIDI0cHggc2lkZSBwYWRkaW5nLCBhdCBtb3N0IHR3byBpbiBhIGAuYnRuLXJvd2AsIGZ1bGwgd2lkdGggb24gYSBwaG9uZS4KICBUaGUgbG9vayBpcyBkZWFsdCBvbmNlIG9uIGA8aHRtbCBkYXRhLWJ1dHRvbnM9InNvbGlkfHBpbGx8dG9uYWx8YXJyb3d8YmxvY2siPmA7IHRoZSBtYXJrdXAgbmV2ZXIKICBjaGFuZ2VzLiBFeGFjdGx5IG9uZSBmaWxsZWQgYnV0dG9uIG1hcmtzIHRoZSBtYWluIGFjdGlvbiBpbiBhbnkgdmlldzsgZXZlcnkgc2Vjb25kYXJ5IHRha2VzIG9uZQogIHN0eWxlOyB0ZXh0IGxpbmtzIHVzZSBgLmxpbmtgLiBgLmJ0bi0teGxgIG9uY2UsIGluIHRoZSB0eXBlIGNsb3NlLiBOZXZlciBhIHNsYW50ZWQsIGdyYWRpZW50LAogIGdob3N0IG9yIHNoYWRvd2VkIGJ1dHRvbiwgb3IgYSB0aGlyZCBzdHlsZS4gVGhlaXIgaG92ZXIgYW5kIHByZXNzOiBgbW90aW9uLm1kYC4KLSBUaGUgcHJpbWFyeSBjYXJyaWVzIHRoZSBkcmF3biBhcnJvdyBgc3ZnLm0tYXJyb3dgIGFzIGl0cyBsYXN0IGNoaWxkIHdoZXJlIHRoZSBsb29rIHNob3dzIG9uZTsgb25lCiAgYXJyb3cgc3R5bGUgYSBwYWdlLCBvbmx5IG9uIHRoZSBhY3Rpb25zIHRoYXQgbmVlZCBvbmUuCgojIyBOYXYKCi0gYGhlYWRlci5uYXZgOiBgcG9zaXRpb246IGZpeGVkYCwgZnVsbCB3aWR0aCwgYC0tbmF2YCB0YWxsLCBvcGFxdWUgZ3JvdW5kLCBhIDFweCBoYWlybGluZSB1bmRlciBpdAogIGZyb20gdGhlIGZpcnN0IHBhaW50LCBgei1pbmRleDogMTBgLCB0aGUgc2FtZSBhdCBldmVyeSBzY3JvbGwgZGVwdGg6IG5vIGJsdXIsIHRyYW5zcGFyZW5jeSwKICBzaHJpbmssIGhpZGUsIHNoYWRvdywgY29sb3VyIGZsaXAgb3IgZmxvYXRpbmcgcGlsbCwgYW5kIG5vdGhpbmcgZWxzZSBvbiB0aGUgcGFnZSBpcyBzdGlja3kuIEl0cwogIGAud3JhcGAgaXMgdGhlIHBhZ2UnczogdGhlIGxvZ28gb24gdGhlIGxlZnQgbGluZSwgdGhlIG1haW4gYnV0dG9uIGVuZGluZyBvbiB0aGUgcmlnaHQgb25lLgotIFRoZSBkZWFsdCB0eXBlIGlzIGEgY2xhc3MgKGBzZWN0aW9ucy5tZGApOiBgbmF2YCAobmF2LW1lZ2EsIG5hdi1jYXJkcyksIGBuYXYgbmF2LS1jZW50cmVgLAogIGBuYXYgbmF2LS1zcGxpdGA7IGBuYXYtLXRvbmVgIHB1dHMgdGhlIGJhciBvbiB0aGUgaW52ZXJzZSBncm91bmQgKHRlY2gpLgotIFRoZSBsb2dvOiB0aGUgY2xpZW50J3MgU1ZHOyBlbHNlIHRoZSBkZWFsdCBtYXJrIGFuZCB0aGUgbmFtZSBhdCAyMHB4IGluIHRoZSBkaXNwbGF5IGZhY2UKICAoZWFjaCBraW5kIGRlYWxzIGZyb20gaXRzIG93biBsaXN0IGluIGBzZWN0aW9ucy5tZGA6IGA8c3BhbiBjbGFzcz0ibWFyayIKICBkYXRhLW1hcms9ImFyY3xyaW5nfHN0YWNrfGRvdHN8cGV0YWx8bGVhZiI+YCwgYDxzcGFuIGNsYXNzPSJtYXJrIG1hcmstLWluaXRpYWwiPks8L3NwYW4+YCwgb3IgdGhlCiAgbmFtZSBhbG9uZSBmb3IgYHdvcmRtYXJrYCkuIFRoZSBmb290ZXIgcmVwZWF0cyBpdC4KLSBGb3VyIHRvIHNpeCBwbGFpbiBvbmUtd29yZCBub3VucyAoU1QtMDk7IGEgcGxhY2U6IE1lbnUsIFJvb21zLCBXb3Jrc2hvcCwgVmlzaXQsIEFib3V0KSBhdAogIDE1cHgvNTAwIHRoYXQgbmV2ZXIgd3JhcCwgZWFjaCB3aXRoIGl0cyBvd24gYW5jaG9yOyBhIHNlY29uZCBhY3Rpb24gYXMgYSBwbGFpbiB3b3JkIG9ubHkgd2hlbiB0aGUgY2xpZW50IGhhcyBvbmUKICAoU2lnbiBpbiBmb3IgYW4gYXBwIHdpdGggYWNjb3VudHMsIEdpZnQgY2FyZHMgZm9yIGEgc2hvcCB0aGF0IHNlbGxzIHRoZW0pOyB0aGUgbWFpbiBhY3Rpb24gYXMgdGhlCiAgb25lIGJ1dHRvbi4gT25lIHdvcmQgb3BlbnMgYSBmdWxsLXdpZHRoIGZsYXQgcGFuZWwgb24gaG92ZXIgYWZ0ZXIgMTUwbXMgKGxpbmsgY29sdW1ucyBhbmQgYQogIHBpY3R1cmUgY2FyZCwgb3IgcGljdHVyZSBjYXJkczsgYSBwbGFjZTogaXRzIHBob3RvZ3JhcGhzIHdpdGggdGhlIG5hbWUgYW5kIHRoZSBwcmljZSBmcm9tKTsgYSBjbGljawogIG9uIHRoZSB3b3JkIGdvZXMgdG8gaXRzIHNlY3Rpb24uIE9uIG90aGVyIHRoZSBwYW5lbCBoYXMgbm8gc2hhZG93LCBvbmx5IGl0cyBncm91bmQgYW5kIGEgMXB4IGxpbmUuCiAgVGhlIGN1cnJlbnQgcGFnZTogYGFyaWEtY3VycmVudD0icGFnZSJgIG9uIG9uZSB3b3JkIGF0IG1vc3QsIGEgMnB4IGJhciB1bmRlciBpdC4KLSA2NDAgdG8gMTAyMzogdGhlIGJhciBrZWVwcyB0aGUgcHJpbWFyeSBidXR0b24gYmVzaWRlIHRoZSA0NHg0NCBtZW51IGJ1dHRvbiwgbmV2ZXIgYSBiYXIgb2Ygb25seQogIHRoZSBsb2dvIGFuZCB0aGUgbWVudS4gVGhlIG1lbnUgYnV0dG9uIHRha2VzIHRoZSBzZWNvbmRhcnkgYnV0dG9uJ3MgbG9vay4KLSBVbmRlciA2NDA6IHRoZSBtZW51IG9wZW5zIGEgZnVsbC1zY3JlZW4gc2hlZXQgKDU2cHggcm93cywgY2xvc2VzIG9uIGFueSB0YXA7IGEgcGxhY2UgYWRkcyB0aGUKICBzdHJlZXQgYW5kIHRoZSB3ZWVrJ3MgaG91cnMgYXQgaXRzIGZvb3QpLiBgbmF2LmFjdGlvbmJhcmAgKHJlcXVpcmVkIG9uIGEgcGxhY2UsIG9wdGlvbmFsCiAgZWxzZXdoZXJlKSBpcyBmaXhlZCBhdCB0aGUgZm9vdCwgb24gdGhlIGdyb3VuZCB3aXRoIGEgMXB4IHRvcCBoYWlybGluZTogb25lIDM0Mng0OCBtYWluIGFjdGlvbiBvcgogIHR3byAxNjV4NDggYnV0dG9uczsgYC0tYmFyYCBpcyB0aGVuIGl0cyBoZWlnaHQuIEl0IG5ldmVyIGNvdmVycyBhIGxhYmVsIG9yIGxpbmsuIFdpdGggdGhlIGJhcgogIHRoZSBuYXYncyBidXR0b24gbW92ZXMgaW50byB0aGUgc2hlZXQgKHN5c3RlbS5jc3MpLiBzeXN0ZW0uanMgc2hvd3MgdGhlIGJhciBvbmx5IG9uY2UgdGhlIGhlcm8ncwogIG1haW4gYnV0dG9uIGhhcyBzY3JvbGxlZCBvZmYgdGhlIHRvcCwgYW5kIGhpZGVzIGl0IGFnYWluIHdoaWxlIHRoYXQgYnV0dG9uLCBvciBhIGxpbmsgb3IgYnV0dG9uCiAgdGhhdCBkb2VzIHdoYXQgb25lIG9mIHRoZSBiYXIncyBkb2VzICh0aGUgc2FtZSBhZGRyZXNzIG9yIHRoZSBzYW1lIHdvcmRzLCBzdWNoIGFzIHRoZSBjbG9zZSdzCiAgYm9va2luZyBidXR0b24gb3IgdGhlIGZvb3RlcidzIGRpcmVjdGlvbnMpLCBpcyBvbiB0aGUgc2NyZWVuOiBvbmUgc2NyZWVuIG5ldmVyIHNob3dzIGFuIGFjdGlvbgogIHR3aWNlIFthY3Rpb24tcmVwZWF0XS4gSGlkZGVuLCBpdCBpcyBvZmYgdGhlIHNjcmVlbiBhbmQgaW5lcnQsIHNvIG5vdGhpbmcgaW4gaXQgdGFrZXMgdGhlIGZvY3VzOwogIGl0IG5ldmVyIGhpZGVzIHdoaWxlIHRoZSBmb2N1cyBpcyBpbiBpdC4gVGhlIGhlcm8gZG9lcyBub3QgcGFkIGZvciBpdCB0aGVuLiBXaXRob3V0IHNjcmlwdCB0aGUKICBiYXIgaXMgc2ltcGx5IGFsd2F5cyBhdCB0aGUgZm9vdCBhbmQgZXZlcnkgc2VjdGlvbiwgdGhlIGhlcm8gdG9vLCBwYWRzIGZvciBpdCwgc28gaXQgY292ZXJzCiAgbm90aGluZy4gV3JpdGUgaXQgYXMgdGhlIHN0YXJ0ZXIgZG9lcywgYSBjaGlsZCBvZiBgYm9keWAgYWZ0ZXIgdGhlIGZvb3RlciwgYW5kIGFkZCBubyBzY3JpcHQgb2YgeW91ciBvd24uCgojIyBGb290ZXIKCmBmb290ZXIuY2xvc2luZ2AgaXMgdGhlIHBhZ2UncyBsYXN0IHNlY3Rpb24gKGBsYXlvdXQtdjQubWRgKTogcm93IDEgdGhlIGRlYWx0IGNsb3NlLCByb3cgMiB0aGUKZGlyZWN0b3J5IG9uIG9uZSBncm91bmQgKGxpbmsgY29sdW1ucywgdGhlIGxlZ2FsIHJvdykuIFR5cGVzOiBgZm9vdGVyLWNvbHVtbnNgLCBgZm9vdGVyLS1kYXJrYCAodGhlCm5hbWUgbGFyZ2UsIGNvbHVtbnMgcmlnaHQ7IG9uIGEgZGFyayBwYWdlIGEgc3RlcCBkYXJrZXIpLCBgZm9vdGVyLS1zdGF0ZW1lbnRgICh0aGUgbGl0IGdyb3VuZDsgdGVjaCksCmBmb290ZXItLXZpc2l0YCAodGhlIGFkZHJlc3Mgc2V0IGxhcmdlIHdpdGggdGhlIHdheSB0aGVyZSBhbmQgdGhlIGhvdXJzIGJlc2lkZSBpdCkuIFRoZSBsZWdhbCByb3c6CnRoZSBicmFuZCwgdGhlIGN1cnJlbnQgeWVhciwgUHJpdmFjeSwgVGVybXMgKEltcHJpbnQgb25seSB3aXRoIHRoZSBjb21wYW55J3Mgb3duIGRldGFpbHMgZnJvbSB0aGUKYnJpZWYpIGFuZCB0aGUgb25lIGNyZWRpdHMgbGluZSAoYDxkZXRhaWxzIGNsYXNzPSJjcmVkaXRzIj5gLCBgY29weS5tZGApLiBgLnNvY2lhbHNgIHN0YXlzIGVtcHR5CnVubGVzcyB0aGUgYnJpZWYgZ2l2ZXMgdGhlIGFjY291bnRzLgoKIyMgQ2FyZHMsIGxpc3RzIGFuZCBmb3JtcwoKLSBgLmNhcmRgIGFzIGBjYXJkcy5tZGAgYnVpbGRzIGl0OyBvbmUgaGVpZ2h0IHBlciByb3c7IG5ldmVyIHRleHQgaW4gYSBib3ggaW4gYSBib3guIE9wZW4gdGlsZXMKICAoYC50aWxlYCkgZm9yIHJvb21zLCBtb2RlbHMgYW5kIHBlb3BsZTsgYC5yb3dzYCBmb3IgbWVudXMsIHByaWNlcyBhbmQgc3BlY3MgKGEgMXB4IHJ1bGUgY2xvc2luZwogIGVhY2ggcm93KTsgRkFRcyBvcGVuIGluIGZ1bGwgKGAuZmFxYCwgbm8gYWNjb3JkaW9uKS4KLSBPcGVuaW5nIGhvdXJzOiBgPGRsIGNsYXNzPSJob3VycyI+YCBvZiBgZHRgL2BkZGAgcGFpcnMgd2l0aCBgZGF0YS1kYXlzPSJ0dWUtc3VuImAgb3IgYGRhdGEtZGF5cz0ic2F0LHN1biJgIG9uIGVhY2ggYGR0YCAodGhlIHJvdydzIGxhYmVsOyB0aGUgYGRkYCB0YWtlcyBub25lKSBhbmQKICBgZGF0YS10ej0iRXVyb3BlL0JlcmxpbiJgIG9uIHRoZSBgZGwuaG91cnNgIGl0c2VsZiAodGhlIHZlbnVlJ3Mgem9uZTsgc3lzdGVtLmpzIHJlYWRzIGl0IG9ubHkgdGhlcmUpOiBzeXN0ZW0uanMgbWFya3MgdG9kYXkncyByb3cgKHdlaWdodCA1MDApIGFuZAogIGZpbGxzIGBbZGF0YS1vcGVuLW5vd11gICgiT3BlbiBub3csIHVudGlsIDE2OjAwIjsgIkNsb3NlZCwgb3BlbnMgVHVlc2RheSBhdCA3OjMwIik7IG5ldmVyCiAgYC5pcy10b2RheWAgYnkgaGFuZC4gV2l0aG91dCBgZGF0YS10emAgdGhlIHJvd3MgcmVhZCBhcyBwbGFpbiB0ZXh0LCBhbmQgdGhlIHBhbmVsIG11c3QgcmVhZCByaWdodAogIHdpdGhvdXQgdGhlIHNjcmlwdC4gSG91cnMgdGhlIGJyaWVmIGRvZXMgbm90IGdpdmUgY2FycnkgYGRhdGEtYXNzdW1lZGAgb24gdGhlIGBkbGAgYW5kIGdldCBubwogIG9wZW4tbm93IGxpbmU6IHN5c3RlbS5qcyBuZXZlciBmaWxscyBpdCBmcm9tIHRoZW0gW29wZW4tbm93XS4KLSBGb3JtczogdGhlIHJlY2lwZSBiZWxvdy4KLSBBIGBbYnJhY2tldGVkIHBsYWNlaG9sZGVyXWAgb3IgIihzYW1wbGUpIiB0YWcgbGVmdCBpbiB2aXNpYmxlIHRleHQgaXMgb3V0bGluZWQgaW4gcmVkIGJ5CiAgc3lzdGVtLmpzLCBhcyBpcyBhIHZpc3VhbCB0aGF0IGZhaWxzIHRvIGRyYXc6IGZpeCBib3RoLgoKIyMgRm9ybXMKCk9uZSByZWNpcGUgZm9yIGV2ZXJ5IGZvcm0gKGJvb2tpbmcsIGVucXVpcnksIGNhbGwgcmVxdWVzdCwgbmV3c2xldHRlcik7IGBzdGFydGVyLmh0bWxgIGhhcyBpdCBhcwpgYm9va2luZy1mb3JtYCwgc3lzdGVtLmpzIHJ1bnMgaXQuIEEgYm9va2luZyBzeXN0ZW0gdGhlIGJyaWVmIG5hbWVzIHJlcGxhY2VzIHRoZSBmb3JtIHdpdGggaXRzIGxpbmsuCgotICoqV2hlcmUgaXQgc2VuZHM6KiogYGRhdGEtZW5kcG9pbnRgIGhvbGRzIHRoZSBhZGRyZXNzIG9mIHRoZSBjbGllbnQncyBmb3JtIHNlcnZpY2Ugd2hlbiB0aGUKICBicmllZiBnaXZlcyBvbmU7IHN5c3RlbS5qcyBwb3N0cyB0byBpdC4gV2l0aG91dCBvbmUgdGhlIGZvcm0ncyBgYWN0aW9uYCBpcyBhIGBtYWlsdG86YCBvbgogIGAuZXhhbXBsZWAgKGBoZWxsb0BicmFuZC5leGFtcGxlYCwgYGNvcHkubWRgKTogYSBzdGFuZC1pbiwgbGlzdGVkIGluIHRoZSByZXBvcnQgYXMgdGhlIGFkZHJlc3MKICB0aGUgY2xpZW50IG11c3Qgc3VwcGx5LiBOZXZlciBgYWN0aW9uPSIjImAsIGFuIGVtcHR5IGFjdGlvbiBvciBhIHN1Ym1pdCBhIHBhZ2Ugc2NyaXB0IHN3YWxsb3dzLgotICoqU2l6ZToqKiBmaWVsZHMgNDhweCB3aXRoIGxhYmVscyBhdCAxNHB4IGFuZCAxNnB4IHRleHQgKG9uIHRoZSBwaG9uZSB0b28sIHNvIHRoZSBicm93c2VyIG5ldmVyCiAgZW5sYXJnZXMgdGhlIHBhZ2UpLCB0YXAgdGFyZ2V0cyA0NHB4LCBzaXggZmllbGRzIGF0IG1vc3QsIG9uZSBjb2x1bW4gdW5kZXIgNjQwLgotICoqTGFiZWxzIHlvdSBjYW4gc2VlOioqIGV2ZXJ5IGZpZWxkIGhhcyBhIGA8bGFiZWwgZm9yPmAgYWJvdmUgaXQsIGluIHdvcmRzIHRoYXQgc2F5IHdoYXQgZ29lcyBpbgogICgiQXJyaXZhbCIsICJHdWVzdHMiKS4gQSBwbGFjZWhvbGRlciBpcyBuZXZlciB0aGUgbGFiZWwsIGFuZCBhbiBgYXJpYS1sYWJlbGAgYWxvbmUgaXMgbm90IG9uZQogIFtmaWVsZC1sYWJlbF0uCi0gKipUaGUgcmlnaHQgZmllbGQ6KiogYHR5cGU9ImVtYWlsImAgd2l0aCBgYXV0b2NvbXBsZXRlPSJlbWFpbCJgLCBgdHlwZT0idGVsImAgb25seSBmb3IgYSBwaG9uZQogIHRoZSBicmllZiBhc2tzIHRvIGNvbGxlY3QsIGBhdXRvY29tcGxldGU9Im5hbWUiYCwgYGlucHV0bW9kZT0ibnVtZXJpYyJgIGZvciBhIGNvdW50LCB0ZXh0IGZpZWxkcwogIGZvciBkYXRlcyBvbiBhIHBhZ2Ugbm90IGluIEVuZ2xpc2guIEEgdmlzaXRvciBtYXkgcGFzdGUgaW50byBhbnkgZmllbGQsIGFuZCB0aGUgYnV0dG9uIHN0YXlzIGxpdmUKICB1bnRpbCBpdCBpcyBwcmVzc2VkIFtmb3JtLWZpZWxkc10uCi0gKipFcnJvcnMgdW5kZXIgdGhlaXIgZmllbGRzOioqIGNoZWNrZWQgb24gc3VibWl0LCBuZXZlciB3aGlsZSB0eXBpbmcuIEVhY2ggZmllbGQgdGhhdCBmYWlscyBnZXRzCiAgYGFyaWEtaW52YWxpZD0idHJ1ZSJgIGFuZCBpdHMgcmVhc29uIGluIHRoZSBgLmZpZWxkX19lcnJvcmAgdW5kZXIgaXQsIG5hbWVkIGJ5CiAgYGFyaWEtZGVzY3JpYmVkYnlgOyB0aGUgcmVhc29uIG5hbWVzIHRoZSBmaWVsZCBhbmQgd2hhdCB0byB0eXBlICgiV3JpdGUgYW4gZW1haWwgYWRkcmVzcyB3aXRoIGFuCiAgQCIpLiBUaGUgZmlyc3QgZmllbGQgdGhhdCBmYWlsZWQgdGFrZXMgdGhlIGZvY3VzLCBhbmQgdGhlIHN0YXR1cyBsaW5lIHNheXMgaG93IG1hbnkgdGhlcmUgYXJlLgotICoqT25lIHN0YXR1cyBsaW5lOioqIGA8cCBjbGFzcz0iZm9ybV9fc3RhdHVzIiByb2xlPSJzdGF0dXMiIGRhdGEtZm9ybS1zdGF0dXM+YCB1bmRlciB0aGUgYnV0dG9uLAogIHJlYWQgb3V0IGFzIGl0IGNoYW5nZXM6ICJTZW5kaW5nIiBhZnRlciAzMDBtcywgdGhlbiB0aGUgY29uZmlybWF0aW9uIG9yIHRoZSBmYWlsdXJlLiBBIGZhaWx1cmUKICBrZWVwcyBldmVyeXRoaW5nIHR5cGVkLgotICoqU3VjY2VzcyBvbmx5IGFmdGVyIGEgcmVhbCBzZW5kOioqIGBkYXRhLXNlbnRgIHNob3dzIG9ubHkgb25jZSBgZGF0YS1lbmRwb2ludGAgYW5zd2VyZWQuIEEKICBtYWlsdG8gc3RhbmQtaW4gc2hvd3Mgbm8gc3VjY2VzcyBsaW5lLCBhbmQgbm8gcGFnZSBzY3JpcHQgd3JpdGVzICJUaGFuayB5b3UiIG9uIHN1Ym1pdAogIFtmb3JtLXNlbmRdLiBOZXZlciBhIG1vZGFsLgotICoqVGhlIGJ1dHRvbiBuYW1lcyB0aGUgYWN0aW9uOioqIHRoZSBidXR0b24gaXMgdGhlIG1haW4gYWN0aW9uIHdvcmQgZm9yIHdvcmQgKCJSZXF1ZXN0IGEKICB0YWJsZSIpLCB0aGUgc2VudCBsaW5lIG5hbWVzIHdoYXQgd2FzIHNlbnQgaW4gdGhlIGJ1dHRvbidzIG93biB3b3JkcyAoIllvdXIgdGFibGUgcmVxdWVzdCBpcyBpbi4KICBXZSByZXBseSB3aXRoaW4gYSBkYXkuIiksIGFuZCBhIGxpbmUgdW5kZXIgdGhlIGZvcm0gc2F5cyB3aGVuIHRoZSByZXBseSBjb21lcy4KCiMjIEFjY2VzcwoKVGhlIHBhZ2Ugd29ya3MgYnkga2V5Ym9hcmQgYW5kIHNjcmVlbiByZWFkZXIgYXMgaXQgc2hpcHM7IGNvbnNpc3RlbmN5Lm1qcyBGQUlMcyBlYWNoIG9mIHRoZXNlLgoKLSAqKkV2ZXJ5IGNvbnRyb2wgaGFzIGEgbmFtZToqKiBhIGxpbmssIGEgYnV0dG9uLCBhIGZpZWxkLCBhIHRhYiwgYSB0b2dnbGU7IGFuIGljb24tb25seSBidXR0b24gZ2V0cwogIGBhcmlhLWxhYmVsYCBpbiB0aGUgcGFnZSdzIGxhbmd1YWdlIFthMTF5LW5hbWVdLgotICoqUGljdHVyZXM6KiogYSBjb250ZW50IHBob3RvZ3JhcGggaGFzIGBhbHRgIHNheWluZyB3aGF0IGl0IHNob3dzOyBhIGRlY29yYXRpdmUgb25lIGBhbHQ9IiJgOwogIGEgZHJhd24gbW9jayBgcm9sZT0iaW1nImAgd2l0aCBhbiBgYXJpYS1sYWJlbGAgW2ltZy1hbHRdLgotICoqSGVhZGluZ3Mgc3RlcCBkb3duIG9uZSBsZXZlbCBhdCBhIHRpbWUqKiBpbiBgbWFpbmAgKGgxLCBoMiwgaDMpOyBhIGZvb3RlcidzIGNvbHVtbiBoZWFkcyBhcmUKICBgaDNgIFtoZWFkaW5nLW9yZGVyXS4KLSAqKlRhYiBvcmRlciBpcyB0aGUgcmVhZGluZyBvcmRlcjoqKiBubyBgdGFiaW5kZXhgIGFib3ZlIDAgW3RhYmluZGV4XS4KLSAqKkZvY3VzIHNob3dzIGF0IG9uY2U6KiogdGhlIGtpdCdzIHJpbmcgKGA6Zm9jdXMtdmlzaWJsZWAsIDJweCBpbiBgLS1hY3Rpb25gLCAzOjEgb24gdGhlCiAgZ3JvdW5kKSBuZXZlciBhbmltYXRlczsgYSBwYWdlIHRoYXQgcmVtb3ZlcyBpdCBwdXRzIGEgY2hhbmdlIG9mIHRoZSBzYW1lIHN0cmVuZ3RoIGluIGl0cyBwbGFjZS4KICBBIGZvY3VzZWQgY29udHJvbCBpcyBuZXZlciBoaWRkZW4gdW5kZXIgdGhlIGZpeGVkIGhlYWRlciBbZm9jdXMtdmlzaWJsZSwgZm9jdXMtaGlkZGVuXS4KLSAqKlRoZSBtZW51IGJ1dHRvbiBzYXlzIGl0cyBzdGF0ZToqKiBgYXJpYS1leHBhbmRlZGAgb24gYC5uYXZfX3RvZ2dsZWAsIHdoaWNoIHN5c3RlbS5qcyBmbGlwcwogIFttZW51LXRvZ2dsZV0uCgojIyBIZWFkCgpFdmVyeSBwYWdlJ3MgYDxoZWFkPmAgaG9sZHMsIGFzIGBzdGFydGVyLmh0bWxgIGhhcyBpdDoKCi0gYDx0aXRsZT5gICJOYW1lOiB3aGF0IGl0IGlzIGZvciB3aG9tIG9yIHdoZXJlIiBhbmQgYSBgbWV0YSBkZXNjcmlwdGlvbmAgb2Ygb25lIHNlbnRlbmNlOyBuZXZlcgogIHRoZSBzYW1lIHdvcmRzIFtwYWdlLW1ldGFdLgotIGBvZzp0aXRsZWAsIGBvZzpkZXNjcmlwdGlvbmAsIGBvZzp0eXBlYCBhbmQgYG9nOmltYWdlYCwgd2l0aCBgdHdpdHRlcjpjYXJkYAogIGBzdW1tYXJ5X2xhcmdlX2ltYWdlYC4gVGhlIHBpY3R1cmUgaXMgYSBzdGlsbCBvZiB0aGUgcGFnZSdzIG93biBoZXJvOiBjb3B5IHRoZSBoZXJvJ3MgdGlsZSBmcm9tCiAgYHNob290Lm1qc2AgKGB0aWxlcy9kZXNrdG9wLXNlYy0wMS1hLmpwZ2ApIGJlc2lkZSB0aGUgcGFnZSBhcyBgc2hhcmUuanBnYC4KLSBgbGluayByZWw9Imljb24iYDogdGhlIGNsaWVudCdzIGxvZ28sIGVsc2UgdGhlIGRlYWx0IG1hcmsgYXMgYGZhdmljb24uc3ZnYCAodGhlIG1hcmsncyAyNHgyNCBwYXRoCiAgZnJvbSBgc3lzdGVtLmNzc2AgYC5tYXJrW2RhdGEtbWFya11gLCBmaWxsZWQgd2l0aCBgLS1wLWlua2A7IGZvciBgaW5pdGlhbGAgdGhlIGxldHRlciBvbiBhCiAgcm91bmRlZCBzcXVhcmUgaW4gYC0tcC1pbmtgKS4KLSBgbWV0YSBuYW1lPSJ0aGVtZS1jb2xvciJgOiB0aGUgcGFnZSBncm91bmQsIGAtLXAtYmdgIGFzIGBzdGFydC5tanNgIHByaW50cyBpdC4KLSBgbGluayByZWw9ImNhbm9uaWNhbCJgIG9ubHkgd2l0aCB0aGUgY2xpZW50J3MgZG9tYWluOyB1bnRpbCB0aGVuIGl0IHN0YXlzIGEgY29tbWVudCBhbmQgdGhlCiAgcmVwb3J0IGxpc3RzIGl0IFtzaGFyZS1tZXRhXS4KCiMjIE1vdGlvbgoKYG1vdGlvbi5tZGAuCg==
+# System
+
+One system for the whole page, in `assets/system.css` and `system.js`. Use its classes and tokens;
+never add a second grid, spacing scale, type scale, radius, button, card, hairline, fade or link
+style. One strict system per page: one button shape, one radius family, one card recipe, one
+hairline, one corner-control size, one link look, one block template repeated. Section heights,
+the hero frame, edges, splits and type sizes: `layout-v4.md`. Grounds: `backgrounds.md`. Every hover
+and loop number: `motion.md`.
+
+## Base
+
+- `*{box-sizing:border-box}`, `html,body{margin:0}` and `<meta name="viewport" content="width=device-width,
+  initial-scale=1, viewport-fit=cover">` (without the reset the hero ends at 908 and `.wrap` at x 88).
+- Spacing scale 4, 8, 12, 16, 24, 32, 48, 64, 96, 128 (`--s-1` to `--s-10`) for every margin, gap
+  and padding you write. Heading to content 48px (32 on a phone); cards 24px apart (12).
+- One height per card row and per tile kind, page-wide; sections at H or 2H.
+- The skip link is the first child of the header's `.wrap`, as `starter.html` has it:
+  `<a class="skip-link" href="#top">Skip to content</a>` (`main id="top"`), in the page's language.
+  `.skip-link` keeps it out of the layout until the first Tab, then shows it over the logo, so it
+  never pushes the logo off the left line [skip-link].
+- `<html lang>` is the language the page is written in, from the brief, or its market when the
+  brief does not say ("de" for a German page). Screen readers read in it and the headings hyphenate
+  by it (`hyphens: auto` for words of 10 letters or more) [lang].
+
+## Rhythm tokens
+
+On `:root`, used everywhere (desktop / under 640px):
+
+| Token | Value | Use |
+|---|---|---|
+| `--nav` | 72 / 56 | the fixed header |
+| `--padt` | 120 / 96 | a section's top padding: the h2 sits here |
+| `--padb` | 72 / 48 | a section's bottom padding (plus `--bar`) |
+| `--gut` | 80 / 24 (place 120 from 1024) | the `.wrap`'s side margin: 1280 wide, 1200 on a place |
+| `--hgap` | 48 / 40 (place 40 / 24) | the header to the hero's words, under `--photo` on a place |
+| `--hpadb` | 64 / 24 | the hero's bottom padding (plus `--bar`) |
+| `--bar` | 0, or `calc(64px + env(safe-area-inset-bottom))` with `nav.actionbar` under 640 | added to every bottom padding (the hero's only without script: the bar is never on the first screen); content is never cut to hide behind the bar |
+
+Grid: `.grid` is 12 columns with a 24px gap (12 under 640); the column numbers are in
+`layout-v4.md` section 4. A picture wall is its own grid with a gap of 0 or 2px (page CSS
+`.wall`), so the base grid keeps its gap.
+
+## Type
+
+The dealt pairing (`layout-v4.md` section 5) at the tokens `--t-h1`, `--t-h2`, `--t-h3`,
+`--t-lead`, `--t-card`, `--t-body` 16, `--t-small` 14, `--t-label` 13, `--t-stat` (38/28,
+under the h2). A place sets `--t-h2: clamp(24px, .762vw + 21px, 32px)`.
+
+- Headline and text weights: `layout-v4.md` section 5 (the one place they are set); tight tracking.
+- Text people read (sub-lines, card lines, list items, answers) is 16px or more, line height 1.5 to
+  1.8, in `--ink` at 7:1 or more. `--muted` (4.5:1 or more) only for labels, dates, meta and a
+  heading's grey run-on: `<h2>Send invoices in minutes. <span class="muted">Clients pay by
+  card.</span></h2>`. Large text (24px+) in a muted half or an inactive row 3:1 at least. On a place
+  every text is 4.5:1 or more, and every word on the brand band 7:1. Never 14px paragraphs or 15px grey card text.
+- The hero has one quieter level of small text at most (a grey fact line, or a pill above the h1).
+- Highlight by contrast, never by colour: no marker highlights or coloured bars behind words; colour
+  inside a word once a page at most, never on a place.
+- Sentence case everywhere; labels 13px at 500, never tracked capitals or small caps; italic only
+  for quotes, attributions and contact lines. Curly quotes; a number never breaks from its unit
+  (never "250 / W"); lines at most 62 characters (`.measure`). Nothing under 13px: notes, the legal
+  line, dropdown heads, image text.
+- One size per kind of element across the page (every card title, address, figure). A figure never
+  outgrows the h2 or the h1, at 390 too. Every word is live text, never baked into a picture; text
+  never shrinks to fit.
+
+## Colour
+
+- **The interface stays 90 to 95% neutral;** colour comes from the photographs, the product, the
+  work and real logos. One near-black ink, often warm, never #000, for text, hairlines (12 to 15% of
+  it), button borders, interface glyphs and a designed mark.
+- **Real logos keep their own full colours** (house rule): a client's logo or a known product's icon (the
+  Google Docs icon) from `icons.mjs` or the brand's press kit, never redrawn or tinted
+  (`icons.md`). A fictional client's own mark is designed, not borrowed.
+- **One accent at most,** from the client (its product, shopfront paint, tiles, a bag label): the
+  primary button (the only filled accent), the focus ring, links, state in visuals, small marks and
+  the one brand band; under 3% of a screen elsewhere; its label 4.5:1 on it and it 3:1 on the
+  ground. `--action` drives buttons, links and focus.
+- **Grounds:** three tokens (`--g-main`, `--g-alt`, `--g-dark`), a brand band on product and place,
+  and the tech CSS grounds: `backgrounds.md`. Dark pages and dark heroes are for tech only.
+- **The grade** (light or evening) is chosen once on load or by a click, never by scrolling; the dark
+  evening grade is tech only.
+- **Words on a photograph** only in the hero and one closing band, on tech, product and service, on
+  a crop whose calm part is dark and empty at the phone crop too, or on a solid box; no scrim or
+  gradient over a photograph; never on a place.
+- **Never violet or lavender:** a token whose OKLCH hue falls between about 270 and 330 degrees is
+  turned to 255 (blue) or 345 (rose), whichever is nearer; a deal that returns violet is dealt again.
+
+## Radius and buttons
+
+- `<html data-radius>`: `sharp` 4/6/8, `soft` 8/12/20 (default), `round` 10/16/24. `--r-lg` cards
+  and frames, `--r-md` panels, `--r-sm` controls, `--r-btn` buttons; software windows one radius
+  (12 to 20) with a 1px line. A place: `--r-lg: 0; --r-md: 0; --r-sm: 2px; --r-btn: 2px` (square
+  photographs and cards, 2px buttons).
+- `.btn.btn--primary` and `.btn.btn--secondary`, 44px high (48 on a place, with
+  `data-buttons="block"` and in the phone bar; the nav's button is the same `--btn-h`, never
+  smaller), label 16px, 24px side padding, at most two in a `.btn-row`, full width on a phone.
+  The look is dealt once on `<html data-buttons="solid|pill|tonal|arrow|block">`; the markup never
+  changes. Exactly one filled button marks the main action in any view; every secondary takes one
+  style; text links use `.link`. `.btn--xl` once, in the type close. Never a slanted, gradient,
+  ghost or shadowed button, or a third style. Their hover and press: `motion.md`.
+- The primary carries the drawn arrow `svg.m-arrow` as its last child where the look shows one; one
+  arrow style a page, only on the actions that need one.
+
+## Nav
+
+- `header.nav`: `position: fixed`, full width, `--nav` tall, opaque ground, a 1px hairline under it
+  from the first paint, `z-index: 10`, the same at every scroll depth: no blur, transparency,
+  shrink, hide, shadow, colour flip or floating pill, and nothing else on the page is sticky. Its
+  `.wrap` is the page's: the logo on the left line, the main button ending on the right one.
+- The dealt type is a class (`sections.md`): `nav` (nav-mega, nav-cards), `nav nav--centre`,
+  `nav nav--split`; `nav--tone` puts the bar on the inverse ground (tech).
+- The logo: the client's SVG; else the dealt mark and the name at 20px in the display face
+  (each kind deals from its own list in `sections.md`: `<span class="mark"
+  data-mark="arc|ring|stack|dots|petal|leaf">`, `<span class="mark mark--initial">K</span>`, or the
+  name alone for `wordmark`). The footer repeats it.
+- Four to six plain one-word nouns (ST-09; a place: Menu, Rooms, Workshop, Visit, About) at
+  15px/500 that never wrap, each with its own anchor; a second action as a plain word only when the client has one
+  (Sign in for an app with accounts, Gift cards for a shop that sells them); the main action as the
+  one button. One word opens a full-width flat panel on hover after 150ms (link columns and a
+  picture card, or picture cards; a place: its photographs with the name and the price from); a click
+  on the word goes to its section. On other the panel has no shadow, only its ground and a 1px line.
+  The current page: `aria-current="page"` on one word at most, a 2px bar under it.
+- 640 to 1023: the bar keeps the primary button beside the 44x44 menu button, never a bar of only
+  the logo and the menu. The menu button takes the secondary button's look.
+- Under 640: the menu opens a full-screen sheet (56px rows, closes on any tap; a place adds the
+  street and the week's hours at its foot). `nav.actionbar` (required on a place, optional
+  elsewhere) is fixed at the foot, on the ground with a 1px top hairline: one 342x48 main action or
+  two 165x48 buttons; `--bar` is then its height. It never covers a label or link. With the bar
+  the nav's button moves into the sheet (system.css). system.js shows the bar only once the hero's
+  main button has scrolled off the top, and hides it again while that button, or a link or button
+  that does what one of the bar's does (the same address or the same words, such as the close's
+  booking button or the footer's directions), is on the screen: one screen never shows an action
+  twice [action-repeat]. Hidden, it is off the screen and inert, so nothing in it takes the focus;
+  it never hides while the focus is in it. The hero does not pad for it then. Without script the
+  bar is simply always at the foot and every section, the hero too, pads for it, so it covers
+  nothing. Write it as the starter does, a child of `body` after the footer, and add no script of your own.
+
+## Footer
+
+`footer.closing` is the page's last section (`layout-v4.md`): row 1 the dealt close, row 2 the
+directory on one ground (link columns, the legal row). Types: `footer-columns`, `footer--dark` (the
+name large, columns right; on a dark page a step darker), `footer--statement` (the lit ground; tech),
+`footer--visit` (the address set large with the way there and the hours beside it). The legal row:
+the brand, the current year, Privacy, Terms (Imprint only with the company's own details from the
+brief) and the one credits line (`<details class="credits">`, `copy.md`). `.socials` stays empty
+unless the brief gives the accounts.
+
+## Cards, lists and forms
+
+- `.card` as `cards.md` builds it; one height per row; never text in a box in a box. Open tiles
+  (`.tile`) for rooms, models and people; `.rows` for menus, prices and specs (a 1px rule closing
+  each row); FAQs open in full (`.faq`, no accordion).
+- Opening hours: `<dl class="hours">` of `dt`/`dd` pairs with `data-days="tue-sun"` or `data-days="sat,sun"` on each `dt` (the row's label; the `dd` takes none) and
+  `data-tz="Europe/Berlin"` on the `dl.hours` itself (the venue's zone; system.js reads it only there): system.js marks today's row (weight 500) and
+  fills `[data-open-now]` ("Open now, until 16:00"; "Closed, opens Tuesday at 7:30"); never
+  `.is-today` by hand. Without `data-tz` the rows read as plain text, and the panel must read right
+  without the script. Hours the brief does not give carry `data-assumed` on the `dl` and get no
+  open-now line: system.js never fills it from them [open-now].
+- Forms: the recipe below.
+- A `[bracketed placeholder]` or "(sample)" tag left in visible text is outlined in red by
+  system.js, as is a visual that fails to draw: fix both.
+
+## Forms
+
+One recipe for every form (booking, enquiry, call request, newsletter); `starter.html` has it as
+`booking-form`, system.js runs it. A booking system the brief names replaces the form with its link.
+
+- **Where it sends:** `data-endpoint` holds the address of the client's form service when the
+  brief gives one; system.js posts to it. Without one the form's `action` is a `mailto:` on
+  `.example` (`hello@brand.example`, `copy.md`): a stand-in, listed in the report as the address
+  the client must supply. Never `action="#"`, an empty action or a submit a page script swallows.
+- **Size:** fields 48px with labels at 14px and 16px text (on the phone too, so the browser never
+  enlarges the page), tap targets 44px, six fields at most, one column under 640.
+- **Labels you can see:** every field has a `<label for>` above it, in words that say what goes in
+  ("Arrival", "Guests"). A placeholder is never the label, and an `aria-label` alone is not one
+  [field-label].
+- **The right field:** `type="email"` with `autocomplete="email"`, `type="tel"` only for a phone
+  the brief asks to collect, `autocomplete="name"`, `inputmode="numeric"` for a count, text fields
+  for dates on a page not in English. A visitor may paste into any field, and the button stays live
+  until it is pressed [form-fields].
+- **Errors under their fields:** checked on submit, never while typing. Each field that fails gets
+  `aria-invalid="true"` and its reason in the `.field__error` under it, named by
+  `aria-describedby`; the reason names the field and what to type ("Write an email address with an
+  @"). The first field that failed takes the focus, and the status line says how many there are.
+- **One status line:** `<p class="form__status" role="status" data-form-status>` under the button,
+  read out as it changes: "Sending" after 300ms, then the confirmation or the failure. A failure
+  keeps everything typed.
+- **Success only after a real send:** `data-sent` shows only once `data-endpoint` answered. A
+  mailto stand-in shows no success line, and no page script writes "Thank you" on submit
+  [form-send]. Never a modal.
+- **The button names the action:** the button is the main action word for word ("Request a
+  table"), the sent line names what was sent in the button's own words ("Your table request is in.
+  We reply within a day."), and a line under the form says when the reply comes.
+
+## Access
+
+The page works by keyboard and screen reader as it ships; consistency.mjs FAILs each of these.
+
+- **Every control has a name:** a link, a button, a field, a tab, a toggle; an icon-only button gets
+  `aria-label` in the page's language [a11y-name].
+- **Pictures:** a content photograph has `alt` saying what it shows; a decorative one `alt=""`;
+  a drawn mock `role="img"` with an `aria-label` [img-alt].
+- **Headings step down one level at a time** in `main` (h1, h2, h3); a footer's column heads are
+  `h3` [heading-order].
+- **Tab order is the reading order:** no `tabindex` above 0 [tabindex].
+- **Focus shows at once:** the kit's ring (`:focus-visible`, 2px in `--action`, 3:1 on the
+  ground) never animates; a page that removes it puts a change of the same strength in its place.
+  A focused control is never hidden under the fixed header [focus-visible, focus-hidden].
+- **The menu button says its state:** `aria-expanded` on `.nav__toggle`, which system.js flips
+  [menu-toggle].
+
+## Head
+
+Every page's `<head>` holds, as `starter.html` has it:
+
+- `<title>` "Name: what it is for whom or where" and a `meta description` of one sentence; never
+  the same words [page-meta].
+- `og:title`, `og:description`, `og:type` and `og:image`, with `twitter:card`
+  `summary_large_image`. The picture is a still of the page's own hero: copy the hero's tile from
+  `shoot.mjs` (`tiles/desktop-sec-01-a.jpg`) beside the page as `share.jpg`.
+- `link rel="icon"`: the client's logo, else the dealt mark as `favicon.svg` (the mark's 24x24 path
+  from `system.css` `.mark[data-mark]`, filled with `--p-ink`; for `initial` the letter on a
+  rounded square in `--p-ink`).
+- `meta name="theme-color"`: the page ground, `--p-bg` as `start.mjs` prints it.
+- `link rel="canonical"` only with the client's domain; until then it stays a comment and the
+  report lists it [share-meta].
+
+## Motion
+
+`motion.md`.

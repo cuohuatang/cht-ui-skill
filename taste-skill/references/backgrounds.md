@@ -1,1 +1,111 @@
-IyBCYWNrZ3JvdW5kcwoKQmV0dGVyIGdyb3VuZHMgY29tZSBmcm9tIGZld2VyLCBiZXR0ZXIgY29sb3VycyAoaG91c2UgcnVsZSA2OiAibmljZXIgYmFja2dyb3VuZHMiKSwgYW5kIG9uIHRlY2gKZnJvbSBhIHNtYWxsIGNhdGFsb2d1ZSBvZiBncm91bmRzIGRyYXduIGluIENTUy4gRXZlcnkga2luZCB1c2VzIHRoZSB0aHJlZSBncm91bmQgdG9rZW5zOyBvbmx5IHRlY2gKYWRkcyBDU1MgZ3JvdW5kcy4KCiMjIFRoZSB0aHJlZSB0b2tlbnMgKGV2ZXJ5IGtpbmQpCgpTZWN0aW9uIGFuZCBwYW5lbCBncm91bmRzIHVzZSBgLS1nLW1haW5gLCBgLS1nLWFsdGAgYW5kIGAtLWctZGFya2Agb25seSAoc3lzdGVtLmNzczogdGhlIGJhc2UsCmAuZ3JvdW5kLXN1cmZhY2VgLCBgLmdyb3VuZC1pbnZlcnNlYCk6IG9uZSB0byB0aHJlZSBjb2xvdXJzIGRvd24gdGhlIHBhZ2UsIGZvb3RlciBpbmNsdWRlZCwgaW4gdGhlCnNhbWUgb3JkZXIgYXQgMzkwLiBQaG90b2dyYXBoIGxheWVycyBhbmQgdGhlIHRlY2ggZ3JvdW5kcyBiZWxvdyBkbyBub3QgY291bnQgYW1vbmcgdGhlbS4KCi0gKipgLS1nLW1haW5gOioqIHdoaXRlLCBvciBhIHRpbnQgb2YgbGlnaHRuZXNzIDAuODAgdG8gMC45NyB3aXRoIGxvdyBzYXR1cmF0aW9uIChjaGFubmVsIHNwcmVhZAogIDAuMTIgb3IgbGVzcyksIHRha2VuIGZyb20gdGhlIGNsaWVudDogYSBwbGFjZSdzIHdhbGxzLCBwYXBlciBvciBzaG9wZnJvbnQgKHRoZSBwYWxldHRlCiAgYHN0YXJ0Lm1qcyBkZWFsIC0tcGFnZSBwbGFjZSAtLXRyYWRlIDx0cmFkZT5gIGRlYWxzIGZvciBpdHMgdHJhZGUsIG5ldmVyIG9uZSBmaXhlZCBvZmYtd2hpdGUgZm9yCiAgZXZlcnkgcGxhY2U7IHdoaXRlIGZvciBhIHNob3AgdGhhdCBzZWxscyBtb3N0bHkgb25saW5lKSwgYSBwcm9kdWN0J3MgcGhvdG8gYmFja2Ryb3AsIHdhcm0KICBncmV5cyBmb3IgYSBzZXJ2aWNlLCBibHVlLWxlYW5pbmcgb3IgY29vbCBncmV5IGZvciBzb2Z0d2FyZS4gSXQgY292ZXJzIDU1JSBvZiB0aGUgcGFnZSdzIGhlaWdodCBvcgogIG1vcmUgKDYwJSBvbiBzb2Z0d2FyZSBhbmQgcHJvZHVjdCkuIE5ldmVyIHB1cmUtd2hpdGUgcGFuZWxzIG9uIGEgY3JlYW0gcGFnZS4KLSAqKmAtLWctYWx0YDoqKiB0aGUgc2FtZSBodWUgKHdpdGhpbiAyMCBkZWdyZWVzKSwgMC4wNiB0byAwLjE1IGRhcmtlciwgbmV2ZXIgdW5kZXIgMC43MAogIChgI2ZmZmZmZmAgdG8gYCNmMmYyZWZgLCBgI2Y3ZjNlY2AgdG8gYCNlZGU2ZGFgKS4gUGFuZWxzLCB0aWxlcywgY2FyZHMgYW5kIGF0IG1vc3Qgb25lIGZ1bGwgYmFuZC4KLSAqKmAtLWctZGFya2A6KiogbGlnaHRuZXNzIDAuMDUgb3IgbGVzczogbmVhci1ibGFjayAoYCMxMTFgIHRvIGAjMWExYTFhYCkgb3IgdGhlIGRlZXBlc3Qgc2hhZGUgb2YKICB0aGUgYnJhbmQgaHVlLCBuZXZlciBjaGFyY29hbCwgbmV2ZXIgdmlvbGV0LiBPbmUgZGFyayBib2R5IHNlY3Rpb24gYXQgbW9zdCAob25lIHNjcmVlbiB0YWxsKSwgYXQKICB0aGUgcGFnZSdzIG1pZGRsZSBvciBsYXRlciwgbmV2ZXIgcmlnaHQgdW5kZXIgdGhlIGhlcm87IHRoZSBmb290ZXIgbWF5IGJlIGRhcmsuIEEgZGFyayBwYWdlIChtYWluCiAgZ3JvdW5kIDAuMDIgb3IgZGFya2VyKSBhbmQgYSBkYXJrIGhlcm8gYXJlIGZvciB0ZWNoIG9ubHkuCi0gKipUaGUgYnJhbmQgYmFuZCoqIChgLmdyb3VuZC1icmFuZGAsIHByb2R1Y3QgYW5kIHBsYWNlKTogb25lIHNlY3Rpb24gaW4gdGhlIGJyYW5kJ3Mgb3duIGNvbG91cgogIChmcm9tIHRoZSBwcm9kdWN0IG9yIHRoZSBzaG9wZnJvbnQpIG1heSByZXBsYWNlIHRoZSBkYXJrIGJhbmQsIG9uY2UsIGluIHRoZSBzZWNvbmQgaGFsZi4gT24gYQogIHBsYWNlIGl0cyBsaWdodG5lc3MgaXMgMC4wMyB0byAwLjYwIGFuZCBpdHMgc2F0dXJhdGlvbiAwLjI1IG9yIG1vcmUsIG5ldmVyIGEgbmV1dHJhbCBuZWFyLWJsYWNrOwogIGV2ZXJ5IHdvcmQgb24gaXQgKGhlYWRpbmcsIHRleHQsIGxhYmVsLCBsaW5rKSB0YWtlcyB0aGUgY29sb3VyIHRoYXQgcGFzc2VzIDc6MSwgdGhlIG9uZSBudW1iZXI6IGRhcmtlbiB0aGUgYnJhbmQgY29sb3VyIHVudGlsIGl0IGRvZXMgKGBjaGVjay5tanNgIGFuZCBgY29uc2lzdGVuY3kubWpzYCBhc2sgNzoxIGZvciB0ZXh0IHBlb3BsZSByZWFkIGFuZCA0LjU6MSBmb3IgbGFiZWxzLCBzbyA3OjEgY2xlYXJzIGJvdGgpOyB0aGUgcHJpbWFyeSBidXR0b24gaXMgaW52ZXJ0ZWQuIE90aGVyd2lzZQogIHNhdHVyYXRlZCBjb2xvdXIgbGl2ZXMgaW4gdGhlIGFjY2VudCBhbmQgdGhlIHBpY3R1cmVzOyBvbmUgbWlkLXRvbmUgc2VjdGlvbiBhdCBtb3N0LCBuZXZlciBhcyB0aGUKICBtYWluIGdyb3VuZC4KLSBHcm91bmRzIGNoYW5nZSBpbiBiaWcgYmxvY2tzIGF0IHRoZSBzZWN0aW9uIGVkZ2U6IG5ldmVyIG9uIGAud3JhcGAgb3IgYSB3cmFwcGVyLCBubyBib3JkZXItdG9wIG9yCiAgcnVsZSBiZXR3ZWVuIHNlY3Rpb25zLCBubyBiYW5kIGluc2lkZSBhIHNlY3Rpb24gKGEgYm94IG9mIDgwJSBvZiBpdHMgd2lkdGggb3IgbW9yZSB3aXRoIGl0cyBvd24KICBncm91bmQgaG9sZGluZyB0aGUgaGVhZGluZyksIG5vIGluc2V0IGNvbG91cmVkIGJveCBzdGFuZGluZyBpbiBmb3IgYSBncm91bmQuIEEgZnJhbWUgaG9sZGluZyBhCiAgdmlzdWFsIGlzIGZpbmUuCgojIyBPdGhlciBraW5kcyBzdGF5IGZsYXQKClByb2R1Y3QsIHNlcnZpY2UgYW5kIHBsYWNlIChzaXRlLWtpbmQgb3RoZXIpOiBldmVyeSBncm91bmQgYW5kIHBhbmVsIGlzIGEgZmxhdCBDU1MgY29sb3VyIGFuZApwaG90b2dyYXBocyBhcmUgc2hvd24gYXMgdGhleSBhcmUuIE5vIGdyYWRpZW50IChhIGhhcmQtc3RvcCB0d28tdG9uZSBpbmNsdWRlZCksIGdyYWluLCBwYXBlciwKaGFsbywgdGV4dHVyZSwgcGF0dGVybiwgZ2xhc3MsIGNvbnRvdXIsIGNhbnZhcywgYGJhY2tkcm9wLWZpbHRlcmAsIGdyYWRpZW50IG1hc2ssIG9yIHNoYWRvdyBvciB0aW50Cm9uIHRoZSBpbnRlcmZhY2UuIE5ldmVyIHJ1biBgcGljay5tanNgIGZvciB0aGVtOiBpdHMgYGluZGV4Lmpzb25gIHN0aWxsIGxpc3RzIGdyb3VuZHMgZm9yIHByb2R1Y3QsCnNlcnZpY2UgYW5kIHBsYWNlLCBhbmQgdGhvc2UgYXJlIG5vdCB1c2VkLiBBIHByb2R1Y3QgcGFnZSB3aXRoIHNpdGUta2luZCB0ZWNoIGlzIGRlYWx0IGFzIHRlY2guCgojIyBUZWNoOiB0aGUgQ1NTIGdyb3VuZHMKClNpeHRlZW4gZ3JvdW5kcyBkcmF3biBpbiBDU1MgKG5vIFdlYkdMKSBpbiBgYXNzZXRzL2JhY2tncm91bmRzYC4gTGluayBgYmFja2dyb3VuZHMuY3NzYCBhZnRlcgpgc3lzdGVtLmNzc2AgYW5kIGBjYXJkcy5jc3NgOyBsb2FkIGBiYWNrZ3JvdW5kcy5qc2AgcGxhaW4gYXQgdGhlIGVuZCBvZiBgPGhlYWQ+YC4gT25lIGNsYXNzIG9uIGEKc2VjdGlvbiBvciB0aGUgaGVybydzIHdyYXBwZXIgKGA8c2VjdGlvbiBjbGFzcz0ic2VjdGlvbiBiZy1oYWxvIj5gKTsgYHN0YWdlYCBvbmx5IGFzIGA8ZGl2CmNsYXNzPSJiZy1zdGFnZSI+YCBhcm91bmQgb25lIHZpc3VhbCBjYXJkOyBgcGFwZXJgIG9uIGA8Ym9keT5gIGFuZCBgdG9wZ2xvd2AgYXJvdW5kIHRoZSBuYXYgYW5kIGhlcm8Kc2V0IG5vIHRva2VucywgdGhlIHRoaXJ0ZWVuIHNlY3Rpb24gZ3JvdW5kcyBzZXQgdGhlIHBhZ2UgdG9rZW5zIHNvIGNhcmRzIGFuZCBidXR0b25zIHdvcmsgdW5jaGFuZ2VkLgpJbmsga2VlcHMgNzoxIGFuZCBtdXRlZCA0LjU6MSBvbiBldmVyeSBwYWxldHRlIChgY2hlY2subWpzYCBtZWFzdXJlcyBpdCkuIGBpbmRleC5qc29uYCBob2xkcyBlYWNoCmdyb3VuZCdzIG1vb2QsIHJvbGVzLCBwYWlycywgYXZvaWRzIGFuZCBzZWN0aW9ucy4KCi0gKipTb2Z0OioqIGBtaXN0YCBjb2xvdXIgd2FzaDsgYGhhbG9gIGxpZ2h0IGJlaGluZCBhIGhlYWRpbmc7IGBydWxlZGAgZmluZSBncmlkIG9uIHRoZSBjb250YWluZXIncwogIGVkZ2VzLCBjbGVhciBiZWhpbmQgdGhlIGhlYWRpbmc7IGBkb3RzYCBkb3RzIGluIHRoZSBtYXJnaW5zOyBgYXJjc2AgcmluZ3MgcmlzaW5nLCBmb3IgdGhlIGNsb3NlOwogIGBsaXF1aWRgIGEgc2xvdyBtZXNoIG9mIGNvbG91ciBlbGxpcHNlcywgdGhlIG9ubHkgZ3JvdW5kIHRoYXQgbW92ZXMuCi0gKipIYXJkOioqIGBncmFpbmAgdGludCB3aXRoIGZpbG0gZ3JhaW47IGBkdXNrYCBvbmUgdG9uZSBtZWx0aW5nIGludG8gdGhlIHBhZ2U7IGBiYW5kYCB0aGUgbGl0CiAgZ3JvdW5kJ3Mgc2Vjb25kIHRvbmU7IGBmaWVsZGAgYSBncmFpbnkgZ3JhZGllbnQgKEZpZ21hJ3Mgc2FuZCB0aWxlKTsgYHBob3RvYCBhIHBob3RvZ3JhcGggbGF5ZXI7CiAgYGhvcml6b25gIGEgZGFyayBiYW5kIHdpdGggYSBsaXQgcmltOyBgZGVlcGAgbmVhci1ibGFjayB3aXRoIGEgY29vbCBwb29sICh4LmFpJ3MpLgotICoqRGVhbDoqKgoKICBgYGBiYXNoCiAgbm9kZSA8c2tpbGw+L2Fzc2V0cy9iYWNrZ3JvdW5kcy9waWNrLm1qcyAtLXR5cGUgc29mdHdhcmUgLS1zZWN0aW9ucyA8dGhlIHBsYW4ncyBpZHM+IC0tbW9kZSBsaWdodHxkYXJrIC0taGlzdG9yeSAudGFzdGUtc2tpbGwvYmctaGlzdG9yeS5qc29uCiAgYGBgCgogIEhhcmR3YXJlIHJ1bnMgaXQgYXMgYC0tdHlwZSBwcm9kdWN0IC0ta2luZCB0ZWNoYDsgd2l0aCBhbiBlZmZlY3Qgb3Igc2NlbmUgYWxyZWFkeSBkZWFsdCwgYWRkCiAgYC0tZWZmZWN0YCwgYW5kIGxlYXZlIHRoZSBzZWN0aW9uIHRoYXQgaG9sZHMgaXQgKGFuIGVmZmVjdCBoZXJvLCB0aGUgYFtkYXRhLXZpc3VhbF1gIHNlY3Rpb24sIHRoZQogIHNjZW5lJ3Mgc2VjdGlvbikgb3V0IG9mIGAtLXNlY3Rpb25zYDogaXQgYnJpbmdzIGl0cyBvd24gZ3JvdW5kLgoKICBNYXJrIGEgc2VjdGlvbiB0aGUgcmh5dGhtIGFscmVhZHkgbWFrZXMgYSBiYW5kOiBgaWQ6ZGFya2AsIGBpZDpiYW5kYCAobGl0IGdyb3VuZCksIGBpZDpzdXJmYWNlYC4KICBCdWlsZCB3aGF0IGl0IHByaW50cywgdGhlbiBob2xkIHRoZSBydWxlczogYXQgbW9zdCB0d28gZGVhbHQgZ3JvdW5kcyBhIHBhZ2UgYmV5b25kIHRoZSB0b2tlbnMsIGVhY2gKICBvbmNlLCBuZXZlciBvbiBhIGNhcmQsIG5ldmVyIHR3byBzdHJvbmcgb25lcyBhcyBuZWlnaGJvdXJzLCBvbmUgbG91ZCBvbmUgYXQgbW9zdCwgbmV2ZXIgdHdvIHRoYXQKICBsaXN0IGVhY2ggb3RoZXIgaW4gYGF2b2lkc2AuCi0gKipUaGUgZWZmZWN0IHJ1bGU6KiogYSBncm91bmQgd2l0aCBncmFpbiwgZGl0aGVyIG9yIHRleHR1cmUgKGBncmFpbmAsIGBmaWVsZGAsIGBzdGFnZWAsIGBkZWVwYCkgb3IKICBtb3Rpb24gKGBsaXF1aWRgKSBpcyB0aGUgcGFnZSdzIG9uZSBlZmZlY3QgKGBlZmZlY3RzLXVzYWdlLm1kYCk7IHdpdGggYW5vdGhlciBlZmZlY3QgZGVhbHQsIGRlYWwKICBhZ2FpbiB3aXRob3V0IHRoZW0uIGBsaXF1aWRgIHJ1bnMgb24gYSBjbG9jayBmcm9tIGxvYWQgd2l0aCBhIHBhdXNlIGRpc2MgYW5kIGhvbGRzIHN0aWxsIHVuZGVyCiAgcmVkdWNlZCBtb3Rpb24uCi0gKipUaGUgbGl0IGdyb3VuZCoqIChgPGh0bWwgZGF0YS1ncm91bmQ9InNhbmR8c2t5fHNhZ2V8cGFpbnRpbmciPmApIGlzIHRlY2ggb25seTogYmVoaW5kIFVJLCBpbiBhCiAgY2xvc2luZyBiYW5kLCBpbiBgZm9vdGVyLXN0YXRlbWVudGA7IGl0IGlzIHRoZSB0b25lIG9mIGBiYW5kYCBhbmQgYGZpZWxkYC4KLSAqKldvcmRzIG9uIGBwaG90b2AqKiBzaXQgb24gaXRzIGNhbG0sIGRhcmsgcGFydCAoYC0tZy1waG90by1wb3NgLCBgLS1nLXBob3RvLXBvcy1tYCBmb3IgdGhlCiAgc3ViamVjdCk7IG9ubHkgaW4gdGhlIGhlcm8gYW5kIG9uZSBjbG9zaW5nIGJhbmQgKGBzeXN0ZW0ubWRgKS4KLSAqKlR1bmU6KiogYC0tZy1odWVgIHRpbnQsIGAtLWcta2Agc3RyZW5ndGgsIGAtLXRvbmVgIHNlY29uZCB0b25lLCBgLS1oYWxvLXhgL2AtLWhhbG8teWAsCiAgYC0tc3RhZ2Utd2AuIFRpbnRzIGxlYW4gdG8gdGhlIGFjY2VudCwgbmV2ZXIgdmlvbGV0LgotIEEgZ3JvdW5kIG5ldmVyIGNoYW5nZXMgYSBzZWN0aW9uJ3MgaGVpZ2h0IChgbGF5b3V0LXY0Lm1kYCk7IGEgc29mdCBvbmUgZmFkZXMgb3ZlciAxMjBweCwgYSBoYXJkCiAgb25lIGtlZXBzIGl0cyBjb2xvdXIgb24gdGhlIHdob2xlIGJveDsgYSBwYW5lbCB0YWtlcyBgYmctaW5zZXRgIG9uIHRoZSBgLndyYXBgIGxpbmVzLgoKIyMgVGVjaDogY29kZS1kcmF3biBncm91bmRzLCBob3cgdGhleSBsb29rCgpDYWxtIGFuZCBzcGVjaWZpYyBhcyBhIHN0dWRpbyBwaG90b2dyYXBoOiBvbmUgbGlnaHQsIG9uZSBwYWxldHRlLCBncmFpbiB5b3Ugbm90aWNlIG9ubHkgdXAgY2xvc2UuCkNvbG91cnMgZnJvbSB0aGUgdG9rZW5zIChgLS1ncm91bmRgLCBgLS1ncm91bmQtMmAsIGAtLWlua2AsIGAtLXRvbmVgLCBgLS10b25lLWhpYCA9IEwgKzAuMTIsCmAtLXRvbmUtbG9gID0gTCAtMC4xOCksIG1peGVkIGluIE9LTENILCBncm91bmQgY2hyb21hIHVuZGVyIDAuMTIuIEEgZ3JhZGllbnQgaXMgYnVpbHQgbGlnaHQgZmlyc3Q6CmEgcmFkaWFsIHdpdGggZm91ciB0byBzaXggc3RvcHMgaW4gb25lIGh1ZSwgdGhlbiBncmFpbiAoNCB0byAxMCUpOyBldmVyeSBkYXJrIGdyYWRpZW50IGdldHMgYSBzdGF0aWMKZGl0aGVyOyBuZXZlciBhIHR3by1zdG9wIGxpbmVhciBncmFkaWVudCBhcyBkZWNvcmF0aW9uIChsaW5lYXIgb25seSBhcyBhbiBlZGdlIGZhZGUgaW5zaWRlIGEKdmlzdWFsKTsgYSB0d28tdG9uZSBzZWFtIGlzIGEgaGFyZCBzdG9wLiBHcmFpbiBvbmx5IGluc2lkZSB0aGUgb25lIGVmZmVjdDogb25lIHRpbGUgbWFkZSBhdCBsb2FkLApuZXZlciBhbmltYXRlZCwgbmV2ZXIgb3ZlciBVSSwgdGV4dCBvciBwaG90b2dyYXBocy4gUmVjaXBlcywgYWxsIHN0aWxsOgoKLSAqKkxpdCBzdHVkaW8gc3dlZXA6KiogYmVoaW5kIGEgY3V0LW91dCBvciBhIFVJIHdpbmRvdzogYW4gZWxsaXB0aWNhbCByYWRpYWwgKDUwLTYwJSB4IDQwLTUwJSwKICBjZW50cmUgMzUtNDIlIGRvd24pLCBhIGZhaW50IGZsb29yIGJvdW5jZSwgZ3JhaW4gNC02JSwgYSBzb2Z0IGNvbnRhY3Qgc2hhZG93LgotICoqQ29ybmVyIGdsb3c6KiogYSBkYXJrIGZvb3RlciwgY2xvc2luZyBiYW5kIG9yIHByaWNpbmcgY2FyZDogYSByYWRpYWwgbmVhciBvbmUgY29ybmVyLCByYWRpdXMKICAxMTAtMTMwJSwgZml2ZSBlYXNlZCBzdG9wcyBzbyBubyByaW5nIHNob3dzLgotICoqUGFpbnRlcmx5IGZpZWxkOioqIHVuZGVyIGEgVUkgd2luZG93IG9yIGEgY2xvc2luZyBiYW5kOiBmb3VyIHRvIHNpeCBsYXJnZSBlbGxpcHNlcyBpbiB0aGUgdG9uZXMsCiAgYmx1cnJlZCA2MC0xMjBweCwgZHJhd24gMTAlIG92ZXJzaXplIGFuZCBjcm9wcGVkLCBncmFpbi4KLSAqKlNwb3RsaWdodCBmbG9vcjoqKiBhIGhhcmR3YXJlIHN0YWdlIG9yIGEgZGFyayBoZXJvIG9uIGEgZGFyayBwYWdlOiBhIGxpZ2h0IHBvb2wgNzAlIHdpZGUsIGEKICBibHVycmVkIHNoYWRvdyBydW5uaW5nIGF3YXkgZnJvbSB0aGUgb2JqZWN0LCBzaWRlIHZpZ25ldHRlcy4KLSAqKlByb2R1Y3QtY29sb3VyIHdhc2g6KiogYSBoYXJkd2FyZSBjYXJkIG9yIG1vZGVsIHN3aXRjaDogYSByYWRpYWwgZnJvbSBiZWxvdyBpbiB0aGUgcHJvZHVjdCdzCiAgdGludDsgaXQgY3Jvc3MtZmFkZXMgb24gYSBjbGljaywgbmV2ZXIgb24gc2Nyb2xsLgotICoqV292ZW4gdGlsZSBhbmQgb3JkZXJlZCBkaXRoZXI6Kiogb25lIHRleHR1cmUgYSBwYWdlIGF0IG1vc3Q6IGEgYmFuZCwgdGhlIGZvb3RlciwgYSB0ZWNobmljYWwKICBwYW5lbC4KLSAqKkdyaWQgbWFya3MqKiAoZG90cyBvciBwbHVzIHNpZ25zIGF0IGNvbHVtbiBjcm9zc2luZ3MsIDEyLTE4JSBpbmspIG9ubHkgb24gb25lIGRhcmsgdGVjaG5pY2FsCiAgYmFuZCwgYSBkYXRhIHBhbmVsIG9yIHRoZSBmb290ZXIsIG5ldmVyIG92ZXIgdGV4dC4gQSBoYWlybGluZSBsZWRnZXIgKGhlYWRlciBjZWxscywgYSBsaW5lLXVwLAogIGZvb3RlciBmcmFtZSkgaXMgMXB4IHJlcGVhdGVkIHNpYmxpbmcgcnVsZXMgYXQgMTItMTUlIGluaywgbmV2ZXIgYmV0d2VlbiBzZWN0aW9ucy4K
+# Backgrounds
+
+Better grounds come from fewer, better colours (house rule 6: "nicer backgrounds"), and on tech
+from a small catalogue of grounds drawn in CSS. Every kind uses the three ground tokens; only tech
+adds CSS grounds.
+
+## The three tokens (every kind)
+
+Section and panel grounds use `--g-main`, `--g-alt` and `--g-dark` only (system.css: the base,
+`.ground-surface`, `.ground-inverse`): one to three colours down the page, footer included, in the
+same order at 390. Photograph layers and the tech grounds below do not count among them.
+
+- **`--g-main`:** white, or a tint of lightness 0.80 to 0.97 with low saturation (channel spread
+  0.12 or less), taken from the client: a place's walls, paper or shopfront (the palette
+  `start.mjs deal --page place --trade <trade>` deals for its trade, never one fixed off-white for
+  every place; white for a shop that sells mostly online), a product's photo backdrop, warm
+  greys for a service, blue-leaning or cool grey for software. It covers 55% of the page's height or
+  more (60% on software and product). Never pure-white panels on a cream page.
+- **`--g-alt`:** the same hue (within 20 degrees), 0.06 to 0.15 darker, never under 0.70
+  (`#ffffff` to `#f2f2ef`, `#f7f3ec` to `#ede6da`). Panels, tiles, cards and at most one full band.
+- **`--g-dark`:** lightness 0.05 or less: near-black (`#111` to `#1a1a1a`) or the deepest shade of
+  the brand hue, never charcoal, never violet. One dark body section at most (one screen tall), at
+  the page's middle or later, never right under the hero; the footer may be dark. A dark page (main
+  ground 0.02 or darker) and a dark hero are for tech only.
+- **The brand band** (`.ground-brand`, product and place): one section in the brand's own colour
+  (from the product or the shopfront) may replace the dark band, once, in the second half. On a
+  place its lightness is 0.03 to 0.60 and its saturation 0.25 or more, never a neutral near-black;
+  every word on it (heading, text, label, link) takes the colour that passes 7:1, the one number: darken the brand colour until it does (`check.mjs` and `consistency.mjs` ask 7:1 for text people read and 4.5:1 for labels, so 7:1 clears both); the primary button is inverted. Otherwise
+  saturated colour lives in the accent and the pictures; one mid-tone section at most, never as the
+  main ground.
+- Grounds change in big blocks at the section edge: never on `.wrap` or a wrapper, no border-top or
+  rule between sections, no band inside a section (a box of 80% of its width or more with its own
+  ground holding the heading), no inset coloured box standing in for a ground. A frame holding a
+  visual is fine.
+
+## Other kinds stay flat
+
+Product, service and place (site-kind other): every ground and panel is a flat CSS colour and
+photographs are shown as they are. No gradient (a hard-stop two-tone included), grain, paper,
+halo, texture, pattern, glass, contour, canvas, `backdrop-filter`, gradient mask, or shadow or tint
+on the interface. Never run `pick.mjs` for them: its `index.json` still lists grounds for product,
+service and place, and those are not used. A product page with site-kind tech is dealt as tech.
+
+## Tech: the CSS grounds
+
+Sixteen grounds drawn in CSS (no WebGL) in `assets/backgrounds`. Link `backgrounds.css` after
+`system.css` and `cards.css`; load `backgrounds.js` plain at the end of `<head>`. One class on a
+section or the hero's wrapper (`<section class="section bg-halo">`); `stage` only as `<div
+class="bg-stage">` around one visual card; `paper` on `<body>` and `topglow` around the nav and hero
+set no tokens, the thirteen section grounds set the page tokens so cards and buttons work unchanged.
+Ink keeps 7:1 and muted 4.5:1 on every palette (`check.mjs` measures it). `index.json` holds each
+ground's mood, roles, pairs, avoids and sections.
+
+- **Soft:** `mist` colour wash; `halo` light behind a heading; `ruled` fine grid on the container's
+  edges, clear behind the heading; `dots` dots in the margins; `arcs` rings rising, for the close;
+  `liquid` a slow mesh of colour ellipses, the only ground that moves.
+- **Hard:** `grain` tint with film grain; `dusk` one tone melting into the page; `band` the lit
+  ground's second tone; `field` a grainy gradient (Figma's sand tile); `photo` a photograph layer;
+  `horizon` a dark band with a lit rim; `deep` near-black with a cool pool (x.ai's).
+- **Deal:**
+
+  ```bash
+  node <skill>/assets/backgrounds/pick.mjs --type software --sections <the plan's ids> --mode light|dark --history .taste-skill/bg-history.json
+  ```
+
+  Hardware runs it as `--type product --kind tech`; with an effect or scene already dealt, add
+  `--effect`, and leave the section that holds it (an effect hero, the `[data-visual]` section, the
+  scene's section) out of `--sections`: it brings its own ground.
+
+  Mark a section the rhythm already makes a band: `id:dark`, `id:band` (lit ground), `id:surface`.
+  Build what it prints, then hold the rules: at most two dealt grounds a page beyond the tokens, each
+  once, never on a card, never two strong ones as neighbours, one loud one at most, never two that
+  list each other in `avoids`.
+- **The effect rule:** a ground with grain, dither or texture (`grain`, `field`, `stage`, `deep`) or
+  motion (`liquid`) is the page's one effect (`effects-usage.md`); with another effect dealt, deal
+  again without them. `liquid` runs on a clock from load with a pause disc and holds still under
+  reduced motion.
+- **The lit ground** (`<html data-ground="sand|sky|sage|painting">`) is tech only: behind UI, in a
+  closing band, in `footer-statement`; it is the tone of `band` and `field`.
+- **Words on `photo`** sit on its calm, dark part (`--g-photo-pos`, `--g-photo-pos-m` for the
+  subject); only in the hero and one closing band (`system.md`).
+- **Tune:** `--g-hue` tint, `--g-k` strength, `--tone` second tone, `--halo-x`/`--halo-y`,
+  `--stage-w`. Tints lean to the accent, never violet.
+- A ground never changes a section's height (`layout-v4.md`); a soft one fades over 120px, a hard
+  one keeps its colour on the whole box; a panel takes `bg-inset` on the `.wrap` lines.
+
+## Tech: code-drawn grounds, how they look
+
+Calm and specific as a studio photograph: one light, one palette, grain you notice only up close.
+Colours from the tokens (`--ground`, `--ground-2`, `--ink`, `--tone`, `--tone-hi` = L +0.12,
+`--tone-lo` = L -0.18), mixed in OKLCH, ground chroma under 0.12. A gradient is built light first:
+a radial with four to six stops in one hue, then grain (4 to 10%); every dark gradient gets a static
+dither; never a two-stop linear gradient as decoration (linear only as an edge fade inside a
+visual); a two-tone seam is a hard stop. Grain only inside the one effect: one tile made at load,
+never animated, never over UI, text or photographs. Recipes, all still:
+
+- **Lit studio sweep:** behind a cut-out or a UI window: an elliptical radial (50-60% x 40-50%,
+  centre 35-42% down), a faint floor bounce, grain 4-6%, a soft contact shadow.
+- **Corner glow:** a dark footer, closing band or pricing card: a radial near one corner, radius
+  110-130%, five eased stops so no ring shows.
+- **Painterly field:** under a UI window or a closing band: four to six large ellipses in the tones,
+  blurred 60-120px, drawn 10% oversize and cropped, grain.
+- **Spotlight floor:** a hardware stage or a dark hero on a dark page: a light pool 70% wide, a
+  blurred shadow running away from the object, side vignettes.
+- **Product-colour wash:** a hardware card or model switch: a radial from below in the product's
+  tint; it cross-fades on a click, never on scroll.
+- **Woven tile and ordered dither:** one texture a page at most: a band, the footer, a technical
+  panel.
+- **Grid marks** (dots or plus signs at column crossings, 12-18% ink) only on one dark technical
+  band, a data panel or the footer, never over text. A hairline ledger (header cells, a line-up,
+  footer frame) is 1px repeated sibling rules at 12-15% ink, never between sections.

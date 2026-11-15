@@ -1,1 +1,86 @@
-IyBJY29ucwoKQSBwYWdlIHRoYXQgbmFtZXMgYSB0b29sIHNob3dzIHRoYXQgdG9vbCdzIHJlYWwgbG9nbywgaW4gaXRzIG93biBjb2xvdXJzLiBBIGZpbGUgY2FyZCB0aGF0IHNheXMgR29vZ2xlIERvY3MKY2FycmllcyB0aGUgR29vZ2xlIERvY3MgaWNvbiwgYSBXb3JkIGZpbGUgdGhlIFdvcmQgZmlsZSBpY29uLiBOZXZlciBkcmF3IGEgbG9vay1hbGlrZSwgbmV2ZXIgcHV0IGEgbGV0dGVyIGluIGEKY2lyY2xlIG9yIGEgZ2VuZXJpYyBwYWdlIGdseXBoIHdoZXJlIGEgcmVhbCBpY29uIGV4aXN0cy4gQSBmaWN0aW9uYWwgY2xpZW50J3Mgb3duIG1hcmsgaXMgZGVzaWduZWQsIG5ldmVyIGJvcnJvd2VkLgoKYHNjcmlwdHMvaWNvbnMubWpzYCBpcyB0aGUgb25lIHJlc29sdmVyLiBQYWdlcywgYGRpYWdyYW0uanNgIGFuZCBldmVyeSBvdGhlciBwYXJ0IHJlYWQgdGhlIFNWRyBmaWxlcyBpdCB3cml0ZXM7Cm5vdGhpbmcgZmV0Y2hlcywgdGludHMgb3IganVkZ2VzIGFuIGljb24gYXQgcnVudGltZSwgYW5kIG5vIHBhZ2UgY2FsbHMgYSBDRE4gZm9yIGFuIGljb24uCgojIyBXaGVyZSB0aGV5IGNvbWUgZnJvbQoKfCBzZXQgfCBzb3VyY2UgKHBpbm5lZCkgfCBob2xkcyB8IGRyYXdpbmdzIGxpY2VuY2UgfAp8LS0tfC0tLXwtLS18LS0tfAp8IGBsb2dvc2AgfCBgY2RuLmpzZGVsaXZyLm5ldC9naC9naWxiYXJiYXJhL2xvZ29zYCBhdCBjb21taXQgYGQ2OTYwZWRjMWI3M2AgKDI2IE9jdCAyMDI2OyB0aGUgcmVwb3NpdG9yeSBoYXMgbm8gdGFncykgfCBhYm91dCAxLDUwMCBicmFuZHMgaW4gZnVsbCBjb2xvdXI6IHRoZSBmaXJzdCBjaG9pY2UgfCBDQzAgKExJQ0VOU0UudHh0IGF0IHRoZSBjb21taXQpIHwKfCBgc2lgIHwgYHNpbXBsZS1pY29uc2AgMTYuMzAuMCB8IG9uZS1jb2xvdXIgbWFya3MgcGFpbnRlZCBpbiB0aGUgYnJhbmQgaGV4OiB0aGUgZmFsbGJhY2ssIG9ubHkgd2hlcmUgbm8gY29sb3VyIG1hcmsgZXhpc3RzIHwgQ0MwIHwKfCBgZmlsZWAgfCBgQGljb25pZnktanNvbi92c2NvZGUtaWNvbnNgIDEuMi4zMCB8IGZpbGUgdHlwZXMgaW4gY29sb3VyIChwZGYsIG1hcmtkb3duLCB6aXAsIFdvcmQsIEV4Y2VsLCBQb3dlclBvaW50KTogYSBkb2N1bWVudCB0eXBlLCBuZXZlciBhIGJyYW5kIHwgTUlUIHwKfCBgdWlgIHwgYEBpY29uaWZ5LWpzb24vbHVjaWRlYCAxLjIuMTAwIHwgaW50ZXJmYWNlIGdseXBocywgb25lIGxpbmUgc2V0IHwgSVNDIHwKCmBzaWAgaXMgdXNlZCBmb3IgR29vZ2xlIERvY3MsIFNoZWV0cywgU2xpZGVzLCBGb3JtcywgQ2hhdCBhbmQgVGFza3MsIENhbGVuZGx5LCBFdmVybm90ZSwgUXVpY2tCb29rcywgUmV2b2x1dCBhbmQgdGhlCmNvbnNvbGUgYW5kIGdhbWUtc3RvcmUgbWFya3MgKFBsYXlTdGF0aW9uLCBFcGljIEdhbWVzLCBSaW90LCBCYXR0bGUubmV0LCBpdGNoLmlvLCBSb2Jsb3gsIEVBLCBVYmlzb2Z0LCBSb2Nrc3RhciwgVmFsdmUsCkN1cnNlRm9yZ2UsIE1vZHJpbnRoLCBHT0cpLiBYYm94IGFuZCBOaW50ZW5kbyBhcmUgaW4gbm8gcGVybWl0dGVkIHNldDogbmFtZSB0aGUgY29uc29sZSBpbiB0eXBlLCBuZXZlciBhIGRyYXduCm1hcms7IGEgZ2FtZSdzIHN0b3JlIHJvdyBpcyBTdGVhbSwgUGxheVN0YXRpb24gYW5kIEVwaWMgR2FtZXMgKGBhcHBzIC0tdGFnIGdhbWluZ2ApLiBUaGUgR29vZ2xlIGVkaXRvcnMgYXJlIGluIHRoZWlyIGJyYW5kIGJsdWUsIGdyZWVuIGFuZCB5ZWxsb3c7IHRoZSBNaWNyb3NvZnQgT2ZmaWNlCm1hcmtzIGV4aXN0IGluIG5vIHBlcm1pdHRlZCBzb3VyY2UsIHNvIGEgV29yZCwgRXhjZWwgb3IgUG93ZXJQb2ludCBmaWxlIGNhcmQgdXNlcyB0aGUgZmlsZS10eXBlIGljb24gKGBkb2N4YCwgYHhsc3hgLCBgcHB0eGApLgoKKip0aGVTVkcgKHRoZSBgYnJhbmRzYCBzZXQpIHdhcyBkcm9wcGVkLioqIEl0cyBwYWNrYWdlIGlzIE1JVCwgd2hpY2ggY292ZXJzIHRoZSBjb21waWxhdGlvbiBvbmx5OyB0aGUgbGljZW5jZSBpdApyZWNvcmRzIHBlciBtYXJrIGlzIGl0cyBvd24gbGFiZWwsIG5vdCBhIGdyYW50IGJ5IHRoZSBvd25lciwgYW5kIDM3IG9mIGl0cyBNaWNyb3NvZnQgbWFya3Mgc2F5ICJubyBleHByZXNzIHJlZGlzdHJpYnV0aW9uCmxpY2VuY2Ugc3VwcGxpZWQiLiBBIHByZXNzLWtpdCBkb3dubG9hZCBpcyBub3QgYSBwYXRoIHRoaXMgc2tpbGwgdGFrZXMuIGBicmFuZHM6YCBpZHMgbm93IGZhaWwgd2l0aCBhIG1lc3NhZ2UgdGhhdCBzYXlzIHNvLgoKRXZlcnkgbWFyayBpcyBzdGlsbCBpdHMgb3duZXIncyB0cmFkZW1hcms6IG5vbWluYXRpdmUgdXNlIG9ubHkuIE5hbWUgdG9vbHMgdGhlIHByb2R1Y3QgcmVhbGx5IHdvcmtzIHdpdGgsIG5ldmVyIGltcGx5CmVuZG9yc2VtZW50LiBUaGUgZm9vdGVyIGNhcnJpZXMgIlByb2R1Y3QgbmFtZXMgYW5kIGxvZ29zIGFyZSB0cmFkZW1hcmtzIG9mIHRoZWlyIG93bmVycyIgYW5kIHRoZSBzaXRlIGNhcnJpZXMKYGljb25zLWNyZWRpdHMuanNvbmAgKGZpbGUsIHNldCwgc291cmNlIHdpdGggdGhlIGNvbW1pdCwgbGljZW5jZSwgdHJhZGVtYXJrIGZsYWcsIHRoZSBicmFuZCdzIHNpdGUpLgoKIyMgQ29tbWFuZHMKCmBub2RlIDxza2lsbD4vc2NyaXB0cy9pY29ucy5tanMgLi4uYCBmcm9tIHRoZSBzaXRlIHJvb3Q6CgotIGBmaW5kIGdvb2dsZSBkb2NzYDogd2hhdCBtYXRjaGVzLCBpbiBldmVyeSBzZXQsIHdpdGggbGljZW5jZS4KLSBgYXBwcyAtLXRhZyBnYW1pbmdgOiB0aGUgY3VyYXRlZCBsaXN0LCA0NTggYXBwcyBhbmQgMzggZmlsZSB0eXBlcyBieSBzaG9ydCBuYW1lIChgZ29vZ2xlLWRvY3NgLCBgc3RlYW1gLCBgcGRmYCk7CiAgYGxpc3QgLS10YWdzYCBzaG93cyB0aGUgdGFncyAoZGV2LCBhaSwgZ2FtaW5nLCBlbmdpbmUsIGhhcmR3YXJlLCBjaGlwcywgY2xvdWQsIGRiLCBtb25pdG9yaW5nLCBwYXltZW50cywgc29jaWFsIC4uLikuCiAgSW50ZXJmYWNlIGdseXBoczogYGxpc3QgLS1zZXQgdWkgLS10YWcgZ2FtaW5nYCAoNDM1OiBnYW1lcGFkLTIsIHN3b3JkcywgbWljcm9jaGlwLCBjaXJjdWl0LWJvYXJkIC4uLikuCi0gYGZldGNoIGdvb2dsZS1kb2NzIHNsYWNrIGZpbGU6cGRmMiB1aTphcnJvdy1yaWdodCAtLW91dCBhc3NldHMvaWNvbnNgOiB3cml0ZXMgdGhlIGZpbGVzLCBwcmludHMgdGhlIHRhZ3MgdG8gcGFzdGUuCi0gYHNjYW4gaW5kZXguaHRtbCAtLW91dCBhc3NldHMvaWNvbnNgOiBmZXRjaGVzIGV2ZXJ5IGljb24gYSBwYWdlIG5hbWVzIChkaWFncmFtIHNwZWNzLCBgZGF0YS1kaWFncmFtYCBwcmVzZXQgbmFtZXMsIGBkYXRhLWljb25gKS4KICBSdW4gaXQgbGFzdCwgc28gYSBmaW5pc2hlZCBwYWdlIGhhcyBubyBtaXNzaW5nIGljb24uCi0gYGNoZWNrYDogZG9lcyBldmVyeSBlbnRyeSByZXNvbHZlOyBsaXN0cyB3b3JkbWFya3MsIG9uZS1jb2xvdXIgZmFsbGJhY2tzLCBibGFjayBhbmQgdmlvbGV0IG1hcmtzLgotIGBtZWFzdXJlYDogbWFpbnRlbmFuY2UuIE1lYXN1cmVzIGV2ZXJ5IGNvbG91ciBtYXJrJ3MgZHJhd24gYm94IGluIGhlYWRsZXNzIENocm9tZSAoQ1BVIGZsYWdzLCBjbG9zZWQgYnkgaXRzIG93biBQSUQpIGludG8KICBgaW5kZXguanNvbmAgYGJveGVzYDsgYGZldGNoYCBjcm9wcyB0byBpdC4gUnVuIGl0IHdoZW4gdGhlIGN1cmF0ZWQgbGlzdCBjaGFuZ2VzIChgLS1wcm9maWxlIDxkaXI+YCBzZXRzIHRoZSBDaHJvbWUgcHJvZmlsZSkuCi0gRnJvbSBjb2RlOiBgaW1wb3J0IHsgcmVzb2x2ZUljb24gfSBmcm9tICcuL2ljb25zLm1qcydgLgoKRWFjaCB3cml0dGVuIGZpbGUgY2FycmllcyB0aGUgZGVjaXNpb246IGBkYXRhLWljPSJ2aW9sZXQiYCwgYCJpbmsiYCBvciBgInBhcGVyImAgb24gdGhlIHJvb3QsIHNvIGBkaWFncmFtLmpzYCBhbmQgYW55IHBhZ2UgdHJlYXQgaXQKYXMgYGljb25zLm1qc2AgcHJpbnRlZCBpdC4KCiMjIFdoaWNoIG9uZQoKLSBCcmFuZCBvciBmaWxlIHR5cGU6IHRoZSBjb2xvdXIgaWNvbiwgZnJvbSB0aGUgY3VyYXRlZCBsaXN0IGZpcnN0IChgbG9nb3NgKSwgYSBgc2lgIG1hcmsgb25seSB3aGVyZSB0aGUgbGlzdCBzYXlzIHNvLgotIEludGVyZmFjZSBnbHlwaHMgKHNlYXJjaCwgYXJyb3csIGNoZWNrLCBhIGZlYXR1cmUgcG9pbnQpOiBgdWk6YCBvbmx5LCBuZXZlciBhIHNlY29uZCBsaW5lIHNldC4gQSBnbHlwaCBpcyBhbiBpbmxpbmUgc3ZnIGFuZCB0YWtlcyB0aGUgdGV4dCBjb2xvdXIuCi0gT25lLWNvbG91ciAoYC0tbW9ub2ApIGlzIGJldHRlciBpbiBhIHJvdyBvZiBjdXN0b21lciBsb2dvcywgaW4gZm9vdGVyIHNvY2lhbCBsaW5rcywgYW5kIHdoZXJlIGEgYnJhbmQgaGFzIG5vIGNvbG91ciB2ZXJzaW9uLgogIEEgbXVsdGktdG9uZSBtYXJrIGtlZXBzIGl0cyBkZXRhaWwgaW4gb25lIGNvbG91cjogaXRzIHBhcGVyLWNvbG91cmVkIHBhcnRzIGFyZSBjdXQgb3V0IG9mIHRoZSBzaWxob3VldHRlIGluc3RlYWQgb2YgZmlsbGluZyBzb2xpZC4KLSBCbGFjayBtYXJrcyAoR2l0SHViLCBBcHBsZSwgWCkgY2FycnkgYGljLWlua2A6IGljb24uY3NzIHR1cm5zIHRoZW0gd2hpdGUgb24gYSBkYXJrIGdyb3VuZC4gQSB3b3JkbWFyay1vbmx5IGxvZ28gKFN0cmlwZSwgTlZJRElBLCBHbykKICBjYXJyaWVzIGBpYy13aWRlYDogcHJpbnQgaXQgd2l0aCBgLS10aWxlYCwgd2hpY2ggZ2l2ZXMgaXQgYSB3aWRlIHRpbGUuCi0gTGlnaHQgbWFya3MgdGhhdCB2YW5pc2ggb24gYSBsaWdodCB0aWxlIGFyZSBub3QgaW4gdGhlIGxpc3QgKFdpc2UsIEtsYXJuYSB3ZXJlIGRyb3BwZWQgZm9yIGl0KS4KCiMjIyBUaGUgdmlvbGV0IHJ1bGUgKGEganVkZ2VtZW50LCBzdGF0ZWQpCgoiTmV2ZXIgdmlvbGV0IG9yIGxhdmVuZGVyIiBpcyBhIHJ1bGUgZm9yIHRoZSBwYWdlJ3Mgb3duIGRlc2lnbi4gQSB0aGlyZC1wYXJ0eSBsb2dvIGlzIGl0cyBvd25lcidzIG1hcmsgYW5kIGlzIG5vdApyZWNvbG91cmVkLCBidXQgYSBibG9jayBvZiB2aW9sZXQgYnJlYWtzIHRoZSBwYWxldHRlLiBCeSB0aGUgc2hhcmUgb2YgY29sb3VyZWQgZmlsbHMgdGhhdCBhcmUgdmlvbGV0IChgY2hlY2tgIHByaW50cyBpdDsgZGVlcCBuYXZ5IGlzIG5vdCB2aW9sZXQpOgoKLSBIYWxmIG9yIG1vcmUgKFN0cmlwZSwgVHdpdGNoLCBHb29nbGUgRm9ybXMsIFRlcnJhZm9ybSwgRGF0YWRvZywgQ2xpY2tVcCwgTG9vbSwgS290bGluLCBDIywgLk5FVCwgQm9vdHN0cmFwLCBFU0xpbnQgLi4uKTogZmxhZ2dlZAogIGBbdmlvbGV0XWAuIEEgdG9vbCB0aGUgcHJvZHVjdCByZWFsbHkgd29ya3Mgd2l0aCBrZWVwcyBpdHMgb3duIGNvbG91cnM6IGBmZXRjaGAgb3IgYHNjYW5gIGl0IHdpdGggYC0tY29sb3VyYCAod2l0aG91dCBpdCB0aGUgbWFyawogIHByaW50cyBpbiB0aGUgdGV4dCBjb2xvdXIsIGFuZCBhIGdyZXkgc3RhbmQtaW4gb2YgYSBrbm93biBsb2dvIGlzIGEgZmF1bHQpLiBUaGUgdmlvbGV0IGJhbiBjb3ZlcnMgdGhlIHBhZ2UncwogIHBhbGV0dGUsIG5ldmVyIGEgdGhpcmQtcGFydHkgbG9nbzsgYC0tbW9ub2Agb25seSBmb3IgYSByb3cgb2YgY3VzdG9tZXIgbG9nb3MuCi0gVW5kZXIgaGFsZiAoRmlnbWEgMjAlLCBHb29nbGUgRHJpdmUgMTQlKTogcHJpbnRlZCBhcyBkcmF3bjsgdGhlIHJlYWwgbG9nbyBpcyB3aGF0IG1ha2VzIHRoZSBwYWdlIGxvb2sgb2ZmaWNpYWwuIGAtLW1vbm9gIHByaW50cyBpdCBpbiBvbmUgY29sb3VyLgoKIyMgSG93IHRoZXkgc2l0CgpMaW5rIGBhc3NldHMvaWNvbnMvaWNvbi5jc3NgIGFmdGVyIHN5c3RlbS5jc3MuIGAuaWMtdGlsZWAgaXMgdGhlIHNvZnQgdGlsZSBiZWhpbmQgYSBsb2dvIChhIGxpZ2h0IHRpbGUgb24gYSBkYXJrCmdyb3VuZCwgc28gZXZlcnkgY29sb3VyIHJlYWRzKTsgYC5pYy1yb3dgIGEgbGlzdCByb3c7IGAuaWMtY2hpcGAgYSBuYW1lIHdpdGggYW4gaWNvbjsgYC5pYy1zdGFja2Agb3ZlcmxhcHBpbmcKdGlsZXM7IGAuaWMtZ3JpZC0tbW9zYWljYCB3aXRoIGAuaWMtY2VsbGAgYW4gaW50ZWdyYXRpb24gZ3JpZDsgYC5pYy1maWxlYCBhbmQgYC5pYy1maWxlLS10aWxlYCBhIGZpbGUgY2FyZDsKYC5pYy1wb2ludGAgYSBnbHlwaCB3aXRoIGEgc2hvcnQgdGV4dC4gU2l6ZXMgMTYsIDIwLCAyNCwgMjgsIDMyLCAzNiwgNDAsIDQ4LCA1Ni4gTm90aGluZyBhbmltYXRlcy4gYGFzc2V0cy9pY29ucy9kZW1vLmh0bWxgCnNob3dzIHRoZSBtb3NhaWMsIHRoZSBmaWxlIGNhcmRzLCBhbGwgNDU4IHRvb2xzIGJ5IGtpbmQsIGEgZGFyayBwYWdlIGFuZCB0aGUgZ2x5cGhzIChldmVyeSBpY29uIHNpdHMgaW4gYGFzc2V0cy9pY29ucy9kZW1vL2ApLgoKU2hhcGVzOiBgZmV0Y2hgIGNyb3BzIGEgbWFyayB0byBpdHMgbWVhc3VyZWQgZHJhd2luZyAoMiUgbWFyZ2luKSBhbmQgZ2l2ZXMgaXQgYSBzaGFwZSBjbGFzcyBmcm9tIHRoZSBjcm9wcGVkIHByb3BvcnRpb25zOgpgaWMtd2lkZWAgKG92ZXIgMS44OjEpLCBgaWMtbGFuZGAgKG92ZXIgMS4yNToxKSwgYGljLXRhbGxgICh1bmRlciAwLjg6MTogR29vZ2xlIERvY3MsIEZpZ21hKS4gQSB0aWxlIHNpemVzIGEgbGFuZHNjYXBlIG1hcmsgdG8gNzAlIG9mIGl0cwp3aWR0aCBhbmQgYSBwb3J0cmFpdCBvbmUgdG8gNjglIG9mIGl0cyBoZWlnaHQuIFRoZSBgZmlsZWAgc2V0IGlzIG5vdCBjcm9wcGVkIG9uIHB1cnBvc2UuCgpGaWxlIGNhcmRzLCBpbnRlZ3JhdGlvbiBncmlkcyBhbmQgInJlYWRzIGZyb20iIGxpc3RzIHVzZSByZWFsIGljb25zIGF0IDIwIHRvIDQwcHgsIG5ldmVyIGEgZ3JleSBib3guIEEgbG9nbyBrZWVwcyBpdHMgb3duCnByb3BvcnRpb25zIGFuZCBjb2xvdXJzLgo=
+# Icons
+
+A page that names a tool shows that tool's real logo, in its own colours. A file card that says Google Docs
+carries the Google Docs icon, a Word file the Word file icon. Never draw a look-alike, never put a letter in a
+circle or a generic page glyph where a real icon exists. A fictional client's own mark is designed, never borrowed.
+
+`scripts/icons.mjs` is the one resolver. Pages, `diagram.js` and every other part read the SVG files it writes;
+nothing fetches, tints or judges an icon at runtime, and no page calls a CDN for an icon.
+
+## Where they come from
+
+| set | source (pinned) | holds | drawings licence |
+|---|---|---|---|
+| `logos` | `cdn.jsdelivr.net/gh/gilbarbara/logos` at commit `d6960edc1b73` (26 Oct 2026; the repository has no tags) | about 1,500 brands in full colour: the first choice | CC0 (LICENSE.txt at the commit) |
+| `si` | `simple-icons` 16.30.0 | one-colour marks painted in the brand hex: the fallback, only where no colour mark exists | CC0 |
+| `file` | `@iconify-json/vscode-icons` 1.2.30 | file types in colour (pdf, markdown, zip, Word, Excel, PowerPoint): a document type, never a brand | MIT |
+| `ui` | `@iconify-json/lucide` 1.2.100 | interface glyphs, one line set | ISC |
+
+`si` is used for Google Docs, Sheets, Slides, Forms, Chat and Tasks, Calendly, Evernote, QuickBooks, Revolut and the
+console and game-store marks (PlayStation, Epic Games, Riot, Battle.net, itch.io, Roblox, EA, Ubisoft, Rockstar, Valve,
+CurseForge, Modrinth, GOG). Xbox and Nintendo are in no permitted set: name the console in type, never a drawn
+mark; a game's store row is Steam, PlayStation and Epic Games (`apps --tag gaming`). The Google editors are in their brand blue, green and yellow; the Microsoft Office
+marks exist in no permitted source, so a Word, Excel or PowerPoint file card uses the file-type icon (`docx`, `xlsx`, `pptx`).
+
+**theSVG (the `brands` set) was dropped.** Its package is MIT, which covers the compilation only; the licence it
+records per mark is its own label, not a grant by the owner, and 37 of its Microsoft marks say "no express redistribution
+licence supplied". A press-kit download is not a path this skill takes. `brands:` ids now fail with a message that says so.
+
+Every mark is still its owner's trademark: nominative use only. Name tools the product really works with, never imply
+endorsement. The footer carries "Product names and logos are trademarks of their owners" and the site carries
+`icons-credits.json` (file, set, source with the commit, licence, trademark flag, the brand's site).
+
+## Commands
+
+`node <skill>/scripts/icons.mjs ...` from the site root:
+
+- `find google docs`: what matches, in every set, with licence.
+- `apps --tag gaming`: the curated list, 458 apps and 38 file types by short name (`google-docs`, `steam`, `pdf`);
+  `list --tags` shows the tags (dev, ai, gaming, engine, hardware, chips, cloud, db, monitoring, payments, social ...).
+  Interface glyphs: `list --set ui --tag gaming` (435: gamepad-2, swords, microchip, circuit-board ...).
+- `fetch google-docs slack file:pdf2 ui:arrow-right --out assets/icons`: writes the files, prints the tags to paste.
+- `scan index.html --out assets/icons`: fetches every icon a page names (diagram specs, `data-diagram` preset names, `data-icon`).
+  Run it last, so a finished page has no missing icon.
+- `check`: does every entry resolve; lists wordmarks, one-colour fallbacks, black and violet marks.
+- `measure`: maintenance. Measures every colour mark's drawn box in headless Chrome (CPU flags, closed by its own PID) into
+  `index.json` `boxes`; `fetch` crops to it. Run it when the curated list changes (`--profile <dir>` sets the Chrome profile).
+- From code: `import { resolveIcon } from './icons.mjs'`.
+
+Each written file carries the decision: `data-ic="violet"`, `"ink"` or `"paper"` on the root, so `diagram.js` and any page treat it
+as `icons.mjs` printed it.
+
+## Which one
+
+- Brand or file type: the colour icon, from the curated list first (`logos`), a `si` mark only where the list says so.
+- Interface glyphs (search, arrow, check, a feature point): `ui:` only, never a second line set. A glyph is an inline svg and takes the text colour.
+- One-colour (`--mono`) is better in a row of customer logos, in footer social links, and where a brand has no colour version.
+  A multi-tone mark keeps its detail in one colour: its paper-coloured parts are cut out of the silhouette instead of filling solid.
+- Black marks (GitHub, Apple, X) carry `ic-ink`: icon.css turns them white on a dark ground. A wordmark-only logo (Stripe, NVIDIA, Go)
+  carries `ic-wide`: print it with `--tile`, which gives it a wide tile.
+- Light marks that vanish on a light tile are not in the list (Wise, Klarna were dropped for it).
+
+### The violet rule (a judgement, stated)
+
+"Never violet or lavender" is a rule for the page's own design. A third-party logo is its owner's mark and is not
+recoloured, but a block of violet breaks the palette. By the share of coloured fills that are violet (`check` prints it; deep navy is not violet):
+
+- Half or more (Stripe, Twitch, Google Forms, Terraform, Datadog, ClickUp, Loom, Kotlin, C#, .NET, Bootstrap, ESLint ...): flagged
+  `[violet]`. A tool the product really works with keeps its own colours: `fetch` or `scan` it with `--colour` (without it the mark
+  prints in the text colour, and a grey stand-in of a known logo is a fault). The violet ban covers the page's
+  palette, never a third-party logo; `--mono` only for a row of customer logos.
+- Under half (Figma 20%, Google Drive 14%): printed as drawn; the real logo is what makes the page look official. `--mono` prints it in one colour.
+
+## How they sit
+
+Link `assets/icons/icon.css` after system.css. `.ic-tile` is the soft tile behind a logo (a light tile on a dark
+ground, so every colour reads); `.ic-row` a list row; `.ic-chip` a name with an icon; `.ic-stack` overlapping
+tiles; `.ic-grid--mosaic` with `.ic-cell` an integration grid; `.ic-file` and `.ic-file--tile` a file card;
+`.ic-point` a glyph with a short text. Sizes 16, 20, 24, 28, 32, 36, 40, 48, 56. Nothing animates. `assets/icons/demo.html`
+shows the mosaic, the file cards, all 458 tools by kind, a dark page and the glyphs (every icon sits in `assets/icons/demo/`).
+
+Shapes: `fetch` crops a mark to its measured drawing (2% margin) and gives it a shape class from the cropped proportions:
+`ic-wide` (over 1.8:1), `ic-land` (over 1.25:1), `ic-tall` (under 0.8:1: Google Docs, Figma). A tile sizes a landscape mark to 70% of its
+width and a portrait one to 68% of its height. The `file` set is not cropped on purpose.
+
+File cards, integration grids and "reads from" lists use real icons at 20 to 40px, never a grey box. A logo keeps its own
+proportions and colours.

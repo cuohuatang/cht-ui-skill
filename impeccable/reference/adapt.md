@@ -1,1 +1,318 @@
-PiAqKkFkZGl0aW9uYWwgY29udGV4dCBuZWVkZWQqKjogdGFyZ2V0IHBsYXRmb3Jtcy9kZXZpY2VzIGFuZCB1c2FnZSBjb250ZXh0cy4KCkFkYXB0IGFuIGV4aXN0aW5nIGRlc2lnbiB0byBhIGRpZmZlcmVudCBjb250ZXh0OiBhbm90aGVyIHNjcmVlbiBzaXplLCBkZXZpY2UsIHBsYXRmb3JtLCBvciB1c2UgY2FzZS4gVGhlIHRyYXAgaXMgdHJlYXRpbmcgYWRhcHRhdGlvbiBhcyBzY2FsaW5nLiBUaGUgam9iIGlzIHJldGhpbmtpbmcgdGhlIGV4cGVyaWVuY2UgZm9yIHRoZSBuZXcgY29udGV4dC4KCioqV2ViIG9ubHkqKiAobW9iaWxlIHdlYiBpbmNsdWRlZCkuIE5hdGl2ZSBwbGF0Zm9ybXMgKGBpb3NgIC8gYGFuZHJvaWRgIC8gYGFkYXB0aXZlYCkgcm91dGUgdG8gW2FkYXB0Lm5hdGl2ZS5tZF0oYWRhcHQubmF0aXZlLm1kKSBpbnN0ZWFkOyBpZiB0aGUgcHJvamVjdCBpcyBuYXRpdmUsIHN3aXRjaCB0byBpdCBub3cuCgotLS0KCiMjIEFzc2VzcyBBZGFwdGF0aW9uIENoYWxsZW5nZQoKVW5kZXJzdGFuZCB3aGF0IG5lZWRzIGFkYXB0YXRpb24gYW5kIHdoeToKCjEuICoqSWRlbnRpZnkgdGhlIHNvdXJjZSBjb250ZXh0Kio6CiAgIC0gV2hhdCB3YXMgaXQgZGVzaWduZWQgZm9yIG9yaWdpbmFsbHk/IChEZXNrdG9wIHdlYj8gTW9iaWxlIGFwcD8pCiAgIC0gV2hhdCBhc3N1bXB0aW9ucyB3ZXJlIG1hZGU/IChMYXJnZSBzY3JlZW4/IE1vdXNlIGlucHV0PyBGYXN0IGNvbm5lY3Rpb24/KQogICAtIFdoYXQgd29ya3Mgd2VsbCBpbiBjdXJyZW50IGNvbnRleHQ/CgoyLiAqKlVuZGVyc3RhbmQgdGFyZ2V0IGNvbnRleHQqKjoKICAgLSAqKkRldmljZSoqOiBNb2JpbGUsIHRhYmxldCwgZGVza3RvcCwgVFYsIHdhdGNoLCBwcmludD8KICAgLSAqKklucHV0IG1ldGhvZCoqOiBUb3VjaCwgbW91c2UsIGtleWJvYXJkLCB2b2ljZSwgZ2FtZXBhZD8KICAgLSAqKlNjcmVlbiBjb25zdHJhaW50cyoqOiBTaXplLCByZXNvbHV0aW9uLCBvcmllbnRhdGlvbj8KICAgLSAqKkNvbm5lY3Rpb24qKjogRmFzdCB3aWZpLCBzbG93IDNHLCBvZmZsaW5lPwogICAtICoqVXNhZ2UgY29udGV4dCoqOiBPbi10aGUtZ28gdnMgZGVzaywgcXVpY2sgZ2xhbmNlIHZzIGZvY3VzZWQgcmVhZGluZz8KICAgLSAqKlVzZXIgZXhwZWN0YXRpb25zKio6IFdoYXQgZG8gdXNlcnMgZXhwZWN0IG9uIHRoaXMgcGxhdGZvcm0/CgozLiAqKklkZW50aWZ5IGFkYXB0YXRpb24gY2hhbGxlbmdlcyoqOgogICAtIFdoYXQgd29uJ3QgZml0PyAoQ29udGVudCwgbmF2aWdhdGlvbiwgZmVhdHVyZXMpCiAgIC0gV2hhdCB3b24ndCB3b3JrPyAoSG92ZXIgc3RhdGVzIG9uIHRvdWNoLCB0aW55IHRvdWNoIHRhcmdldHMpCiAgIC0gV2hhdCdzIGluYXBwcm9wcmlhdGU/IChEZXNrdG9wIHBhdHRlcm5zIG9uIG1vYmlsZSwgbW9iaWxlIHBhdHRlcm5zIG9uIGRlc2t0b3ApCgpBZGFwdGF0aW9uIGlzIHJldGhpbmtpbmcgdGhlIGV4cGVyaWVuY2UgZm9yIHRoZSBuZXcgY29udGV4dCwgbm90IHNjYWxpbmcgcGl4ZWxzLgoKIyMgUGxhbiBBZGFwdGF0aW9uIFN0cmF0ZWd5CgpDcmVhdGUgY29udGV4dC1hcHByb3ByaWF0ZSBzdHJhdGVneToKCiMjIyBNb2JpbGUgQWRhcHRhdGlvbiAoRGVza3RvcCDihpIgTW9iaWxlKQoKKipMYXlvdXQgU3RyYXRlZ3kqKjoKLSBTaW5nbGUgY29sdW1uIGluc3RlYWQgb2YgbXVsdGktY29sdW1uCi0gVmVydGljYWwgc3RhY2tpbmcgaW5zdGVhZCBvZiBzaWRlLWJ5LXNpZGUKLSBGdWxsLXdpZHRoIGNvbXBvbmVudHMgaW5zdGVhZCBvZiBmaXhlZCB3aWR0aHMKLSBCb3R0b20gbmF2aWdhdGlvbiBpbnN0ZWFkIG9mIHRvcC9zaWRlIG5hdmlnYXRpb24KCioqSW50ZXJhY3Rpb24gU3RyYXRlZ3kqKjoKLSBUb3VjaCB0YXJnZXRzIDQ0eDQ0cHggbWluaW11bSAobm90IGhvdmVyLWRlcGVuZGVudCkKLSBTd2lwZSBnZXN0dXJlcyB3aGVyZSBhcHByb3ByaWF0ZSAobGlzdHMsIGNhcm91c2VscykKLSBCb3R0b20gc2hlZXRzIGluc3RlYWQgb2YgZHJvcGRvd25zCi0gVGh1bWJzLWZpcnN0IGRlc2lnbiAoY29udHJvbHMgd2l0aGluIHRodW1iIHJlYWNoKQotIExhcmdlciB0YXAgYXJlYXMgd2l0aCBtb3JlIHNwYWNpbmcKCioqQ29udGVudCBTdHJhdGVneSoqOgotIFByb2dyZXNzaXZlIGRpc2Nsb3N1cmUgKGRvbid0IHNob3cgZXZlcnl0aGluZyBhdCBvbmNlKQotIFByaW9yaXRpemUgcHJpbWFyeSBjb250ZW50IChzZWNvbmRhcnkgY29udGVudCBpbiB0YWJzL2FjY29yZGlvbnMpCi0gU2hvcnRlciB0ZXh0IChtb3JlIGNvbmNpc2UpCi0gTGFyZ2VyIHRleHQgKDE2cHggbWluaW11bSkKCioqTmF2aWdhdGlvbiBTdHJhdGVneSoqOgotIEhhbWJ1cmdlciBtZW51IG9yIGJvdHRvbSBuYXZpZ2F0aW9uCi0gUmVkdWNlIG5hdmlnYXRpb24gY29tcGxleGl0eQotIFN0aWNreSBoZWFkZXJzIGZvciBjb250ZXh0Ci0gQmFjayBidXR0b24gaW4gbmF2aWdhdGlvbiBmbG93CgojIyMgVGFibGV0IEFkYXB0YXRpb24gKEh5YnJpZCBBcHByb2FjaCkKCioqTGF5b3V0IFN0cmF0ZWd5Kio6Ci0gVHdvLWNvbHVtbiBsYXlvdXRzIChub3Qgc2luZ2xlIG9yIHRocmVlLWNvbHVtbikKLSBTaWRlIHBhbmVscyBmb3Igc2Vjb25kYXJ5IGNvbnRlbnQKLSBNYXN0ZXItZGV0YWlsIHZpZXdzIChsaXN0ICsgZGV0YWlsKQotIEFkYXB0aXZlIGJhc2VkIG9uIG9yaWVudGF0aW9uIChwb3J0cmFpdCB2cyBsYW5kc2NhcGUpCgoqKkludGVyYWN0aW9uIFN0cmF0ZWd5Kio6Ci0gU3VwcG9ydCBib3RoIHRvdWNoIGFuZCBwb2ludGVyCi0gVG91Y2ggdGFyZ2V0cyA0NHg0NHB4IGJ1dCBhbGxvdyBkZW5zZXIgbGF5b3V0cyB0aGFuIHBob25lCi0gU2lkZSBuYXZpZ2F0aW9uIGRyYXdlcnMKLSBNdWx0aS1jb2x1bW4gZm9ybXMgd2hlcmUgYXBwcm9wcmlhdGUKCiMjIyBEZXNrdG9wIEFkYXB0YXRpb24gKE1vYmlsZSDihpIgRGVza3RvcCkKCioqTGF5b3V0IFN0cmF0ZWd5Kio6Ci0gTXVsdGktY29sdW1uIGxheW91dHMgKHVzZSBob3Jpem9udGFsIHNwYWNlKQotIFNpZGUgbmF2aWdhdGlvbiBhbHdheXMgdmlzaWJsZQotIE11bHRpcGxlIGluZm9ybWF0aW9uIHBhbmVscyBzaW11bHRhbmVvdXNseQotIEZpeGVkIHdpZHRocyB3aXRoIG1heC13aWR0aCBjb25zdHJhaW50cyAoZG9uJ3Qgc3RyZXRjaCB0byA0SykKCioqSW50ZXJhY3Rpb24gU3RyYXRlZ3kqKjoKLSBIb3ZlciBzdGF0ZXMgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24KLSBLZXlib2FyZCBzaG9ydGN1dHMKLSBSaWdodC1jbGljayBjb250ZXh0IG1lbnVzCi0gRHJhZyBhbmQgZHJvcCB3aGVyZSBoZWxwZnVsCi0gTXVsdGktc2VsZWN0IHdpdGggU2hpZnQvQ21kCgoqKkNvbnRlbnQgU3RyYXRlZ3kqKjoKLSBTaG93IG1vcmUgaW5mb3JtYXRpb24gdXBmcm9udCAobGVzcyBwcm9ncmVzc2l2ZSBkaXNjbG9zdXJlKQotIERhdGEgdGFibGVzIHdpdGggbWFueSBjb2x1bW5zCi0gUmljaGVyIHZpc3VhbGl6YXRpb25zCi0gTW9yZSBkZXRhaWxlZCBkZXNjcmlwdGlvbnMKCiMjIyBQcmludCBBZGFwdGF0aW9uIChTY3JlZW4g4oaSIFByaW50KQoKKipMYXlvdXQgU3RyYXRlZ3kqKjoKLSBQYWdlIGJyZWFrcyBhdCBsb2dpY2FsIHBvaW50cwotIFJlbW92ZSBuYXZpZ2F0aW9uLCBmb290ZXIsIGludGVyYWN0aXZlIGVsZW1lbnRzCi0gQmxhY2sgYW5kIHdoaXRlIChvciBsaW1pdGVkIGNvbG9yKQotIFByb3BlciBtYXJnaW5zIGZvciBiaW5kaW5nCgoqKkNvbnRlbnQgU3RyYXRlZ3kqKjoKLSBFeHBhbmQgc2hvcnRlbmVkIGNvbnRlbnQgKHNob3cgZnVsbCBVUkxzLCBoaWRkZW4gc2VjdGlvbnMpCi0gQWRkIHBhZ2UgbnVtYmVycywgaGVhZGVycywgZm9vdGVycwotIEluY2x1ZGUgbWV0YWRhdGEgKHByaW50IGRhdGUsIHBhZ2UgdGl0bGUpCi0gQ29udmVydCBjaGFydHMgdG8gcHJpbnQtZnJpZW5kbHkgdmVyc2lvbnMKCiMjIyBFbWFpbCBBZGFwdGF0aW9uIChXZWIg4oaSIEVtYWlsKQoKKipMYXlvdXQgU3RyYXRlZ3kqKjoKLSBOYXJyb3cgd2lkdGggKDYwMHB4IG1heCkKLSBTaW5nbGUgY29sdW1uIG9ubHkKLSBJbmxpbmUgQ1NTIChubyBleHRlcm5hbCBzdHlsZXNoZWV0cykKLSBUYWJsZS1iYXNlZCBsYXlvdXRzIChmb3IgZW1haWwgY2xpZW50IGNvbXBhdGliaWxpdHkpCgoqKkludGVyYWN0aW9uIFN0cmF0ZWd5Kio6Ci0gTGFyZ2UsIG9idmlvdXMgQ1RBcyAoYnV0dG9ucyBub3QgdGV4dCBsaW5rcykKLSBObyBob3ZlciBzdGF0ZXMgKG5vdCByZWxpYWJsZSkKLSBEZWVwIGxpbmtzIHRvIHdlYiBhcHAgZm9yIGNvbXBsZXggaW50ZXJhY3Rpb25zCgojIyBJbXBsZW1lbnQgQWRhcHRhdGlvbnMKCkFwcGx5IGNoYW5nZXMgc3lzdGVtYXRpY2FsbHk6CgojIyMgUmVzcG9uc2l2ZSBCcmVha3BvaW50cwoKQ2hvb3NlIGFwcHJvcHJpYXRlIGJyZWFrcG9pbnRzOgotIE1vYmlsZTogMzIwcHgtNzY3cHgKLSBUYWJsZXQ6IDc2OHB4LTEwMjNweAotIERlc2t0b3A6IDEwMjRweCsKLSBPciBjb250ZW50LWRyaXZlbiBicmVha3BvaW50cyAod2hlcmUgZGVzaWduIGJyZWFrcykKCiMjIyBMYXlvdXQgQWRhcHRhdGlvbiBUZWNobmlxdWVzCgotICoqQ1NTIEdyaWQvRmxleGJveCoqOiBSZWZsb3cgbGF5b3V0cyBhdXRvbWF0aWNhbGx5Ci0gKipDb250YWluZXIgUXVlcmllcyoqOiBBZGFwdCBiYXNlZCBvbiBjb250YWluZXIsIG5vdCB2aWV3cG9ydAotICoqYGNsYW1wKClgKio6IEZsdWlkIHNpemluZyBiZXR3ZWVuIG1pbiBhbmQgbWF4Ci0gKipNZWRpYSBxdWVyaWVzKio6IERpZmZlcmVudCBzdHlsZXMgZm9yIGRpZmZlcmVudCBjb250ZXh0cwotICoqRGlzcGxheSBwcm9wZXJ0aWVzKio6IFNob3cvaGlkZSBlbGVtZW50cyBwZXIgY29udGV4dAoKIyMjIFRvdWNoIEFkYXB0YXRpb24KCi0gSW5jcmVhc2UgdG91Y2ggdGFyZ2V0IHNpemVzICg0NHg0NHB4IG1pbmltdW0pCi0gQWRkIG1vcmUgc3BhY2luZyBiZXR3ZWVuIGludGVyYWN0aXZlIGVsZW1lbnRzCi0gUmVtb3ZlIGhvdmVyLWRlcGVuZGVudCBpbnRlcmFjdGlvbnMKLSBBZGQgdG91Y2ggZmVlZGJhY2sgKHJpcHBsZXMsIGhpZ2hsaWdodHMpCi0gQ29uc2lkZXIgdGh1bWIgem9uZXMgKGVhc2llciB0byByZWFjaCBib3R0b20gdGhhbiB0b3ApCgojIyMgQ29udGVudCBBZGFwdGF0aW9uCgotIFVzZSBgZGlzcGxheTogbm9uZWAgc3BhcmluZ2x5IChzdGlsbCBkb3dubG9hZHMpCi0gUHJvZ3Jlc3NpdmUgZW5oYW5jZW1lbnQgKGNvcmUgY29udGVudCBmaXJzdCwgZW5oYW5jZW1lbnRzIG9uIGxhcmdlciBzY3JlZW5zKQotIExhenkgbG9hZGluZyBmb3Igb2ZmLXNjcmVlbiBjb250ZW50Ci0gUmVzcG9uc2l2ZSBpbWFnZXMgKGBzcmNzZXRgLCBgcGljdHVyZWAgZWxlbWVudCkKCiMjIyBOYXZpZ2F0aW9uIEFkYXB0YXRpb24KCi0gVHJhbnNmb3JtIGNvbXBsZXggbmF2IHRvIGhhbWJ1cmdlci9kcmF3ZXIgb24gbW9iaWxlCi0gQm90dG9tIG5hdiBiYXIgZm9yIG1vYmlsZSBhcHBzCi0gUGVyc2lzdGVudCBzaWRlIG5hdmlnYXRpb24gb24gZGVza3RvcAotIEJyZWFkY3J1bWJzIG9uIHNtYWxsZXIgc2NyZWVucyBmb3IgY29udGV4dAoKVGVzdCBvbiByZWFsIGRldmljZXMuIERldlRvb2xzIGVtdWxhdGlvbiBpcyBhIHVzZWZ1bCBmaXJzdCBwYXNzIGJ1dCBtaXNzZXMgcmVhbCB0b3VjaCwgcGVyZm9ybWFuY2UsIGFuZCBicm93c2VyIGNocm9tZS4KCioqQXZvaWQqKjoKLSBIaWRlIGNvcmUgZnVuY3Rpb25hbGl0eSBvbiBtb2JpbGUgKGlmIGl0IG1hdHRlcnMsIG1ha2UgaXQgd29yaykKLSBBc3N1bWUgZGVza3RvcCA9IHBvd2VyZnVsIGRldmljZSAoY29uc2lkZXIgYWNjZXNzaWJpbGl0eSwgb2xkZXIgbWFjaGluZXMpCi0gVXNlIGRpZmZlcmVudCBpbmZvcm1hdGlvbiBhcmNoaXRlY3R1cmUgYWNyb3NzIGNvbnRleHRzIChjb25mdXNpbmcpCi0gQnJlYWsgdXNlciBleHBlY3RhdGlvbnMgZm9yIHBsYXRmb3JtIChtb2JpbGUgdXNlcnMgZXhwZWN0IG1vYmlsZSBwYXR0ZXJucykKLSBGb3JnZXQgbGFuZHNjYXBlIG9yaWVudGF0aW9uIG9uIG1vYmlsZS90YWJsZXQKLSBVc2UgZ2VuZXJpYyBicmVha3BvaW50cyBibGluZGx5ICh1c2UgY29udGVudC1kcml2ZW4gYnJlYWtwb2ludHMpCi0gSWdub3JlIHRvdWNoIG9uIGRlc2t0b3AgKG1hbnkgZGVza3RvcCBkZXZpY2VzIGhhdmUgdG91Y2gpCgojIyBWZXJpZnkgQWRhcHRhdGlvbnMKClRlc3QgdGhvcm91Z2hseSBhY3Jvc3MgY29udGV4dHM6CgotICoqUmVhbCBkZXZpY2VzKio6IFRlc3Qgb24gYWN0dWFsIHBob25lcywgdGFibGV0cywgZGVza3RvcHMKLSAqKkRpZmZlcmVudCBvcmllbnRhdGlvbnMqKjogUG9ydHJhaXQgYW5kIGxhbmRzY2FwZQotICoqRGlmZmVyZW50IGJyb3dzZXJzKio6IFNhZmFyaSwgQ2hyb21lLCBGaXJlZm94LCBFZGdlCi0gKipEaWZmZXJlbnQgT1MqKjogaU9TLCBBbmRyb2lkLCBXaW5kb3dzLCBtYWNPUwotICoqRGlmZmVyZW50IGlucHV0IG1ldGhvZHMqKjogVG91Y2gsIG1vdXNlLCBrZXlib2FyZAotICoqRWRnZSBjYXNlcyoqOiBWZXJ5IHNtYWxsIHNjcmVlbnMgKDMyMHB4KSwgdmVyeSBsYXJnZSBzY3JlZW5zICg0SykKLSAqKlNsb3cgY29ubmVjdGlvbnMqKjogVGVzdCBvbiB0aHJvdHRsZWQgbmV0d29yawoKKipDdXN0b20gY29udHJvbHMqKiAoc2xpZGVycywgZHJhZyBzdXJmYWNlcywgc2Nyb2xsYWJsZSBjb250cm9sIHN0cmlwcyk6IGEgYmVmb3JlL2FmdGVyIHNsaWRlciBjYW4gcGFzcyBldmVyeSB3aWR0aCBjaGVjayBhYm92ZSBhbmQgc3RpbGwgcmVmdXNlIHRvIGRyYWcgb24gaU9TLCBzbyBleGVyY2lzZSBlYWNoIG9uZSBpbiBzY29wZSBpbiB0aGUgc2FtZSBiYXRjaGVkIHJvdW5kIGFzIHRoZSBjaGVja3MgYWJvdmU6CgotICoqUHJpbWFyeSBnZXN0dXJlKio6IFRhcCBpdCBhbmQgY29uZmlybSBpdCByZXNwb25kcyBhcyBkZXNpZ25lZCwgdGhlbiBkcmFnIGl0IHdpdGggdGhlIHRhcmdldCBpbnB1dCBtZXRob2Q7IHRoZSBkcmFnIG11c3QgY29tcGxldGUsIG5vdCBqdXN0IHN0YXJ0Ci0gKipTY3JvbGwgYWNyb3NzIGl0Kio6IEEgc3dpcGUgYWxvbmcgdGhlIHBhZ2UncyBzY3JvbGwgYXhpcyBhY3Jvc3MgdGhlIGNvbnRyb2wgc2Nyb2xscyB0aGUgcGFnZSBvciBjb250YWluZXIgd2l0aG91dCBhY3RpdmF0aW5nIGl0OyBhIGRyYWcgdGhhdCBzdGFydHMgb24gdGhlIGNvbnRyb2wgYWxvbmcgaXRzIGF4aXMgbW92ZXMgdGhlIGNvbnRyb2wsIG5vdCB0aGUgcGFnZS4gTmVpdGhlciBmYWlsdXJlIHRocm93cyBhbiBlcnJvciwgc28gdHJ5IGJvdGgKLSAqKkV2aWRlbmNlKio6IFNheSB3aGF0IHByb2R1Y2VkIHRoZSBldmlkZW5jZTogYW4gZW11bGF0ZWQgdmlld3BvcnQsIHN5bnRoZXNpemVkIHRvdWNoIGlucHV0IHRocm91Z2ggYSBicm93c2VyIHRvb2wsIHdoaWNoIGVuZ2luZSByYW4gaXQgKENocm9taXVtIGlzIG5vdCBTYWZhcmkpLCBvciBhIHBoeXNpY2FsIGRldmljZS4gU2NyZWVuc2hvdHMgYW5kIHJlc2l6ZWQgdmlld3BvcnRzIHZlcmlmeSBsYXlvdXQsIG5ldmVyIGEgZ2VzdHVyZS4gTmFtZSB3aGF0IHN0YXllZCB1bnRlc3RlZCBhbmQgbW92ZSBvbjsgdW5yZWFjaGFibGUgaGFyZHdhcmUgaXMgYSByZXBvcnRlZCBnYXAsIG5vdCBhIGJsb2NrZXIKCldoZW4gdGhlIGFkYXB0YXRpb24gZmVlbHMgbmF0aXZlIHRvIGVhY2ggY29udGV4dCwgaGFuZCBvZmYgdG8gYC9pbXBlY2NhYmxlIHBvbGlzaGAgZm9yIHRoZSBmaW5hbCBwYXNzLgoKLS0tCgojIyBSZWZlcmVuY2UgTWF0ZXJpYWwKClRoZSBzZWN0aW9ucyBiZWxvdyB3ZXJlIHByZXZpb3VzbHkgYHJlc3BvbnNpdmUtZGVzaWduLm1kYCBhbmQgbGl2ZSBpbmxpbmUgbm93IHNvIHRoZSBhZGFwdCBmbG93IGhhcyBpdHMgZGVlcCByZXNwb25zaXZlIHJlZmVyZW5jZSBpbiBvbmUgcGxhY2UuCgojIyMgUmVzcG9uc2l2ZSBEZXNpZ24KCiMjIyMgTW9iaWxlLUZpcnN0OiBXcml0ZSBJdCBSaWdodAoKU3RhcnQgd2l0aCBiYXNlIHN0eWxlcyBmb3IgbW9iaWxlLCB1c2UgYG1pbi13aWR0aGAgcXVlcmllcyB0byBsYXllciBjb21wbGV4aXR5LiBEZXNrdG9wLWZpcnN0IChgbWF4LXdpZHRoYCkgbWVhbnMgbW9iaWxlIGxvYWRzIHVubmVjZXNzYXJ5IHN0eWxlcyBmaXJzdC4KCiMjIyMgQnJlYWtwb2ludHM6IENvbnRlbnQtRHJpdmVuCgpEb24ndCBjaGFzZSBkZXZpY2Ugc2l6ZXM7IGxldCBjb250ZW50IHRlbGwgeW91IHdoZXJlIHRvIGJyZWFrLiBTdGFydCBuYXJyb3csIHN0cmV0Y2ggdW50aWwgZGVzaWduIGJyZWFrcywgYWRkIGJyZWFrcG9pbnQgdGhlcmUuIFRocmVlIGJyZWFrcG9pbnRzIHVzdWFsbHkgc3VmZmljZSAoNjQwLCA3NjgsIDEwMjRweCkuIFVzZSBgY2xhbXAoKWAgZm9yIGZsdWlkIHZhbHVlcyB3aXRob3V0IGJyZWFrcG9pbnRzLgoKIyMjIyBEZXRlY3QgSW5wdXQgTWV0aG9kLCBOb3QgSnVzdCBTY3JlZW4gU2l6ZQoKKipTY3JlZW4gc2l6ZSBkb2Vzbid0IHRlbGwgeW91IGlucHV0IG1ldGhvZC4qKiBBIGxhcHRvcCB3aXRoIHRvdWNoc2NyZWVuLCBhIHRhYmxldCB3aXRoIGtleWJvYXJkLiBVc2UgcG9pbnRlciBhbmQgaG92ZXIgcXVlcmllczoKCmBgYGNzcwovKiBGaW5lIHBvaW50ZXIgKG1vdXNlLCB0cmFja3BhZCkgKi8KQG1lZGlhIChwb2ludGVyOiBmaW5lKSB7CiAgLmJ1dHRvbiB7IHBhZGRpbmc6IDhweCAxNnB4OyB9Cn0KCi8qIENvYXJzZSBwb2ludGVyICh0b3VjaCwgc3R5bHVzKSAqLwpAbWVkaWEgKHBvaW50ZXI6IGNvYXJzZSkgewogIC5idXR0b24geyBwYWRkaW5nOiAxMnB4IDIwcHg7IH0gIC8qIExhcmdlciB0b3VjaCB0YXJnZXQgKi8KfQoKLyogRGV2aWNlIHN1cHBvcnRzIGhvdmVyICovCkBtZWRpYSAoaG92ZXI6IGhvdmVyKSB7CiAgLmNhcmQ6aG92ZXIgeyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTJweCk7IH0KfQoKLyogRGV2aWNlIGRvZXNuJ3Qgc3VwcG9ydCBob3ZlciAodG91Y2gpICovCkBtZWRpYSAoaG92ZXI6IG5vbmUpIHsKICAuY2FyZCB7IC8qIE5vIGhvdmVyIHN0YXRlIC0gdXNlIGFjdGl2ZSBpbnN0ZWFkICovIH0KfQpgYGAKCioqQ3JpdGljYWwqKjogRG9uJ3QgcmVseSBvbiBob3ZlciBmb3IgZnVuY3Rpb25hbGl0eS4gVG91Y2ggdXNlcnMgY2FuJ3QgaG92ZXIuCgojIyMjIFNhZmUgQXJlYXM6IEhhbmRsZSB0aGUgTm90Y2gKCk1vZGVybiBwaG9uZXMgaGF2ZSBub3RjaGVzLCByb3VuZGVkIGNvcm5lcnMsIGFuZCBob21lIGluZGljYXRvcnMuIFVzZSBgZW52KClgOgoKYGBgY3NzCmJvZHkgewogIHBhZGRpbmctdG9wOiBlbnYoc2FmZS1hcmVhLWluc2V0LXRvcCk7CiAgcGFkZGluZy1ib3R0b206IGVudihzYWZlLWFyZWEtaW5zZXQtYm90dG9tKTsKICBwYWRkaW5nLWxlZnQ6IGVudihzYWZlLWFyZWEtaW5zZXQtbGVmdCk7CiAgcGFkZGluZy1yaWdodDogZW52KHNhZmUtYXJlYS1pbnNldC1yaWdodCk7Cn0KCi8qIFdpdGggZmFsbGJhY2sgKi8KLmZvb3RlciB7CiAgcGFkZGluZy1ib3R0b206IG1heCgxcmVtLCBlbnYoc2FmZS1hcmVhLWluc2V0LWJvdHRvbSkpOwp9CmBgYAoKKipFbmFibGUgdmlld3BvcnQtZml0KiogaW4geW91ciBtZXRhIHRhZzoKYGBgaHRtbAo8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEsIHZpZXdwb3J0LWZpdD1jb3ZlciI+CmBgYAoKIyMjIyBSZXNwb25zaXZlIEltYWdlczogR2V0IEl0IFJpZ2h0CgojIyMjIyBzcmNzZXQgd2l0aCBXaWR0aCBEZXNjcmlwdG9ycwoKYGBgaHRtbAo8aW1nCiAgc3JjPSJoZXJvLTgwMC5qcGciCiAgc3Jjc2V0PSIKICAgIGhlcm8tNDAwLmpwZyA0MDB3LAogICAgaGVyby04MDAuanBnIDgwMHcsCiAgICBoZXJvLTEyMDAuanBnIDEyMDB3CiAgIgogIHNpemVzPSIobWF4LXdpZHRoOiA3NjhweCkgMTAwdncsIDUwdnciCiAgYWx0PSJIZXJvIGltYWdlIgo+CmBgYAoKKipIb3cgaXQgd29ya3MqKjoKLSBgc3Jjc2V0YCBsaXN0cyBhdmFpbGFibGUgaW1hZ2VzIHdpdGggdGhlaXIgYWN0dWFsIHdpZHRocyAoYHdgIGRlc2NyaXB0b3JzKQotIGBzaXplc2AgdGVsbHMgdGhlIGJyb3dzZXIgaG93IHdpZGUgdGhlIGltYWdlIHdpbGwgZGlzcGxheQotIEJyb3dzZXIgcGlja3MgdGhlIGJlc3QgZmlsZSBiYXNlZCBvbiB2aWV3cG9ydCB3aWR0aCBBTkQgZGV2aWNlIHBpeGVsIHJhdGlvCgojIyMjIyBQaWN0dXJlIEVsZW1lbnQgZm9yIEFydCBEaXJlY3Rpb24KCldoZW4geW91IG5lZWQgZGlmZmVyZW50IGNyb3BzL2NvbXBvc2l0aW9ucyAobm90IGp1c3QgcmVzb2x1dGlvbnMpOgoKYGBgaHRtbAo8cGljdHVyZT4KICA8c291cmNlIG1lZGlhPSIobWluLXdpZHRoOiA3NjhweCkiIHNyY3NldD0id2lkZS5qcGciPgogIDxzb3VyY2UgbWVkaWE9IihtYXgtd2lkdGg6IDc2N3B4KSIgc3Jjc2V0PSJ0YWxsLmpwZyI+CiAgPGltZyBzcmM9ImZhbGxiYWNrLmpwZyIgYWx0PSIuLi4iPgo8L3BpY3R1cmU+CmBgYAoKIyMjIyBMYXlvdXQgQWRhcHRhdGlvbiBQYXR0ZXJucwoKKipOYXZpZ2F0aW9uKio6IFRocmVlIHN0YWdlczogaGFtYnVyZ2VyICsgZHJhd2VyIG9uIG1vYmlsZSwgaG9yaXpvbnRhbCBjb21wYWN0IG9uIHRhYmxldCwgZnVsbCB3aXRoIGxhYmVscyBvbiBkZXNrdG9wLiAqKlRhYmxlcyoqOiBUcmFuc2Zvcm0gdG8gY2FyZHMgb24gbW9iaWxlIHVzaW5nIGBkaXNwbGF5OiBibG9ja2AgYW5kIGBkYXRhLWxhYmVsYCBhdHRyaWJ1dGVzLiAqKlByb2dyZXNzaXZlIGRpc2Nsb3N1cmUqKjogVXNlIGA8ZGV0YWlscz4vPHN1bW1hcnk+YCBmb3IgY29udGVudCB0aGF0IGNhbiBjb2xsYXBzZSBvbiBtb2JpbGUuCgojIyMjIFRlc3Rpbmc6IERvbid0IFRydXN0IERldlRvb2xzIEFsb25lCgpEZXZUb29scyBkZXZpY2UgZW11bGF0aW9uIGlzIHVzZWZ1bCBmb3IgbGF5b3V0IGJ1dCBtaXNzZXM6CgotIEFjdHVhbCB0b3VjaCBpbnRlcmFjdGlvbnMKLSBSZWFsIENQVS9tZW1vcnkgY29uc3RyYWludHMKLSBOZXR3b3JrIGxhdGVuY3kgcGF0dGVybnMKLSBGb250IHJlbmRlcmluZyBkaWZmZXJlbmNlcwotIEJyb3dzZXIgY2hyb21lL2tleWJvYXJkIGFwcGVhcmFuY2VzCgoqKlRlc3Qgb24gYXQgbGVhc3QqKjogT25lIHJlYWwgaVBob25lLCBvbmUgcmVhbCBBbmRyb2lkLCBhIHRhYmxldCBpZiByZWxldmFudC4gQ2hlYXAgQW5kcm9pZCBwaG9uZXMgcmV2ZWFsIHBlcmZvcm1hbmNlIGlzc3VlcyB5b3UnbGwgbmV2ZXIgc2VlIG9uIHNpbXVsYXRvcnMuCgotLS0KCioqQXZvaWQqKjogRGVza3RvcC1maXJzdCBkZXNpZ24uIERldmljZSBkZXRlY3Rpb24gaW5zdGVhZCBvZiBmZWF0dXJlIGRldGVjdGlvbi4gU2VwYXJhdGUgbW9iaWxlL2Rlc2t0b3AgY29kZWJhc2VzLiBJZ25vcmluZyB0YWJsZXQgYW5kIGxhbmRzY2FwZS4gQXNzdW1pbmcgYWxsIG1vYmlsZSBkZXZpY2VzIGFyZSBwb3dlcmZ1bC4K
+> **Additional context needed**: target platforms/devices and usage contexts.
+
+Adapt an existing design to a different context: another screen size, device, platform, or use case. The trap is treating adaptation as scaling. The job is rethinking the experience for the new context.
+
+**Web only** (mobile web included). Native platforms (`ios` / `android` / `adaptive`) route to [adapt.native.md](adapt.native.md) instead; if the project is native, switch to it now.
+
+---
+
+## Assess Adaptation Challenge
+
+Understand what needs adaptation and why:
+
+1. **Identify the source context**:
+   - What was it designed for originally? (Desktop web? Mobile app?)
+   - What assumptions were made? (Large screen? Mouse input? Fast connection?)
+   - What works well in current context?
+
+2. **Understand target context**:
+   - **Device**: Mobile, tablet, desktop, TV, watch, print?
+   - **Input method**: Touch, mouse, keyboard, voice, gamepad?
+   - **Screen constraints**: Size, resolution, orientation?
+   - **Connection**: Fast wifi, slow 3G, offline?
+   - **Usage context**: On-the-go vs desk, quick glance vs focused reading?
+   - **User expectations**: What do users expect on this platform?
+
+3. **Identify adaptation challenges**:
+   - What won't fit? (Content, navigation, features)
+   - What won't work? (Hover states on touch, tiny touch targets)
+   - What's inappropriate? (Desktop patterns on mobile, mobile patterns on desktop)
+
+Adaptation is rethinking the experience for the new context, not scaling pixels.
+
+## Plan Adaptation Strategy
+
+Create context-appropriate strategy:
+
+### Mobile Adaptation (Desktop → Mobile)
+
+**Layout Strategy**:
+- Single column instead of multi-column
+- Vertical stacking instead of side-by-side
+- Full-width components instead of fixed widths
+- Bottom navigation instead of top/side navigation
+
+**Interaction Strategy**:
+- Touch targets 44x44px minimum (not hover-dependent)
+- Swipe gestures where appropriate (lists, carousels)
+- Bottom sheets instead of dropdowns
+- Thumbs-first design (controls within thumb reach)
+- Larger tap areas with more spacing
+
+**Content Strategy**:
+- Progressive disclosure (don't show everything at once)
+- Prioritize primary content (secondary content in tabs/accordions)
+- Shorter text (more concise)
+- Larger text (16px minimum)
+
+**Navigation Strategy**:
+- Hamburger menu or bottom navigation
+- Reduce navigation complexity
+- Sticky headers for context
+- Back button in navigation flow
+
+### Tablet Adaptation (Hybrid Approach)
+
+**Layout Strategy**:
+- Two-column layouts (not single or three-column)
+- Side panels for secondary content
+- Master-detail views (list + detail)
+- Adaptive based on orientation (portrait vs landscape)
+
+**Interaction Strategy**:
+- Support both touch and pointer
+- Touch targets 44x44px but allow denser layouts than phone
+- Side navigation drawers
+- Multi-column forms where appropriate
+
+### Desktop Adaptation (Mobile → Desktop)
+
+**Layout Strategy**:
+- Multi-column layouts (use horizontal space)
+- Side navigation always visible
+- Multiple information panels simultaneously
+- Fixed widths with max-width constraints (don't stretch to 4K)
+
+**Interaction Strategy**:
+- Hover states for additional information
+- Keyboard shortcuts
+- Right-click context menus
+- Drag and drop where helpful
+- Multi-select with Shift/Cmd
+
+**Content Strategy**:
+- Show more information upfront (less progressive disclosure)
+- Data tables with many columns
+- Richer visualizations
+- More detailed descriptions
+
+### Print Adaptation (Screen → Print)
+
+**Layout Strategy**:
+- Page breaks at logical points
+- Remove navigation, footer, interactive elements
+- Black and white (or limited color)
+- Proper margins for binding
+
+**Content Strategy**:
+- Expand shortened content (show full URLs, hidden sections)
+- Add page numbers, headers, footers
+- Include metadata (print date, page title)
+- Convert charts to print-friendly versions
+
+### Email Adaptation (Web → Email)
+
+**Layout Strategy**:
+- Narrow width (600px max)
+- Single column only
+- Inline CSS (no external stylesheets)
+- Table-based layouts (for email client compatibility)
+
+**Interaction Strategy**:
+- Large, obvious CTAs (buttons not text links)
+- No hover states (not reliable)
+- Deep links to web app for complex interactions
+
+## Implement Adaptations
+
+Apply changes systematically:
+
+### Responsive Breakpoints
+
+Choose appropriate breakpoints:
+- Mobile: 320px-767px
+- Tablet: 768px-1023px
+- Desktop: 1024px+
+- Or content-driven breakpoints (where design breaks)
+
+### Layout Adaptation Techniques
+
+- **CSS Grid/Flexbox**: Reflow layouts automatically
+- **Container Queries**: Adapt based on container, not viewport
+- **`clamp()`**: Fluid sizing between min and max
+- **Media queries**: Different styles for different contexts
+- **Display properties**: Show/hide elements per context
+
+### Touch Adaptation
+
+- Increase touch target sizes (44x44px minimum)
+- Add more spacing between interactive elements
+- Remove hover-dependent interactions
+- Add touch feedback (ripples, highlights)
+- Consider thumb zones (easier to reach bottom than top)
+
+### Content Adaptation
+
+- Use `display: none` sparingly (still downloads)
+- Progressive enhancement (core content first, enhancements on larger screens)
+- Lazy loading for off-screen content
+- Responsive images (`srcset`, `picture` element)
+
+### Navigation Adaptation
+
+- Transform complex nav to hamburger/drawer on mobile
+- Bottom nav bar for mobile apps
+- Persistent side navigation on desktop
+- Breadcrumbs on smaller screens for context
+
+Test on real devices. DevTools emulation is a useful first pass but misses real touch, performance, and browser chrome.
+
+**Avoid**:
+- Hide core functionality on mobile (if it matters, make it work)
+- Assume desktop = powerful device (consider accessibility, older machines)
+- Use different information architecture across contexts (confusing)
+- Break user expectations for platform (mobile users expect mobile patterns)
+- Forget landscape orientation on mobile/tablet
+- Use generic breakpoints blindly (use content-driven breakpoints)
+- Ignore touch on desktop (many desktop devices have touch)
+
+## Verify Adaptations
+
+Test thoroughly across contexts:
+
+- **Real devices**: Test on actual phones, tablets, desktops
+- **Different orientations**: Portrait and landscape
+- **Different browsers**: Safari, Chrome, Firefox, Edge
+- **Different OS**: iOS, Android, Windows, macOS
+- **Different input methods**: Touch, mouse, keyboard
+- **Edge cases**: Very small screens (320px), very large screens (4K)
+- **Slow connections**: Test on throttled network
+
+**Custom controls** (sliders, drag surfaces, scrollable control strips): a before/after slider can pass every width check above and still refuse to drag on iOS, so exercise each one in scope in the same batched round as the checks above:
+
+- **Primary gesture**: Tap it and confirm it responds as designed, then drag it with the target input method; the drag must complete, not just start
+- **Scroll across it**: A swipe along the page's scroll axis across the control scrolls the page or container without activating it; a drag that starts on the control along its axis moves the control, not the page. Neither failure throws an error, so try both
+- **Evidence**: Say what produced the evidence: an emulated viewport, synthesized touch input through a browser tool, which engine ran it (Chromium is not Safari), or a physical device. Screenshots and resized viewports verify layout, never a gesture. Name what stayed untested and move on; unreachable hardware is a reported gap, not a blocker
+
+When the adaptation feels native to each context, hand off to `/impeccable polish` for the final pass.
+
+---
+
+## Reference Material
+
+The sections below were previously `responsive-design.md` and live inline now so the adapt flow has its deep responsive reference in one place.
+
+### Responsive Design
+
+#### Mobile-First: Write It Right
+
+Start with base styles for mobile, use `min-width` queries to layer complexity. Desktop-first (`max-width`) means mobile loads unnecessary styles first.
+
+#### Breakpoints: Content-Driven
+
+Don't chase device sizes; let content tell you where to break. Start narrow, stretch until design breaks, add breakpoint there. Three breakpoints usually suffice (640, 768, 1024px). Use `clamp()` for fluid values without breakpoints.
+
+#### Detect Input Method, Not Just Screen Size
+
+**Screen size doesn't tell you input method.** A laptop with touchscreen, a tablet with keyboard. Use pointer and hover queries:
+
+```css
+/* Fine pointer (mouse, trackpad) */
+@media (pointer: fine) {
+  .button { padding: 8px 16px; }
+}
+
+/* Coarse pointer (touch, stylus) */
+@media (pointer: coarse) {
+  .button { padding: 12px 20px; }  /* Larger touch target */
+}
+
+/* Device supports hover */
+@media (hover: hover) {
+  .card:hover { transform: translateY(-2px); }
+}
+
+/* Device doesn't support hover (touch) */
+@media (hover: none) {
+  .card { /* No hover state - use active instead */ }
+}
+```
+
+**Critical**: Don't rely on hover for functionality. Touch users can't hover.
+
+#### Safe Areas: Handle the Notch
+
+Modern phones have notches, rounded corners, and home indicators. Use `env()`:
+
+```css
+body {
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+/* With fallback */
+.footer {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}
+```
+
+**Enable viewport-fit** in your meta tag:
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+```
+
+#### Responsive Images: Get It Right
+
+##### srcset with Width Descriptors
+
+```html
+<img
+  src="hero-800.jpg"
+  srcset="
+    hero-400.jpg 400w,
+    hero-800.jpg 800w,
+    hero-1200.jpg 1200w
+  "
+  sizes="(max-width: 768px) 100vw, 50vw"
+  alt="Hero image"
+>
+```
+
+**How it works**:
+- `srcset` lists available images with their actual widths (`w` descriptors)
+- `sizes` tells the browser how wide the image will display
+- Browser picks the best file based on viewport width AND device pixel ratio
+
+##### Picture Element for Art Direction
+
+When you need different crops/compositions (not just resolutions):
+
+```html
+<picture>
+  <source media="(min-width: 768px)" srcset="wide.jpg">
+  <source media="(max-width: 767px)" srcset="tall.jpg">
+  <img src="fallback.jpg" alt="...">
+</picture>
+```
+
+#### Layout Adaptation Patterns
+
+**Navigation**: Three stages: hamburger + drawer on mobile, horizontal compact on tablet, full with labels on desktop. **Tables**: Transform to cards on mobile using `display: block` and `data-label` attributes. **Progressive disclosure**: Use `<details>/<summary>` for content that can collapse on mobile.
+
+#### Testing: Don't Trust DevTools Alone
+
+DevTools device emulation is useful for layout but misses:
+
+- Actual touch interactions
+- Real CPU/memory constraints
+- Network latency patterns
+- Font rendering differences
+- Browser chrome/keyboard appearances
+
+**Test on at least**: One real iPhone, one real Android, a tablet if relevant. Cheap Android phones reveal performance issues you'll never see on simulators.
+
+---
+
+**Avoid**: Desktop-first design. Device detection instead of feature detection. Separate mobile/desktop codebases. Ignoring tablet and landscape. Assuming all mobile devices are powerful.

@@ -1,1 +1,139 @@
-UnVuIHN5c3RlbWF0aWMgKip0ZWNobmljYWwqKiBxdWFsaXR5IGNoZWNrcyBvbiBhIG5hdGl2ZSBhcHAgKGBpb3NgIC8gYGFuZHJvaWRgIC8gYGFkYXB0aXZlYCkgYW5kIGdlbmVyYXRlIGEgY29tcHJlaGVuc2l2ZSByZXBvcnQuIERvbid0IGZpeCBpc3N1ZXM7IGRvY3VtZW50IHRoZW0gZm9yIG90aGVyIGNvbW1hbmRzIHRvIGFkZHJlc3MuCgpUaGlzIGlzIGEgY29kZS1sZXZlbCBhdWRpdCwgbm90IGEgZGVzaWduIGNyaXRpcXVlLiBBdWRpdCBmcm9tIHNvdXJjZSAoU3dpZnRVSSAvIFVJS2l0IC8gQ29tcG9zZSAvIFJlYWN0IE5hdGl2ZSAvIEZsdXR0ZXIpOyBubyBicm93c2VyIHRvb2xpbmcgb3IgYGltcGVjY2FibGUgZGV0ZWN0YCBhcHBsaWVzLiBTY29yZSBhZ2FpbnN0IHRoZSBwbGF0Zm9ybSByZWZlcmVuY2Uocyk6IFtpb3MubWRdKGlvcy5tZCkgLyBbYW5kcm9pZC5tZF0oYW5kcm9pZC5tZCksIGJvdGggZm9yIGBhZGFwdGl2ZWAuIFJlYWQgdGhlbSBiZWZvcmUgc2NvcmluZyBpZiBTZXR1cCBoYXNuJ3QgYWxyZWFkeS4gVGhlIHJlcG9ydCBza2VsZXRvbiBtaXJyb3JzIFthdWRpdC5tZF0oYXVkaXQubWQpOyBrZWVwIHRoZSB0d28gaW4gc3luYyB3aGVuIGNoYW5naW5nIGl0LgoKIyMgRGlhZ25vc3RpYyBTY2FuCgpSdW4gY29tcHJlaGVuc2l2ZSBjaGVja3MgYWNyb3NzIDUgZGltZW5zaW9ucy4gU2NvcmUgZWFjaCBkaW1lbnNpb24gMC00IHVzaW5nIHRoZSBjcml0ZXJpYSBiZWxvdy4KCiMjIyAxLiBBY2Nlc3NpYmlsaXR5IChWb2ljZU92ZXIgLyBUYWxrQmFjaykKCioqQ2hlY2sgZm9yKio6Ci0gKipNaXNzaW5nIGxhYmVscyoqOiBpbnRlcmFjdGl2ZSBlbGVtZW50cyB3aXRob3V0IGFjY2Vzc2liaWxpdHkgbGFiZWxzLCB0cmFpdHMvcm9sZXMsIG9yIHN0YXRlIGFubm91bmNlbWVudHMKLSAqKlJlYWRpbmcgYW5kIGZvY3VzIG9yZGVyKio6IGlsbG9naWNhbCB0cmF2ZXJzYWwsIHVucmVhY2hhYmxlIGNvbnRyb2xzLCBmb2N1cyBsb3N0IG9uIG5hdmlnYXRpb24KLSAqKlRleHQgc2NhbGluZyoqOiBmaXhlZCBwb2ludCBzaXplcyBkZWZlYXRpbmcgRHluYW1pYyBUeXBlIChpT1MpIG9yIHB4IGluc3RlYWQgb2Ygc3AgKEFuZHJvaWQpOyBsYXlvdXRzIHRoYXQgY2xpcCBvciBvdmVybGFwIGF0IGxhcmdlIHNpemVzCi0gKipUb3VjaCB0YXJnZXRzKio6IGJlbG93IDQ0IHB0IChpT1MpIC8gNDggZHAgKEFuZHJvaWQpLCBvciBjcmFtbWVkIHdpdGhvdXQgc3BhY2luZwotICoqUmVkdWNlIE1vdGlvbiBpZ25vcmVkKio6IHBhcmFsbGF4IGFuZCBsYXJnZSBzbGlkZXMgd2l0aCBubyBjcm9zc2ZhZGUgYWx0ZXJuYXRpdmUKLSAqKkNvbnRyYXN0Kio6IHRleHQgZmFpbGluZyBjb250cmFzdCBpbiBlaXRoZXIgYXBwZWFyYW5jZSwgbGlnaHQgb3IgZGFyawoKKipTY29yZSAwLTQqKjogMD1TY3JlZW4gcmVhZGVyIHVudXNhYmxlLCAxPU1ham9yIGdhcHMgKHVubGFiZWxlZCBjb250cm9scywgbm8gc2NhbGluZyksIDI9UGFydGlhbCAobGFiZWxzIGV4aXN0LCBvcmRlciBvciBzY2FsaW5nIGJyZWFrcyksIDM9R29vZCAobWlub3IgZ2FwcyksIDQ9RXhjZWxsZW50IChsYWJlbGVkLCBvcmRlcmVkLCBzY2FsZXMgY2xlYW5seSwgUmVkdWNlIE1vdGlvbiBob25vcmVkKQoKIyMjIDIuIFBlcmZvcm1hbmNlCgoqKkNoZWNrIGZvcioqOgotICoqU2xvdyBzdGFydHVwKio6IGhlYXZ5IHdvcmsgb24gbGF1bmNoIGJlZm9yZSBmaXJzdCBmcmFtZQotICoqVW52aXJ0dWFsaXplZCBsaXN0cyoqOiBsb25nIGNvbnRlbnQgd2l0aG91dCBGbGF0TGlzdCAvIExhenlDb2x1bW4gLyBMaXN0IHJlY3ljbGluZwotICoqTWFpbi10aHJlYWQgamFuayoqOiBzeW5jaHJvbm91cyB3b3JrIGluIHNjcm9sbCBvciBnZXN0dXJlIHBhdGhzLCBkcm9wcGVkIGZyYW1lcyBvbiA2MC8xMjAgSHoKLSAqKldhc3RlZCByZW5kZXJpbmcqKjogdW5uZWNlc3NhcnkgcmUtcmVuZGVycyAoUmVhY3QgTmF0aXZlKSBvciByZWNvbXBvc2l0aW9ucyAoQ29tcG9zZSk7IG1pc3NpbmcgbWVtb2l6YXRpb24va2V5cwotICoqSW1hZ2UgaGFuZGxpbmcqKjogZnVsbC1zaXplIGltYWdlcyBkZWNvZGVkIGZvciB0aHVtYm5haWxzLCBubyBjYWNoaW5nCi0gKipBcHAgd2VpZ2h0Kio6IGJsb2F0ZWQgSlMgYnVuZGxlIG9yIGJpbmFyeSwgdW51c2VkIGRlcGVuZGVuY2llcwoKKipTY29yZSAwLTQqKjogMD1KYW5reSBldmVyeXdoZXJlLCAxPU1ham9yIHByb2JsZW1zICh1bnZpcnR1YWxpemVkIGxpc3RzLCBzbG93IGxhdW5jaCksIDI9UGFydGlhbCwgMz1Hb29kIChtaW5vciBpbXByb3ZlbWVudHMgcG9zc2libGUpLCA0PUV4Y2VsbGVudCAoZmFzdCBsYXVuY2gsIHNtb290aCBzY3JvbGwsIGxlYW4pCgojIyMgMy4gQXBwZWFyYW5jZSAmIFRoZW1pbmcKCioqQ2hlY2sgZm9yKio6Ci0gKipIYXJkLWNvZGVkIGNvbG9ycyoqOiByYXcgaGV4IGluc3RlYWQgb2Ygc2VtYW50aWMgc3lzdGVtIGNvbG9ycyAoaU9TKSAvIE1hdGVyaWFsIGNvbG9yIHJvbGVzIChBbmRyb2lkKSAvIGRlc2lnbiB0b2tlbnMKLSAqKkJyb2tlbiBkYXJrIGFwcGVhcmFuY2UqKjogbWlzc2luZyBkYXJrIHZhcmlhbnRzLCBwb29yIGNvbnRyYXN0IGluIGRhcmssIHF1aWNrIGludmVydHMKLSAqKkR5bmFtaWMgQ29sb3IqKiAoQW5kcm9pZCAxMispOiBubyBzdGF0aWMgZmFsbGJhY2sgc2NoZW1lLCBvciBpZ25vcmVkIHdoZXJlIGl0IGZpdHMKLSAqKk9mZi1wbGF0Zm9ybSBtYXRlcmlhbHMqKjogaGFuZC1yb2xsZWQgdmlzdWFsIG1hdGVyaWFscyB3aGVyZSBzeXN0ZW0gbWF0ZXJpYWxzIG9yIHRvbmFsIGVsZXZhdGlvbiBhcmUgZXhwZWN0ZWQKCioqU2NvcmUgMC00Kio6IDA9SGFyZC1jb2RlZCBldmVyeXRoaW5nLCAxPU1pbmltYWwgdG9rZW5zLCAyPVBhcnRpYWwgKHRva2VucyBleGlzdCwgaW5jb25zaXN0ZW50bHkgdXNlZCksIDM9R29vZCAobWlub3IgaGFyZC1jb2RlZCB2YWx1ZXMpLCA0PUV4Y2VsbGVudCAoc2VtYW50aWMgdGhyb3VnaG91dCwgYm90aCBhcHBlYXJhbmNlcyBmaXJzdC1jbGFzcykKCiMjIyA0LiBQbGF0Zm9ybSBDb25mb3JtYW5jZSAoQ1JJVElDQUwpCgpTY29yZSBhZ2FpbnN0IHRoZSBsb2FkZWQgcGxhdGZvcm0gcmVmZXJlbmNlKHMpLCBpbmNsdWRpbmcgdGhlaXIgc2xvcCB0ZXN0cy4gKipDaGVjayBmb3IqKjoKLSAqKkJyb2tlbiBzeXN0ZW0gZ2VzdHVyZXMqKjogZWRnZS1zd2lwZSBiYWNrIGRpc2FibGVkIChpT1MpLCBwcmVkaWN0aXZlIEJhY2sgaGlqYWNrZWQgKEFuZHJvaWQpCi0gKipJbnNldCB2aW9sYXRpb25zKio6IGNvbnRlbnQgdW5kZXIgdGhlIG5vdGNoLCBEeW5hbWljIElzbGFuZCwgaG9tZSBpbmRpY2F0b3IsIHN0YXR1cyBiYXIsIG9yIGtleWJvYXJkCi0gKipPZmYtcGxhdGZvcm0gbmF2aWdhdGlvbioqOiBjdXN0b20gZ2xvYmFsIG5hdiwgb3ZlcmxvYWRlZCB0YWIgYmFycywgaU9TIHBhdHRlcm5zIG9uIEFuZHJvaWQgb3IgdmljZSB2ZXJzYQotICoqV2ViLXNoYXBlZCBjb250cm9scyoqOiBIVE1MLXN0eWxlIGJ1dHRvbnMsIGN1c3RvbSB0b2dnbGVzLCBob3Zlci1kZXBlbmRlbnQgYWZmb3JkYW5jZXMKLSAqKkljb24gZHJpZnQqKjogbWl4ZWQgaWNvbiBzZXRzIGluc3RlYWQgb2YgU0YgU3ltYm9scyAvIE1hdGVyaWFsIFN5bWJvbHMKLSAqKlN5c3RlbSBkcmlmdCoqOiByZXBlYXRlZCBzaG9ydGN1dHMgb3IgZGVjb3JhdGl2ZSBwYXR0ZXJucyB0aGF0IGNvbmZsaWN0IHdpdGggdGhlIHByb2R1Y3QsIHBsYXRmb3JtLCBvciBlc3RhYmxpc2hlZCBkZXNpZ24gc3lzdGVtCgoqKlNjb3JlIDAtNCoqOiAwPVdlYiBwb3J0IChub3RoaW5nIG5hdGl2ZSksIDE9SGVhdnkgdmlvbGF0aW9ucyAoMy00IGtpbmRzKSwgMj1Tb21lICgxLTIgbm90aWNlYWJsZSksIDM9TW9zdGx5IGNvbmZvcm1hbnQgKHN1YnRsZSBpc3N1ZXMpLCA0PUZ1bGx5IG5hdGl2ZSAoYSBmbHVlbnQgdXNlciB0cnVzdHMgZXZlcnkgc2NyZWVuKQoKIyMjIDUuIEFkYXB0aXZpdHkKCioqQ2hlY2sgZm9yKio6Ci0gKipTdHJldGNoZWQgcGhvbmUgbGF5b3V0cyoqOiB0YWJsZXQvaVBhZCByZW5kZXJpbmcgYSBzY2FsZWQtdXAgcGhvbmUgVUkgaW5zdGVhZCBvZiB1c2luZyBzaXplIGNsYXNzZXMgLyB3aW5kb3cgc2l6ZSBjbGFzc2VzCi0gKipPcmllbnRhdGlvbiBicmVha2FnZSoqOiBsYW5kc2NhcGUgY2xpcHBpbmcsIGlnbm9yZWQsIG9yIGxvY2tlZCB3aXRob3V0IHJlYXNvbgotICoqS2V5Ym9hcmQvSU1FIGhhbmRsaW5nKio6IGlucHV0cyBoaWRkZW4gYmVoaW5kIHRoZSBrZXlib2FyZCwgbm8gaW5zZXQgYWRqdXN0bWVudAotICoqTXVsdGl0YXNraW5nKio6IGlQYWQgU3BsaXQgVmlldyAvIEFuZHJvaWQgbXVsdGktd2luZG93IGJyZWFraW5nIGxheW91dAotICoqRm9sZGFibGVzKio6IGhpbmdlLXVuYXdhcmUgbGF5b3V0cyBvbiBwb3N0dXJlIGNoYW5nZSAoQW5kcm9pZCkKCioqU2NvcmUgMC00Kio6IDA9T25lIHNjcmVlbiBzaXplIG9ubHksIDE9TWFqb3IgYnJlYWthZ2UgKGxhbmRzY2FwZSBvciB0YWJsZXQgYnJva2VuKSwgMj1QYXJ0aWFsLCAzPUdvb2QgKG1pbm9yIGVkZ2UgY2FzZXMpLCA0PUV4Y2VsbGVudCAoYWRhcHRzIGFjcm9zcyBzaXplcywgb3JpZW50YXRpb25zLCBhbmQgd2luZG93aW5nKQoKIyMgR2VuZXJhdGUgUmVwb3J0CgojIyMgQXVkaXQgSGVhbHRoIFNjb3JlCgp8ICMgfCBEaW1lbnNpb24gfCBTY29yZSB8IEtleSBGaW5kaW5nIHwKfC0tLXwtLS0tLS0tLS0tLXwtLS0tLS0tfC0tLS0tLS0tLS0tLS18CnwgMSB8IEFjY2Vzc2liaWxpdHkgfCA/IHwgW21vc3QgY3JpdGljYWwgaXNzdWUgb3IgIi0tIl0gfAp8IDIgfCBQZXJmb3JtYW5jZSB8ID8gfCB8CnwgMyB8IEFwcGVhcmFuY2UgJiBUaGVtaW5nIHwgPyB8IHwKfCA0IHwgUGxhdGZvcm0gQ29uZm9ybWFuY2UgfCA/IHwgfAp8IDUgfCBBZGFwdGl2aXR5IHwgPyB8IHwKfCAqKlRvdGFsKiogfCB8ICoqPz8vMjAqKiB8ICoqW1JhdGluZyBiYW5kXSoqIHwKCioqUmF0aW5nIGJhbmRzKio6IDE4LTIwIEV4Y2VsbGVudCAobWlub3IgcG9saXNoKSwgMTQtMTcgR29vZCAoYWRkcmVzcyB3ZWFrIGRpbWVuc2lvbnMpLCAxMC0xMyBBY2NlcHRhYmxlIChzaWduaWZpY2FudCB3b3JrIG5lZWRlZCksIDYtOSBQb29yIChtYWpvciBvdmVyaGF1bCksIDAtNSBDcml0aWNhbCAoZnVuZGFtZW50YWwgaXNzdWVzKQoKIyMjIFBsYXRmb3JtIENvbmZvcm1hbmNlIFZlcmRpY3QKKipTdGFydCBoZXJlLioqIFBhc3MvZmFpbDogZG9lcyB0aGlzIHJlYWQgYXMgYSBuYXRpdmUgYXBwIG9yIGEgcG9ydGVkIHdlYnNpdGU/IExpc3Qgc3BlY2lmaWMgdmlvbGF0aW9ucy4gQmUgYnJ1dGFsbHkgaG9uZXN0LgoKIyMjIEV4ZWN1dGl2ZSBTdW1tYXJ5Ci0gQXVkaXQgSGVhbHRoIFNjb3JlOiAqKj8/LzIwKiogKFtyYXRpbmcgYmFuZF0pCi0gVG90YWwgaXNzdWVzIGZvdW5kIChjb3VudCBieSBzZXZlcml0eTogUDAvUDEvUDIvUDMpCi0gVG9wIDMtNSBjcml0aWNhbCBpc3N1ZXMKLSBSZWNvbW1lbmRlZCBuZXh0IHN0ZXBzCgojIyMgRGV0YWlsZWQgRmluZGluZ3MgYnkgU2V2ZXJpdHkKClRhZyBldmVyeSBpc3N1ZSB3aXRoICoqUDAtUDMgc2V2ZXJpdHkqKjoKLSAqKlAwIEJsb2NraW5nKio6IFByZXZlbnRzIHRhc2sgY29tcGxldGlvbi4gRml4IGltbWVkaWF0ZWx5Ci0gKipQMSBNYWpvcioqOiBTaWduaWZpY2FudCBkaWZmaWN1bHR5IG9yIHBsYXRmb3JtLWd1aWRlbGluZSB2aW9sYXRpb24uIEZpeCBiZWZvcmUgcmVsZWFzZQotICoqUDIgTWlub3IqKjogQW5ub3lhbmNlLCB3b3JrYXJvdW5kIGV4aXN0cy4gRml4IGluIG5leHQgcGFzcwotICoqUDMgUG9saXNoKio6IE5pY2UtdG8tZml4LCBubyByZWFsIHVzZXIgaW1wYWN0LiBGaXggaWYgdGltZSBwZXJtaXRzCgpGb3IgZWFjaCBpc3N1ZSwgZG9jdW1lbnQ6Ci0gKipbUD9dIElzc3VlIG5hbWUqKgotICoqTG9jYXRpb24qKjogU2NyZWVuLCBmaWxlLCBsaW5lCi0gKipDYXRlZ29yeSoqOiBBY2Nlc3NpYmlsaXR5IC8gUGVyZm9ybWFuY2UgLyBUaGVtaW5nIC8gQ29uZm9ybWFuY2UgLyBBZGFwdGl2aXR5Ci0gKipJbXBhY3QqKjogSG93IGl0IGFmZmVjdHMgdXNlcnMKLSAqKkd1aWRlbGluZSoqOiBUaGUgSElHIC8gTWF0ZXJpYWwgcnVsZSBpdCB2aW9sYXRlcyAoaWYgYXBwbGljYWJsZSkKLSAqKlJlY29tbWVuZGF0aW9uKio6IEhvdyB0byBmaXggaXQKLSAqKlN1Z2dlc3RlZCBjb21tYW5kKio6IFdoaWNoIGNvbW1hbmQgdG8gdXNlIChwcmVmZXI6IC9pbXBlY2NhYmxlIGFkYXB0LCAvaW1wZWNjYWJsZSBhbmltYXRlLCAvaW1wZWNjYWJsZSBhdWRpdCwgL2ltcGVjY2FibGUgYm9sZGVyLCAvaW1wZWNjYWJsZSBjbGFyaWZ5LCAvaW1wZWNjYWJsZSBjb2xvcml6ZSwgL2ltcGVjY2FibGUgY3JpdGlxdWUsIC9pbXBlY2NhYmxlIGRlbGlnaHQsIC9pbXBlY2NhYmxlIGRpc3RpbGwsIC9pbXBlY2NhYmxlIGRvY3VtZW50LCAvaW1wZWNjYWJsZSBoYXJkZW4sIC9pbXBlY2NhYmxlIGxheW91dCwgL2ltcGVjY2FibGUgb25ib2FyZCwgL2ltcGVjY2FibGUgb3B0aW1pemUsIC9pbXBlY2NhYmxlIG92ZXJkcml2ZSwgL2ltcGVjY2FibGUgcG9saXNoLCAvaW1wZWNjYWJsZSBxdWlldGVyLCAvaW1wZWNjYWJsZSBzaGFwZSwgL2ltcGVjY2FibGUgdHlwZXNldCkKCiMjIyBQYXR0ZXJucyAmIFN5c3RlbWljIElzc3VlcwoKSWRlbnRpZnkgcmVjdXJyaW5nIHByb2JsZW1zIHRoYXQgaW5kaWNhdGUgc3lzdGVtaWMgZ2FwcyByYXRoZXIgdGhhbiBvbmUtb2ZmIG1pc3Rha2VzOgotICJIYXJkLWNvZGVkIGNvbG9ycyBhcHBlYXIgaW4gMTUrIHNjcmVlbnMsIHNob3VsZCB1c2Ugc2VtYW50aWMgY29sb3JzIgotICJUb3VjaCB0YXJnZXRzIGNvbnNpc3RlbnRseSBiZWxvdyA0NCBwdCB0aHJvdWdob3V0IHRoZSB0YWIgYmFyIGFuZCBsaXN0IHJvd3MiCgojIyMgUG9zaXRpdmUgRmluZGluZ3MKCk5vdGUgd2hhdCdzIHdvcmtpbmcgd2VsbDogZ29vZCBwcmFjdGljZXMgdG8gbWFpbnRhaW4gYW5kIHJlcGxpY2F0ZS4KCiMjIFJlY29tbWVuZGVkIEFjdGlvbnMKCkxpc3QgcmVjb21tZW5kZWQgY29tbWFuZHMgaW4gcHJpb3JpdHkgb3JkZXIgKFAwIGZpcnN0LCB0aGVuIFAxLCB0aGVuIFAyKToKCjEuICoqW1A/XSBgL2NvbW1hbmQtbmFtZWAqKjogQnJpZWYgZGVzY3JpcHRpb24gKHNwZWNpZmljIGNvbnRleHQgZnJvbSBhdWRpdCBmaW5kaW5ncykKMi4gKipbUD9dIGAvY29tbWFuZC1uYW1lYCoqOiBCcmllZiBkZXNjcmlwdGlvbiAoc3BlY2lmaWMgY29udGV4dCkKCioqUnVsZXMqKjogT25seSByZWNvbW1lbmQgY29tbWFuZHMgZnJvbTogL2ltcGVjY2FibGUgYWRhcHQsIC9pbXBlY2NhYmxlIGFuaW1hdGUsIC9pbXBlY2NhYmxlIGF1ZGl0LCAvaW1wZWNjYWJsZSBib2xkZXIsIC9pbXBlY2NhYmxlIGNsYXJpZnksIC9pbXBlY2NhYmxlIGNvbG9yaXplLCAvaW1wZWNjYWJsZSBjcml0aXF1ZSwgL2ltcGVjY2FibGUgZGVsaWdodCwgL2ltcGVjY2FibGUgZGlzdGlsbCwgL2ltcGVjY2FibGUgZG9jdW1lbnQsIC9pbXBlY2NhYmxlIGhhcmRlbiwgL2ltcGVjY2FibGUgbGF5b3V0LCAvaW1wZWNjYWJsZSBvbmJvYXJkLCAvaW1wZWNjYWJsZSBvcHRpbWl6ZSwgL2ltcGVjY2FibGUgb3ZlcmRyaXZlLCAvaW1wZWNjYWJsZSBwb2xpc2gsIC9pbXBlY2NhYmxlIHF1aWV0ZXIsIC9pbXBlY2NhYmxlIHNoYXBlLCAvaW1wZWNjYWJsZSB0eXBlc2V0LiBNYXAgZmluZGluZ3MgdG8gdGhlIG1vc3QgYXBwcm9wcmlhdGUgY29tbWFuZC4gRW5kIHdpdGggYC9pbXBlY2NhYmxlIHBvbGlzaGAgYXMgdGhlIGZpbmFsIHN0ZXAgaWYgYW55IGZpeGVzIHdlcmUgcmVjb21tZW5kZWQuCgpBZnRlciBwcmVzZW50aW5nIHRoZSBzdW1tYXJ5LCB0ZWxsIHRoZSB1c2VyOgoKPiBZb3UgY2FuIGFzayBtZSB0byBydW4gdGhlc2Ugb25lIGF0IGEgdGltZSwgYWxsIGF0IG9uY2UsIG9yIGluIGFueSBvcmRlciB5b3UgcHJlZmVyLgo+Cj4gUmUtcnVuIGAvaW1wZWNjYWJsZSBhdWRpdGAgYWZ0ZXIgZml4ZXMgdG8gc2VlIHlvdXIgc2NvcmUgaW1wcm92ZS4KCktlZXAgUDNzIGZldzogYSBsb25nIHRhaWwgb2YgbWlub3IgaXNzdWVzIGJ1cmllcyB0aGUgb25lcyB0aGF0IG1hdHRlci4KCioqQXZvaWQqKjoKLSBSZXBvcnQgaXNzdWVzIHdpdGhvdXQgZXhwbGFpbmluZyBpbXBhY3QgKHdoeSBkb2VzIHRoaXMgbWF0dGVyPykKLSBQcm92aWRlIGdlbmVyaWMgcmVjb21tZW5kYXRpb25zIChiZSBzcGVjaWZpYyBhbmQgYWN0aW9uYWJsZSkKLSBTa2lwIHBvc2l0aXZlIGZpbmRpbmdzIChjZWxlYnJhdGUgd2hhdCB3b3JrcykKLSBGb3JnZXQgdG8gcHJpb3JpdGl6ZSAoZXZlcnl0aGluZyBjYW4ndCBiZSBQMCkKLSBSZXBvcnQgZmFsc2UgcG9zaXRpdmVzIHdpdGhvdXQgdmVyaWZpY2F0aW9uCg==
+Run systematic **technical** quality checks on a native app (`ios` / `android` / `adaptive`) and generate a comprehensive report. Don't fix issues; document them for other commands to address.
+
+This is a code-level audit, not a design critique. Audit from source (SwiftUI / UIKit / Compose / React Native / Flutter); no browser tooling or `impeccable detect` applies. Score against the platform reference(s): [ios.md](ios.md) / [android.md](android.md), both for `adaptive`. Read them before scoring if Setup hasn't already. The report skeleton mirrors [audit.md](audit.md); keep the two in sync when changing it.
+
+## Diagnostic Scan
+
+Run comprehensive checks across 5 dimensions. Score each dimension 0-4 using the criteria below.
+
+### 1. Accessibility (VoiceOver / TalkBack)
+
+**Check for**:
+- **Missing labels**: interactive elements without accessibility labels, traits/roles, or state announcements
+- **Reading and focus order**: illogical traversal, unreachable controls, focus lost on navigation
+- **Text scaling**: fixed point sizes defeating Dynamic Type (iOS) or px instead of sp (Android); layouts that clip or overlap at large sizes
+- **Touch targets**: below 44 pt (iOS) / 48 dp (Android), or crammed without spacing
+- **Reduce Motion ignored**: parallax and large slides with no crossfade alternative
+- **Contrast**: text failing contrast in either appearance, light or dark
+
+**Score 0-4**: 0=Screen reader unusable, 1=Major gaps (unlabeled controls, no scaling), 2=Partial (labels exist, order or scaling breaks), 3=Good (minor gaps), 4=Excellent (labeled, ordered, scales cleanly, Reduce Motion honored)
+
+### 2. Performance
+
+**Check for**:
+- **Slow startup**: heavy work on launch before first frame
+- **Unvirtualized lists**: long content without FlatList / LazyColumn / List recycling
+- **Main-thread jank**: synchronous work in scroll or gesture paths, dropped frames on 60/120 Hz
+- **Wasted rendering**: unnecessary re-renders (React Native) or recompositions (Compose); missing memoization/keys
+- **Image handling**: full-size images decoded for thumbnails, no caching
+- **App weight**: bloated JS bundle or binary, unused dependencies
+
+**Score 0-4**: 0=Janky everywhere, 1=Major problems (unvirtualized lists, slow launch), 2=Partial, 3=Good (minor improvements possible), 4=Excellent (fast launch, smooth scroll, lean)
+
+### 3. Appearance & Theming
+
+**Check for**:
+- **Hard-coded colors**: raw hex instead of semantic system colors (iOS) / Material color roles (Android) / design tokens
+- **Broken dark appearance**: missing dark variants, poor contrast in dark, quick inverts
+- **Dynamic Color** (Android 12+): no static fallback scheme, or ignored where it fits
+- **Off-platform materials**: hand-rolled visual materials where system materials or tonal elevation are expected
+
+**Score 0-4**: 0=Hard-coded everything, 1=Minimal tokens, 2=Partial (tokens exist, inconsistently used), 3=Good (minor hard-coded values), 4=Excellent (semantic throughout, both appearances first-class)
+
+### 4. Platform Conformance (CRITICAL)
+
+Score against the loaded platform reference(s), including their slop tests. **Check for**:
+- **Broken system gestures**: edge-swipe back disabled (iOS), predictive Back hijacked (Android)
+- **Inset violations**: content under the notch, Dynamic Island, home indicator, status bar, or keyboard
+- **Off-platform navigation**: custom global nav, overloaded tab bars, iOS patterns on Android or vice versa
+- **Web-shaped controls**: HTML-style buttons, custom toggles, hover-dependent affordances
+- **Icon drift**: mixed icon sets instead of SF Symbols / Material Symbols
+- **System drift**: repeated shortcuts or decorative patterns that conflict with the product, platform, or established design system
+
+**Score 0-4**: 0=Web port (nothing native), 1=Heavy violations (3-4 kinds), 2=Some (1-2 noticeable), 3=Mostly conformant (subtle issues), 4=Fully native (a fluent user trusts every screen)
+
+### 5. Adaptivity
+
+**Check for**:
+- **Stretched phone layouts**: tablet/iPad rendering a scaled-up phone UI instead of using size classes / window size classes
+- **Orientation breakage**: landscape clipping, ignored, or locked without reason
+- **Keyboard/IME handling**: inputs hidden behind the keyboard, no inset adjustment
+- **Multitasking**: iPad Split View / Android multi-window breaking layout
+- **Foldables**: hinge-unaware layouts on posture change (Android)
+
+**Score 0-4**: 0=One screen size only, 1=Major breakage (landscape or tablet broken), 2=Partial, 3=Good (minor edge cases), 4=Excellent (adapts across sizes, orientations, and windowing)
+
+## Generate Report
+
+### Audit Health Score
+
+| # | Dimension | Score | Key Finding |
+|---|-----------|-------|-------------|
+| 1 | Accessibility | ? | [most critical issue or "--"] |
+| 2 | Performance | ? | |
+| 3 | Appearance & Theming | ? | |
+| 4 | Platform Conformance | ? | |
+| 5 | Adaptivity | ? | |
+| **Total** | | **??/20** | **[Rating band]** |
+
+**Rating bands**: 18-20 Excellent (minor polish), 14-17 Good (address weak dimensions), 10-13 Acceptable (significant work needed), 6-9 Poor (major overhaul), 0-5 Critical (fundamental issues)
+
+### Platform Conformance Verdict
+**Start here.** Pass/fail: does this read as a native app or a ported website? List specific violations. Be brutally honest.
+
+### Executive Summary
+- Audit Health Score: **??/20** ([rating band])
+- Total issues found (count by severity: P0/P1/P2/P3)
+- Top 3-5 critical issues
+- Recommended next steps
+
+### Detailed Findings by Severity
+
+Tag every issue with **P0-P3 severity**:
+- **P0 Blocking**: Prevents task completion. Fix immediately
+- **P1 Major**: Significant difficulty or platform-guideline violation. Fix before release
+- **P2 Minor**: Annoyance, workaround exists. Fix in next pass
+- **P3 Polish**: Nice-to-fix, no real user impact. Fix if time permits
+
+For each issue, document:
+- **[P?] Issue name**
+- **Location**: Screen, file, line
+- **Category**: Accessibility / Performance / Theming / Conformance / Adaptivity
+- **Impact**: How it affects users
+- **Guideline**: The HIG / Material rule it violates (if applicable)
+- **Recommendation**: How to fix it
+- **Suggested command**: Which command to use (prefer: /impeccable adapt, /impeccable animate, /impeccable audit, /impeccable bolder, /impeccable clarify, /impeccable colorize, /impeccable critique, /impeccable delight, /impeccable distill, /impeccable document, /impeccable harden, /impeccable layout, /impeccable onboard, /impeccable optimize, /impeccable overdrive, /impeccable polish, /impeccable quieter, /impeccable shape, /impeccable typeset)
+
+### Patterns & Systemic Issues
+
+Identify recurring problems that indicate systemic gaps rather than one-off mistakes:
+- "Hard-coded colors appear in 15+ screens, should use semantic colors"
+- "Touch targets consistently below 44 pt throughout the tab bar and list rows"
+
+### Positive Findings
+
+Note what's working well: good practices to maintain and replicate.
+
+## Recommended Actions
+
+List recommended commands in priority order (P0 first, then P1, then P2):
+
+1. **[P?] `/command-name`**: Brief description (specific context from audit findings)
+2. **[P?] `/command-name`**: Brief description (specific context)
+
+**Rules**: Only recommend commands from: /impeccable adapt, /impeccable animate, /impeccable audit, /impeccable bolder, /impeccable clarify, /impeccable colorize, /impeccable critique, /impeccable delight, /impeccable distill, /impeccable document, /impeccable harden, /impeccable layout, /impeccable onboard, /impeccable optimize, /impeccable overdrive, /impeccable polish, /impeccable quieter, /impeccable shape, /impeccable typeset. Map findings to the most appropriate command. End with `/impeccable polish` as the final step if any fixes were recommended.
+
+After presenting the summary, tell the user:
+
+> You can ask me to run these one at a time, all at once, or in any order you prefer.
+>
+> Re-run `/impeccable audit` after fixes to see your score improve.
+
+Keep P3s few: a long tail of minor issues buries the ones that matter.
+
+**Avoid**:
+- Report issues without explaining impact (why does this matter?)
+- Provide generic recommendations (be specific and actionable)
+- Skip positive findings (celebrate what works)
+- Forget to prioritize (everything can't be P0)
+- Report false positives without verification

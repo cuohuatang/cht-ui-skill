@@ -1,1 +1,204 @@
-IyBUaGUgZmluaXNoIGdhdGUKCkEgYnVpbGQgaXMgbm90IGZpbmlzaGVkIHdoaWxlIHRoZSBjaGVja2VyIHN0aWxsIGZpbmRzIGEgRkFJTCBpdCBjb3VsZCBmaXguIGBzY3JpcHRzL2dhdGUubWpzYCBydW5zIHRoZQpjaGVja3MgdGhhdCBtYXR0ZXIsIGxpc3RzIHdoYXQgaXMgb3BlbiwgYW5kIGNvdW50cyByb3VuZHMsIHNvIGEgYnVpbGQgaXRlcmF0ZXMgZm9yIHJlYWwgYW5kIHN0aWxsIGVuZHMuCgojIyBBcm0gaXQKCkF0IHN0ZXAgMSwgYmVmb3JlIGFueSBwYWdlIGV4aXN0czoKCmBgYGJhc2gKbm9kZSA8c2tpbGw+L3NjcmlwdHMvZ2F0ZS5tanMgLS1zdGFydCBpbmRleC5odG1sIC0ta2luZCA8a2luZD4gLS1jYXRlZ29yeSAiPHdoYXQgaXMgc29sZD4iIC0tcHJpbWFyeSAiPG1haW4gYWN0aW9uPiIKYGBgCgotIEEgZnJhbWV3b3JrIGJ1aWxkIG5hbWVzIHdoYXQgYSBicm93c2VyIGNhbiBvcGVuOiBpdHMgZGV2IHNlcnZlcidzIFVSTCAoYC0tc3RhcnQgaHR0cDovL2xvY2FsaG9zdDo1MTczL2AsCiAgd2l0aCB0aGUgc2VydmVyIHJ1bm5pbmcgd2hlbiB0aGUgZ2F0ZSBydW5zKSBvciBpdHMgYnVpbHQgcGFnZSAoYC0tc3RhcnQgZGlzdC9pbmRleC5odG1sIC0tcm9vdCBkaXN0YCkuCiAgQSBidWlsdCBwYWdlIGlzIGNoZWNrZWQgYXMgYnVpbHQ6IHJlYnVpbGQgYmVmb3JlIGV2ZXJ5IGdhdGUgcnVuLCBvciB0aGUgcm91bmQgaXMgc3BlbnQgb24gdGhlIG9sZCBidWlsZC4KICBUaGUgZ2F0ZSBvcGVucyBvbmx5IGEgbG9jYWwgcGFnZTogYSBmaWxlLCBvciBhIFVSTCBvbiBgbG9jYWxob3N0YCwgYDEyNy4wLjAuMWAsIGBbOjoxXWAsIGAqLmxvY2FsaG9zdGAKICBvciBgKi50ZXN0YC4KLSBgLS1zdGFydGAgb24gYSBidWlsZCB3aG9zZSByb3VuZHMgYXJlIHN0aWxsIG9wZW4gZG9lcyBub3QgcmVzZXQgdGhlbTogaXQgb25seSB1cGRhdGVzIHRoZSBwYWdlLCBVUkwsCiAgcm9vdCwga2luZCwgY2F0ZWdvcnkgYW5kIHByaW1hcnkgaXQgY2hlY2tzLiBgLS1zdGFydCAtLW5ld2AgYmVnaW5zIGEgbmV3IGJ1aWxkLiBgLS1yb3VuZHMgTmAgKDMgYnkKICBkZWZhdWx0KSBpcyBzZXQgb25seSB3aGVuIGEgYnVpbGQgYmVnaW5zLgotIGBzdGFydC5tanMgZGVhbGAgYXJtcyB0aGUgZm9sZGVyIGFzIHdlbGwgd2hlbiBubyBidWlsZCBpcyBvcGVuIHRoZXJlOyBgY3NzYCBhbmQgYGJyYW5kYCBuZXZlciBkby4KCiMjIFdoYXQgaXQgZG9lcwoKLSAqKkEgYnVpbGQgaXMgYWN0aXZlKiogd2hpbGUgYC50YXN0ZS1za2lsbC9idWlsZC5qc29uYCBleGlzdHMgaW4gdGhlIHByb2plY3QgZm9sZGVyIChvciBvbmUgb3IgdHdvCiAgZm9sZGVycyBiZWxvdyksIG9yIHdoaWxlIGAudGFzdGUtc2tpbGwvZ2F0ZS5qc29uYCBzYXlzIGl0cyByb3VuZHMgYXJlIHN0aWxsIG9wZW46IGRlbGV0aW5nIHRoZSBtYXJrZXIKICBkb2VzIG5vdCBlbmQgYSBidWlsZC4gQSBgc3RhcnQubWpzIGRlYWxgIGluIGEgZm9sZGVyIG9uZSBvciB0d28gYmVsb3cgYW4gb3BlbiBidWlsZCBqb2lucyB0aGF0IGJ1aWxkCiAgaW5zdGVhZCBvZiBhcm1pbmcgYSBzZWNvbmQgb25lLgotICoqVGhlIHBhZ2U6KiogdGhlIG9uZSBuYW1lZCwgZWxzZSB0aGUgbWFya2VyJ3MgcGFnZSBvciBVUkwsIGVsc2UgYGluZGV4Lmh0bWxgLCBlbHNlIHRoZSBvbmx5IGAuaHRtbGAKICBmaWxlLCBlbHNlIHRoZSBgaW5kZXguaHRtbGAgb2YgdGhlIG9ubHkgZm9sZGVyIGJlbG93IHRoYXQgaGFzIG9uZS4KLSAqKlRoZSBjaGVja3MqKiwgb25lIGF0IGEgdGltZSwgZWFjaCBpbiBpdHMgb3duIGhlYWRsZXNzIENocm9tZSB3aXRoIGEgZnJlc2ggcHJvZmlsZToKICBgY29uc2lzdGVuY3kubWpzIC0tcXVpY2sgLS13aWR0aHMgMTQ0MCwzOTBgICh3aXRoIHRoZSBraW5kIHRoZSBwYWdlIGRlY2xhcmVzLCBlbHNlIHRoZSBtYXJrZXIncywgYW5kIGl0cyBjYXRlZ29yeSwgcHJpbWFyeSBhbmQKICByb290LCBhcyBzdGVwIDYgcnVucyBpdCkgYW5kIGBhc3NldHMvbGF5b3V0L2NoZWNrLm1qcyAtLXNpemVzIDE0NDB4OTAwLDM5MHg4NDRgLiBUaGUgY29uc2lzdGVuY3kgcnVuIGluY2x1ZGVzCiAgYGVtcHR5LWFyZWFgIChhIHNlY3Rpb24gb3ZlciAzNSUgZW1wdHkgaW5zaWRlIGl0cyBjb250YWluZXIgV0FSTnMsIG92ZXIgNTAlIEZBSUxzKSBhbmQgdGhlIGBiYXNpY3NgCiAgYmxvY2sgKG5hbWVzLCBhbHQsIGxhYmVscywgaGVhZGluZyBvcmRlciwgdGhlIFRhYiB3YWxrLCBsYW5nLCBoZWFkIHRhZ3MsIG1hcCBsaW5rcywgYXNzdW1lZCBmYWN0cyk6CiAgdGhlaXIgRkFJTHMgYmxvY2sgbGlrZSB0aGUgb3RoZXJzOyB0aGVpciBXQVJOcyAoc2tpcC1saW5rLCBzaGFyZS1tZXRhLCBhY3Rpb24tcmVwZWF0IGF0IHR3bywKICBhc3N1bWVkLCB0aGUgZm9ybSdzIGAuZXhhbXBsZWAgc3RhbmQtaW4pIG5ldmVyIGRvLiBUaGUgcXVpY2sgcnVuIGxlYXZlcyBvdXQgd2hhdCBvbmx5IHN0ZXAgNidzIGZ1bGwKICBydW4gY2hlY2tzOiBgZm9ybXNgLCBgcmVkdWNlZC1tb3Rpb25gLCBgaG92ZXItbW92ZWAsIGBob3Zlci1zcGlsbGAsIGBsb29wLXBhdXNlYCwgYGhpZGRlbi12aXN1YWxgLCB0aGUgc2Nyb2xsIHdhbGtzLiBUaGUgMzkwIHdpZHRoIGJyaW5ncyB0aGUgcGhvbmUgY2hlY2tzIChgY29sbGlkZWAsCiAgYHRhcC1zaXplYCkgYW5kIGEgd2FsayBhdCAzMjAgZm9yIGFueXRoaW5nIHBhc3QgdGhlIHNjcmVlbiAoYG9mZi12aWV3cG9ydGApOyBgaGlkZGVuLWNvbnRlbnRgIGFsc28KICBsb2FkcyB0aGUgcGFnZSB3aXRoIHNjcmlwdHMgb2ZmLiBQbHVzIHR3byByZWFkIGZyb20gdGhlIGZpbGVzOgogIC0gKipraXQtZWRpdGVkKio6IGEgZmlsZSB0aGUgcGFnZSBsb2FkcyBmcm9tIGBhc3NldHMvYCBkaWZmZXJzIGZyb20gdGhlIHNraWxsJ3MgY29weSAod2hpdGVzcGFjZSwKICAgIHF1b3Rlcywgc2VtaWNvbG9ucyBhbmQgY29tbWFzIGFzaWRlLCBzbyBhIGZvcm1hdHRlciBpcyBub3QgYW4gZWRpdCkuIEEga2l0IGNvcHkgZnJvbSBhbiBvbGRlciBza2lsbCB2ZXJzaW9uCiAgICBjb3VudHMgdG9vOiBjb3B5IHRoZSBjdXJyZW50IG9uZS4KICAtICoqY2hlY2tlci1nYW1pbmcqKjogdGhlIHBhZ2UncyBvd24gY29kZSB0ZXN0cyBmb3IgYG5hdmlnYXRvci53ZWJkcml2ZXJgLCBgd2luZG93Ll9fcGxheXdyaWdodGAsCiAgICBgY2FsbFBoYW50b21gIG9yIHRoZSBjaGVja2VyJ3MgYF9fY2NgIGhvb2tzIChjb2RlIG9ubHk6IGEgY29kZSBzYW1wbGUgaW4gYSBzdHJpbmcgaXMgbm90IGEgdGVzdCkuCiAgLSAqKmdhbWluZy1zdXNwZWN0KiogKHdhaXZhYmxlKTogYSB1c2VyLWFnZW50IHRlc3QgZm9yICJoZWFkbGVzcyIsIG9yIGBhcmlhLWhpZGRlbmAgc3RyaXBwZWQgZnJvbSBldmVyeQogICAgcGljdHVyZSBhIHNlbGVjdG9yIGZpbmRzLiBUaGUga2l0J3Mgb3duIGBhc3NldHMvbW90aW9uL21vdGlvbi5qc2AgdGVzdHMgZm9yIGBIZWFkbGVzc0Nocm9tZWAgKGl0cwogICAgYHNob3QoKWA6IGluIGEgaGVhZGxlc3MgYnJvd3NlciB0aGUgY291bnRzIGFuZCB0aGUgaGVybyBlbnRyYW5jZSBzdGFuZCBhcyB3cml0dGVuLCBhdCB0aGVpciBlbmQsCiAgICB1bmxlc3MgdGhlIHBhZ2Ugc2V0cyBgZGF0YS1tb3Rpb249ImxpdmUiYCkuIEFuIHVuY2hhbmdlZCBraXQgY29weSBpcyBza2lwcGVkIGJ5IGl0cyB0ZXh0OyBhIGJ1aWxkIHRoYXQgYnVuZGxlcyBvciBwb3J0cyBpdAogICAgKGEgZnJhbWV3b3JrJ3MgYHNyYy9saWIvbW90aW9uLmpzYCwgYSBgZGlzdC9hc3NldHMvaW5kZXgtKi5qc2ApIGdldHMgdGhpcyBmaW5kaW5nIGZvciB0aGUga2l0J3MKICAgIGxpbmU6IHdhaXZlIGl0IHdpdGggInRoZSBraXQncyBtb3Rpb24uanMgc2hvdCgpIHRlc3QsIHBvcnRlZCB1bmNoYW5nZWQiIGFzIHRoZSByZWFzb24uCiAgLSAqKnRoZSBjb3B5KiogKHdhaXZhYmxlKTogYHNjcmlwdHMvY29weS1saW50Lm1qcyAtLWpzb24gLS1raW5kIDxraW5kPmAgb24gdGhlIHBhZ2UncyBmaWxlLCBvciwgd2hlbgogICAgdGhlIGZpbGUgaG9sZHMgbm8gc2VjdGlvbnMgKGEgYnVpbHQgYXBwLCBhIGRldiBzZXJ2ZXIpLCBvbiB0aGUgcGFnZSBhcyB0aGUgY2hlY2tlcidzIGJyb3dzZXIgYnVpbHQKICAgIGl0OyB3aXRoIG5laXRoZXIgdGhlIGNvcHkgaXMgbGlzdGVkIGFzIG5vdCBjaGVja2VkLCBuZXZlciBwYXNzZWQuIEl0cyBGQUlMcyBibG9jayAoYGNvcHktcmVzaWR1ZWAsCiAgICBgY29weS1zbG9wLXdvcmRgLCBgY29weS1zdG9jay1waHJhc2VgLCBhIGRldmljZSB1c2VkIHR3aWNlIGl0cyBidWRnZXQgcGx1cyBvbmUgdGltZXMgb3IgbW9yZSAodHdvLWZyYWdtZW50IGFuZCBudW1iZXItcGFpciBoZWFkaW5ncywgY29udHJhc3QKICAgIGZyYW1lcywgbmVnYXRpb24gcnVucywgdmlydHVlIHdvcmRzOyByaWRlcnMsIHB1ZmZlcnksIHJldmVhbHMgYW5kIHJlcGVhdGVkIHByb21pc2VzIG9ubHkgV0FSTiksIGEKICAgIGJyYW5kIGNvaW5lZCBhcyBLZXN0cmVsIG9yIEhhbGN5b24pOyBpdHMgV0FSTnMgYXJlIGxpc3RlZCBhbmQgbmV2ZXIgYmxvY2sgKGBjb3B5Lm1kYCwKICAgIGBjb3B5LXRlbGxzLm1kYDsgYGNvcHktYnJhbmQtd29yZGAgaXMgYSBsaXN0ZWQgd29yZCBpbnNpZGUgdGhlIGNsaWVudCdzIG93biBuYW1lKS4gVGhlc2UgYXJlCiAgICBjb3B5LWxpbnQncyBpZHM7IHRoZSBjaGVja2VyJ3MgY29weS1oZWFkbGluZSwgY29weS1mYWN0IGFuZCB0aGUgcmVzdCBhcmUgaXRzIG93bi4gTm8gYnJvd3NlcjogdW5kZXIKICAgIGEgc2Vjb25kLgoKICBBIGZpbGUgd2hvc2UgdGV4dCBpcyBhIGtpdCBmaWxlJ3MgaXMgdGhlIGtpdCdzLCB3aGVyZXZlciBpdCBzaXRzLiBUaGUgdHdvIGNoZWNrZXJzJyBpZHMgZm9yIG9uZSBmYXVsdCBvZgogIG9uZSBzZWN0aW9uIChzZWN0aW9uLWhlaWdodCAvIHNjcmVlbi1oZWlnaHQgLyBzY3JlZW4tc2hvcnQsIG9uZS1zZWN0aW9uIC8gbmVpZ2hib3VyKSBhcmUgb25lIGZpbmRpbmcuCiAgQSBmdWxsIHJ1biB0YWtlcyBhIGZldyBtaW51dGVzIG9uIGEgQ1BVIENocm9tZS4KLSAqKldBUk5zIG5ldmVyIGJsb2NrLCoqIGJ1dCBmb3IgdHdvIGhvdXNlIHJ1bGVzIHRoZSBjaGVja2VyIG9ubHkgV0FSTnMgYW5kIHRoZSBnYXRlIGhvbGRzIGFzIEZBSUxzOgogIGBoZXJvLWVudGVyYCAodGhlIGhlcm8gaGFzIG5vIGBkYXRhLWVudGVyYCwgb3IgdGhlIGhlYWQgbGluZSB0aGF0IHNldHMgYGh0bWwubS1lbnRlcmAgaXMgbWlzc2luZykgYW5kCiAgYG1vbWVudC1ub25lYCAodGhlIHBhZ2UgZGVhbHMgbm8gbW9tZW50KS4gVGhlIGZpcnN0IGZldyBXQVJOcyBhcmUgbGlzdGVkLgotICoqV2FpdmVycy4qKiBBIEZBSUwgeW91IGp1ZGdlIGZhbHNlIGdvZXMgaW4gYC50YXN0ZS1za2lsbC93YWl2ZXJzLmpzb25gOgoKICBgYGBqc29uCiAgW3sgImNoZWNrIjogIm9uZS1zZWN0aW9uIiwgInRhcmdldCI6ICJzZWN0aW9uI3Zpc2l0IiwgInJlYXNvbiI6ICJ0aGUgaG91cnMgbGlzdCBpcyBvbmUgc2NyZWVuIGF0IDM5MDsgdGhlIGNoZWNrIGNvdW50cyB0aGUgcGhvbmUgYmFyIiB9XQogIGBgYAoKICBgY2hlY2tgIGlzIHRoZSBmaW5kaW5nJ3MgaWQsIGB0YXJnZXRgIGEgcGFydCBvZiB3aGVyZSBpdCBpcyAoMysgY2hhcmFjdGVycywgb3IgdGhlIHdob2xlIG9mIGEgc2hvcnQKICB3aGVyZSksIGByZWFzb25gIDEyKyBjaGFyYWN0ZXJzLgogIE9uZSB3YWl2ZXIgY292ZXJzIG9uZSBmaW5kaW5nOiBhIHRhcmdldCB0aGF0IG1hdGNoZXMgc2V2ZXJhbCBpcyBpZ25vcmVkIGFuZCBzYXlzICJuYW1lIG9uZSIuIEVhY2gKICBjb3B5IHdvcmQsIHN0b2NrIHBocmFzZSBvciByZXNpZHVlIGhpdCBpcyBpdHMgb3duIGZpbmRpbmcsIG5hbWVkIGJ5IHRoZSB3b3JkIGFuZCBpdHMgc2VudGVuY2U7IGEgY29weQogIGRldmljZSB1c2VkIGFzIGEgdGljIGlzIG9uZSBmaW5kaW5nLCB3YWl2ZWQgb25seSBieSBpdHMgd2hvbGUgd2hlcmUgYXMgdGhlIGdhdGUgcHJpbnRzIGl0IChpdHMgY291bnQKICBhbmQgaGl0cyksIHNvIG5vdGhpbmcgYWRkZWQgbGF0ZXIgaXMgY292ZXJlZC4gQSB3b3JkIHRoZSBjbGllbnQncyBvd24gY29weSB1c2VzICh0aGUgYnJpZWYgcXVvdGVzIGl0KQogIGlzIHdhaXZlZCBoaXQgYnkgaGl0IHdpdGggdGhlIGJyaWVmIGFzIHRoZSByZWFzb24uIEEgd2FpdmVkCiAgRkFJTCBpcyBwcmludGVkIGFzIFdBSVZFRDogaXQgZ29lcyBpbiB0aGUgcmVwb3J0LiBraXQtZWRpdGVkIGFuZCBjaGVja2VyLWdhbWluZyBjYW5ub3QgYmUgd2FpdmVkLiBNb3JlCiAgdGhhbiA1IHdhaXZlcnMgaXMgaXRzZWxmIGEgRkFJTDogInRvbyBtYW55IHdhaXZlcnM6IGZpeCBpbnN0ZWFkIi4KLSAqKlJvdW5kcyoqIChgLnRhc3RlLXNraWxsL2dhdGUuanNvbmApLiBBIHJ1biB3aG9zZSBwYWdlIG9yIHdhaXZlcnMgY2hhbmdlZCBzaW5jZSB0aGUgbGFzdCByb3VuZCBpcyBhCiAgcm91bmQ7IGEgbWFudWFsIHJlcnVuIG9mIGFuIHVuY2hhbmdlZCBwYWdlIGlzIG5vdC4gQSBob29rIHN0b3AgYmVmb3JlIHRoZSBnYXRlJ3MgZmlyc3QgcnVuIGJ5IGhhbmQgaW4KICB0aGUgYnVpbGQgaXMgbm8gcm91bmQgZWl0aGVyOiBpdCBsaXN0cyB0aGUgRkFJTHMgYW5kIGJsb2NrcyAoaXRzIGJsb2NrcyBhcmUgY291bnRlZCBhcGFydCksIGFuZCB0aGUKICBmaXJzdCBydW4gYnkgaGFuZCBjb3VudHMgdGhhdCBwYWdlJ3Mgcm91bmQsIHNvIGEgcXVlc3Rpb24gdG8gdGhlIHVzZXIgbWlkLWJ1aWxkIGNvc3RzIG5vdGhpbmcuIEFmdGVyCiAgYSBob29rIGJsb2NrLCB0aGUgbmV4dCBmaW5pc2ggb24gdGhlIHVuY2hhbmdlZCBwYWdlIGlzIGFsbG93ZWQgb25jZSB3aXRob3V0IGEgcm91bmQgKGEgcXVlc3Rpb24gdG8KICB0aGUgdXNlcjogdGhlIGJsb2NrIHNheXMgImp1c3Qgc3RvcCBhZ2FpbiIpOyBvdGhlciBmaW5pc2hlcyBvbiBpdCBibG9jayB0d2ljZSB3aXRob3V0IGEgcm91bmQKICAoIm5vdGhpbmcgY2hhbmdlZCIpLCB0aGVuIGVhY2ggY291bnRzIGFzIG9uZTsgYSBjaGFuZ2Ugc3RhcnRzIHRoYXQgY291bnQgYWdhaW4uIEJlbG93IHRoZSBsYXN0CiAgcm91bmQ6IEZBSUwsIGZpeCwgZmluaXNoIGFnYWluLiBBdCB0aGUgbGFzdCByb3VuZCB0aGUgZ2F0ZSBzYXlzIG9uY2UgInJvdW5kcyB1c2VkIHVwIjogc3RvcCBmaXhpbmcsCiAgcHV0IHRoZSBvcGVuIEZBSUxzIGluIHRoZSByZXBvcnQsIGZpbmlzaC4gRXZlcnkgbGF0ZXIgZmluaXNoIGlzIGFsbG93ZWQuIEEgUEFTUywgYW5kIHRoZSBsYXN0CiAgcm91bmQncyBPUEVOLCByZW5hbWUgYGJ1aWxkLmpzb25gIHRvIGBidWlsZC5kb25lLmpzb25gLCBzbyBhIGxhdGVyIGRlYWwgc3RhcnRzIGEgYnVpbGQgb2YgaXRzIG93bi4KLSAqKldoZW4gdGhlIHVzZXIgZW5kcyBpdC4qKiBPbmx5IHdoZW4gdGhlIHVzZXIgdGVsbHMgeW91IHRvIHN0b3AsIG9yIHRvIHNoaXAgdGhlIHBhZ2UgYXMgaXQgaXM6CiAgYGdhdGUubWpzIC0tZG9uZSAiPHdoYXQgdGhleSBzYWlkPiJgICgxMisgY2hhcmFjdGVycykgY2xvc2VzIHRoZSBidWlsZCB3aXRoIHRoZWlyIHdvcmRzOiBzdGF0dXMKICBgZG9uZWAgaW4gYGdhdGUuanNvbmAsIGBidWlsZC5qc29uYCByZW5hbWVkIHRvIGBidWlsZC5kb25lLmpzb25gLCBldmVyeSBsYXRlciBmaW5pc2ggYWxsb3dlZC4gSXRzCiAgbGFzdCBsaW5lIGlzIGBHQVRFOiBET05FICguLi4pYDsgcHV0IGl0LCB0aGVpciB3b3JkcyBhbmQgdGhlIG9wZW4gRkFJTHMgaW4gdGhlIHJlcG9ydC4gTmV2ZXIgZm9yCiAgeW91ciBvd24gY2FsbCB0aGF0IHRoZSBwYWdlIGlzIGdvb2QgZW5vdWdoOiB0aGF0IGlzIHdoYXQgdGhlIHJvdW5kcyBhcmUgZm9yLgotICoqSXQgbmV2ZXIgdHJhcHMgYW4gYWdlbnQuKiogRXZlcnkgYmxvY2sgaXMgY291bnRlZCBpbiBgLnRhc3RlLXNraWxsL2dhdGUtYmxvY2tzLmpzb25gLCB3aGljaCBgLS1zdGFydGAKICBuZXZlciBjbGVhcnM7IHBhc3QgdGhlIHJvdW5kcyBwbHVzIDQgYmxvY2tzIGZvciBvbmUgYnVpbGQgKHRoZSBibG9ja3MgYmVmb3JlIHRoZSBmaXJzdCBydW4gYnkgaGFuZAogIGhhdmUgdGhhdCBtYW55IG9mIHRoZWlyIG93biksIG9yIDMwIGluIDYgaG91cnMgaW4gdGhlIGZvbGRlciwgZXZlcnkgZmluaXNoIGlzIGFsbG93ZWQuIE5vIHBhZ2UsIGEgZnJhbWV3b3JrIHNoZWxsLCBvciBjaGVja3MgdGhhdCBjcmFzaGVkIG9yIHJhbiBwYXN0IDkuNSBtaW51dGVzIGJsb2NrIG9uY2Ugd2l0aAogIHdoYXQgdG8gZG8sIHRoZW4gYWxsb3cuIEEgY3Jhc2hlZCBvciB0aW1lZC1vdXQgcnVuIGlzIHN0b3JlZCBmb3IgaXRzIHBhZ2U6IGEgbGF0ZXIgZmluaXNoIG9uIHRoZQogIHVuY2hhbmdlZCBwYWdlIHJldXNlcyBpdCBpbnN0ZWFkIG9mIHJ1bm5pbmcgdGhlIGNoZWNrcyBhZ2FpbiAob25jZSBtb3JlIGF0IG1vc3QsIHdoZW4gdGhlIGFnZW50IHdhcwogIG5vdCB5ZXQgdG9sZCkuIEVhY2ggY2hlY2sgcnVucyB3aXRoIGEgd2F0Y2hkb2cgdGhhdCBraWxscyBpdCwgYW5kIGl0cyBDaHJvbWUsIGlmIHRoZSBnYXRlIGlzCiAga2lsbGVkOyBub3RoaW5nIGVsc2UgaXMgZXZlciBraWxsZWQuCgojIyBUaGUgbWFudWFsIGdhdGUKCmBgYGJhc2gKbm9kZSA8c2tpbGw+L3NjcmlwdHMvZ2F0ZS5tanMgaW5kZXguaHRtbApgYGAKCkl0cyBsYXN0IGxpbmUgaXMgZXhhY3RseSBvbmUgb2Y6CgpgYGAKR0FURTogUEFTUwpHQVRFOiBGQUlMIDxuPiAocm91bmQgPGs+IG9mIDxtYXg+KQpHQVRFOiBPUEVOIDxuPiAocm91bmRzIHVzZWQgdXApCkdBVEU6IFFVSUNLIDxuPiAobm90IGEgcm91bmQ7IHJ1biB3aXRob3V0IC0tcXVpY2sgdG8gZmluaXNoKQpHQVRFOiBTRVRVUCAoLi4uKQpHQVRFOiBFUlJPUiAoLi4uKQpHQVRFOiBPRkYgKG5vIGJ1aWxkIGFjdGl2ZSkKR0FURTogRE9ORSAoPHRoZSB1c2VyJ3Mgd29yZHM+KSAgICAgIGFmdGVyIC0tZG9uZQpgYGAKClBBU1M6IGZpbmlzaC4gRkFJTDogZml4IHdoYXQgaXQgbGlzdHMgYW5kIHJ1biBpdCBhZ2Fpbi4gT1BFTjogc3RvcCBmaXhpbmc7IHRoZSBvcGVuIEZBSUxzIGFuZCB0aGUgd2FpdmVycwpnbyBpbiB0aGUgcmVwb3J0LiBRVUlDSzogYSBsb29rIGJldHdlZW4gcm91bmRzLCBuZXZlciB0aGUgbGFzdCBsaW5lIG9mIGEgYnVpbGQuIFNFVFVQIChubyBwYWdlIHlldCwgYQpmcmFtZXdvcmsncyBzb3VyY2Ugc2hlbGwsIGEgcGFnZSB0aGF0IGlzIG5vdCBsb2NhbCk6IGFybSB3aGF0IGEgYnJvd3NlciBjYW4gb3BlbiAoYC0tc3RhcnRgLCBhYm92ZSkgYW5kCnJ1biBpdCBhZ2Fpbi4gRVJST1IgKHRoZSBjaGVja3MgdGhlbXNlbHZlcyBjb3VsZCBub3QgcnVuKSBvciBPRkYgKG5vIGJ1aWxkIGFybWVkIGhlcmUpOiBwdXQgdGhlIGxpbmUgaW4KdGhlIHJlcG9ydCBhbmQgZmluaXNoOyBkbyBub3QgcmVydW4uIEFib3ZlIHRoZSBsaW5lOiBldmVyeSBvcGVuIEZBSUwgd2l0aCB3aGVyZSBpdCBpcyBhbmQgdGhlIGZpeCwgZXZlcnkKd2FpdmVyLCB0aGUgZmlyc3QgV0FSTnMuIGAtLXF1aWNrYCAodGhlIGNoZWNrZXIgYXQgMTQ0MCBhbmQgMzkwLCB0aGUgbGF5b3V0IGNoZWNrIGF0IDE0NDApIGlzIG5ldmVyIGEgcm91bmQuIFRoZSBjcm9wcyBhcmUgaW4KYC50YXN0ZS1za2lsbC9nYXRlL2NvbnNpc3RlbmN5YC4KCiMjIEFzIGEgaG9vawoKSW4gQ2xhdWRlIENvZGUgdGhlIHNraWxsJ3Mgb3duIGZyb250bWF0dGVyIGFkZHMgdGhlIGdhdGUgYXMgYSBTdG9wIGhvb2sgb25jZSB0aGUgc2tpbGwgaXMgaW52b2tlZC4gVGhlCmNvbW1hbmQgaXMgb25lIFBPU0lYIGBzaGAgbGluZSAoR2l0IEJhc2ggb24gV2luZG93cywgYHNoYCBvbiBtYWNPUyBhbmQgTGludXgpIHRoYXQgcnVucyB0aGUgZmlyc3QKYGdhdGUubWpzYCBpdCBmaW5kcywgaW4gdGhpcyBvcmRlcjogYCRDTEFVREVfU0tJTExfRElSL3NjcmlwdHMvYCwgYCRDTEFVREVfUExVR0lOX1JPT1Qvc2NyaXB0cy9gIGFuZApgJENMQVVERV9QTFVHSU5fUk9PVC9za2lsbHMvdGFzdGUtc2tpbGwvc2NyaXB0cy9gIChhIHBsdWdpbiBpbnN0YWxsKSwgZWFjaCBvbmx5IHdoZW4gdGhlIHZhcmlhYmxlIGlzCnNldDsgdGhlbiB0aGUgaW5zdGFsbCBmb2xkZXJzIGJ5IG5hbWUsIGAkQ0xBVURFX1BST0pFQ1RfRElSLy5jbGF1ZGUvc2tpbGxzL2Rlc2lnbi10YXN0ZS1mcm9udGVuZC9gLApgJENMQVVERV9QUk9KRUNUX0RJUi8uYWdlbnRzL3NraWxscy9kZXNpZ24tdGFzdGUtZnJvbnRlbmQvYCwgYH4vLmNsYXVkZS9za2lsbHMvZGVzaWduLXRhc3RlLWZyb250ZW5kL2AKYW5kIGB+Ly5hZ2VudHMvc2tpbGxzL2Rlc2lnbi10YXN0ZS1mcm9udGVuZC9gIChgbnB4IHNraWxsc2AsIGBpbnN0YWxsLnNoYCkuIFdoZW4gaXQgZmluZHMgbm9uZSwgdGhlIHN0b3AKaXMgYWxsb3dlZCB3aXRoIG5vIGhvb2sgZXJyb3I7IHdoZW4gdGhlIGZvbGRlciBoYXMgYSBgLnRhc3RlLXNraWxsYCBpdCB3cml0ZXMKYC50YXN0ZS1za2lsbC9nYXRlLWhvb2stbWlzc2luZy50eHRgICh0aGUgdGltZSBhbmQgdGhlIHZhcmlhYmxlcyBpdCByZWFkKSwgYW5kIHdoZW4gYSBidWlsZCBpcyBhcm1lZAp0aGVyZSBvciBvbmUgZm9sZGVyIGJlbG93IGl0IHByaW50cyBgdGFzdGVza2lsbCBnYXRlOiBnYXRlLm1qcyBub3QgZm91bmQgKENMQVVERV9QTFVHSU5fUk9PVD0uLi4pYCBvbgpzdGRlcnIsIHNvIGEgaG9vayB0aGF0IG5ldmVyIHJlYWNoZWQgdGhlIGdhdGUgc2hvd3MgaW4gdGhlIHRyYW5zY3JpcHQuIEEgc2tpbGwgaW5zdGFsbGVkIHVuZGVyIGFub3RoZXIKZm9sZGVyIG5hbWUsIG90aGVyIGFwcHMsIG9yIGEgQ2xhdWRlIENvZGUgd2l0aG91dCBza2lsbCBob29rcyB0YWtlIG9uZSBvZiB0aGVzZS4gRWFjaCBydW5zIGluIGV2ZXJ5CnNlc3Npb24gb2YgdGhlIHByb2plY3QgYW5kIGZpbmRzIGEgYnVpbGQgaW4gaXRzIGZvbGRlciBvciBvbmUgb3IgdHdvIGJlbG93LiBXaGVyZSBub25lIGlzIGFjdGl2ZSBpdApleGl0cyBhdCBvbmNlLCBidXQgb25jZSBmb3IgYSB0YXN0ZXNraWxsIHBhZ2UgKGEgYHBhZ2UtdHlwZWAgbWV0YSkgY2hhbmdlZCBpbiB0aGUgbGFzdCBkYXkgaW4gdGhlCmZvbGRlciBvciBvbmUgYmVsb3cgdGhhdCB3YXMgbmV2ZXIgYXJtZWQ6IGl0IHNheXMgaG93IHRvIGFybSBpdCAoYC50YXN0ZS1za2lsbC91bmFybWVkLmpzb25gIHJlY29yZHMKdGhhdCBpdCB0b2xkKS4gSXQgaG9sZHMgb25seSB0aGUgZmlyc3Qgc2Vzc2lvbiBpdCBibG9ja3MsIGxldHMgYW4gb3JjaGVzdHJhdG9yCndob3NlIGJ1aWxkcyBzaXQgaW4gdHdvIG9yIG1vcmUgZm9sZGVycyBiZWxvdyBzdG9wLCBhbmQgaWdub3JlcyBhIGJ1aWxkIGlkbGUgZm9yIDI0IGhvdXJzLiBSZXBsYWNlCmAvcGF0aC90by9za2lsbGAgd2l0aCB0aGUgc2tpbGwncyBmb2xkZXIuCgoqKkNsYXVkZSBDb2RlKiosIGAuY2xhdWRlL3NldHRpbmdzLmpzb25gIChibG9ja3Mgd2l0aCBKU09OIG9uIHN0ZG91dCk6CgpgYGBqc29uCnsKICAiaG9va3MiOiB7CiAgICAiU3RvcCI6IFsKICAgICAgeyAiaG9va3MiOiBbIHsgInR5cGUiOiAiY29tbWFuZCIsICJjb21tYW5kIjogIm5vZGUgXCIvcGF0aC90by9za2lsbC9zY3JpcHRzL2dhdGUubWpzXCIgLS1ob29rIGNsYXVkZSIsICJ0aW1lb3V0IjogNjAwIH0gXSB9CiAgICBdCiAgfQp9CmBgYAoKKipDb2RleCoqLCBgLmNvZGV4L2hvb2tzLmpzb25gICh0aGUgc2FtZSBvdXRwdXQgYXMgQ2xhdWRlIENvZGU6IGB7ImRlY2lzaW9uIjoiYmxvY2siLCJyZWFzb24iOi4uLn1gKToKCmBgYGpzb24KewogICJob29rcyI6IHsKICAgICJTdG9wIjogWwogICAgICB7ICJob29rcyI6IFsgeyAidHlwZSI6ICJjb21tYW5kIiwgImNvbW1hbmQiOiAibm9kZSBcIi9wYXRoL3RvL3NraWxsL3NjcmlwdHMvZ2F0ZS5tanNcIiAtLWhvb2sgY29kZXgiLCAidGltZW91dCI6IDYwMCB9IF0gfQogICAgXQogIH0KfQpgYGAKCioqQW50aWdyYXZpdHkqKiwgYC5hZ2VudHMvaG9va3MuanNvbmAgKGl0IGFuc3dlcnMgYHsiZGVjaXNpb24iOiJjb250aW51ZSIsInJlYXNvbiI6Li4ufWAgdG8ga2VlcCB0aGUgYWdlbnQgd29ya2luZyk6CgpgYGBqc29uCnsKICAiaG9va3MiOiB7CiAgICAiU3RvcCI6IFsKICAgICAgeyAiaG9va3MiOiBbIHsgInR5cGUiOiAiY29tbWFuZCIsICJjb21tYW5kIjogIm5vZGUgXCIvcGF0aC90by9za2lsbC9zY3JpcHRzL2dhdGUubWpzXCIgLS1ob29rIGFudGlncmF2aXR5IiwgInRpbWVvdXQiOiA2MDAgfSBdIH0KICAgIF0KICB9Cn0KYGBgCgpJbiBldmVyeSBtb2RlIHRoZSBnYXRlIGFsbG93cyBhIHN0b3AgYnkgcHJpbnRpbmcgbm90aGluZyBhbmQgZXhpdGluZyAwLiBJdCByZWFkcyB0aGUgaG9vaydzIEpTT04gb24gc3RkaW4KKDIgc2Vjb25kcyBhdCBtb3N0KSBmb3IgYGN3ZGAgYW5kIGBzZXNzaW9uX2lkYDsgYHN0b3BfaG9va19hY3RpdmVgIGRvZXMgbm90IGVuZCB0aGUgcm91bmRzIGVhcmx5LCB0aGUgcm91bmQKY291bnQgaW4gYGdhdGUuanNvbmAgZG9lcy4KCkV2ZXJ5IGhvb2sgY2FsbCBsZWF2ZXMgb25lIGVudHJ5IGluIGBnYXRlLmpzb25gJ3MgYGhpc3RvcnlgLCBhbiBhbGxvd2VkIHN0b3AgdG9vOiBgIm1vZGUiOiAiaG9vayJgLCB0aGUKYGhvc3RgLCBgImRlY2lzaW9uIjogImFsbG93ImAgb3IgYCJibG9jayJgIGFuZCBhIHNob3J0IGByZWFzb25gIChhIHJ1biBvZiB0aGUgY2hlY2tzIGFkZHMgaXRzIHN0YXR1cywgRkFJTApjb3VudCBhbmQgcm91bmQpLiBBZnRlciBhIFBBU1Mgb3Igd2l0aCB0aGUgcm91bmRzIHVzZWQgdXAgaXQgZ29lcyBpbiB0aGF0IGJ1aWxkJ3MgYGdhdGUuanNvbmA7IHdpdGggbm8KYnVpbGQgYXJtZWQsIGluIHRoZSBuZXdlc3QgYGdhdGUuanNvbmAgaW4gdGhlIGZvbGRlciBvciBvbmUgb3IgdHdvIGJlbG93LCBlbHNlIGluIHRoZSBmb2xkZXIncyBvd24KYC50YXN0ZS1za2lsbGAgd2hlbiB0aGVyZSBpcyBvbmUuIEl0IG5ldmVyIG1ha2VzIGEgbmV3IGAudGFzdGUtc2tpbGxgIGZvbGRlciwgYW5kIG5ldmVyIHdyaXRlcyBpbnRvIGEgYnVpbGQKYmVsb3cgdGhhdCBhbiBvcmNoZXN0cmF0aW5nIHNlc3Npb24gZG9lcyBub3QgaG9sZC4gQW4gZW50cnkgYWxvbmUga2VlcHMgdGhlIGZpbGUncyB0aW1lLCBzbyBpdCBuZXZlcgptYWtlcyBhbiBpZGxlIGJ1aWxkIGxvb2sgYWN0aXZlLgoKQSBob29rIGFkZGVkIGJ5IGEgc2tpbGwgYmVsb25ncyB0byB0aGUgbWFpbiBzZXNzaW9uOiBhIHN1YmFnZW50IHRoYXQgbG9hZHMgdGhlIHNraWxsIGlzIG5vdCBoZWxkLCBhbmQgaXRzCnBhcmVudCBpcyBoZWxkIGluc3RlYWQuIFJ1biB0aGUgbWFudWFsIGdhdGUgaW5zaWRlIGEgc3ViYWdlbnQuCg==
+# The finish gate
+
+A build is not finished while the checker still finds a FAIL it could fix. `scripts/gate.mjs` runs the
+checks that matter, lists what is open, and counts rounds, so a build iterates for real and still ends.
+
+## Arm it
+
+At step 1, before any page exists:
+
+```bash
+node <skill>/scripts/gate.mjs --start index.html --kind <kind> --category "<what is sold>" --primary "<main action>"
+```
+
+- A framework build names what a browser can open: its dev server's URL (`--start http://localhost:5173/`,
+  with the server running when the gate runs) or its built page (`--start dist/index.html --root dist`).
+  A built page is checked as built: rebuild before every gate run, or the round is spent on the old build.
+  The gate opens only a local page: a file, or a URL on `localhost`, `127.0.0.1`, `[::1]`, `*.localhost`
+  or `*.test`.
+- `--start` on a build whose rounds are still open does not reset them: it only updates the page, URL,
+  root, kind, category and primary it checks. `--start --new` begins a new build. `--rounds N` (3 by
+  default) is set only when a build begins.
+- `start.mjs deal` arms the folder as well when no build is open there; `css` and `brand` never do.
+
+## What it does
+
+- **A build is active** while `.taste-skill/build.json` exists in the project folder (or one or two
+  folders below), or while `.taste-skill/gate.json` says its rounds are still open: deleting the marker
+  does not end a build. A `start.mjs deal` in a folder one or two below an open build joins that build
+  instead of arming a second one.
+- **The page:** the one named, else the marker's page or URL, else `index.html`, else the only `.html`
+  file, else the `index.html` of the only folder below that has one.
+- **The checks**, one at a time, each in its own headless Chrome with a fresh profile:
+  `consistency.mjs --quick --widths 1440,390` (with the kind the page declares, else the marker's, and its category, primary and
+  root, as step 6 runs it) and `assets/layout/check.mjs --sizes 1440x900,390x844`. The consistency run includes
+  `empty-area` (a section over 35% empty inside its container WARNs, over 50% FAILs) and the `basics`
+  block (names, alt, labels, heading order, the Tab walk, lang, head tags, map links, assumed facts):
+  their FAILs block like the others; their WARNs (skip-link, share-meta, action-repeat at two,
+  assumed, the form's `.example` stand-in) never do. The quick run leaves out what only step 6's full
+  run checks: `forms`, `reduced-motion`, `hover-move`, `hover-spill`, `loop-pause`, `hidden-visual`, the scroll walks. The 390 width brings the phone checks (`collide`,
+  `tap-size`) and a walk at 320 for anything past the screen (`off-viewport`); `hidden-content` also
+  loads the page with scripts off. Plus two read from the files:
+  - **kit-edited**: a file the page loads from `assets/` differs from the skill's copy (whitespace,
+    quotes, semicolons and commas aside, so a formatter is not an edit). A kit copy from an older skill version
+    counts too: copy the current one.
+  - **checker-gaming**: the page's own code tests for `navigator.webdriver`, `window.__playwright`,
+    `callPhantom` or the checker's `__cc` hooks (code only: a code sample in a string is not a test).
+  - **gaming-suspect** (waivable): a user-agent test for "headless", or `aria-hidden` stripped from every
+    picture a selector finds. The kit's own `assets/motion/motion.js` tests for `HeadlessChrome` (its
+    `shot()`: in a headless browser the counts and the hero entrance stand as written, at their end,
+    unless the page sets `data-motion="live"`). An unchanged kit copy is skipped by its text; a build that bundles or ports it
+    (a framework's `src/lib/motion.js`, a `dist/assets/index-*.js`) gets this finding for the kit's
+    line: waive it with "the kit's motion.js shot() test, ported unchanged" as the reason.
+  - **the copy** (waivable): `scripts/copy-lint.mjs --json --kind <kind>` on the page's file, or, when
+    the file holds no sections (a built app, a dev server), on the page as the checker's browser built
+    it; with neither the copy is listed as not checked, never passed. Its FAILs block (`copy-residue`,
+    `copy-slop-word`, `copy-stock-phrase`, a device used twice its budget plus one times or more (two-fragment and number-pair headings, contrast
+    frames, negation runs, virtue words; riders, puffery, reveals and repeated promises only WARN), a
+    brand coined as Kestrel or Halcyon); its WARNs are listed and never block (`copy.md`,
+    `copy-tells.md`; `copy-brand-word` is a listed word inside the client's own name). These are
+    copy-lint's ids; the checker's copy-headline, copy-fact and the rest are its own. No browser: under
+    a second.
+
+  A file whose text is a kit file's is the kit's, wherever it sits. The two checkers' ids for one fault of
+  one section (section-height / screen-height / screen-short, one-section / neighbour) are one finding.
+  A full run takes a few minutes on a CPU Chrome.
+- **WARNs never block,** but for two house rules the checker only WARNs and the gate holds as FAILs:
+  `hero-enter` (the hero has no `data-enter`, or the head line that sets `html.m-enter` is missing) and
+  `moment-none` (the page deals no moment). The first few WARNs are listed.
+- **Waivers.** A FAIL you judge false goes in `.taste-skill/waivers.json`:
+
+  ```json
+  [{ "check": "one-section", "target": "section#visit", "reason": "the hours list is one screen at 390; the check counts the phone bar" }]
+  ```
+
+  `check` is the finding's id, `target` a part of where it is (3+ characters, or the whole of a short
+  where), `reason` 12+ characters.
+  One waiver covers one finding: a target that matches several is ignored and says "name one". Each
+  copy word, stock phrase or residue hit is its own finding, named by the word and its sentence; a copy
+  device used as a tic is one finding, waived only by its whole where as the gate prints it (its count
+  and hits), so nothing added later is covered. A word the client's own copy uses (the brief quotes it)
+  is waived hit by hit with the brief as the reason. A waived
+  FAIL is printed as WAIVED: it goes in the report. kit-edited and checker-gaming cannot be waived. More
+  than 5 waivers is itself a FAIL: "too many waivers: fix instead".
+- **Rounds** (`.taste-skill/gate.json`). A run whose page or waivers changed since the last round is a
+  round; a manual rerun of an unchanged page is not. A hook stop before the gate's first run by hand in
+  the build is no round either: it lists the FAILs and blocks (its blocks are counted apart), and the
+  first run by hand counts that page's round, so a question to the user mid-build costs nothing. After
+  a hook block, the next finish on the unchanged page is allowed once without a round (a question to
+  the user: the block says "just stop again"); other finishes on it block twice without a round
+  ("nothing changed"), then each counts as one; a change starts that count again. Below the last
+  round: FAIL, fix, finish again. At the last round the gate says once "rounds used up": stop fixing,
+  put the open FAILs in the report, finish. Every later finish is allowed. A PASS, and the last
+  round's OPEN, rename `build.json` to `build.done.json`, so a later deal starts a build of its own.
+- **When the user ends it.** Only when the user tells you to stop, or to ship the page as it is:
+  `gate.mjs --done "<what they said>"` (12+ characters) closes the build with their words: status
+  `done` in `gate.json`, `build.json` renamed to `build.done.json`, every later finish allowed. Its
+  last line is `GATE: DONE (...)`; put it, their words and the open FAILs in the report. Never for
+  your own call that the page is good enough: that is what the rounds are for.
+- **It never traps an agent.** Every block is counted in `.taste-skill/gate-blocks.json`, which `--start`
+  never clears; past the rounds plus 4 blocks for one build (the blocks before the first run by hand
+  have that many of their own), or 30 in 6 hours in the folder, every finish is allowed. No page, a framework shell, or checks that crashed or ran past 9.5 minutes block once with
+  what to do, then allow. A crashed or timed-out run is stored for its page: a later finish on the
+  unchanged page reuses it instead of running the checks again (once more at most, when the agent was
+  not yet told). Each check runs with a watchdog that kills it, and its Chrome, if the gate is
+  killed; nothing else is ever killed.
+
+## The manual gate
+
+```bash
+node <skill>/scripts/gate.mjs index.html
+```
+
+Its last line is exactly one of:
+
+```
+GATE: PASS
+GATE: FAIL <n> (round <k> of <max>)
+GATE: OPEN <n> (rounds used up)
+GATE: QUICK <n> (not a round; run without --quick to finish)
+GATE: SETUP (...)
+GATE: ERROR (...)
+GATE: OFF (no build active)
+GATE: DONE (<the user's words>)      after --done
+```
+
+PASS: finish. FAIL: fix what it lists and run it again. OPEN: stop fixing; the open FAILs and the waivers
+go in the report. QUICK: a look between rounds, never the last line of a build. SETUP (no page yet, a
+framework's source shell, a page that is not local): arm what a browser can open (`--start`, above) and
+run it again. ERROR (the checks themselves could not run) or OFF (no build armed here): put the line in
+the report and finish; do not rerun. Above the line: every open FAIL with where it is and the fix, every
+waiver, the first WARNs. `--quick` (the checker at 1440 and 390, the layout check at 1440) is never a round. The crops are in
+`.taste-skill/gate/consistency`.
+
+## As a hook
+
+In Claude Code the skill's own frontmatter adds the gate as a Stop hook once the skill is invoked. The
+command is one POSIX `sh` line (Git Bash on Windows, `sh` on macOS and Linux) that runs the first
+`gate.mjs` it finds, in this order: `$CLAUDE_SKILL_DIR/scripts/`, `$CLAUDE_PLUGIN_ROOT/scripts/` and
+`$CLAUDE_PLUGIN_ROOT/skills/taste-skill/scripts/` (a plugin install), each only when the variable is
+set; then the install folders by name, `$CLAUDE_PROJECT_DIR/.claude/skills/design-taste-frontend/`,
+`$CLAUDE_PROJECT_DIR/.agents/skills/design-taste-frontend/`, `~/.claude/skills/design-taste-frontend/`
+and `~/.agents/skills/design-taste-frontend/` (`npx skills`, `install.sh`). When it finds none, the stop
+is allowed with no hook error; when the folder has a `.taste-skill` it writes
+`.taste-skill/gate-hook-missing.txt` (the time and the variables it read), and when a build is armed
+there or one folder below it prints `tasteskill gate: gate.mjs not found (CLAUDE_PLUGIN_ROOT=...)` on
+stderr, so a hook that never reached the gate shows in the transcript. A skill installed under another
+folder name, other apps, or a Claude Code without skill hooks take one of these. Each runs in every
+session of the project and finds a build in its folder or one or two below. Where none is active it
+exits at once, but once for a tasteskill page (a `page-type` meta) changed in the last day in the
+folder or one below that was never armed: it says how to arm it (`.taste-skill/unarmed.json` records
+that it told). It holds only the first session it blocks, lets an orchestrator
+whose builds sit in two or more folders below stop, and ignores a build idle for 24 hours. Replace
+`/path/to/skill` with the skill's folder.
+
+**Claude Code**, `.claude/settings.json` (blocks with JSON on stdout):
+
+```json
+{
+  "hooks": {
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "node \"/path/to/skill/scripts/gate.mjs\" --hook claude", "timeout": 600 } ] }
+    ]
+  }
+}
+```
+
+**Codex**, `.codex/hooks.json` (the same output as Claude Code: `{"decision":"block","reason":...}`):
+
+```json
+{
+  "hooks": {
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "node \"/path/to/skill/scripts/gate.mjs\" --hook codex", "timeout": 600 } ] }
+    ]
+  }
+}
+```
+
+**Antigravity**, `.agents/hooks.json` (it answers `{"decision":"continue","reason":...}` to keep the agent working):
+
+```json
+{
+  "hooks": {
+    "Stop": [
+      { "hooks": [ { "type": "command", "command": "node \"/path/to/skill/scripts/gate.mjs\" --hook antigravity", "timeout": 600 } ] }
+    ]
+  }
+}
+```
+
+In every mode the gate allows a stop by printing nothing and exiting 0. It reads the hook's JSON on stdin
+(2 seconds at most) for `cwd` and `session_id`; `stop_hook_active` does not end the rounds early, the round
+count in `gate.json` does.
+
+Every hook call leaves one entry in `gate.json`'s `history`, an allowed stop too: `"mode": "hook"`, the
+`host`, `"decision": "allow"` or `"block"` and a short `reason` (a run of the checks adds its status, FAIL
+count and round). After a PASS or with the rounds used up it goes in that build's `gate.json`; with no
+build armed, in the newest `gate.json` in the folder or one or two below, else in the folder's own
+`.taste-skill` when there is one. It never makes a new `.taste-skill` folder, and never writes into a build
+below that an orchestrating session does not hold. An entry alone keeps the file's time, so it never
+makes an idle build look active.
+
+A hook added by a skill belongs to the main session: a subagent that loads the skill is not held, and its
+parent is held instead. Run the manual gate inside a subagent.

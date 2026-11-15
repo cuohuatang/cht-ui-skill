@@ -1,1 +1,90 @@
-IyBjaHQtdWktc2tpbGwKCuS4gOermeW8j+WJjeerr+inhuinieS4juWKqOaViOaKgOiDvembhu+8jOiejeWQiCAyMyDlpKfog73lipvvvIzlubblhoXnva7kuIDmnaHjgIzlrqHnvo7miZPlupUg4oaSIOWHuuaWueahiOefqemYtSDihpIg5Ye656i/77yI6Z2Z5oCB56i/IC8g5Y+v5ouW5pS55Y6f5Z6L77yJ4oaSIOeUn+aIkOWPr+i/kOihjOS7o+egge+8iOW/q+mAnyAvIOW3peeoi+aooeW8j++8ieKGkiDlrozmiJDliY3pqozor4Eg4oaSIOeUn+aIkOW8jyBVSe+8iGpzb24tcmVuZGVy77yJ4oaSIOWKqOaViOWxleekuuWvvOWHuiDihpIg5Lqk5LuY5YmN6K+E5a6h77yIaW1wZWNjYWJsZSDDlyBqYWt1YmtyZWhlbC1za2lsbHMgw5cgaGFsbG1hcmvvvInihpIg5a6e5rWL6aqM5pS244CN55qE57yW5o6S5bel5L2c5rWB44CCCgojIyDlt6XkvZzmtYHvvIjlhoXnva7vvIkKCmBgYApmcm9udGVuZC1kZXNpZ24g5a6a5a6h576O56uL5Zy6ICsgdGFzdGUtc2tpbGwvZ2FyZGVuLXNraWxscyDkvpvmlrnlkJHntKDmnZDvvIjpgb/lvIAgQUkg6buY6K6k6Zm36Zix77yJCiAgIOKGkwpvaWwtdWkgKyA4IOWkp+WIhuWGjCDihpIg5Ye644CM6aOO5qC8IMOXIOaKgOacr+OAjeaWueahiOefqemYte+8iOm7mOiupCA2LTkg54mI77yJ5pS+5Zyo5a+55q+U6aG16K6p5L2g5oyRCu+8iOiQveWcsOmhtS/okKXplIDpobXlnLrmma/lhYjotbAgbGFuZGluZy1wYWdlLWRlc2lnbiDlrprovazljJbnu5PmnoQv5paH5qGI77yM5o6l5Y+j4pGl77yJCiAgIOKGkyDpl7jpl6jnoa7orqTliIbmlK8K5YiG5pSv55Sy77yaZHJhdy11aSDihpIg5Ye66Z2Z5oCB57K+57uG6K6+6K6h56i/CuWIhuaUr+S5me+8mm0zZS1jYW52YXMg4oaSIOWHuuWPr+aLluaUueWOn+Wei++8iEFJIOebtOWHuu+8jOi+ueeci+i+ueaUue+8iQogICDihpMK56ys5LiJ5q2l77ya55Sf5oiQ5Y+v6L+Q6KGM5Luj56CBCiAgIOW/q+mAn+aooeW8j++8mnYwLmRldiBDaGF0IC8gQnVpbGRlci5pbyDnlJ/miJDku6PnoIEKICAg5bel56iL5qih5byP77yac3VwZXJwb3dlcnMg6amx5Yqo77yI6K6h5YiSIOKGkiBUREQg4oaSIOWtkOS7o+eQhuaJp+ihjCDihpIg6aqM6K+BIOKGkiDor4TlrqHvvIkKICAg4oaTCuesrOWbm+atpe+8muWujOaIkOWJjemqjOivge+8iOi3kea1i+ivlS/mnoTlu7rvvIzpmYTpqozor4Hor4Hmja7vvIkKICAg4oaTCuesrOS6lOatpe+8iOWPr+mAie+8ie+8mmpzb24tcmVuZGVyIOeUn+aIkOW8jyBVSeKAlOKAlOWFiOWumiBjYXRhbG9nIOaKpOagjyDihpIgQUkg55Sf5oiQ5Y+X57qm5p2fIEpTT04gU3BlYyDihpIgcmVuZGVyZXIg5rWB5byP5riy5p+T77yI5o6l5Y+j4pGo77yJCiAgIOKGkwrnrKzlha3mraXvvIjlj6/pgInvvInvvJpkZXNpZ24tdG8tbW90aW9uIOaKiuiuvuiuoeeov+WBmuaIkOS8muWKqOeahOWxleekuueJh++8jOWvvOWHuiBNUDQvR0lG77yI5o6l5Y+j4pGm77yJCiAgIOKGkwrnrKzkuIPmraXvvIjlv4XlgZrvvInvvJppbXBlY2NhYmxlIGNyaXRpcXVlL2F1ZGl0ICsgNjIg5p2hIHNsb3Ag6KeE5YiZICsgamFrdWJrcmVoZWwgYmV0dGVyLSog6K+B5o2u6amx5Yqo57K+5L+uICsgaGFsbG1hcmsg5LiJ57qn6Ze46ZeoL+aWsOmynOS4iuS4i+aWh+ivhOWuoe+8iOaOpeWPo+KRp++8iQogICDihpMK5L2g5omL5Yqo5o6l6L+b6aG555uu44CBZ2l0IOaPkOS6pOOAgemDqOe9sgpgYGAKCiMjIDIzIOWkp+iDveWKmwoKfCAjIHwg6IO95YqbIHwg5byA5rqQ5p2l5rqQIHwg5LiA5Y+l6K+dIHwKfC0tLXwtLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLXwKfCAxIHwgcDUuanMg5Yib5oSP57yW56CBIHwgYHByb2Nlc3NpbmcvcDUuanNgIHwg5Lqk5LqS5byPIENhbnZhcyDop4bop4njgIHnspLlrZDog4zmma/jgIHnlJ/miJDoibrmnK8gfAp8IDIgfCBDU1MgRG9vZGxlIOWbvuahiCB8IGBjc3MtZG9vZGxlL2Nzcy1kb29kbGVgIHwg57G7IENTUyDlsI8gRFNMIOeUn+aIkOWHoOS9lee6ueeQhiAvIFNWRyAvIEdQVSBzaGFkZXIgfAp8IDMgfCBUaGVhdHJlLmpzIOe8luaOkiB8IGB0aGVhdHJlLWpzL3RoZWF0cmVgIHwg572R6aG16YeM55qEIEFF77ya5pe26Ze06L20ICsg5YWz6ZSu5bin77yM57yW5o6S5Ye65Zy66aG65bqPIHwKfCA0IHwgUmVhY3QgU3ByaW5nIOeJqeeQhuWKqOeUuyB8IGBwbW5kcnMvcmVhY3Qtc3ByaW5nYCB8IOW8ueewp+eJqeeQhuW8ueaAp++8jOaJi+WKv+i3n+maj+S4juWIl+ihqOi/m+WHuiB8CnwgNSB8IEludXJlIOeyvuiHtOW+ruS6pOS6kiB8IGBIYW16YTQxNy9JbnVyZWDvvIjlj4LogIPmoLfmnKzvvIkgfCDlj4LogIPmi4bop6MgKyDlpI3liLvjgIzlsI/mk43kvZzkuZ/oiJLmnI3jgI3nmoQgVUkg5Yqo5pWIIHwKfCA2IHwgVUktVVggQ3JhZnQg6K6+6K6h5bel6Im6IHwg6K6+6K6h6KeE6IyD5pa55rOV6K66IHwgdG9rZW4gKyDnu4Tku7bnirbmgIHnn6npmLUgKyDkuqTku5ggUUEg6Zeo56aBIHwKfCA3IHwgUmVhY3QgUG9zdEZYIOWQjuacn+eJueaViCB8IGBwbW5kcnMvcmVhY3QtcG9zdHByb2Nlc3NpbmdgIHwgUjNGIOWcuuaZr+eahCBCbG9vbS/mma/mt7Ev5pqX6KeSL2dsaXRjaCDnrYnlkI7mnJ8gfAp8IDggfCBDaGFrcmEgVUkg57uE5Lu257O757ufIHwgYGNoYWtyYS11aS9jaGFrcmEtdWlgIHwg5byA566x5Y2z55So44CB5pSv5oyB5Li76aKY5a6a5Yi255qEIFJlYWN0IOe7hOS7tuW6kyB8CnwgOSB8IG9pbC11aSDnlYzpnaLorr7orqEv5pS554mIL+ivhOWuoSB8IGBvaWwtb2lsL29pbC11aWAgfCDlhYjlrprorr7orqHljJfmnoHmmJ/vvIzlpJrpo47moLzlkIzlsY/lr7nmr5TjgIHmjInnnJ/lrp7miKrlm77miZPno6jop4bop4nlsYLnuqcgfAp8IDEwIHwgZHJhdy11aSDorr7orqHnqL/nlJ/miJAv6L+Y5Y6fIHwgYG9pbC1vaWwvZHJhdy11aWAgfCDnlJ/miJAgVUkg6K6+6K6h56i/77yI5Zu+54mH77yJ77yM5bm26L+Y5Y6f5Li6IEhUTUwvQ1NTL+Wwj+eoi+W6jyB8CnwgMTEgfCBtM2UtY2FudmFzIOWPr+aLluaLvSBVSSDorr7orqEgfCBgbG5raWFpL20zZS1jYW52YXNgIHwgQUkg55Sf5oiQIE1hdGVyaWFsIDMg6K6+6K6hIEpTT04g4oaSIOWIhuS6q+mTvuaOpSDihpIg5L6n6L655qCPL+a1j+iniOWZqOaLluaUuSDihpIg5a+85Ye6IHZpYmUtY29kaW5nIOaPkOekuuivjSB8CnwgMTIgfCBzdXBlcnBvd2VycyDlvIDlj5Hmlrnms5XorrogfCBgb2JyYS9zdXBlcnBvd2Vyc2AgfCDnu5kgQUkg57yW56iL5Luj55CG55qE5a6M5pW05byA5Y+R5pa55rOV6K6677ya5aS06ISR6aOO5pq0IOKGkiDorqHliJIg4oaSIFRERCDihpIg5a2Q5Luj55CG5omn6KGMIOKGkiDosIPor5Ug4oaSIOmqjOivgSDihpIg6K+E5a6hIHwKfCAxMyB8IGZyb250ZW5kLWRlc2lnbiDorr7orqHlk7LlraYgfCBgYW50aHJvcGljcy9za2lsbHNgIHwgQW50aHJvcGljIOWumOaWueiuvuiuoeWuquazle+8muWDj+iuvuiuoeW3peS9nOWupOS4u+iuvumCo+agt+aAneiAg++8jOmBv+W8gCA1IOWkpyBBSSDpu5jorqTpmbfpmLHvvIzkuKTpgY3mtYHnqIsgfAp8IDE0IHwgdGFzdGUtc2tpbGwg56CU56m25pa55ZCR5byV5pOOIHwgYExlb254bG54L3Rhc3RlLXNraWxsYO+8iOKtkCB+MTEya++8iSB8IHYyLjUuMe+8mjI0NyDnrZblsZXnq5nmj5DngrznmoTlj40gc2xvcCDliY3nq6/mioDog73vvJvkuZ3mnaHmiL/op4QgKyDpobXpnaLnsbvlnovpqbHliqggKyDmtY/op4jlmajlrp7mtYvvvIhpbnNwZWN0L2RyYXcvZ2F0Ze+8ie+8m2xpYnJhcnkvIOiTneWbviArIHJlZmVyZW5jZXMvIOaIv+inhCB8CnwgMTUgfCBnYXJkZW4tc2tpbGxzIOmjjuagvOmFjeaWueW6kyB8IGBDb25hcmRMaS9nYXJkZW4tc2tpbGxzYCB8IHdlYi1kZXNpZ24tZW5naW5lZXIgMjUg56eN6aOO5qC86YWN5pa5ICsg6K6+6K6h5bel56iL5biI5YWo5rWB56iL77yb5Y+m5ZCr6KeG6aKR5ryU56S6L+WbvuWDj+eUn+aIkC/mlofnq6DmjpLniYjnrYkgNiDmioDog70gfAp8IDE2IHwgZGVzaWduLXRvLW1vdGlvbiDorr7orqHnqL/liqjmlYjlsZXnpLogfCBgZWxheWFkZXNpZ24vYWktZGVzaWduLXNraWxsc2AgfCDpnZnmgIHorr7orqHnqL8g4oaSIOWDj+e0oOe6pyBIVE1MIOWkjeWIuyDihpIg5q+P6KeG6KeJ5ryU5Ye65Yqf6IO9IOKGkiDml6DnvJ3lvqrnjq8g4oaSIOWvvOWHuiBNUDQvR0lGIOWxleekuueJhyB8CnwgMTcgfCBsYW5kaW5nLXBhZ2UtZGVzaWduIOmrmOi9rOWMluiQveWcsOmhtSB8IGBlbGF5YWRlc2lnbi9haS1kZXNpZ24tc2tpbGxzYCB8IOiQveWcsOmhtS/okKXplIDpobXns7vnu5/vvJppbnRha2Uv57uT5p6EL+W4g+WxgC/ovazljJbmlofmoYgvU0VPICsg5Lil5qC86KeG6KeJ6KeE5YiZIHwKfCAxOCB8IGltcGVjY2FibGUg6K6+6K6h6K+N5rGH6KGoIC8g5Y+NLXNsb3Ag5pa55ZCR55uYIHwgYHBiYWthdXMvaW1wZWNjYWJsZWDvvIjirZAgfjEwNmvvvIkgfCB2NC44LjHvvJoyNCDmnaHmlLnnqL/mjIfku6TvvIhib2xkZXIvcXVpZXRlci9jcml0aXF1ZS9hdWRpdOKApu+8iSsgNjIg5p2h56Gu5a6a5oCnIHNsb3Ag6KeE5YiZICsgY3JpdGlxdWUvYXVkaXQg5a6i6KeC6K+E5a6h77yI57K+6YCJ5auB5o6l77yacmVmZXJlbmNlLyDmlofmoaMgKyBjb21tYW5kLW1ldGFkYXRhLmpzb27vvIzkuI3lkKsgUnVzdCDlvJXmk47vvIkgfAp8IDE5IHwgamFrdWJrcmVoZWwtc2tpbGxzIOeVjOmdouivhOWuoeaJk+ejqOWll+S7tiB8IGBqYWt1YmtyZWhlbC9za2lsbHNgIHwgMTQg5a2Q5oqA6IO977yaYmV0dGVyLWludGVyZmFjZS9hY2Nlc3NpYmlsaXR5L3R5cG9ncmFwaHkvY29sb3JzL2xheW91dC93cml0aW5nL3Vp44CBaW50ZXJmYWNlLXJldmlld+OAgXN0YXRlLW1hY2hpbmXjgIF2YXJpYW5044CBYnJlYWsg562JIHwKfCAyMCB8IGpzb24tcmVuZGVyIOeUn+aIkOW8jyBVSSDmoYbmnrYgfCBgdmVyY2VsLWxhYnMvanNvbi1yZW5kZXJgIHwg5a6a5LmJIGNhdGFsb2fvvIjnu4Tku7Yv5Yqo5L2cL+aVsOaNrue7keWumuaKpOagj++8ieKGkiBBSSDnlJ/miJDlj5fnuqbmnZ8gSlNPTiBTcGVjIOKGkiByZW5kZXJlciDmtYHlvI/muLLmn5PvvJvopobnm5YgUmVhY3QvUk4vVnVlL1N2ZWx0ZS9Tb2xpZC9SM0Yv6YKu5Lu2L1BERi/nu4jnq6/vvJvorqkiQUkg55Sf5oiQIFVJIuWPr+mihOa1i+OAgeWPr+agoemqjO+8iOWPguiAg+Wei+WrgeaOpe+8mnBhY2thZ2VzL2NvcmUrcmVhY3TjgIFza2lsbHMvIOWFqCAzMCDlrZDmioDog73jgIFleGFtcGxlcy9jaGF077yJIHwKfCAyMSB8IHVpLXV4LXByby1tYXgg6K6+6K6h5pm66IO95pWw5o2u5bqTIHwgYG5leHRsZXZlbGJ1aWxkZXIvdWktdXgtcHJvLW1heC1za2lsbGAgfCDlj6/mo4DntKLorr7orqHnn6Xor4blupPvvJo3OSBVSSDpo47moLwgLyAxOTIg6YWN6ImyIC8gNzQg5a2X5L2T6YWN5a+5IC8gMTE5IFVYIOWHhuWImSAvIDI1IOWbvuihqCAvIDIyIOaKgOacr+agiO+8iHYyLjE1LjDvvInvvIzlkKsgQk0yNSDmo4DntKLohJrmnKzkuI7ovpPlh7rmqKHmnb/vvJvpgInlnovkvJjlhYjmn6XlupPogIzpnZ7lh63nqbrmnZzmkrDvvIjlj4LogIPlnovlq4HmjqXvvJpSRUFETUUvTElDRU5TRS9za2lsbC5qc29uICsgc3JjL3VpLXV4LXByby1tYXgg55qEIGRhdGErc2NyaXB0cyt0ZW1wbGF0ZXPvvIkgfAp8IDIyIHwgaGFsbG1hcmsg5Y+NIEFJIOWRs+iuvuiuoeaKgOiDvSB8IGBOdXRsb3BlL2hhbGxtYXJrYO+8iFRvZ2V0aGVyIEFJ77yJIHwgNTAg5aWX5bim5oiQ5ZOB5Zu+5Li76aKY57Sg5p2Q5Y+R54mMICsg5oyJ6aG16Z2i55uu55qE5biD5bGAICsgRmxvb3IvUmVmbGV4L0ZpbmlzaCDkuInnuqfpl7jpl6ggKyDnnJ/lrp7mtY/op4jlmaggc2xvcGxpbnQg5oumIEFJIOeJueW+gSArIOaWsOmynOS4iuS4i+aWh+eLrOeri+ivhOWuoSArIHJlZGVzaWduL2F1ZGl0IOaMh+S7pO+8iOaKgOiDveWei+aVtOWMheWrgeaOpe+8mnNraWxscy9oYWxsbWFyayDlhaggMTgzIOaWh+S7tiArIOaguSBSRUFETUUvTElDRU5TRe+8iSB8CnwgMjMgfCDlt6XnqIvljJbotKjph4/kv53pmpzkuI7lm77ooajpgInlnovlj4LogIMgfCDoh6rlvZLnurPvvIjmjqjojZDlt6XnqIvmoIjvvIkgfCAqKuWOu+mHjeiBmueEpueahOaOqOiNkOagiCoq77ya6LSo6YeP5L+d6Zqc55SoIFN0b3J5Ym9vayArIFBsYXl3cmlnaHQg5Y+M5qC45b+D77yM5Zu+6KGo55SoIFJlY2hhcnRz77yI6L2744CBUmVhY3Qg5Y6f55Sf44CB5aOw5piO5byP77yM6buY6K6k77yJ5omT5bqV44CBRUNoYXJ0cyDku4XooaXlhYXlpI3mnYLlm77ooajvvIjmoZHln7ov54Ot5YqbL+WcsOWbvi8zRO+8ie+8m0Nocm9tYXRpYy9heGUtY29yZS9UUyt6b2QvRVNMaW50L0FudCBEZXNpZ24gQ2hhcnRzL1Zpc3gg5LiA5b6L6Z2e6buY6K6k5oyJ6ZyA77yM5Y676YeN6KGU5o6lIGpha3Via3JlaGVsIOaXoOmanOeijeOAgXN1cGVycG93ZXJzIFREROOAgXVpLXV4LXByby1tYXgg5Zu+6KGo5LqL5a6e5bqT44CBZGVzaWduLXRvLW1vdGlvbu+8iOingSBgcmVmZXJlbmNlcy8wOS1kZXYtcWMtY2hhcnRzLm1kYO+8iSB8CgojIyDlronoo4UKCuaKiuacrOebruW9leaVtOS9k+aUvuWIsCBgfi8uY29kZWJ1ZGR5L3NraWxscy9jaHQtdWktc2tpbGwvYO+8iOebruW9leWQjeW/hemhu+S4peagvOetieS6jiBgU0tJTEwubWRgIOeahCBgbmFtZWAg5a2X5q6177yJ77yM5a+55omA5pyJ5a+56K+d5LiO6aG555uu55Sf5pWI44CCCgpgYGBiYXNoCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vY3VvaHVhdGFuZy9jaHQtdWktc2tpbGwuZ2l0IH4vLmNvZGVidWRkeS9za2lsbHMvY2h0LXVpLXNraWxsCmBgYAoKIyMg57uT5p6ECgpgYGAKY2h0LXVpLXNraWxsLwrilJzilIDilIAgU0tJTEwubWQgICAgICAgICAgICAgICAgICMg5oC75YWl5Y+j5LiO6Lev55Sx77yI5ZCr5YaF572u5bel5L2c5rWB56ys5LiD6IqC77yJCuKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgIyDmnKzmlofku7YK4pSc4pSA4pSAIENIQU5HRUxPRy5tZCAgICAgICAgICAgICAjIOeJiOacrOi/reS7o+iusOW9lQrilJzilIDilIAgcmVmZXJlbmNlcy8wMeKAkzA5Lm1kICAgICAgIyDliY0gOSDpobnog73lipvliIblhozvvIgwOSA9IOesrCAyMyDpobkgUUEv5Zu+6KGo6YCJ5Z6L5Y+C6ICD77yJCuKUnOKUgOKUgCBvaWwtdWkvICAgICAgICAgICAgICAgICAgIyDnrKwgOSDpobnvvJpvaWwtdWkg5a6M5pW05oqA6IO9CuKUnOKUgOKUgCBkcmF3LXVpLyAgICAgICAgICAgICAgICAgIyDnrKwgMTAg6aG577yaZHJhdy11aSDlrozmlbTmioDog70K4pSc4pSA4pSAIG0zZS1jYW52YXMvICAgICAgICAgICAgICAjIOesrCAxMSDpobnvvJptM2UtY2FudmFzIOWPr+aLluaLvSBVSSDorr7orqHvvIhTS0lMTC5tZCArIHNjcmlwdHMvICsgcmVmZXJlbmNlcy/vvIkK4pSc4pSA4pSAIHN1cGVycG93ZXJzLyAgICAgICAgICAgICAjIOesrCAxMiDpobnvvJpzdXBlcnBvd2VycyDlvIDlj5Hmlrnms5XorrrvvIhTS0lMTC5tZCArIHNraWxscy8gMTUg5Liq57uE5ZCI5byP5oqA6IO977yJCuKUnOKUgOKUgCBmcm9udGVuZC1kZXNpZ24vICAgICAgICAgIyDnrKwgMTMg6aG577yaQW50aHJvcGljIOWumOaWueiuvuiuoeWTsuWtpu+8iFNLSUxMLm1k77yJCuKUnOKUgOKUgCB0YXN0ZS1za2lsbC8gICAgICAgICAgICAgIyDnrKwgMTQg6aG577ya56CU56m25pa55ZCR5byV5pOO77yIU0tJTEwubWQgKyBsaWJyYXJ5LyArIHJlZmVyZW5jZXMvICsgc2NyaXB0cy/vvIkK4pSc4pSA4pSAIGFpLWRlc2lnbi1za2lsbHMvICAgICAgICAjIOesrCAxNi8xNyDpobnvvJrorr7orqHmvJTnpLrkuI7ovazljJblvJXmk47vvIhza2lsbHMvZGVzaWduLXRvLW1vdGlvbiArIHNraWxscy9sYW5kaW5nLXBhZ2UtZGVzaWdu77yJCuKUnOKUgOKUgCBnYXJkZW4tc2tpbGxzLyAgICAgICAgICAgIyDnrKwgMTUg6aG577ya6aOO5qC86YWN5pa55bqTICsgNiDmioDog73vvIhza2lsbHMvICsgUkVBRE1FICsgTElDRU5TRe+8iQrilJzilIDilIAgaW1wZWNjYWJsZS8gICAgICAgICAgICAgICMg56ysIDE4IOmhue+8muiuvuiuoeivjeaxh+ihqOS4juWPjS1zbG9wIOaWueWQkeebmO+8iFNLSUxMLm1kICsgcmVmZXJlbmNlLyArIHNjcmlwdHMvY29tbWFuZC1tZXRhZGF0YS5qc29u77yJCuKUnOKUgOKUgCBqYWt1YmtyZWhlbC1za2lsbHMvICAgICAgIyDnrKwgMTkg6aG577ya55WM6Z2i6K+E5a6h5omT56Oo5aWX5Lu277yIU0tJTEwubWQgKyBza2lsbHMvIDE0IOWtkOaKgOiDvSArIExJQ0VOU0XvvIkK4pSU4pSA4pSAIGpzb24tcmVuZGVyLyAgICAgICAgICAgICMg56ysIDIwIOmhue+8mueUn+aIkOW8jyBVSSDmoYbmnrbvvIhTS0lMTC5tZCArIHBhY2thZ2VzL2NvcmUrcmVhY3QgKyBza2lsbHMvIDMwIOWtkOaKgOiDvSArIGV4YW1wbGVzL2NoYXQgKyBMSUNFTlNF77yJ77yM5p2l5rqQIHZlcmNlbC1sYWJzL2pzb24tcmVuZGVy77yIQXBhY2hlLTIuMO+8iQrilJTilIDilIAgdWktdXgtcHJvLW1heC8gICAgICAgICAgIyDnrKwgMjEg6aG577ya6K6+6K6h5pm66IO95pWw5o2u5bqT77yIUkVBRE1FL1JFQURNRS56aC9MSUNFTlNFL3NraWxsLmpzb24gKyBzcmMvdWktdXgtcHJvLW1heC97ZGF0YSxzY3JpcHRzLHRlbXBsYXRlc33vvInvvIzmnaXmupAgbmV4dGxldmVsYnVpbGRlci91aS11eC1wcm8tbWF4LXNraWxs77yITUlU77yM4q2QfjE0MmvvvIw3OSDpo47moLwvMTkyIOmFjeiJsi83NCDlrZfkvZPphY3lr7kvMTE5IFVYIOWHhuWImS8yMiDmioDmnK/moIjvvIkK4pSU4pSA4pSAIGhhbGxtYXJrLyAgICAgICAgICAgICAgICMg56ysIDIyIOmhue+8muWPjSBBSSDlkbPorr7orqHmioDog73vvIhTS0lMTC5tZCArIHJlZmVyZW5jZXMvIDUwIOS4u+mimOaIkOWTgeWbviArIHNjcmlwdHMvIHNsb3BsaW50ICsgYWdlbnRzLyArIExJQ0VOU0UvUkVBRE1FL1JPQURNQVDvvInvvIzmnaXmupAgTnV0bG9wZS9oYWxsbWFya++8iE1JVO+8jFRvZ2V0aGVyIEFJ77yM4q2QfjQya++8iQpgYGAK
+# cht-ui-skill
+
+一站式前端视觉与动效技能集，融合 24 大能力，并内置一条「审美打底 → 出方案矩阵 → 出稿（静态稿 / 可拖改原型）→ 生成可运行代码（快速 / 工程模式）→ 完成前验证 → 生成式 UI（json-render）→ 动效展示导出 → 交付前评审（impeccable × jakubkrehel-skills × hallmark）→ 实测验收」的编排工作流。
+
+## 工作流（内置）
+
+```
+frontend-design 定审美立场 + taste-skill/garden-skills 供方向素材（避开 AI 默认陷阱）
+   ↓
+oil-ui + 8 大分册 → 出「风格 × 技术」方案矩阵（默认 6-9 版）放在对比页让你挑
+（落地页/营销页场景先走 landing-page-design 定转化结构/文案，接口⑥）
+   ↓ 闸门确认分支
+分支甲：draw-ui → 出静态精细设计稿
+分支乙：m3e-canvas → 出可拖改原型（AI 直出，边看边改）
+   ↓
+第三步：生成可运行代码
+   快速模式：v0.dev Chat / Builder.io 生成代码
+   工程模式：superpowers 驱动（计划 → TDD → 子代理执行 → 验证 → 评审）
+   ↓
+第四步：完成前验证（跑测试/构建，附验证证据）
+   ↓
+第五步（可选）：json-render 生成式 UI——先定 catalog 护栏 → AI 生成受约束 JSON Spec → renderer 流式渲染（接口⑨）
+   ↓
+第六步（可选）：design-to-motion 把设计稿做成会动的展示片，导出 MP4/GIF（接口⑦）
+   ↓
+第七步（必做）：impeccable critique/audit + 62 条 slop 规则 + jakubkrehel better-* 证据驱动精修 + hallmark 三级闸门/新鲜上下文评审（接口⑧）
+   ↓
+你手动接进项目、git 提交、部署
+```
+
+## 24 大能力
+
+| # | 能力 | 开源来源 | 一句话 |
+|---|------|----------|--------|
+| 1 | p5.js 创意编码 | `processing/p5.js` | 交互式 Canvas 视觉、粒子背景、生成艺术 |
+| 2 | CSS Doodle 图案 | `css-doodle/css-doodle` | 类 CSS 小 DSL 生成几何纹理 / SVG / GPU shader |
+| 3 | Theatre.js 编排 | `theatre-js/theatre` | 网页里的 AE：时间轴 + 关键帧，编排出场顺序 |
+| 4 | React Spring 物理动画 | `pmndrs/react-spring` | 弹簧物理弹性，手势跟随与列表进出 |
+| 5 | Inure 精致微交互 | `Hamza417/Inure`（参考样本） | 参考拆解 + 复刻「小操作也舒服」的 UI 动效 |
+| 6 | UI-UX Craft 设计工艺 | 设计规范方法论 | token + 组件状态矩阵 + 交付 QA 门禁 |
+| 7 | React PostFX 后期特效 | `pmndrs/react-postprocessing` | R3F 场景的 Bloom/景深/暗角/glitch 等后期 |
+| 8 | Chakra UI 组件系统 | `chakra-ui/chakra-ui` | 开箱即用、支持主题定制的 React 组件库 |
+| 9 | oil-ui 界面设计/改版/评审 | `oil-oil/oil-ui` | 先定设计北极星，多风格同屏对比、按真实截图打磨视觉层级 |
+| 10 | draw-ui 设计稿生成/还原 | `oil-oil/draw-ui` | 生成 UI 设计稿（图片），并还原为 HTML/CSS/小程序 |
+| 11 | m3e-canvas 可拖拽 UI 设计 | `lnkiai/m3e-canvas` | AI 生成 Material 3 设计 JSON → 分享链接 → 侧边栏/浏览器拖改 → 导出 vibe-coding 提示词 |
+| 12 | superpowers 开发方法论 | `obra/superpowers` | 给 AI 编程代理的完整开发方法论：头脑风暴 → 计划 → TDD → 子代理执行 → 调试 → 验证 → 评审 |
+| 13 | frontend-design 设计哲学 | `anthropics/skills` | Anthropic 官方设计宪法：像设计工作室主设那样思考，避开 5 大 AI 默认陷阱，两遍流程 |
+| 14 | taste-skill 研究方向引擎 | `Leonxlnx/taste-skill`（⭐ ~112k） | v2.5.1：247 策展站提炼的反 slop 前端技能；九条房规 + 页面类型驱动 + 浏览器实测（inspect/draw/gate）；library/ 蓝图 + references/ 房规 |
+| 15 | garden-skills 风格配方库 | `ConardLi/garden-skills` | web-design-engineer 25 种风格配方 + 设计工程师全流程；另含视频演示/图像生成/文章排版等 6 技能 |
+| 16 | design-to-motion 设计稿动效展示 | `elayadesign/ai-design-skills` | 静态设计稿 → 像素级 HTML 复刻 → 每视觉演出功能 → 无缝循环 → 导出 MP4/GIF 展示片 |
+| 17 | landing-page-design 高转化落地页 | `elayadesign/ai-design-skills` | 落地页/营销页系统：intake/结构/布局/转化文案/SEO + 严格视觉规则 |
+| 18 | impeccable 设计词汇表 / 反-slop 方向盘 | `pbakaus/impeccable`（⭐ ~106k） | v4.8.1：24 条改稿指令（bolder/quieter/critique/audit…）+ 62 条确定性 slop 规则 + critique/audit 客观评审（精选嫁接：reference/ 文档 + command-metadata.json，不含 Rust 引擎） |
+| 19 | jakubkrehel-skills 界面评审打磨套件 | `jakubkrehel/skills` | 14 子技能：better-interface/accessibility/typography/colors/layout/writing/ui、interface-review、state-machine、variant、break 等 |
+| 20 | json-render 生成式 UI 框架 | `vercel-labs/json-render` | 定义 catalog（组件/动作/数据绑定护栏）→ AI 生成受约束 JSON Spec → renderer 流式渲染；覆盖 React/RN/Vue/Svelte/Solid/R3F/邮件/PDF/终端；让"AI 生成 UI"可预测、可校验（参考型嫁接：packages/core+react、skills/ 全 30 子技能、examples/chat） |
+| 21 | ui-ux-pro-max 设计智能数据库 | `nextlevelbuilder/ui-ux-pro-max-skill` | 可检索设计知识库：79 UI 风格 / 192 配色 / 74 字体配对 / 119 UX 准则 / 25 图表 / 22 技术栈（v2.15.0），含 BM25 检索脚本与输出模板；选型优先查库而非凭空杜撰（参考型嫁接：README/LICENSE/skill.json + src/ui-ux-pro-max 的 data+scripts+templates） |
+| 22 | hallmark 反 AI 味设计技能 | `Nutlope/hallmark`（Together AI） | 50 套带成品图主题素材发牌 + 按页面目的布局 + Floor/Reflex/Finish 三级闸门 + 真实浏览器 sloplint 拦 AI 特征 + 新鲜上下文独立评审 + redesign/audit 指令（技能型整包嫁接：skills/hallmark 全 183 文件 + 根 README/LICENSE） |
+| 23 | 工程化质量保障与图表选型参考 | 自归纳（推荐工程栈） | **去重聚焦的推荐栈**：质量保障用 Storybook + Playwright 双核心，图表用 Recharts（轻、React 原生、声明式，默认）打底、ECharts 仅补充复杂图表（桑基/热力/地图/3D）；Chromatic/axe-core/TS+zod/ESLint/Ant Design Charts/Visx 一律非默认按需，去重衔接 jakubkrehel 无障碍、superpowers TDD、ui-ux-pro-max 图表事实库、design-to-motion（见 `references/09-dev-qc-charts.md`） |
+| 24 | prompt-architect 提示词架构师（元能力） | 自归纳（用户原生需求） | **任务型输入先优化提示词**：自动补齐角色/风格/格式、出精简通用版 + 高阶顶配版两版、适配所有智能体并规避逻辑漏洞；五类输入禁止优化（寒暄致谢/纯事实问答翻译摘要/延续性修改/已点名技能或文件/只要判断不要优化提示），见 `prompt-architect/SKILL.md` |
+
+## 安装
+
+把本目录整体放到 `~/.codebuddy/skills/cht-ui-skill/`（目录名必须严格等于 `SKILL.md` 的 `name` 字段），对所有对话与项目生效。
+
+```bash
+git clone https://github.com/cuohuatang/cht-ui-skill.git ~/.codebuddy/skills/cht-ui-skill
+```
+
+## 结构
+
+```
+cht-ui-skill/
+├── SKILL.md                 # 总入口与路由（含内置工作流第七节）
+├── README.md                # 本文件
+├── CHANGELOG.md             # 版本迭代记录
+├── references/01–09.md      # 前 9 项能力分册（09 = 第 23 项 QA/图表选型参考）
+├── oil-ui/                  # 第 9 项：oil-ui 完整技能
+├── draw-ui/                 # 第 10 项：draw-ui 完整技能
+├── m3e-canvas/              # 第 11 项：m3e-canvas 可拖拽 UI 设计（SKILL.md + scripts/ + references/）
+├── superpowers/             # 第 12 项：superpowers 开发方法论（SKILL.md + skills/ 15 个组合式技能）
+├── frontend-design/         # 第 13 项：Anthropic 官方设计哲学（SKILL.md）
+├── taste-skill/             # 第 14 项：研究方向引擎（SKILL.md + library/ + references/ + scripts/）
+├── ai-design-skills/        # 第 16/17 项：设计演示与转化引擎（skills/design-to-motion + skills/landing-page-design）
+├── garden-skills/           # 第 15 项：风格配方库 + 6 技能（skills/ + README + LICENSE）
+├── impeccable/              # 第 18 项：设计词汇表与反-slop 方向盘（SKILL.md + reference/ + scripts/command-metadata.json）
+├── jakubkrehel-skills/      # 第 19 项：界面评审打磨套件（SKILL.md + skills/ 14 子技能 + LICENSE）
+└── json-render/            # 第 20 项：生成式 UI 框架（SKILL.md + packages/core+react + skills/ 30 子技能 + examples/chat + LICENSE），来源 vercel-labs/json-render（Apache-2.0）
+└── ui-ux-pro-max/          # 第 21 项：设计智能数据库（README/README.zh/LICENSE/skill.json + src/ui-ux-pro-max/{data,scripts,templates}），来源 nextlevelbuilder/ui-ux-pro-max-skill（MIT，⭐~142k，79 风格/192 配色/74 字体配对/119 UX 准则/22 技术栈）
+└── hallmark/               # 第 22 项：反 AI 味设计技能（SKILL.md + references/ 50 主题成品图 + scripts/ sloplint + agents/ + LICENSE/README/ROADMAP），来源 Nutlope/hallmark（MIT，Together AI，⭐~42k）
+└── prompt-architect/       # 第 24 项：提示词架构师元能力（SKILL.md）——任务型输入先优化提示词、五类输入禁止优化、出精简通用版+高阶顶配版、适配所有 AGENT
+```

@@ -1,1 +1,59 @@
-IyBTaGFwZQoKRGlzY292ZXIgd2hhdCBzaG91bGQgYmUgbWFkZSBhbmQgaG93IGl0IHNob3VsZCB3b3JrLCB0aGVuIHJldHVybiBhIGNvbmZpcm1lZCBkZXNpZ24gYnJpZWYgd2l0aG91dCBjb2RlLgoKIyMgUGhhc2UgMTogRGlzY292ZXJ5IGludGVydmlldwoKRG8gbm90IHdyaXRlIGNvZGUgb3IgY2hvb3NlIHZpc3VhbCBkaXJlY3Rpb24geWV0LgoKIyMjIENhZGVuY2UKCi0gVXNlIHRoZSBzdHJ1Y3R1cmVkIHF1ZXN0aW9uIHRvb2wgd2hlbiBhdmFpbGFibGU7IG90aGVyd2lzZSBhc2sgYW5kIHN0b3AuCi0gQXNrIHR3byBvciB0aHJlZSByZWxhdGVkIHF1ZXN0aW9ucyBwZXIgcm91bmQsIHRoZW4gd2FpdC4gT25lIHJvdW5kIGlzIHRoZSBkZWZhdWx0OyBhZGQgYSBzZWNvbmQgb25seSB3aGVuIHRoZSBhbnN3ZXJzIGV4cG9zZSBhIG1hdGVyaWFsIGdhcC4KLSBEbyBub3QgZHVtcCBhIHF1ZXN0aW9ubmFpcmUsIHJlcGVhdCBzZXR0bGVkIGZhY3RzLCBvciB0dXJuIG9idmlvdXMgZmFjdHMgaW50byBtZW51cy4gQXNzZXJ0IHRoZSBsaWtlbHkgcmVhZGluZyBhbmQgaW52aXRlIGNvcnJlY3Rpb24uCi0gQSBzcGFyc2UgcHJvbXB0IHJlcXVpcmVzIGF0IGxlYXN0IG9uZSBhbnN3ZXIgcm91bmQuIEEgcHJlY2lzZSBwcm9tcHQgbWF5IG5lZWQgb25seSBhIGNvbXBhY3QgY29uZmlybWF0aW9uLgoKIyMjIFJvdW5kIDE6IHB1cnBvc2UsIHBlb3BsZSwgYW5kIG91dGNvbWUKCkNob29zZSB0aGUgdHdvIG9yIHRocmVlIHF1ZXN0aW9ucyB0aGF0IG1vc3QgY2hhbmdlIHRoZSByZXN1bHQ6CgotIFdoYXQgaXMgdGhpcyBzdXJmYWNlIG9yIGZlYXR1cmUgZm9yLCBhbmQgd2hhdCBwcm9ibGVtIG11c3QgaXQgc29sdmU/Ci0gV2hvIHNwZWNpZmljYWxseSByZWFjaGVzIGl0LCBpbiB3aGF0IHNpdHVhdGlvbiBhbmQgc3RhdGUgb2YgbWluZD8KLSBXaGF0IGlzIHRoZSBwcmltYXJ5IHRoaW5nIHRoZXkgbXVzdCB1bmRlcnN0YW5kIG9yIGRvPyBXaGF0IHdvdWxkIHN1Y2Nlc3MgbG9vayBsaWtlPwotIFdoYXQgaXMgdW5pcXVlbHkgdHJ1ZSBoZXJlIHRoYXQgYSBuZWlnaGJvcmluZyBwcm9kdWN0IG9yIGdlbmVyaWMgdGVtcGxhdGUgY291bGQgbm90IGNsYWltPwoKIyMjIFJvdW5kIDI6IG1hdGVyaWFsLCBiZWhhdmlvciwgYW5kIGJvdW5kYXJpZXMKClJ1biBvbmx5IGZvciBtYXRlcmlhbCB1bnJlc29sdmVkIGRlY2lzaW9uczoKCi0gV2hhdCByZWFsIGNvbnRlbnQsIGV2aWRlbmNlLCBkYXRhLCBhbmQgYXNzZXRzIG11c3QgdGhlIGV4cGVyaWVuY2UgY2Fycnk/IFdoYXQgYXJlIHJlYWxpc3RpYyBtaW5pbXVtLCB0eXBpY2FsLCBhbmQgbWF4aW11bSByYW5nZXM/Ci0gV2hpY2ggc3RhdGVzIGFuZCB0cmFuc2l0aW9ucyBtYXR0ZXI6IGZpcnN0LXJ1biwgZW1wdHksIGxvYWRpbmcsIGVycm9yLCBzdWNjZXNzLCBwZXJtaXNzaW9ucywgb3ZlcmZsb3csIG9yIGV4cGVydCB1c2U/Ci0gV2hhdCBpcyB0aGUgaW50ZW5kZWQgZmlkZWxpdHksIGJyZWFkdGgsIGFuZCBpbnRlcmFjdGl2aXR5OiBleHBsb3JhdGlvbiwgcHJvZHVjdGlvbi1yZWFkeSBzY3JlZW4sIGZ1bGwgZmxvdywgb3IgYnJvYWRlciBzdXJmYWNlPwotIFdoYXQgbXVzdCByZW1haW4gdW50b3VjaGVkPyBXaGF0IHdvdWxkIG1ha2UgdGhlIHJlc3VsdCBmZWVsIHdyb25nIGV2ZW4gaWYgaXQgbG9va2VkIHBvbGlzaGVkPwotIFdoaWNoIHBsYXRmb3JtLCBmcmFtZXdvcmssIHBlcmZvcm1hbmNlLCBhY2Nlc3NpYmlsaXR5LCBsb2NhbGl6YXRpb24sIG9yIGRlbGl2ZXJ5IGNvbnN0cmFpbnRzIGFyZSBiaW5kaW5nPwoKTmV2ZXIgYXNrIGZvciBDU1MgdmFsdWVzIG9yIGNhbm5lZCBhZXN0aGV0aWMgbGFuZXMuIE5ldy13b3JrIG93bnMgdmlzdWFsLXdvcmxkIGFuZCBjb25jZXB0IGNob2ljZXMuCgojIyBQaGFzZSAyOiBSZXNvbHZlIHRoZSBkZXNpZ24gZGlyZWN0aW9uCgpGb3IgbmV3IHN1cmZhY2VzLCBicmFuZCBleHBhbnNpb24sIG9yIHJlcGxhY2VtZW50LCBmb2xsb3cgW25ldy13b3JrLm1kXShuZXctd29yay5tZCkgdGhyb3VnaCB2aXN1YWwgYXV0aG9yaXR5LCBhbnkgd29ybGQgd29ya3Nob3AsIGFuZCBjb25jZXB0IGNob2ljZS4gUmV1c2UgZGlzY292ZXJ5LCB0aGVuIHJldHVybiBiZWZvcmUgaXRzIGNvbnRyYWN0LCBwZXJzaXN0ZW5jZSwgb3IgaW1wbGVtZW50YXRpb24uIEluc2lkZSBhbiBlc3RhYmxpc2hlZCB3b3JsZCwgdXNlIGl0cyBjb25jZXB0IHByb2Nlc3Mgb25seSB3aGVuIGNvbXBvc2l0aW9uIG9yIGludGVyYWN0aW9uIHJlbWFpbnMgbWF0ZXJpYWxseSBvcGVuLgoKIyMgUGhhc2UgMzogV3JpdGUgdGhlIGJyaWVmCgpXcml0ZSB0aGUgc21hbGxlc3QgdXNlZnVsIGJyaWVmOgoKMS4gKipKb2IgYW5kIGF1ZGllbmNlOioqIHdobyBhcnJpdmVzLCB0aGVpciBjb250ZXh0LCBuZWVkLCBhbmQgdmlzaXRvciBtb2RlLgoyLiAqKk91dGNvbWUgYW5kIHByb29mOioqIHByaW1hcnkgdGFzay9hY3Rpb24sIHN1Y2Nlc3MsIHJlYWwgZXZpZGVuY2UsIGFuZCBwcm9kdWN0LXNwZWNpZmljIHRydXRoLgozLiAqKlNlbGVjdGVkIGRpcmVjdGlvbjoqKiB2aXN1YWwgYXV0aG9yaXR5LCBzdHJ1Y3R1cmFsL2ludGVyYWN0aW9uIHRoZXNpcywgc2VxdWVuY2UsIGZvY2FsIG1vbWVudCwgYW5kIGltcGxlbWVudGF0aW9uIGNvbnNlcXVlbmNlLgo0LiAqKlNjb3BlIGFuZCBib3VuZGFyaWVzOioqIGZpZGVsaXR5LCBicmVhZHRoLCBpbnRlcmFjdGl2aXR5LCBuYW1lZCB0YXJnZXQsIHdoYXQgcmVtYWlucyB1bnRvdWNoZWQsIGFuZCBleHBsaWNpdCBhbnRpLWdvYWxzLgo1LiAqKlN0YXRlcyBhbmQgcmFuZ2VzOioqIHJlYWxpc3RpYyBjb250ZW50L2RhdGEgcmFuZ2VzIGFuZCBtYXRlcmlhbCBzdGF0ZXMuCjYuICoqSW50ZXJhY3Rpb24gYW5kIGxheW91dDoqKiBoaWVyYXJjaHksIHRvcG9sb2d5LCByZXNwb25zaXZlbmVzcywgYWZmb3JkYW5jZXMsIGZlZWRiYWNrLCBhbmQgdHJhbnNpdGlvbnM7IGludGVudCwgbm90IENTUy4KNy4gKipDb25zdHJhaW50cyBhbmQgb3BlbiBkZWNpc2lvbnM6KiogcGxhdGZvcm0sIGRlbGl2ZXJ5LCBhY2Nlc3NpYmlsaXR5LCBsb2NhbGl6YXRpb24sIHJldXNhYmxlIGNvbXBvbmVudHMsIGFuZCBjaG9pY2VzIGEgYnVpbGRlciBtdXN0IG5vdCBpbnZlbnQuCgpVc2UgdGhyZWUgdG8gZml2ZSBidWxsZXRzIHdoZW4gdGhlIHRhc2sgaXMgc2V0dGxlZDsgdXNlIHRoZSBmdWxsIHN0cnVjdHVyZSBvbmx5IGZvciBhbWJpZ3VvdXMsIG11bHRpLXNjcmVlbiwgb3Igc3RhbmRhbG9uZSBwbGFubmluZy4gRG8gbm90IHJlc3RhdGUgdGhlIGNvbnZlcnNhdGlvbi4KCiMjIENvbmZpcm0gYW5kIHN0b3AKClByZXNlbnQgdGhlIGJyaWVmIGZvciBleHBsaWNpdCBjb25maXJtYXRpb24gb3Igb25lIGNvcnJlY3Rpb24gcm91bmQsIHRoZW4gc3RvcDogc2hhcGUgbmV2ZXIgd3JpdGVzIGNvZGUgb3IgYSBkaXJlY3Rpb24gY29udHJhY3QuCgpXaGVuIG5vIGh1bWFuIG9yIHN0cnVjdHVyZWQgYW5zd2VyIG1lY2hhbmlzbSBleGlzdHMsIG1hcmsgYXNzdW1wdGlvbnMgcGxhaW5seSwgcmV0dXJuIHRoZSBicmllZiwgYW5kIHN0b3AuCg==
+# Shape
+
+Discover what should be made and how it should work, then return a confirmed design brief without code.
+
+## Phase 1: Discovery interview
+
+Do not write code or choose visual direction yet.
+
+### Cadence
+
+- Use the structured question tool when available; otherwise ask and stop.
+- Ask two or three related questions per round, then wait. One round is the default; add a second only when the answers expose a material gap.
+- Do not dump a questionnaire, repeat settled facts, or turn obvious facts into menus. Assert the likely reading and invite correction.
+- A sparse prompt requires at least one answer round. A precise prompt may need only a compact confirmation.
+
+### Round 1: purpose, people, and outcome
+
+Choose the two or three questions that most change the result:
+
+- What is this surface or feature for, and what problem must it solve?
+- Who specifically reaches it, in what situation and state of mind?
+- What is the primary thing they must understand or do? What would success look like?
+- What is uniquely true here that a neighboring product or generic template could not claim?
+
+### Round 2: material, behavior, and boundaries
+
+Run only for material unresolved decisions:
+
+- What real content, evidence, data, and assets must the experience carry? What are realistic minimum, typical, and maximum ranges?
+- Which states and transitions matter: first-run, empty, loading, error, success, permissions, overflow, or expert use?
+- What is the intended fidelity, breadth, and interactivity: exploration, production-ready screen, full flow, or broader surface?
+- What must remain untouched? What would make the result feel wrong even if it looked polished?
+- Which platform, framework, performance, accessibility, localization, or delivery constraints are binding?
+
+Never ask for CSS values or canned aesthetic lanes. New-work owns visual-world and concept choices.
+
+## Phase 2: Resolve the design direction
+
+For new surfaces, brand expansion, or replacement, follow [new-work.md](new-work.md) through visual authority, any world workshop, and concept choice. Reuse discovery, then return before its contract, persistence, or implementation. Inside an established world, use its concept process only when composition or interaction remains materially open.
+
+## Phase 3: Write the brief
+
+Write the smallest useful brief:
+
+1. **Job and audience:** who arrives, their context, need, and visitor mode.
+2. **Outcome and proof:** primary task/action, success, real evidence, and product-specific truth.
+3. **Selected direction:** visual authority, structural/interaction thesis, sequence, focal moment, and implementation consequence.
+4. **Scope and boundaries:** fidelity, breadth, interactivity, named target, what remains untouched, and explicit anti-goals.
+5. **States and ranges:** realistic content/data ranges and material states.
+6. **Interaction and layout:** hierarchy, topology, responsiveness, affordances, feedback, and transitions; intent, not CSS.
+7. **Constraints and open decisions:** platform, delivery, accessibility, localization, reusable components, and choices a builder must not invent.
+
+Use three to five bullets when the task is settled; use the full structure only for ambiguous, multi-screen, or standalone planning. Do not restate the conversation.
+
+## Confirm and stop
+
+Present the brief for explicit confirmation or one correction round, then stop: shape never writes code or a direction contract.
+
+When no human or structured answer mechanism exists, mark assumptions plainly, return the brief, and stop.

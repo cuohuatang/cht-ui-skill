@@ -1,1 +1,5 @@
-IyBDcmFmdCAoZGVwcmVjYXRlZCBhbGlhcykKCmBjcmFmdGAgaXMgYSBkZXByZWNhdGVkIGFsaWFzIGZvciBhbiBvcmRpbmFyeSByZXF1ZXN0IHRvIG1ha2UgbmV3IHZpc3VhbCB3b3JrLiBJdCBhZGRzIG5vIHNldHVwLCBpbnRlcnZpZXcsIGNoZWNrcG9pbnQsIHRvb2wsIG9yIHF1YWxpdHkgYmVoYXZpb3IuIEFwcGx5IFNLSUxMLm1kJ3Mgbm9ybWFsIHJvdXRpbmc6IGNyZWF0ZSBtaXNzaW5nIFBST0RVQ1QubWQgdGhyb3VnaCBbaW5pdC5tZF0oaW5pdC5tZCksIHRoZW4gZm9sbG93IFtuZXctd29yay5tZF0obmV3LXdvcmsubWQpIGZvciB2aXN1YWwgYXV0aG9yaXR5LCB3b3JsZCBhbmQgc3VyZmFjZSBkZWNpc2lvbnMsIGltcGxlbWVudGF0aW9uLCBhbmQgZmluaXNoLgoKRG8gbm90IHRlbGwgdXNlcnMgdGhleSBuZWVkIHRvIGludm9rZSBgY3JhZnRgLiBOYXR1cmFsIHJlcXVlc3RzIHN1Y2ggYXMg4oCcYnVpbGQgdGhpcyBmZWF0dXJlLOKAnSDigJxtYWtlIGEgbGFuZGluZyBwYWdlLOKAnSBvciDigJxyZWRlc2lnbiB0aGlzIHNjcmVlbuKAnSB1c2UgdGhlIHNhbWUgZmxvdy4K
+# Craft (deprecated alias)
+
+`craft` is a deprecated alias for an ordinary request to make new visual work. It adds no setup, interview, checkpoint, tool, or quality behavior. Apply SKILL.md's normal routing: create missing PRODUCT.md through [init.md](init.md), then follow [new-work.md](new-work.md) for visual authority, world and surface decisions, implementation, and finish.
+
+Do not tell users they need to invoke `craft`. Natural requests such as “build this feature,” “make a landing page,” or “redesign this screen” use the same flow.

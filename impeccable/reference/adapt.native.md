@@ -1,1 +1,58 @@
-PiAqKkFkZGl0aW9uYWwgY29udGV4dCBuZWVkZWQqKjogdGFyZ2V0IHBsYXRmb3Jtcy9kZXZpY2VzIGFuZCB1c2FnZSBjb250ZXh0cy4KCkFkYXB0IGFuIGV4aXN0aW5nICoqbmF0aXZlKiogZGVzaWduIChgaW9zYCAvIGBhbmRyb2lkYCAvIGBhZGFwdGl2ZWApIHRvIGEgZGlmZmVyZW50IGNvbnRleHQ6IGFub3RoZXIgZGV2aWNlIGNsYXNzLCBvcmllbnRhdGlvbiwgcGxhdGZvcm0sIG9yIG9yaWdpbi4gVGhlIHRyYXAgaXMgdHJlYXRpbmcgYWRhcHRhdGlvbiBhcyBzY2FsaW5nLiBUaGUgam9iIGlzIHJldGhpbmtpbmcgdGhlIGV4cGVyaWVuY2UgZm9yIHRoZSBuZXcgY29udGV4dCwgaW5zaWRlIHRoZSBwbGF0Zm9ybSBjb252ZW50aW9ucyBvZiBbaW9zLm1kXShpb3MubWQpIC8gW2FuZHJvaWQubWRdKGFuZHJvaWQubWQpOyByZWFkIHRoZSB0YXJnZXQgcGxhdGZvcm0ncyByZWZlcmVuY2UgYmVmb3JlIHBsYW5uaW5nIGlmIFNldHVwIGhhc24ndCBhbHJlYWR5LgoKIyMgQXNzZXNzIEFkYXB0YXRpb24gQ2hhbGxlbmdlCgoxLiAqKlNvdXJjZSBjb250ZXh0Kio6IHdoYXQgd2FzIGl0IGRlc2lnbmVkIGZvciwgYW5kIHdoYXQgYXNzdW1wdGlvbnMgZGlkIGl0IG1ha2U/IChQaG9uZS1vbmx5PyBQb3J0cmFpdC1vbmx5PyBPbmUgcGxhdGZvcm0ncyBpZGlvbXM/IEEgd2Vic2l0ZT8pCjIuICoqVGFyZ2V0IGNvbnRleHQqKjogd2hpY2ggZGV2aWNlIGNsYXNzIChwaG9uZSwgdGFibGV0LCBmb2xkYWJsZSksIG9yaWVudGF0aW9uLCBwbGF0Zm9ybSwgYW5kIHVzYWdlIHBvc3R1cmUgKG9uZS1oYW5kZWQgb24gdGhlIGdvIHZzIHR3by1oYW5kZWQgYXQgcmVzdCk/CjMuICoqV2hhdCBicmVha3MqKjogbmF2aWdhdGlvbiB0aGF0IGRvZXNuJ3QgZml0IHRoZSB0YXJnZXQsIGxheW91dHMgdGhhdCBzdHJldGNoIGluc3RlYWQgb2YgcmVzdHJ1Y3R1cmUsIGdlc3R1cmVzIG9yIGNvbnRyb2xzIHRoYXQgZG9uJ3QgZXhpc3QgdGhlcmU/CgojIyBBZGFwdGF0aW9uIFN0cmF0ZWdpZXMKCiMjIyBQaG9uZSDihpIgVGFibGV0IChpUGFkIC8gbGFyZ2Ugc2NyZWVucykKCi0gKipSZXN0cnVjdHVyZSwgZG9uJ3Qgc3RyZXRjaC4qKiBBIHNjYWxlZC11cCBwaG9uZSBVSSBvbiBhIHRhYmxldCBpcyB0aGUgZmFpbHVyZSBtb2RlLiBVc2Ugc2l6ZSBjbGFzc2VzIChpT1MpIC8gd2luZG93IHNpemUgY2xhc3NlcyAoQW5kcm9pZCkgdG8gc3dpdGNoIHN0cnVjdHVyZS4KLSAqKk5hdmlnYXRpb24gY2hhbmdlcyBzaGFwZSoqOiB0YWIgYmFyIHN0YXlzIG9yIGJlY29tZXMgYSBzaWRlYmFyIG9uIGlQYWQ7IEFuZHJvaWQgbmF2aWdhdGlvbiBiYXIgYmVjb21lcyBhIHJhaWwgb3IgZHJhd2VyIG9uIGV4cGFuZGVkIHdpZHRoLgotICoqVXNlIHRoZSB3aWR0aCoqOiBzcGxpdCB2aWV3IC8gbWFzdGVyLWRldGFpbCAobGlzdCArIGRldGFpbCBzaWRlIGJ5IHNpZGUpLCBtdWx0aS1jb2x1bW4gZ3JpZHMsIHBvcG92ZXJzIHdoZXJlIHBob25lcyB1c2VkIHNoZWV0cy4KLSAqKk11bHRpdGFza2luZyBpcyBhIHNpemUsIG5vdCBhbiBlZGdlIGNhc2UqKjogaVBhZCBTcGxpdCBWaWV3IGFuZCBBbmRyb2lkIG11bHRpLXdpbmRvdyBjYW4gaGFuZCB5b3UgYSBwaG9uZS13aWR0aCB3aW5kb3cgb24gYSB0YWJsZXQ7IHNpemUtY2xhc3MtZHJpdmVuIGxheW91dCBoYW5kbGVzIGJvdGggZm9yIGZyZWUuCgojIyMgT3JpZW50YXRpb24gJiBmb2xkYWJsZXMKCi0gTGFuZHNjYXBlIHJlc3RydWN0dXJlcyAoc2lkZS1ieS1zaWRlIHBhbmVzLCByZXBvc2l0aW9uZWQgY29udHJvbHMpOyBuZXZlciBjbGlwIG9yIGxldHRlcmJveC4gTG9jayBvcmllbnRhdGlvbiBvbmx5IHdoZW4gdGhlIHRhc2sgdHJ1bHkgZGVtYW5kcyBpdC4KLSBGb2xkYWJsZXMgKEFuZHJvaWQpOiByZWFjdCB0byBwb3N0dXJlIGFuZCBoaW5nZSB2aWEgd2luZG93IHNpemUgY2xhc3NlczsgdGVzdCBmb2xkZWQsIHVuZm9sZGVkLCBhbmQgdGFibGV0b3AuCgojIyMgUGxhdGZvcm0g4oaSIHBsYXRmb3JtIChpT1Mg4oaUIEFuZHJvaWQpCgpUcmFuc2xhdGUgaWRpb21zOyBuZXZlciB0cmFuc3BsYW50IHRoZW06Cgp8IGlPUyB8IEFuZHJvaWQgfAp8LS0tfC0tLXwKfCBUYWIgYmFyIHwgTmF2aWdhdGlvbiBiYXIgLyByYWlsIC8gZHJhd2VyIHwKfCBFZGdlLXN3aXBlIGJhY2ssIGJhY2sgY2hldnJvbiB8IFByZWRpY3RpdmUgQmFjayBnZXN0dXJlIC8gYnV0dG9uIHwKfCBTd2l0Y2gsIHNlZ21lbnRlZCBjb250cm9sLCBzeXN0ZW0gcGlja2VycyB8IE1hdGVyaWFsIHN3aXRjaCwgY2hpcHMsIE1hdGVyaWFsIHBpY2tlcnMgfAp8IEFjdGlvbiBzaGVldCB8IEJvdHRvbSBzaGVldCAvIE1hdGVyaWFsIGRpYWxvZyB8CnwgU0YgU3ltYm9scywgU0YgUHJvLCBEeW5hbWljIFR5cGUgfCBNYXRlcmlhbCBTeW1ib2xzLCBSb2JvdG8sIHNwIHNjYWxpbmcgfAp8IFNlbWFudGljIHN5c3RlbSBjb2xvcnMsIG1hdGVyaWFscyB8IE1hdGVyaWFsIGNvbG9yIHJvbGVzLCB0b25hbCBlbGV2YXRpb24gfAp8IFN5c3RlbSBwdXNoL3NoZWV0IHRyYW5zaXRpb25zIHwgQ29udGFpbmVyIHRyYW5zZm9ybSwgc2hhcmVkLWF4aXMsIGZhZGUtdGhyb3VnaCB8CgpSZWJ1aWxkIG5hdmlnYXRpb24gYW5kIGNvbnRyb2xzIGluIHRoZSB0YXJnZXQncyB2b2NhYnVsYXJ5OyBjYXJyeSBvdmVyIHRoZSBicmFuZCdzIGV4cHJlc3NpdmUgbGF5ZXIgKHBhbGV0dGUgaW50ZW50LCB0eXBlIGFjY2VudCwgbW90aW9uIHBlcnNvbmFsaXR5KSB0aHJvdWdoIHRoZSB0YXJnZXQncyB0aGVtaW5nIHN5c3RlbS4KCiMjIyBXZWIg4oaSIG5hdGl2ZSAocG9ydGluZyBhIHdlYnNpdGUgb3Igd2ViIGFwcCkKClJlY29uZm9ybSwgZG9uJ3QgcmVmbG93LiBSZXBsYWNlIHdlYiBuYXZpZ2F0aW9uIHdpdGggdGhlIHBsYXRmb3JtJ3MgbW9kZWwsIEhUTUwtc2hhcGVkIGNvbnRyb2xzIHdpdGggcGxhdGZvcm0gY29udHJvbHMsIGhvdmVyIGFmZm9yZGFuY2VzIHdpdGggdG91Y2gtZmlyc3Qgb25lcywgYW5kIHB4LWJhc2VkIHR5cGUgd2l0aCBEeW5hbWljIFR5cGUgLyBzcC4gVGhlbiB0cmVhdCB0aGUgcmVzdWx0IHRvIHRoZSBmdWxsIHBsYXRmb3JtIHJlZmVyZW5jZTsgdGhlIHNsb3AgdGVzdCB0aGVyZSBpcyB0aGUgYWNjZXB0YW5jZSBiYXIuCgojIyBJbXBsZW1lbnQgJiBWZXJpZnkKCi0gRHJpdmUgc3RydWN0dXJlIGZyb20gKipzaXplIGNsYXNzZXMgLyB3aW5kb3cgc2l6ZSBjbGFzc2VzKiosIG5ldmVyIGZyb20gZGV2aWNlLW1vZGVsIGNoZWNrcy4KLSBSZXNwZWN0IHNhZmUgYXJlYXMgYW5kIHdpbmRvdyBpbnNldHMgaW4gZXZlcnkgbmV3IGNvbmZpZ3VyYXRpb24gKG5vdGNoLCBoaW5nZSwgc3RhdHVzIGJhciwga2V5Ym9hcmQpLgotIFRlc3Qgb24gc2ltdWxhdG9ycyBmb3IgYnJlYWR0aCwgdGhlbiByZWFsIGhhcmR3YXJlIGZvciB0cnV0aDogYXQgbGVhc3Qgb25lIHBob25lIGFuZCBvbmUgdGFibGV0IHBlciBzaGlwcGVkIHBsYXRmb3JtLCBib3RoIG9yaWVudGF0aW9ucywgc3BsaXQtc2NyZWVuIHdoZXJlIHN1cHBvcnRlZC4KCldoZW4gdGhlIGFkYXB0YXRpb24gZmVlbHMgbmF0aXZlIHRvIGVhY2ggY29udGV4dCwgaGFuZCBvZmYgdG8gYC9pbXBlY2NhYmxlIHBvbGlzaGAgZm9yIHRoZSBmaW5hbCBwYXNzLgoKKipBdm9pZCoqOgotIFNoaXAgYSBzdHJldGNoZWQgcGhvbmUgbGF5b3V0IG9uIGEgdGFibGV0Ci0gUG9ydCBvbmUgcGxhdGZvcm0ncyBjb250cm9scyBvciBuYXZpZ2F0aW9uIG9udG8gdGhlIG90aGVyCi0gSGlkZSBjb3JlIGZ1bmN0aW9uYWxpdHkgb24gc21hbGxlciBkZXZpY2VzIChpZiBpdCBtYXR0ZXJzLCBtYWtlIGl0IHdvcmspCi0gTG9jayBvcmllbnRhdGlvbiB0byBkb2RnZSBhIGxheW91dCBidWcKLSBUcnVzdCBzaW11bGF0b3JzIGFsb25lIChwb3N0dXJlLCBnZXN0dXJlcywgYW5kIHBlcmZvcm1hbmNlIG5lZWQgaGFyZHdhcmUpCg==
+> **Additional context needed**: target platforms/devices and usage contexts.
+
+Adapt an existing **native** design (`ios` / `android` / `adaptive`) to a different context: another device class, orientation, platform, or origin. The trap is treating adaptation as scaling. The job is rethinking the experience for the new context, inside the platform conventions of [ios.md](ios.md) / [android.md](android.md); read the target platform's reference before planning if Setup hasn't already.
+
+## Assess Adaptation Challenge
+
+1. **Source context**: what was it designed for, and what assumptions did it make? (Phone-only? Portrait-only? One platform's idioms? A website?)
+2. **Target context**: which device class (phone, tablet, foldable), orientation, platform, and usage posture (one-handed on the go vs two-handed at rest)?
+3. **What breaks**: navigation that doesn't fit the target, layouts that stretch instead of restructure, gestures or controls that don't exist there?
+
+## Adaptation Strategies
+
+### Phone → Tablet (iPad / large screens)
+
+- **Restructure, don't stretch.** A scaled-up phone UI on a tablet is the failure mode. Use size classes (iOS) / window size classes (Android) to switch structure.
+- **Navigation changes shape**: tab bar stays or becomes a sidebar on iPad; Android navigation bar becomes a rail or drawer on expanded width.
+- **Use the width**: split view / master-detail (list + detail side by side), multi-column grids, popovers where phones used sheets.
+- **Multitasking is a size, not an edge case**: iPad Split View and Android multi-window can hand you a phone-width window on a tablet; size-class-driven layout handles both for free.
+
+### Orientation & foldables
+
+- Landscape restructures (side-by-side panes, repositioned controls); never clip or letterbox. Lock orientation only when the task truly demands it.
+- Foldables (Android): react to posture and hinge via window size classes; test folded, unfolded, and tabletop.
+
+### Platform → platform (iOS ↔ Android)
+
+Translate idioms; never transplant them:
+
+| iOS | Android |
+|---|---|
+| Tab bar | Navigation bar / rail / drawer |
+| Edge-swipe back, back chevron | Predictive Back gesture / button |
+| Switch, segmented control, system pickers | Material switch, chips, Material pickers |
+| Action sheet | Bottom sheet / Material dialog |
+| SF Symbols, SF Pro, Dynamic Type | Material Symbols, Roboto, sp scaling |
+| Semantic system colors, materials | Material color roles, tonal elevation |
+| System push/sheet transitions | Container transform, shared-axis, fade-through |
+
+Rebuild navigation and controls in the target's vocabulary; carry over the brand's expressive layer (palette intent, type accent, motion personality) through the target's theming system.
+
+### Web → native (porting a website or web app)
+
+Reconform, don't reflow. Replace web navigation with the platform's model, HTML-shaped controls with platform controls, hover affordances with touch-first ones, and px-based type with Dynamic Type / sp. Then treat the result to the full platform reference; the slop test there is the acceptance bar.
+
+## Implement & Verify
+
+- Drive structure from **size classes / window size classes**, never from device-model checks.
+- Respect safe areas and window insets in every new configuration (notch, hinge, status bar, keyboard).
+- Test on simulators for breadth, then real hardware for truth: at least one phone and one tablet per shipped platform, both orientations, split-screen where supported.
+
+When the adaptation feels native to each context, hand off to `/impeccable polish` for the final pass.
+
+**Avoid**:
+- Ship a stretched phone layout on a tablet
+- Port one platform's controls or navigation onto the other
+- Hide core functionality on smaller devices (if it matters, make it work)
+- Lock orientation to dodge a layout bug
+- Trust simulators alone (posture, gestures, and performance need hardware)

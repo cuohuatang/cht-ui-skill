@@ -1,1 +1,69 @@
-IyBFeHRyYWN0IEZsb3cKCklkZW50aWZ5IHJldXNhYmxlIHBhdHRlcm5zLCBjb21wb25lbnRzLCBhbmQgZGVzaWduIHRva2VucywgdGhlbiBleHRyYWN0IGFuZCBjb25zb2xpZGF0ZSB0aGVtIGludG8gdGhlIGRlc2lnbiBzeXN0ZW0gZm9yIHN5c3RlbWF0aWMgcmV1c2UuCgojIyBTdGVwIDE6IERpc2NvdmVyIHRoZSBEZXNpZ24gU3lzdGVtCgpGaW5kIHRoZSBkZXNpZ24gc3lzdGVtLCBjb21wb25lbnQgbGlicmFyeSwgb3Igc2hhcmVkIFVJIGRpcmVjdG9yeS4gVW5kZXJzdGFuZCBpdHMgc3RydWN0dXJlOiBjb21wb25lbnQgb3JnYW5pemF0aW9uLCBuYW1pbmcgY29udmVudGlvbnMsIGRlc2lnbiB0b2tlbiBzdHJ1Y3R1cmUsIGltcG9ydC9leHBvcnQgY29udmVudGlvbnMuCgpJZiBubyBkZXNpZ24gc3lzdGVtIGV4aXN0cywgZG8gbm90IGNyZWF0ZSBvbmUgeWV0LiBBc2sgdGhlIHVzZXIgZGlyZWN0bHkgdG8gY2xhcmlmeSB3aGF0IHlvdSBjYW5ub3QgaW5mZXIuIFVuZGVyc3RhbmQgdGhlIHByZWZlcnJlZCBsb2NhdGlvbiBhbmQgc3RydWN0dXJlIGZpcnN0LgoKIyMgU3RlcCAyOiBJZGVudGlmeSBQYXR0ZXJucwoKTG9vayBmb3IgZXh0cmFjdGlvbiBvcHBvcnR1bml0aWVzIGluIHRoZSB0YXJnZXQgYXJlYToKCi0gKipSZXBlYXRlZCBjb21wb25lbnRzKio6IFNpbWlsYXIgVUkgcGF0dGVybnMgdXNlZCAzKyB0aW1lcyAoYnV0dG9ucywgY2FyZHMsIGlucHV0cykKLSAqKkhhcmQtY29kZWQgdmFsdWVzKio6IENvbG9ycywgc3BhY2luZywgdHlwb2dyYXBoeSwgc2hhZG93cyB0aGF0IHNob3VsZCBiZSB0b2tlbnMKLSAqKkluY29uc2lzdGVudCB2YXJpYXRpb25zKio6IE11bHRpcGxlIGltcGxlbWVudGF0aW9ucyBvZiB0aGUgc2FtZSBjb25jZXB0Ci0gKipDb21wb3NpdGlvbiBwYXR0ZXJucyoqOiBMYXlvdXQgb3IgaW50ZXJhY3Rpb24gcGF0dGVybnMgdGhhdCByZXBlYXQgKGZvcm0gcm93cywgdG9vbGJhciBncm91cHMsIGVtcHR5IHN0YXRlcykKLSAqKlR5cGUgc3R5bGVzKio6IFJlcGVhdGVkIGZvbnQtc2l6ZSArIHdlaWdodCArIGxpbmUtaGVpZ2h0IGNvbWJpbmF0aW9ucwotICoqQW5pbWF0aW9uIHBhdHRlcm5zKio6IFJlcGVhdGVkIGVhc2luZywgZHVyYXRpb24sIG9yIGtleWZyYW1lIGNvbWJpbmF0aW9ucwoKQXNzZXNzIHZhbHVlOiBvbmx5IGV4dHJhY3QgdGhpbmdzIHVzZWQgMysgdGltZXMgd2l0aCB0aGUgc2FtZSBpbnRlbnQuIFByZW1hdHVyZSBhYnN0cmFjdGlvbiBpcyB3b3JzZSB0aGFuIGR1cGxpY2F0aW9uLgoKIyMgU3RlcCAzOiBQbGFuIEV4dHJhY3Rpb24KCkNyZWF0ZSBhIHN5c3RlbWF0aWMgcGxhbjoKCi0gKipDb21wb25lbnRzIHRvIGV4dHJhY3QqKjogV2hpY2ggVUkgZWxlbWVudHMgYmVjb21lIHJldXNhYmxlIGNvbXBvbmVudHM/Ci0gKipUb2tlbnMgdG8gY3JlYXRlKio6IFdoaWNoIGhhcmQtY29kZWQgdmFsdWVzIGJlY29tZSBkZXNpZ24gdG9rZW5zPwotICoqVmFyaWFudHMgdG8gc3VwcG9ydCoqOiBXaGF0IHZhcmlhdGlvbnMgZG9lcyBlYWNoIGNvbXBvbmVudCBuZWVkPwotICoqTmFtaW5nIGNvbnZlbnRpb25zKio6IENvbXBvbmVudCBuYW1lcywgdG9rZW4gbmFtZXMsIHByb3AgbmFtZXMgdGhhdCBtYXRjaCBleGlzdGluZyBwYXR0ZXJucwotICoqTWlncmF0aW9uIHBhdGgqKjogSG93IHRvIHJlZmFjdG9yIGV4aXN0aW5nIHVzZXMgdG8gY29uc3VtZSB0aGUgbmV3IHNoYXJlZCB2ZXJzaW9ucwoKRGVzaWduIHN5c3RlbXMgZ3JvdyBpbmNyZW1lbnRhbGx5LiBFeHRyYWN0IHdoYXQgaXMgY2xlYXJseSByZXVzYWJsZSBub3csIG5vdCBldmVyeXRoaW5nIHRoYXQgbWlnaHQgc29tZWRheSBiZSByZXVzYWJsZS4KCiMjIFN0ZXAgNDogRXh0cmFjdCAmIEVucmljaAoKQnVpbGQgaW1wcm92ZWQsIHJldXNhYmxlIHZlcnNpb25zOgoKLSAqKkNvbXBvbmVudHMqKjogQ2xlYXIgcHJvcHMgQVBJIHdpdGggc2Vuc2libGUgZGVmYXVsdHMsIHByb3BlciB2YXJpYW50cyBmb3IgZGlmZmVyZW50IHVzZSBjYXNlcywgYWNjZXNzaWJpbGl0eSBidWlsdCBpbiAoQVJJQSwga2V5Ym9hcmQgbmF2aWdhdGlvbiwgZm9jdXMgbWFuYWdlbWVudCksIGRvY3VtZW50YXRpb24gYW5kIHVzYWdlIGV4YW1wbGVzCi0gKipEZXNpZ24gdG9rZW5zKio6IENsZWFyIG5hbWluZyAocHJpbWl0aXZlIHZzIHNlbWFudGljKSwgcHJvcGVyIGhpZXJhcmNoeSBhbmQgb3JnYW5pemF0aW9uLCBkb2N1bWVudGF0aW9uIG9mIHdoZW4gdG8gdXNlIGVhY2ggdG9rZW4KLSAqKlBhdHRlcm5zKio6IFdoZW4gdG8gdXNlIHRoaXMgcGF0dGVybiwgY29kZSBleGFtcGxlcywgdmFyaWF0aW9ucyBhbmQgY29tYmluYXRpb25zCgojIyBTdGVwIDU6IE1pZ3JhdGUKClJlcGxhY2UgZXhpc3RpbmcgdXNlcyB3aXRoIHRoZSBuZXcgc2hhcmVkIHZlcnNpb25zOgoKLSAqKkZpbmQgYWxsIGluc3RhbmNlcyoqOiBTZWFyY2ggZm9yIHRoZSBwYXR0ZXJucyB5b3UgZXh0cmFjdGVkCi0gKipSZXBsYWNlIHN5c3RlbWF0aWNhbGx5Kio6IFVwZGF0ZSBlYWNoIHVzZSB0byBjb25zdW1lIHRoZSBzaGFyZWQgdmVyc2lvbgotICoqVGVzdCB0aG9yb3VnaGx5Kio6IEVuc3VyZSB2aXN1YWwgYW5kIGZ1bmN0aW9uYWwgcGFyaXR5Ci0gKipEZWxldGUgZGVhZCBjb2RlKio6IFJlbW92ZSB0aGUgb2xkIGltcGxlbWVudGF0aW9ucwoKIyMgU3RlcCA2OiBEb2N1bWVudAoKVXBkYXRlIGRlc2lnbiBzeXN0ZW0gZG9jdW1lbnRhdGlvbjoKCi0gQWRkIG5ldyBjb21wb25lbnRzIHRvIHRoZSBjb21wb25lbnQgbGlicmFyeQotIERvY3VtZW50IHRva2VuIHVzYWdlIGFuZCB2YWx1ZXMKLSBBZGQgZXhhbXBsZXMgYW5kIGd1aWRlbGluZXMKLSBVcGRhdGUgYW55IFN0b3J5Ym9vayBvciBjb21wb25lbnQgY2F0YWxvZwoKKipBdm9pZCoqOgotIEV4dHJhY3Qgb25lLW9mZiwgY29udGV4dC1zcGVjaWZpYyBpbXBsZW1lbnRhdGlvbnMgd2l0aG91dCBnZW5lcmFsaXphdGlvbgotIENyZWF0ZSBjb21wb25lbnRzIHNvIGdlbmVyaWMgdGhleSBhcmUgdXNlbGVzcwotIEV4dHJhY3Qgd2l0aG91dCBjb25zaWRlcmluZyBleGlzdGluZyBkZXNpZ24gc3lzdGVtIGNvbnZlbnRpb25zCi0gU2tpcCBwcm9wZXIgVHlwZVNjcmlwdCB0eXBlcyBvciBwcm9wIGRvY3VtZW50YXRpb24KLSBDcmVhdGUgdG9rZW5zIGZvciBldmVyeSBzaW5nbGUgdmFsdWUgKHRva2VucyBzaG91bGQgaGF2ZSBzZW1hbnRpYyBtZWFuaW5nKQotIEV4dHJhY3QgdGhpbmdzIHRoYXQgZGlmZmVyIGluIGludGVudCAodHdvIGJ1dHRvbnMgdGhhdCBsb29rIHNpbWlsYXIgYnV0IHNlcnZlIGRpZmZlcmVudCBwdXJwb3NlcyBzaG91bGQgc3RheSBzZXBhcmF0ZSkKCg==
+# Extract Flow
+
+Identify reusable patterns, components, and design tokens, then extract and consolidate them into the design system for systematic reuse.
+
+## Step 1: Discover the Design System
+
+Find the design system, component library, or shared UI directory. Understand its structure: component organization, naming conventions, design token structure, import/export conventions.
+
+If no design system exists, do not create one yet. Ask the user directly to clarify what you cannot infer. Understand the preferred location and structure first.
+
+## Step 2: Identify Patterns
+
+Look for extraction opportunities in the target area:
+
+- **Repeated components**: Similar UI patterns used 3+ times (buttons, cards, inputs)
+- **Hard-coded values**: Colors, spacing, typography, shadows that should be tokens
+- **Inconsistent variations**: Multiple implementations of the same concept
+- **Composition patterns**: Layout or interaction patterns that repeat (form rows, toolbar groups, empty states)
+- **Type styles**: Repeated font-size + weight + line-height combinations
+- **Animation patterns**: Repeated easing, duration, or keyframe combinations
+
+Assess value: only extract things used 3+ times with the same intent. Premature abstraction is worse than duplication.
+
+## Step 3: Plan Extraction
+
+Create a systematic plan:
+
+- **Components to extract**: Which UI elements become reusable components?
+- **Tokens to create**: Which hard-coded values become design tokens?
+- **Variants to support**: What variations does each component need?
+- **Naming conventions**: Component names, token names, prop names that match existing patterns
+- **Migration path**: How to refactor existing uses to consume the new shared versions
+
+Design systems grow incrementally. Extract what is clearly reusable now, not everything that might someday be reusable.
+
+## Step 4: Extract & Enrich
+
+Build improved, reusable versions:
+
+- **Components**: Clear props API with sensible defaults, proper variants for different use cases, accessibility built in (ARIA, keyboard navigation, focus management), documentation and usage examples
+- **Design tokens**: Clear naming (primitive vs semantic), proper hierarchy and organization, documentation of when to use each token
+- **Patterns**: When to use this pattern, code examples, variations and combinations
+
+## Step 5: Migrate
+
+Replace existing uses with the new shared versions:
+
+- **Find all instances**: Search for the patterns you extracted
+- **Replace systematically**: Update each use to consume the shared version
+- **Test thoroughly**: Ensure visual and functional parity
+- **Delete dead code**: Remove the old implementations
+
+## Step 6: Document
+
+Update design system documentation:
+
+- Add new components to the component library
+- Document token usage and values
+- Add examples and guidelines
+- Update any Storybook or component catalog
+
+**Avoid**:
+- Extract one-off, context-specific implementations without generalization
+- Create components so generic they are useless
+- Extract without considering existing design system conventions
+- Skip proper TypeScript types or prop documentation
+- Create tokens for every single value (tokens should have semantic meaning)
+- Extract things that differ in intent (two buttons that look similar but serve different purposes should stay separate)
+

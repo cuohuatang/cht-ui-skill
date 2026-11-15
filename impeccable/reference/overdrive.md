@@ -1,1 +1,127 @@
-U3RhcnQgeW91ciByZXNwb25zZSB3aXRoOgoKYGBgCuKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCDimqEgT1ZFUkRSSVZFIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgArjgIvjgIvjgIsgRW50ZXJpbmcgb3ZlcmRyaXZlIG1vZGUuLi4KYGBgCgpQdXNoIGFuIGludGVyZmFjZSBwYXN0IGNvbnZlbnRpb25hbCBsaW1pdHMuIFRoaXMgaXNuJ3QganVzdCBhYm91dCB2aXN1YWwgZWZmZWN0cy4gSXQncyBhYm91dCB1c2luZyB0aGUgZnVsbCBwb3dlciBvZiB0aGUgYnJvd3NlciB0byBtYWtlIGFueSBwYXJ0IG9mIGFuIGludGVyZmFjZSBmZWVsIGV4dHJhb3JkaW5hcnk6IGEgdGFibGUgdGhhdCBoYW5kbGVzIGEgbWlsbGlvbiByb3dzLCBhIGRpYWxvZyB0aGF0IG1vcnBocyBmcm9tIGl0cyB0cmlnZ2VyLCBhIGZvcm0gdGhhdCB2YWxpZGF0ZXMgaW4gcmVhbC10aW1lIHdpdGggc3RyZWFtaW5nIGZlZWRiYWNrLCBhIHBhZ2UgdHJhbnNpdGlvbiB0aGF0IGZlZWxzIGNpbmVtYXRpYy4KCkNvbnRleHQgZGVjaWRlcyB3aGF0ICJleHRyYW9yZGluYXJ5IiBtZWFucy4gQSBwYXJ0aWNsZSBzeXN0ZW0gb24gYSBjcmVhdGl2ZSBwb3J0Zm9saW8gaXMgaW1wcmVzc2l2ZS4gVGhlIHNhbWUgcGFydGljbGUgc3lzdGVtIG9uIGEgc2V0dGluZ3MgcGFnZSBpcyBlbWJhcnJhc3NpbmcuIEJ1dCBhIHNldHRpbmdzIHBhZ2Ugd2l0aCBpbnN0YW50IG9wdGltaXN0aWMgc2F2ZXMgYW5kIGFuaW1hdGVkIHN0YXRlIHRyYW5zaXRpb25zPyBUaGF0J3MgZXh0cmFvcmRpbmFyeSB0b28uIFVuZGVyc3RhbmQgdGhlIHByb2plY3QncyBwZXJzb25hbGl0eSBhbmQgZ29hbHMgYmVmb3JlIGRlY2lkaW5nIHdoYXQncyBhcHByb3ByaWF0ZS4KCiMjIyBQcm9wb3NlIEJlZm9yZSBCdWlsZGluZwoKVGhpcyBjb21tYW5kIGhhcyB0aGUgaGlnaGVzdCBwb3RlbnRpYWwgdG8gbWlzZmlyZS4gRG8gTk9UIGp1bXAgc3RyYWlnaHQgaW50byBpbXBsZW1lbnRhdGlvbi4gWW91IE1VU1Q6CgoxLiAqKlRoaW5rIHRocm91Z2ggMi0zIGRpZmZlcmVudCBkaXJlY3Rpb25zKio6IGNvbnNpZGVyIGRpZmZlcmVudCB0ZWNobmlxdWVzLCBsZXZlbHMgb2YgYW1iaXRpb24sIGFuZCBhZXN0aGV0aWMgYXBwcm9hY2hlcy4gRm9yIGVhY2ggZGlyZWN0aW9uLCBicmllZmx5IGRlc2NyaWJlIHdoYXQgdGhlIHJlc3VsdCB3b3VsZCBsb29rIGFuZCBmZWVsIGxpa2UuCjIuICoqR2V0IHRoZSB1c2VyJ3MgcGljayBiZWZvcmUgd3JpdGluZyBhbnkgY29kZS4qKiBBc2sgdGhlIHVzZXIgZGlyZWN0bHkgdG8gY2xhcmlmeSB3aGF0IHlvdSBjYW5ub3QgaW5mZXIuIENhcnJ5IGVhY2ggZGlyZWN0aW9uJ3MgZGVzY3JpcHRpb24gYW5kIGl0cyB0cmFkZS1vZmZzIChicm93c2VyIHN1cHBvcnQsIHBlcmZvcm1hbmNlIGNvc3QsIGNvbXBsZXhpdHkpIGluc2lkZSB0aGUgb3B0aW9uIGl0c2VsZiwgc28gdGhlIHVzZXIgaXMgY2hvb3NpbmcgYmV0d2VlbiB0aGluZ3MgdGhleSBjYW4gcmVhZC4gQSBzdHJ1Y3R1cmVkIHF1ZXN0aW9uIGJsb2NrcyB0aGUgbWVzc2FnZSBpdCByaWRlcyBpbiB1bnRpbCB0aGUgdXNlciBhbnN3ZXJzLCBzbyBkaXJlY3Rpb25zIHdyaXR0ZW4gYWxvbmdzaWRlIHRoZSBxdWVzdGlvbiBzdGF5IGludmlzaWJsZSB3aGlsZSB0aGUgdXNlciBpcyBiZWluZyBhc2tlZCB0byBjaG9vc2UgYmV0d2VlbiB0aGVtLgozLiBPbmx5IHByb2NlZWQgd2l0aCB0aGUgZGlyZWN0aW9uIHRoZSB1c2VyIGNvbmZpcm1zLgoKU2tpcHBpbmcgdGhpcyBzdGVwIHJpc2tzIGJ1aWxkaW5nIHNvbWV0aGluZyBlbWJhcnJhc3NpbmcgdGhhdCBuZWVkcyB0byBiZSB0aHJvd24gYXdheS4KCiMjIyBWZXJpZnkgaW4gdGhlIEJyb3dzZXIKCkFtYml0aW91cyBlZmZlY3RzIHJhcmVseSB3b3JrIG9uIHRoZSBmaXJzdCB0cnksIHNvIHZlcmlmeSB0aGVtIGluIHRoZSBicm93c2VyIHJhdGhlciB0aGFuIGZyb20gY29kZTogYW4gZWZmZWN0IHRoYXQgdGVjaG5pY2FsbHkgcnVucyBjYW4gc3RpbGwgc3R1dHRlciwgZWFzZSB3cm9uZywgb3IgbGFuZCBvbiB0aGUgd3JvbmcgZnJhbWUuIEFpbSB0aGUgY2hlY2tzIGF0IHRpbWluZywgZWFzaW5nLCBhbmQgc21vb3RobmVzcywgYmF0Y2ggdGhlIGZpeGVzIGJldHdlZW4gbG9va3MsIGFuZCBrZWVwIHJlZmluaW5nIHVudGlsIHRoZSBlZmZlY3QgaXMgZXh0cmFvcmRpbmFyeS4KCi0tLQoKIyMgQXNzZXNzIFdoYXQgIkV4dHJhb3JkaW5hcnkiIE1lYW5zIEhlcmUKClRoZSByaWdodCBraW5kIG9mIHRlY2huaWNhbCBhbWJpdGlvbiBkZXBlbmRzIGVudGlyZWx5IG9uIHdoYXQgeW91J3JlIHdvcmtpbmcgd2l0aC4gQmVmb3JlIGNob29zaW5nIGEgdGVjaG5pcXVlLCBhc2s6ICoqd2hhdCB3b3VsZCBtYWtlIGEgdXNlciBvZiBUSElTIHNwZWNpZmljIGludGVyZmFjZSBzYXkgIndvdywgdGhhdCdzIG5pY2UiPyoqCgojIyMgRm9yIHZpc3VhbC9tYXJrZXRpbmcgc3VyZmFjZXMKUGFnZXMsIGhlcm8gc2VjdGlvbnMsIGxhbmRpbmcgcGFnZXMsIHBvcnRmb2xpb3M6IHRoZSAid293IiBpcyBvZnRlbiBzZW5zb3J5OiBhIHNjcm9sbC1kcml2ZW4gcmV2ZWFsLCBhIHNoYWRlciBiYWNrZ3JvdW5kLCBhIGNpbmVtYXRpYyBwYWdlIHRyYW5zaXRpb24sIGdlbmVyYXRpdmUgYXJ0IHRoYXQgcmVzcG9uZHMgdG8gdGhlIGN1cnNvci4KCiMjIyBGb3IgZnVuY3Rpb25hbCBVSQpUYWJsZXMsIGZvcm1zLCBkaWFsb2dzLCBuYXZpZ2F0aW9uOiB0aGUgIndvdyIgaXMgaW4gaG93IGl0IEZFRUxTOiBhIGRpYWxvZyB0aGF0IG1vcnBocyBmcm9tIHRoZSBidXR0b24gdGhhdCB0cmlnZ2VyZWQgaXQgdmlhIFZpZXcgVHJhbnNpdGlvbnMsIGEgZGF0YSB0YWJsZSB0aGF0IHJlbmRlcnMgMTAwayByb3dzIGF0IDYwZnBzIHZpYSB2aXJ0dWFsIHNjcm9sbGluZywgYSBmb3JtIHdpdGggc3RyZWFtaW5nIHZhbGlkYXRpb24gdGhhdCBmZWVscyBpbnN0YW50LCBkcmFnLWFuZC1kcm9wIHdpdGggc3ByaW5nIHBoeXNpY3MuCgojIyMgRm9yIHBlcmZvcm1hbmNlLWNyaXRpY2FsIFVJClRoZSAid293IiBpcyBpbnZpc2libGUgYnV0IGZlbHQ6IGEgc2VhcmNoIHRoYXQgZmlsdGVycyA1MGsgaXRlbXMgd2l0aG91dCBhIGZsaWNrZXIsIGEgY29tcGxleCBmb3JtIHRoYXQgbmV2ZXIgYmxvY2tzIHRoZSBtYWluIHRocmVhZCwgYW4gaW1hZ2UgZWRpdG9yIHRoYXQgcHJvY2Vzc2VzIGluIG5lYXItcmVhbC10aW1lLiBUaGUgaW50ZXJmYWNlIGp1c3QgbmV2ZXIgaGVzaXRhdGVzLgoKIyMjIEZvciBkYXRhLWhlYXZ5IGludGVyZmFjZXMKQ2hhcnRzIGFuZCBkYXNoYm9hcmRzOiB0aGUgIndvdyIgaXMgaW4gZmx1aWRpdHk6IEdQVS1hY2NlbGVyYXRlZCByZW5kZXJpbmcgdmlhIENhbnZhcy9XZWJHTCBmb3IgbWFzc2l2ZSBkYXRhc2V0cywgYW5pbWF0ZWQgdHJhbnNpdGlvbnMgYmV0d2VlbiBkYXRhIHN0YXRlcywgZm9yY2UtZGlyZWN0ZWQgZ3JhcGggbGF5b3V0cyB0aGF0IHNldHRsZSBuYXR1cmFsbHkuCgoqKlRoZSBjb21tb24gdGhyZWFkKio6IHNvbWV0aGluZyBhYm91dCB0aGUgaW1wbGVtZW50YXRpb24gZ29lcyBiZXlvbmQgd2hhdCB1c2VycyBleHBlY3QgZnJvbSBhIHdlYiBpbnRlcmZhY2UuIFRoZSB0ZWNobmlxdWUgc2VydmVzIHRoZSBleHBlcmllbmNlLCBub3QgdGhlIG90aGVyIHdheSBhcm91bmQuCgojIyBUaGUgVG9vbGtpdAoKT3JnYW5pemVkIGJ5IHdoYXQgeW91J3JlIHRyeWluZyB0byBhY2hpZXZlLCBub3QgYnkgdGVjaG5vbG9neSBuYW1lLgoKIyMjIE1ha2UgdHJhbnNpdGlvbnMgZmVlbCBjaW5lbWF0aWMKLSAqKlZpZXcgVHJhbnNpdGlvbnMgQVBJKiogKHNhbWUtZG9jdW1lbnQ6IGFsbCBicm93c2VyczsgY3Jvc3MtZG9jdW1lbnQ6IG5vIEZpcmVmb3gpOiBzaGFyZWQgZWxlbWVudCBtb3JwaGluZyBiZXR3ZWVuIHN0YXRlcy4gQSBsaXN0IGl0ZW0gZXhwYW5kaW5nIGludG8gYSBkZXRhaWwgcGFnZS4gQSBidXR0b24gbW9ycGhpbmcgaW50byBhIGRpYWxvZy4gVGhpcyBpcyB0aGUgY2xvc2VzdCB0aGluZyB0byBuYXRpdmUgRkxJUCBhbmltYXRpb25zLgotICoqYEBzdGFydGluZy1zdHlsZWAqKiAoYWxsIGJyb3dzZXJzKTogYW5pbWF0ZSBlbGVtZW50cyBmcm9tIGBkaXNwbGF5OiBub25lYCB0byB2aXNpYmxlIHdpdGggQ1NTIG9ubHksIGluY2x1ZGluZyBlbnRyeSBrZXlmcmFtZXMKLSAqKlNwcmluZyBwaHlzaWNzKio6IG5hdHVyYWwgbW90aW9uIHdpdGggbWFzcywgdGVuc2lvbiwgYW5kIGRhbXBpbmcgaW5zdGVhZCBvZiBjdWJpYy1iZXppZXIuIExpYnJhcmllczogbW90aW9uIChmb3JtZXJseSBGcmFtZXIgTW90aW9uKSwgR1NBUCwgb3Igcm9sbCB5b3VyIG93biBzcHJpbmcgc29sdmVyLgoKIyMjIFRpZSBhbmltYXRpb24gdG8gc2Nyb2xsIHBvc2l0aW9uCi0gKipTY3JvbGwtZHJpdmVuIGFuaW1hdGlvbnMqKiAoYGFuaW1hdGlvbi10aW1lbGluZTogc2Nyb2xsKClgKTogQ1NTLW9ubHksIG5vIEpTLiBQYXJhbGxheCwgcHJvZ3Jlc3MgYmFycywgcmV2ZWFsIHNlcXVlbmNlcyBhbGwgZHJpdmVuIGJ5IHNjcm9sbCBwb3NpdGlvbi4gKENocm9tZS9FZGdlL1NhZmFyaTsgRmlyZWZveDogZmxhZyBvbmx5OyBhbHdheXMgcHJvdmlkZSBhIHN0YXRpYyBmYWxsYmFjaykKCiMjIyBSZW5kZXIgYmV5b25kIENTUwotICoqV2ViR0wqKiAoYWxsIGJyb3dzZXJzKTogc2hhZGVyIGVmZmVjdHMsIHBvc3QtcHJvY2Vzc2luZywgcGFydGljbGUgc3lzdGVtcy4gTGlicmFyaWVzOiBUaHJlZS5qcywgT0dMIChsaWdodHdlaWdodCksIHJlZ2wuIFVzZSBmb3IgZWZmZWN0cyBDU1MgY2FuJ3QgZXhwcmVzcy4KLSAqKldlYkdQVSoqIChDaHJvbWUvRWRnZTsgU2FmYXJpIDI2KzsgRmlyZWZveCBvbiBXaW5kb3dzL21hY09TOyBmbGFnIG9ubHkgb24gRmlyZWZveCBMaW51eC9BbmRyb2lkKTogbmV4dC1nZW4gR1BVIGNvbXB1dGUsIG1vcmUgcG93ZXJmdWwgdGhhbiBXZWJHTC4gQWx3YXlzIGZhbGwgYmFjayB0byBXZWJHTDIuCi0gKipDYW52YXMgMkQgLyBPZmZzY3JlZW5DYW52YXMqKjogY3VzdG9tIHJlbmRlcmluZywgcGl4ZWwgbWFuaXB1bGF0aW9uLCBvciBtb3ZpbmcgaGVhdnkgcmVuZGVyaW5nIG9mZiB0aGUgbWFpbiB0aHJlYWQgZW50aXJlbHkgdmlhIFdlYiBXb3JrZXJzICsgT2Zmc2NyZWVuQ2FudmFzLgotICoqU1ZHIGZpbHRlciBjaGFpbnMqKjogZGlzcGxhY2VtZW50IG1hcHMsIHR1cmJ1bGVuY2UsIG1vcnBob2xvZ3kgZm9yIG9yZ2FuaWMgZGlzdG9ydGlvbiBlZmZlY3RzLiBDU1MtYW5pbWF0YWJsZS4KCiMjIyBNYWtlIGRhdGEgZmVlbCBhbGl2ZQotICoqVmlydHVhbCBzY3JvbGxpbmcqKjogcmVuZGVyIG9ubHkgdmlzaWJsZSByb3dzIGZvciB0YWJsZXMvbGlzdHMgd2l0aCB0ZW5zIG9mIHRob3VzYW5kcyBvZiBpdGVtcy4gTm8gbGlicmFyeSByZXF1aXJlZCBmb3Igc2ltcGxlIGNhc2VzOyBUYW5TdGFjayBWaXJ0dWFsIGZvciBjb21wbGV4IG9uZXMuCi0gKipHUFUtYWNjZWxlcmF0ZWQgY2hhcnRzKio6IENhbnZhcyBvciBXZWJHTC1yZW5kZXJlZCBkYXRhIHZpc3VhbGl6YXRpb24gZm9yIGRhdGFzZXRzIHRvbyBsYXJnZSBmb3IgU1ZHL0RPTS4gTGlicmFyaWVzOiBkZWNrLmdsLCByZWdsLWJhc2VkIGN1c3RvbSByZW5kZXJlcnMuCi0gKipBbmltYXRlZCBkYXRhIHRyYW5zaXRpb25zKio6IG1vcnBoIGJldHdlZW4gY2hhcnQgc3RhdGVzIHJhdGhlciB0aGFuIHJlcGxhY2luZy4gRDMncyBgdHJhbnNpdGlvbigpYCBvciBWaWV3IFRyYW5zaXRpb25zIGZvciBET00tYmFzZWQgY2hhcnRzLgoKIyMjIEFuaW1hdGUgY29tcGxleCBwcm9wZXJ0aWVzCi0gKipgQHByb3BlcnR5YCoqIChhbGwgYnJvd3NlcnMpOiByZWdpc3RlciBjdXN0b20gQ1NTIHByb3BlcnRpZXMgd2l0aCB0eXBlcywgZW5hYmxpbmcgYW5pbWF0aW9uIG9mIGdyYWRpZW50cywgY29sb3JzLCBhbmQgY29tcGxleCB2YWx1ZXMgdGhhdCBDU1MgY2FuJ3Qgbm9ybWFsbHkgaW50ZXJwb2xhdGUuCi0gKipXZWIgQW5pbWF0aW9ucyBBUEkqKiAoYWxsIGJyb3dzZXJzKTogSmF2YVNjcmlwdC1kcml2ZW4gYW5pbWF0aW9ucyB3aXRoIHRoZSBwZXJmb3JtYW5jZSBvZiBDU1MuIENvbXBvc2FibGUsIGNhbmNlbGxhYmxlLCByZXZlcnNpYmxlLiBUaGUgZm91bmRhdGlvbiBmb3IgY29tcGxleCBjaG9yZW9ncmFwaHkuCgojIyMgUHVzaCBwZXJmb3JtYW5jZSBib3VuZGFyaWVzCi0gKipXZWIgV29ya2VycyoqOiBtb3ZlIGNvbXB1dGF0aW9uIG9mZiB0aGUgbWFpbiB0aHJlYWQuIEhlYXZ5IGRhdGEgcHJvY2Vzc2luZywgaW1hZ2UgbWFuaXB1bGF0aW9uLCBzZWFyY2ggaW5kZXhpbmc6IGFueXRoaW5nIHRoYXQgd291bGQgY2F1c2UgamFuay4KLSAqKk9mZnNjcmVlbkNhbnZhcyoqOiByZW5kZXIgaW4gYSBXb3JrZXIgdGhyZWFkLiBUaGUgbWFpbiB0aHJlYWQgc3RheXMgZnJlZSB3aGlsZSBjb21wbGV4IHZpc3VhbHMgcmVuZGVyIGluIHRoZSBiYWNrZ3JvdW5kLgotICoqV0FTTSoqOiBuZWFyLW5hdGl2ZSBwZXJmb3JtYW5jZSBmb3IgY29tcHV0YXRpb24taGVhdnkgZmVhdHVyZXMuIEltYWdlIHByb2Nlc3NpbmcsIHBoeXNpY3Mgc2ltdWxhdGlvbnMsIGNvZGVjcy4KCiMjIyBJbnRlcmFjdCB3aXRoIHRoZSBkZXZpY2UKLSAqKldlYiBBdWRpbyBBUEkqKjogc3BhdGlhbCBhdWRpbywgYXVkaW8tcmVhY3RpdmUgdmlzdWFsaXphdGlvbnMsIHNvbmljIGZlZWRiYWNrLiBSZXF1aXJlcyB1c2VyIGdlc3R1cmUgdG8gc3RhcnQuCi0gKipEZXZpY2UgQVBJcyoqOiBvcmllbnRhdGlvbiwgYW1iaWVudCBsaWdodCwgZ2VvbG9jYXRpb24uIFVzZSBzcGFyaW5nbHkgYW5kIGFsd2F5cyB3aXRoIHVzZXIgcGVybWlzc2lvbi4KCioqTk9URSoqOiBUaGlzIGNvbW1hbmQgaXMgYWJvdXQgZW5oYW5jaW5nIGhvdyBhbiBpbnRlcmZhY2UgRkVFTFMsIG5vdCBjaGFuZ2luZyB3aGF0IGEgcHJvZHVjdCBET0VTLiBBZGRpbmcgcmVhbC10aW1lIGNvbGxhYm9yYXRpb24sIG9mZmxpbmUgc3VwcG9ydCwgb3IgbmV3IGJhY2tlbmQgY2FwYWJpbGl0aWVzIGFyZSBwcm9kdWN0IGRlY2lzaW9ucywgbm90IFVJIGVuaGFuY2VtZW50cy4gRm9jdXMgb24gbWFraW5nIGV4aXN0aW5nIGZlYXR1cmVzIGZlZWwgZXh0cmFvcmRpbmFyeS4KCiMjIEltcGxlbWVudCB3aXRoIERpc2NpcGxpbmUKCiMjIyBQcm9ncmVzc2l2ZSBlbmhhbmNlbWVudCBpcyBub24tbmVnb3RpYWJsZQoKRXZlcnkgdGVjaG5pcXVlIG11c3QgZGVncmFkZSBncmFjZWZ1bGx5LiBUaGUgZXhwZXJpZW5jZSB3aXRob3V0IHRoZSBlbmhhbmNlbWVudCBtdXN0IHN0aWxsIGJlIGdvb2QuCgpgYGBjc3MKQHN1cHBvcnRzIChhbmltYXRpb24tdGltZWxpbmU6IHNjcm9sbCgpKSB7CiAgLmhlcm8geyBhbmltYXRpb24tdGltZWxpbmU6IHNjcm9sbCgpOyB9Cn0KYGBgCgpgYGBqYXZhc2NyaXB0CmlmICgnZ3B1JyBpbiBuYXZpZ2F0b3IpIHsgLyogV2ViR1BVICovIH0KZWxzZSBpZiAoY2FudmFzLmdldENvbnRleHQoJ3dlYmdsMicpKSB7IC8qIFdlYkdMMiBmYWxsYmFjayAqLyB9Ci8qIENTUy1vbmx5IGZhbGxiYWNrIG11c3Qgc3RpbGwgbG9vayBnb29kICovCmBgYAoKIyMjIFBlcmZvcm1hbmNlIHJ1bGVzCgotIFRhcmdldCA2MGZwcy4gSWYgZHJvcHBpbmcgYmVsb3cgNTAsIHNpbXBsaWZ5LgotIExhenktaW5pdGlhbGl6ZSBoZWF2eSByZXNvdXJjZXMgKFdlYkdMIGNvbnRleHRzLCBXQVNNIG1vZHVsZXMpIG9ubHkgd2hlbiBuZWFyIHZpZXdwb3J0LgotIFBhdXNlIG9mZi1zY3JlZW4gcmVuZGVyaW5nLiBLaWxsIHdoYXQgeW91IGNhbid0IHNlZS4KLSBUZXN0IG9uIHJlYWwgbWlkLXJhbmdlIGRldmljZXMsIG5vdCBqdXN0IHlvdXIgZGV2ZWxvcG1lbnQgbWFjaGluZS4KCiMjIyBQb2xpc2ggaXMgdGhlIGRpZmZlcmVuY2UKClRoZSBnYXAgYmV0d2VlbiAiY29vbCIgYW5kICJleHRyYW9yZGluYXJ5IiBpcyBpbiB0aGUgbGFzdCAyMCUgb2YgcmVmaW5lbWVudDogdGhlIGVhc2luZyBjdXJ2ZSBvbiBhIHNwcmluZyBhbmltYXRpb24sIHRoZSB0aW1pbmcgb2Zmc2V0IGluIGEgc3RhZ2dlcmVkIHJldmVhbCwgdGhlIHN1YnRsZSBzZWNvbmRhcnkgbW90aW9uIHRoYXQgbWFrZXMgYSB0cmFuc2l0aW9uIGZlZWwgcGh5c2ljYWwuIERvbid0IHNoaXAgdGhlIGZpcnN0IHZlcnNpb24gdGhhdCB3b3Jrczsgc2hpcCB0aGUgdmVyc2lvbiB0aGF0IGZlZWxzIGluZXZpdGFibGUuCgoqKk5FVkVSKio6Ci0gU2hpcCBlZmZlY3RzIHRoYXQgY2F1c2UgamFuayBvbiBtaWQtcmFuZ2UgZGV2aWNlcwotIFVzZSBibGVlZGluZy1lZGdlIEFQSXMgd2l0aG91dCBhIGZ1bmN0aW9uYWwgZmFsbGJhY2sKLSBBZGQgc291bmQgd2l0aG91dCBleHBsaWNpdCB1c2VyIG9wdC1pbgotIFVzZSB0ZWNobmljYWwgYW1iaXRpb24gdG8gbWFzayB3ZWFrIGRlc2lnbiBmdW5kYW1lbnRhbHM7IGZpeCB0aG9zZSBmaXJzdCB3aXRoIG90aGVyIGNvbW1hbmRzCi0gTGF5ZXIgbXVsdGlwbGUgY29tcGV0aW5nIGV4dHJhb3JkaW5hcnkgbW9tZW50cy4gRm9jdXMgY3JlYXRlcyBpbXBhY3QsIGV4Y2VzcyBjcmVhdGVzIG5vaXNlCgojIyBWZXJpZnkgdGhlIFJlc3VsdAoKLSAqKlRoZSB3b3cgdGVzdCoqOiBTaG93IGl0IHRvIHNvbWVvbmUgd2hvIGhhc24ndCBzZWVuIGl0LiBEbyB0aGV5IHJlYWN0PwotICoqVGhlIHJlbW92YWwgdGVzdCoqOiBUYWtlIGl0IGF3YXkuIERvZXMgdGhlIGV4cGVyaWVuY2UgZmVlbCBkaW1pbmlzaGVkLCBvciBkb2VzIG5vYm9keSBub3RpY2U/Ci0gKipUaGUgZGV2aWNlIHRlc3QqKjogUnVuIGl0IG9uIGEgcGhvbmUsIGEgdGFibGV0LCBhIENocm9tZWJvb2suIFN0aWxsIHNtb290aD8KLSAqKlRoZSBjb250ZXh0IHRlc3QqKjogRG9lcyB0aGlzIG1ha2Ugc2Vuc2UgZm9yIFRISVMgYnJhbmQgYW5kIGF1ZGllbmNlPwoKIlRlY2huaWNhbGx5IGV4dHJhb3JkaW5hcnkiIGlzbid0IGFib3V0IHVzaW5nIHRoZSBuZXdlc3QgQVBJLiBJdCdzIGFib3V0IG1ha2luZyBhbiBpbnRlcmZhY2UgZG8gc29tZXRoaW5nIHVzZXJzIGRpZG4ndCB0aGluayBhIHdlYnNpdGUgY291bGQgZG8uCg==
+Start your response with:
+
+```
+──────────── ⚡ OVERDRIVE ─────────────
+》》》 Entering overdrive mode...
+```
+
+Push an interface past conventional limits. This isn't just about visual effects. It's about using the full power of the browser to make any part of an interface feel extraordinary: a table that handles a million rows, a dialog that morphs from its trigger, a form that validates in real-time with streaming feedback, a page transition that feels cinematic.
+
+Context decides what "extraordinary" means. A particle system on a creative portfolio is impressive. The same particle system on a settings page is embarrassing. But a settings page with instant optimistic saves and animated state transitions? That's extraordinary too. Understand the project's personality and goals before deciding what's appropriate.
+
+### Propose Before Building
+
+This command has the highest potential to misfire. Do NOT jump straight into implementation. You MUST:
+
+1. **Think through 2-3 different directions**: consider different techniques, levels of ambition, and aesthetic approaches. For each direction, briefly describe what the result would look and feel like.
+2. **Get the user's pick before writing any code.** Ask the user directly to clarify what you cannot infer. Carry each direction's description and its trade-offs (browser support, performance cost, complexity) inside the option itself, so the user is choosing between things they can read. A structured question blocks the message it rides in until the user answers, so directions written alongside the question stay invisible while the user is being asked to choose between them.
+3. Only proceed with the direction the user confirms.
+
+Skipping this step risks building something embarrassing that needs to be thrown away.
+
+### Verify in the Browser
+
+Ambitious effects rarely work on the first try, so verify them in the browser rather than from code: an effect that technically runs can still stutter, ease wrong, or land on the wrong frame. Aim the checks at timing, easing, and smoothness, batch the fixes between looks, and keep refining until the effect is extraordinary.
+
+---
+
+## Assess What "Extraordinary" Means Here
+
+The right kind of technical ambition depends entirely on what you're working with. Before choosing a technique, ask: **what would make a user of THIS specific interface say "wow, that's nice"?**
+
+### For visual/marketing surfaces
+Pages, hero sections, landing pages, portfolios: the "wow" is often sensory: a scroll-driven reveal, a shader background, a cinematic page transition, generative art that responds to the cursor.
+
+### For functional UI
+Tables, forms, dialogs, navigation: the "wow" is in how it FEELS: a dialog that morphs from the button that triggered it via View Transitions, a data table that renders 100k rows at 60fps via virtual scrolling, a form with streaming validation that feels instant, drag-and-drop with spring physics.
+
+### For performance-critical UI
+The "wow" is invisible but felt: a search that filters 50k items without a flicker, a complex form that never blocks the main thread, an image editor that processes in near-real-time. The interface just never hesitates.
+
+### For data-heavy interfaces
+Charts and dashboards: the "wow" is in fluidity: GPU-accelerated rendering via Canvas/WebGL for massive datasets, animated transitions between data states, force-directed graph layouts that settle naturally.
+
+**The common thread**: something about the implementation goes beyond what users expect from a web interface. The technique serves the experience, not the other way around.
+
+## The Toolkit
+
+Organized by what you're trying to achieve, not by technology name.
+
+### Make transitions feel cinematic
+- **View Transitions API** (same-document: all browsers; cross-document: no Firefox): shared element morphing between states. A list item expanding into a detail page. A button morphing into a dialog. This is the closest thing to native FLIP animations.
+- **`@starting-style`** (all browsers): animate elements from `display: none` to visible with CSS only, including entry keyframes
+- **Spring physics**: natural motion with mass, tension, and damping instead of cubic-bezier. Libraries: motion (formerly Framer Motion), GSAP, or roll your own spring solver.
+
+### Tie animation to scroll position
+- **Scroll-driven animations** (`animation-timeline: scroll()`): CSS-only, no JS. Parallax, progress bars, reveal sequences all driven by scroll position. (Chrome/Edge/Safari; Firefox: flag only; always provide a static fallback)
+
+### Render beyond CSS
+- **WebGL** (all browsers): shader effects, post-processing, particle systems. Libraries: Three.js, OGL (lightweight), regl. Use for effects CSS can't express.
+- **WebGPU** (Chrome/Edge; Safari 26+; Firefox on Windows/macOS; flag only on Firefox Linux/Android): next-gen GPU compute, more powerful than WebGL. Always fall back to WebGL2.
+- **Canvas 2D / OffscreenCanvas**: custom rendering, pixel manipulation, or moving heavy rendering off the main thread entirely via Web Workers + OffscreenCanvas.
+- **SVG filter chains**: displacement maps, turbulence, morphology for organic distortion effects. CSS-animatable.
+
+### Make data feel alive
+- **Virtual scrolling**: render only visible rows for tables/lists with tens of thousands of items. No library required for simple cases; TanStack Virtual for complex ones.
+- **GPU-accelerated charts**: Canvas or WebGL-rendered data visualization for datasets too large for SVG/DOM. Libraries: deck.gl, regl-based custom renderers.
+- **Animated data transitions**: morph between chart states rather than replacing. D3's `transition()` or View Transitions for DOM-based charts.
+
+### Animate complex properties
+- **`@property`** (all browsers): register custom CSS properties with types, enabling animation of gradients, colors, and complex values that CSS can't normally interpolate.
+- **Web Animations API** (all browsers): JavaScript-driven animations with the performance of CSS. Composable, cancellable, reversible. The foundation for complex choreography.
+
+### Push performance boundaries
+- **Web Workers**: move computation off the main thread. Heavy data processing, image manipulation, search indexing: anything that would cause jank.
+- **OffscreenCanvas**: render in a Worker thread. The main thread stays free while complex visuals render in the background.
+- **WASM**: near-native performance for computation-heavy features. Image processing, physics simulations, codecs.
+
+### Interact with the device
+- **Web Audio API**: spatial audio, audio-reactive visualizations, sonic feedback. Requires user gesture to start.
+- **Device APIs**: orientation, ambient light, geolocation. Use sparingly and always with user permission.
+
+**NOTE**: This command is about enhancing how an interface FEELS, not changing what a product DOES. Adding real-time collaboration, offline support, or new backend capabilities are product decisions, not UI enhancements. Focus on making existing features feel extraordinary.
+
+## Implement with Discipline
+
+### Progressive enhancement is non-negotiable
+
+Every technique must degrade gracefully. The experience without the enhancement must still be good.
+
+```css
+@supports (animation-timeline: scroll()) {
+  .hero { animation-timeline: scroll(); }
+}
+```
+
+```javascript
+if ('gpu' in navigator) { /* WebGPU */ }
+else if (canvas.getContext('webgl2')) { /* WebGL2 fallback */ }
+/* CSS-only fallback must still look good */
+```
+
+### Performance rules
+
+- Target 60fps. If dropping below 50, simplify.
+- Lazy-initialize heavy resources (WebGL contexts, WASM modules) only when near viewport.
+- Pause off-screen rendering. Kill what you can't see.
+- Test on real mid-range devices, not just your development machine.
+
+### Polish is the difference
+
+The gap between "cool" and "extraordinary" is in the last 20% of refinement: the easing curve on a spring animation, the timing offset in a staggered reveal, the subtle secondary motion that makes a transition feel physical. Don't ship the first version that works; ship the version that feels inevitable.
+
+**NEVER**:
+- Ship effects that cause jank on mid-range devices
+- Use bleeding-edge APIs without a functional fallback
+- Add sound without explicit user opt-in
+- Use technical ambition to mask weak design fundamentals; fix those first with other commands
+- Layer multiple competing extraordinary moments. Focus creates impact, excess creates noise
+
+## Verify the Result
+
+- **The wow test**: Show it to someone who hasn't seen it. Do they react?
+- **The removal test**: Take it away. Does the experience feel diminished, or does nobody notice?
+- **The device test**: Run it on a phone, a tablet, a Chromebook. Still smooth?
+- **The context test**: Does this make sense for THIS brand and audience?
+
+"Technically extraordinary" isn't about using the newest API. It's about making an interface do something users didn't think a website could do.

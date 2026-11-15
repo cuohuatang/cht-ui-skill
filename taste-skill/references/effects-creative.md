@@ -1,1 +1,245 @@
-IyBFZmZlY3RzIGJleW9uZCBiYWNrZ3JvdW5kcwoKQW4gZWZmZWN0IGNhbiBiZSBhIHBhcnQgb2YgdGhlIHBhZ2UsIG5vdCBvbmx5IGl0cyBncm91bmQ6IHRoZSBwaWN0dXJlIGluIGEgZmVhdHVyZSBjYXJkLCBhIHJlYWwgb2JqZWN0CmRyYXduIGluIGRpdGhlciwgdGhlIGxldHRlcnMgb2YgYSBoZWFkbGluZSwgYSBidXR0b24ncyBmaWxsLCBhIGJvcmRlciwgYW4gaWNvbiBjaGlwLCBhIGNoYXJ0J3MgYXJlYSwgYQptYXAuIFRoZSBwYXJ0cyBhcmUgaW4gYGFzc2V0cy9jb21wb25lbnRzL2AgKGEgZm9sZGVyIGVhY2g6IGBjb21wb25lbnQuaHRtbGAsIGAuY3NzYCwgYC5qc2AsCmBtZXRhLmpzb25gKTsgYGluZGV4Lmh0bWxgIHRoZXJlIHNob3dzIHRoZW0gbGl2ZSB3aXRoIGEgcGFsZXR0ZSBzd2l0Y2hlciwgc3RhcnRpbmcgZWFjaCBwYXJ0IG9ubHkKd2hpbGUgaXQgaXMgbmVhciB0aGUgc2NyZWVuLgoKKipUZWNoIHBhZ2VzIG9ubHkqKiAoc2l0ZS1raW5kIHNvZnR3YXJlLCBnYW1pbmcgb3IgdGVjaDogaGFyZHdhcmUpLCBleGNlcHQgYGZ4LXBob3RvYCAoZXZlcnkga2luZCwgYXMKYSBwbGFpbiBwaG90b2dyYXBoKSBhbmQgYGZ4LW1hcGAgKGV2ZXJ5IGtpbmQgd2l0aCBhIGRvb3IsIGEgcGxhY2UgaW5jbHVkZWQsIGJha2VkIHN0aWxsLCBhbmQgb25seQpmb3IgYSBzdHJlZXQgdGhlIGJyaWVmIGdpdmVzKS4gV2hhdCBlYWNoIGtpbmQgbWF5IGNhcnJ5OiBgZWZmZWN0cy11c2FnZS5tZGAuIGBmeC1iYW5kYCBpcyBvdXQ6IGEKZHJhd24gYmFuZCBiZXR3ZWVuIHNlY3Rpb25zIGlzIG5vdCBhIHNlY3Rpb24uIGBmeC1sb2dvc2AgaXMgb3V0OiByZWFsIGxvZ29zIHNob3cgaW4gdGhlaXIgZnVsbApjb2xvdXJzIGFuZCBuZXZlciBtb3ZlIChydWxlIDcsIE1PLTU3OyBgc2VjdGlvbnMtbGlicmFyeS5tZGAgbG9nby1yb3cpLgoKIyMgVW5kZXIgdGhlIG9uZS1lZmZlY3QgcnVsZQoKLSAqKkV2ZXJ5IHBhcnQgdGhhdCBob2xkcyBhIFdlYkdMIGNvbnRleHQgaXMgdGhlIHBhZ2UncyBvbmUgZWZmZWN0KiogKGBlZmZlY3RzLXVzYWdlLm1kYCk6IHRoZQogIGRpdGhlciBvYmplY3QsIGEgZmlsbGVkIGhlYWRsaW5lIG9yIHN0YXQsIHRoZSBnbG9iZSwgdGhlIGF2YXRhciByaW5nLCB0aGUgbG9nbyBsaWdodCwgdGhlIHByb2dyZXNzCiAgbGlnaHQsIHRoZSBwcm9tcHQgZ2xvdywgdGhlIGVkZ2UtZ2xvdyBwbGFuLCBgZngtc3BvdGxpZ2h0YCwgYW5kIGBmeC1idXR0b25gJ3MgZmlsbCAob24gdGhlIG9uZQogIHByaW1hcnkgY2FsbCB0byBhY3Rpb24sIG9yIG9uZSBwYWlyLCBmYWRpbmcgaW4gb24gaG92ZXIgb3IgZm9jdXMpLiBJdCBzaXRzIGluIHRoZSBoZXJvIG9yIHRoZSBvbmUKICBgW2RhdGEtdmlzdWFsXWAgZnJhbWUsIG9yIHNlcnZlcyBhIGRlYWx0IG1vbWVudCBpbiBpdHMgb3duIHNlY3Rpb247IG5ldmVyIGJlc2lkZSBhIGxpdmUgaGVybwogIGdyb3VuZC4gUGFpbnRlZCBwYW5lbHMgaW4gYSAyeDIgYXJlIGNhcmQgZ3JvdW5kcyBkcmF3biBzdGlsbCwgbm90IHRoZSBlZmZlY3QuCi0gKipPbmUgcG9pbnRlciBlZmZlY3QgYSBwYWdlOioqIGBmeC1idXR0b25gLCBgZngtc3BvdGxpZ2h0YCwgYSB0dXJuaW5nIG9iamVjdCwgb3IgYSBob3ZlciBvciBsaXF1aWQKICBtb21lbnQgKGBtb21lbnRzLm1kYCksIG5ldmVyIHR3by4gVGhlIHN0cmVldCBtYXAgYW5kIGEgcGhvdG9ncmFwaCBhcmUgY29udGVudCwgbm90IGVmZmVjdHMuCi0gRXZlcnl0aGluZyBlbHNlIHN0YXlzICoqcXVpZXQqKjogYSBzZWFyY2ggZ2xvdyBvbmx5IHdoaWxlIGZvY3VzZWQsIG9uZSByaW5nIG9uIHRoZSByZWNvbW1lbmRlZAogIHBsYW4sIGNoaXBzIHdpdGggYSBzdGlsbCBncmFpbi4gKipPbmUgbGl0IGJvcmRlciBhIHBhZ2UqKiAoYGZ4LXByb21wdGAgb3IgYGZ4LXByaWNpbmdgKS4KLSBBIGdsb3cgb25seSBvbiBhIGRhcmsgZ3JvdW5kLCBvbmNlLCBiZWhpbmQgdGhlIGtleSBvYmplY3QgaW4gdGhlIGhlcm8gb3IgYFtkYXRhLXZpc3VhbF1gLCBzdGlsbCwKICBuZXZlciBzcGlsbGluZyBvbnRvIHRleHQgb3Igcm91bmQgYSBidXR0b24uIE9uZS1zaG90IHRyYW5zaXRpb25zIChhIHRpbGUgZmxpcCwgYSBtZWx0LCBhIGNyYWNrKQogIG9ubHkgb25jZSwgb24gYSBjbGljayBvciBhcyBhIGhlcm8gcmV2ZWFsLCBpbnNpZGUgdGhlIGBbZGF0YS12aXN1YWxdYDsgc2Nyb2xsLWRyaXZlbiBvbmx5IGFzIGEKICBkZWFsdCBzZWN0aW9uIG1vbWVudC4gUmF5IG1hcmNoaW5nIG9ubHkgaW4gYSBkYXJrIGhlcm8sIGF0IGhhbGYgcmVzb2x1dGlvbjsgaGFsZnRvbmUgYW5kIGRpdGhlcgogIG9ubHkgYXMgYSBzdGlsbCBncm91bmQsIG5ldmVyIG9uIGEgcGhvdG9ncmFwaC4KLSBOb3RoaW5nIG1vdmVzIHdpdGggc2Nyb2xsOyBhIGNhcmQgbmV2ZXIgbW92ZXMgYnkgaXRzZWxmLiBNb3Rpb24gbGl2ZXMgaW5zaWRlIGEgdmlzdWFsOiBhIHBvaW50ZXIKICBjbGlja2luZyBpbiBhIFVJIHdpbmRvdywgcm90b3JzIHRoYXQgc3BpbiB1cCB1bmRlciB0aGUgcG9pbnRlciwgYSBzZWF0IHRoYXQgc3dpdmVscyBhZnRlciBpdC4KCiMjIENvc3Q6IGxpZ2h0IGVub3VnaCBmb3IgYSBsYXB0b3AncyBpbnRlZ3JhdGVkIEdQVQoKQSBsYXB0b3AncyBncmFwaGljcyBjaGlwIHNoYXJlcyBhYm91dCAyIEdCIHdpdGggZXZlcnl0aGluZyBlbHNlOyB0b28gbWFueSBsaXZlIGNhbnZhc2VzIGNyYXNoIGl0LgoKLSAqKkF0IG1vc3QgNCBsaXZlIFdlYkdMIGNvbnRleHRzIHBlciBwYWdlKiogKGhvdXNlIHJ1bGU7IGBwZXJmLm1kYCksIGFuZCBvbmx5IGZvciB0aGluZ3MgdGhhdCBtb3ZlOiB0aGUKICBvbmUgZWZmZWN0IGFuZCBhIGRlYWx0IG1vbWVudCdzIG93biBjYW52YXMuIEV2ZXJ5dGhpbmcgc3RpbGwgaG9sZHMgbm9uZSBhdCByZXN0LgotICoqU3RpbGxzIHJlbmRlciBvbmNlLioqIEFuIGVmZmVjdCB0aGF0IGRvZXMgbm90IG1vdmUgKHNwZWVkIGFuZCBkcmlmdCAwKSBnb2VzIHRocm91Z2ggYHN0aWxsKClgIGluCiAgYHNoYXJlZC5qc2AgKG9yIGBmaWxsKGVsLCBpZCwgeyBzdGlsbDogdHJ1ZSB9KWAgZm9yIHR5cGUpOiBkcmF3biBvbmNlIGFzIGl0IG5lYXJzIHRoZSBzY3JlZW4sCiAgY29waWVkIGludG8gYSBwbGFpbiBwaWN0dXJlLCBpdHMgY29udGV4dCBmcmVlZC4gU3RpbGxzIGRyYXcgb25lIGFmdGVyIGFub3RoZXIsIHNvIHRoZXkgbmV2ZXIgaG9sZAogIG1vcmUgdGhhbiBvbmUgY29udGV4dCBhdCBhIHRpbWUuIE5ldmVyIGxlYXZlIGEgc3RpbGwgZWZmZWN0IG1vdW50ZWQgd2l0aCBpdHMgZnJhbWUgbG9vcCBydW5uaW5nLAogIGFuZCBuZXZlciBnaXZlIGEgc3RpbGwgdG8gYSBwYXVzZSBidXR0b24gKFBsYXkgd291bGQgc3RhcnQgaXRzIGxvb3ApLgotICoqU2NyZWVuc2hvdHMgd2FpdCBmb3IgdGhlIHN0aWxscy4qKiBPbiBhIENQVSByZW5kZXJlciBlYWNoIHN0aWxsIHRha2VzIGFib3V0IGEgc2Vjb25kIChhIG5ldwogIGNvbnRleHQsIGl0cyBzaGFkZXIgY29tcGlsZWQsIG9uZSBmcmFtZSksIHNvIGEgc2NyZWVuIGNhcHR1cmVkIGEgZml4ZWQgdGltZSBhZnRlciBhIHNjcm9sbCBjYXRjaGVzCiAgc29tZSBibGFuayBhbmQgYSBwYW5lbCBjdXQgYnkgdHdvIHNjcmVlbnMgY29tZXMgb3V0IGhhbGYgbGl0LiBXaGlsZSBzdGlsbHMgbmVhciB0aGUgc2NyZWVuIGhhdmUgbm8KICBwaWN0dXJlIHlldCwgYDxodG1sIGRhdGEtY3gtYmFraW5nPSJuIj5gIHNheXMgaG93IG1hbnkuIEEgc2NyZWVuc2hvdCBtdXN0IHdhaXQgdW50aWwgaXQgaXMgZ29uZTsKICBgc2hvb3QubWpzYCBhbmQgYGNvbnNpc3RlbmN5Lm1qc2AgZG8gbm90IHdhaXQgb24gaXQgeWV0LCBzbyBzaG9vdCBhIHBhZ2Ugd2l0aCBzdGlsbHMgKGZpbGxlZCBzdGF0cywKICB0eXBlIGluIGFuIGVmZmVjdCwgcGFpbnRlZCBwYW5lbHMpIHdpdGggYC0td2FpdCAxNTAwYCBhbmQgbG9vayBmb3IgdW5maWxsZWQgZGlnaXRzIGJlZm9yZSBqdWRnaW5nLgotICoqUGVyLXBpeGVsIGFuZCByYXltYXJjaGVkIHdvcmsgYXQgMSBzYW1wbGUgcGVyIENTUyBwaXhlbCBhdCBtb3N0KiogKDAuNzUgd2hlbiB0aGUgY2FudmFzIGlzIGxhcmdlKQogIGFuZCBhYm91dCAxLjUgbWVnYXBpeGVscyBhdCBtb3N0LCB3aGF0ZXZlciB0aGUgc2NyZWVuJ3MgRFBSLiBgZngtZGl0aGVyLW9iamVjdGAgcnVucyBvbmNlIHBlcgogIGRpdGhlciBjZWxsIChhIG5pbnRoIG9mIHRoZSBDU1MgcGl4ZWxzKTsgYHBhaW50ZXJseS1sYW5kc2NhcGVgIGF0IDAuNi4KLSAqKkV2ZXJ5dGhpbmcgcGF1c2VzKiogb2ZmIHNjcmVlbiBhbmQgaW4gYSBoaWRkZW4gdGFiIChmeC5qcyBkb2VzIGl0IGZvciBldmVyeSBtb3VudGVkIGVmZmVjdCksIGFuZAogIGEgbG9vcCB0aGF0IHJ1bnMgb24gaXRzIG93biBmb3IgbW9yZSB0aGFuIGFib3V0IDUgcyBoYXMgYSBwYXVzZSBidXR0b24uCi0gV2hhdCBob2xkcyBhIGNvbnRleHQgb24gYSBwYWdlOiBgZngtZGl0aGVyLW9iamVjdGAgKDIwIGZwcyksIGBmeC1wcm9tcHRgLCBgZngtZ2xvYmVgLCBgZngtYXZhdGFyYAogIGFuZCBgZngtcHJvZ3Jlc3NgLCBlYWNoIG9ubHkgd2hpbGUgbmVhciB0aGUgc2NyZWVuOyBgZngtYnV0dG9uYCBvbmx5IHdoaWxlCiAgcG9pbnRlZCBhdCAoZnJlZWQgNCBzIGxhdGVyKSwgYGZ4LXNlYXJjaGAgb25seSB3aGlsZSBmb2N1c2VkLiBBIHBhZ2UgY2FycmllcyBvbmUgb2YgdGhlc2UgKHRoZQogIGVmZmVjdCkuIEV2ZXJ5IG90aGVyIHBhcnQgaXMgYSBzdGlsbCwgYW5kIHNvIGlzIHRoZSBkaXRoZXIgb2JqZWN0IHVuZGVyIHJlZHVjZWQgbW90aW9uLiBgZngtbWFwYAogIChwbGFpbiBTVkcpIGFuZCBgZngtcGhvdG9gICh0aGUgcGhvdG9ncmFwaCBpdHNlbGYpIGhvbGQgbm8gY29udGV4dCBhdCBhbGwuCgojIyBGZWF0dXJlIGNhcmRzIHdpdGggaW5zZXQgcGFuZWxzIChgZngtZmVhdHVyZS1jYXJkYCkKClRoZSBjYXJkIHJldmlld2VycyBwb2ludCBhdCwgYXMgeC5haSBhbmQgRmlnbWEgYnVpbGQgaXQ6IGEgMngyIG9mIGNhcmRzLCBlYWNoIGEgdGl0bGUgYW5kIHR3byBncmV5IGxpbmVzLAp0aGVuIGFuIGluc2V0IHBhbmVsIHdpdGggaXRzIG93biA4cHggbWFyZ2luIChyYWRpdXMgPSBjYXJkIHJhZGl1cyAtIG1hcmdpbikuIFRoZSBwYW5lbCBob2xkcyBhIGJyaWdodApncm91bmQgYW5kIG9uZSBVSSB3aW5kb3cgdGhhdCBydW5zIG91dCB0aHJvdWdoIHRoZSBwYW5lbCdzIGJvdHRvbSBlZGdlLgoKLSBHcm91bmQ6IGBwYWludGVybHktbGFuZHNjYXBlYCAoZGVmYXVsdCkgb3IgYGdyYWluLWdyYWRpZW50YCwgc3RpbGwsIGRyYXduIG9uY2UgYXMgcGljdHVyZXMgKHRoZQogIGNhcmRzIGhvbGQgbm8gY29udGV4dCBhdCByZXN0KS4KLSBBIGxhbmRzY2FwZSBpcyBhIHBpY3R1cmUsIHNvIGl0IHRha2VzIGEgbmF0dXJhbCBsaWdodCBuZWFyIHRoZSBwYWdlLCBuZXZlciBvbmUgaHVlIG92ZXIgZXZlcnl0aGluZy4KICBFYWNoIHBhbmVsIG5hbWVzIGl0cyBsaWdodCBpbiBgZGF0YS1jeC1zY2VuZWAgYW5kIGl0cyBjb21wb3NpdGlvbiBpbiBgZGF0YS1jeC1wYXJhbXNgIChob3Jpem9uLAogIHNpZGUsIHNsb3BlKSwgc28gbm8gdHdvIHBhbmVscyBsb29rIGFsaWtlOgogIC0gYGRheWA6IGEgcGFsZSBza3kgb3ZlciBoaWxscyB0aGF0IHN0ZXAgZG93biB0byBhIG5lYXIgc2xvcGU7IGdyYXBoaXRlIGhpbGxzIHVuZGVyIGEgd2FybSBhY2NlbnQsCiAgICBibHVlLWdyZXkgdW5kZXIgYSBjb29sIG9uZSwgdGhlIGFjY2VudCBpdHNlbGYgd2hlbiBpdCBpcyBncmVlbiBvciBuZXV0cmFsLCBkZWVwZXIgc2hhZGVzIG9mIHRoZQogICAgcGFnZSBjb2xvdXIgb24gYSBjb2xvdXIgcGFnZS4KICAtIGBkdXNrYDogYW4gZXZlbmluZyBhcyBpdCBsb29rczogYSBkZWVwIGJsdWUgc2t5IHRoYXQgbGlnaHRzIHVwIGluIGdvbGQgb25seSBhbG9uZyB0aGUgaG9yaXpvbiwKICAgIGRhcmsgaGlsbHMgd2l0aCBhIGxpdCBjcmVzdCwgd2hhdGV2ZXIgdGhlIGFjY2VudCAoYSBibHVlIGdsb3cgdW5kZXIgYSBibHVlIGFjY2VudCByZWFkIGFzIHRoZQogICAgYGRheWAgcGFuZWwgYWdhaW4sIG9ubHkgZGFya2VyKTsgdGhlIGdvbGQgbGVhbnMgdG93YXJkIGEgd2FybSBhY2NlbnQgYnV0IHN0YXlzIGJldHdlZW4gYW1iZXIgYW5kCiAgICBnb2xkIChyZWQtb3JhbmdlIHR1cm5zIHRoZSBjcmVzdHMgcnVzdCkuIE9uIGEgY29sb3VyIHBhZ2UsIGEgbGlnaHQgc2hhZGUgb2YgdGhlIHBhZ2UgY29sb3VyLgogIC0gYG1lYWRvd2A6IGRheWxpZ2h0IGFzIGEgcGhvdG9ncmFwaCBzaG93cyBpdCwgd2hhdGV2ZXIgdGhlIHBhZ2U6IGEgY2xlYXIgYmx1ZSBza3kgcGFsaW5nIHRvIHRoZQogICAgaG9yaXpvbiwgYSBibHVlIGZhciByaWRnZSwgYSBzdW5saXQgZmllbGQgb2YgZ3Jhc3MgKG9uIGEgYmx1ZSBjb2xvdXIgcGFnZSB0aGUgc2t5IGlzIHRoZSBwYWdlIGNvbG91cikuCiAgICBUaGUgbmF0dXJhbCBwaWN0dXJlIGFtb25nIHRoZSBwYW5lbHMsIGFzIG9uIHguYWkncyBjYXJkczsgb25lIHBlciBncmlkLgogIC0gQSBncmlkIG9mIGZvdXIgbWl4ZXMgdGhlbTogZm9yIGV4YW1wbGUgYGRheWAsIGEgZ3JhaW4sIGBkdXNrYCwgYG1lYWRvd2AuCi0gQSBncmFpbiBwYW5lbDogYSBsaWdodCB3YXJtIGdyb3VuZCB1bmRlciBhIHdhcm0gYWNjZW50LCBhIGRlZXAgb25lIHVuZGVyIGEgY29vbCBhY2NlbnQsIHRoZSBwYWdlCiAgY29sb3VyJ3Mgb3duIHNoYWRlcyBvbiBhIGNvbG91ciBwYWdlLgotIFRoZSB3aW5kb3cgc2hvd3MgdGhlIGZlYXR1cmUgd2l0aCByZWFsIGxhYmVsczogYW4gaW52b2ljZSwgYSBjaGVja291dCwgYSBsaXN0IG9mIHBheW91dHMsIGFuIGludml0ZS4KICBJdHMgY29udGVudCBydW5zIG91dCB0aHJvdWdoIHRoZSBwYW5lbCdzIGJvdHRvbSBlZGdlOiBubyBlbXB0eSBzcGFjZSB1bmRlciB0aGUgbGFzdCByb3cuCi0gVHdvIHBhbmVscyBhdCBtb3N0IHJ1biBhIHNob3J0IHBvaW50ZXIgZGVtbyAoZ2xpZGUsIGNsaWNrLCB0aGUgc3RhdGUgY2hhbmdlcywgcmVzdCksIG9uZSBwZXIgcm93LgotIFJlamVjdGVkOiBhIHNtYWxsIGRpYWxvZyBjZW50cmVkIG9uIGFuIGVtcHR5IGdyb3VuZDsgYW4gb3JiIG9yIHNwaGVyZSBncm91bmQ7IGEgbGFuZHNjYXBlIHBhaW50ZWQgaW4KICB0aGUgYWNjZW50J3MgaHVlIG9ubHkgKGl0IHJlYWRzIGFzIGEgZmlsdGVyLCBhbmQgYW4gb3JhbmdlIGFjY2VudCB0dXJucyBydXN0LXJlZCk7IGEgd2FybSBhY2NlbnQgbWl4ZWQKICBpbnRvIGEgZGFyayBncm91bmQgb3IgYSBjb21wbGVtZW50YXJ5IGFjY2VudCBtaXhlZCBpbnRvIGEgY29sb3VyIHBhZ2UgKG11ZCkuCgojIyBPYmplY3RzIGluIGRpdGhlciAoYGZ4LWRpdGhlci1vYmplY3RgKQoKQSByZWFsIHRoaW5nIGJ1aWx0IGluIGNvZGUgYXMgYSBsaXQgM0QgZm9ybSBhbmQgcHJpbnRlZCBpbiBvcmRlcmVkIGRpdGhlciBpbiB0aGUgcGFnZSB0b25lczogZ3JvdW5kLApzaGFkZSwgaW5rLCBhY2NlbnQgYW5kIGEgZGVlcCBhY2NlbnQuIFVzZSBpdCB3aGVuIHRoZSBwcm9kdWN0IGhhcyBubyBwaG90b2dyYXBoIHlldCwgYXMgdGhlIGhlcm8KcGljdHVyZSBvciB0aGUgdmlzdWFsIG9mIG9uZSBzcGxpdCBzZWN0aW9uLgoKLSBPYmplY3RzOiBgaGVhZHBob25lc2AgKG92ZXItZWFyLCBvbiB0aGVpciBjdXBzKSwgYGNoYWlyYCAoYW4gb2ZmaWNlIGNoYWlyIG9uIGZpdmUgY2FzdG9ycyksCiAgYGNhbWVyYWAgKGEgbWlycm9ybGVzcyBjYW1lcmEgd2l0aCBhIHpvb20gbGVucyksIGBkcm9uZWAgKGEgY2FtZXJhIGRyb25lIHdpdGggZm91ciByb3RvcnMpLiBTZXQKICBgZGF0YS1jeC1vYmplY3RgIG9uIHRoZSBmaWd1cmUuCi0gSWRsZTogaXQgc3dheXMgc2xvd2x5IG9uIGl0cyBzcG90LiBQb2ludGVkIGF0LCBpdCB0dXJucyB0byB0aGUgcG9pbnRlciwgdGhlIGxpZ2h0IGNvbWVzIGZyb20gdGhlCiAgcG9pbnRlciwgYW5kIGl0IGFuc3dlcnMgd2l0aCBpdHMgb3duIHdvcmtpbmcgcGFydDogc291bmQgcmluZ3Mgb3V0IG9mIHRoZSBjdXBzLCB0aGUgc2VhdCBzd2l2ZWxzCiAgYWZ0ZXIgdGhlIHBvaW50ZXIgKHRoZSBiYXNlIHN0YXlzKSwgdGhlIGxlbnMgem9vbXMgb3V0IGFzIHRoZSBwb2ludGVyIHJpc2VzIGFuZCBpdHMgZm9jdXMgcmluZwogIHR1cm5zLCB0aGUgcm90b3JzIHNwaW4gdXAgaW50byBkaXNjcyBhbmQgdGhlIGRyb25lIGxpZnRzIG9mZiBpdHMgbGVncyBhbmQgdGlwcyB0b3dhcmQgdGhlIHBvaW50ZXIuCi0gVGhlIGFjY2VudCBwYWludHMgb25lIHBhcnQ6IHRoZSBlYXIgY3VwcywgdGhlIHNlYXQgYW5kIGJhY2ssIHRoZSBjYW1lcmEncyBib2R5IGJhbmQgYW5kIHNodXR0ZXIsCiAgdGhlIGRyb25lJ3Mgc2hlbGw7IHRoZWlyIHNoYWRlZCBzaWRlIGlzIGEgZGVlcCBhY2NlbnQsIG5ldmVyIGdyZXkuCi0gT25seSBhbiBvYmplY3QgdGhlIHByb2R1Y3QgcmVhbGx5IGlzIG9yIHNlbGxzLCBvbiBhIHRlY2ggcGFnZSAoYSBkcm9uZSwgYSBjYW1lcmEsIGhlYWRwaG9uZXMgYXMKICBoYXJkd2FyZSkuIE9uZSBwZXIgcGFnZSwgd2l0aCBubyBjYXB0aW9uIHVuZGVyIHRoZSBzdGFnZTogdGhlIHNlY3Rpb24KICBoZWFkaW5nIG9yIGNvcHkgc2F5cyB3aGF0IGl0IGlzIGFuZCBnaXZlcyBvbmUgcmVhbCBmYWN0IGZyb20gdGhlIGNsaWVudC4KLSBBIHByb2R1Y3Qgbm9uZSBvZiB0aGUgZm91ciBmaXRzIGdldHMgaXRzIG93biBwaG90b2dyYXBocyBvciBhIHJlbmRlciBmcm9tIGBhc3NldHMvb2JqZWN0c2AsIG5ldmVyCiAgdGhlIG5lYXJlc3Qgb2YgdGhlc2UgZm91ciBhbmQgbmV2ZXIgbW9vZCBzdG9jayBpbiBpdHMgcGxhY2UuCi0gVGhlIHByaW50IGlzIHRoZSByZW5kZXIgdG8gdXNlLiBgZGF0YS1jeC1yZW5kZXI9InN0dWRpbyJgICh0aGUgc2FtZSBmb3JtIGFzIGEgc21vb3RoIHNoYWRlZCByZW5kZXIpCiAgaXMgbm90IGZvciBwYWdlcyB5ZXQ6IGF0IG9uZSBzYW1wbGUgcGVyIENTUyBwaXhlbCBpdHMgZWRnZXMgc3RhaXItc3RlcCwgYW5kIG5leHQgdG8gYSByZWFsIHByb2R1Y3QKICBzaG90IGl0cyBmb3JtcyByZWFkIGFzIHRveXMuIE5ldmVyIHBpY2sgaXQgZm9yIGEgc2hvcCBvciBhIHByb2R1Y3QgcGFnZTsgdXNlIHRoZSBwcmludCwgb3IgdGhlCiAgY2xpZW50J3Mgb3duIHBob3RvZ3JhcGhzLgotIFVuZGVyIHJlZHVjZWQgbW90aW9uIGl0IGlzIG9uZSBzdGlsbCBwaWN0dXJlIHdpdGggbm8gY29udGV4dCBhbmQgbm8gcGF1c2UgYnV0dG9uOyB3aXRob3V0IFdlYkdMIGEKICBsaW5lIGRyYXdpbmcgb2YgdGhlIHNhbWUgb2JqZWN0LCBpdHMgYWNjZW50IHBhcnQgZmlsbGVkLgotIEl0IGlzIGEgZHJhd2luZyBvZiB0aGUgcHJvZHVjdCwgbmV2ZXIgYSBmaWx0ZXI6IG5vIHBob3RvZ3JhcGggaXMgZXZlciBkaXRoZXJlZCwgaGFsZnRvbmVkIG9yCiAgcHJpbnRlZCAoaW4gdGVzdGluZzogYSBoYWxmdG9uZSBvdmVyIHRoZSBoZXJvIHBob3RvZ3JhcGggcmVhZCBhcyBicm9rZW4gYW5kIGxvdy1yZXMgYXQgZXZlcnkgd2lkdGgpLgoKIyMgU3RyZWV0IG1hcCBvZiB0aGUgcGxhY2UgKGBmeC1tYXBgKQoKQSB2aXNpdCBvciBjb250YWN0IHNlY3Rpb24gc2hvd3MgdGhlIHJlYWwgc3RyZWV0cyBhcm91bmQgdGhlIHBsYWNlLCBhcyBhIG1hcCBhcHAgd291bGQsIGluIHRoZSBwYWdlJ3MKY29sb3VyczogdGhlIGp1ZGdlcyBtYXJrZWQgYSBjb250b3VyIHBhdHRlcm4gc3RhbmRpbmcgaW4gZm9yIGEgbWFwIGFzIGEgZmFrZSBkcmF3aW5nLgoKLSAqKkJha2Ugb25jZSoqIGF0IGJ1aWxkIHRpbWU6IGBub2RlIGFzc2V0cy9jb21wb25lbnRzL2Z4LW1hcC9iYWtlLm1qcyAtLWxhdCA8bGF0PiAtLWxvbiA8bG9uPiAtLW91dAogIG1hcC5qc29uYCBmZXRjaGVzIHRoZSBzdHJlZXRzLCB3YXRlciwgcGFya3MsIHJhaWxzIGFuZCBzdGF0aW9ucyBmcm9tIE9wZW5TdHJlZXRNYXAgKG9uZSByZXF1ZXN0IHRvCiAgYW4gT3ZlcnBhc3Mgc2VydmVyKSBhbmQgd3JpdGVzIGEgc21hbGwgSlNPTiAoYWJvdXQgNTUgS0IsIDE4IEtCIGd6aXBwZWQsIGZvciAzIHggMiBrbSBvZiBhIGNpdHkpOgogIHN0cmVldHMgaW4gZm91ciBjbGFzc2VzLCB3YXRlciAodGhlIHNlYSBidWlsdCBmcm9tIGNvYXN0bGluZXMgdG9vKSwgcGFya3MsIHJhaWxzIGFuZCB0cmFtcywgdXAgdG8KICAxNCBzdHJlZXQgbmFtZXMgcGxhY2VkIGFsb25nIHRoZSBzdHJhaWdodGVzdCBwYXJ0IG9mIGVhY2ggc3RyZWV0LiBgLS1mcm9tIG5vbmVgICh0aGUgZGVmYXVsdCkgbGVhdmVzCiAgdGhlIHdhbGsgb3V0OyBvbmx5IG9uIGEgdGVjaCBwYWdlIHdob3NlIGJyaWVmIG5hbWVzIGEgc3RhdGlvbiwgYC0tZnJvbSBhdXRvYCAodGhlIG5lYXJlc3Qgc3RhdGlvbgogIDE1MCBtIHRvIDEuNiBrbSBhd2F5KSBvciBgLS1mcm9tIGxhdCxsb24gLS1mcm9tLW5hbWVgIGFkZHMgdGhlIHdhbGsgd2l0aCBpdHMgbWludXRlcyBhdCA4MCBtIGEgbWludXRlLiBQYXN0ZSB0aGUgSlNPTiBpbmxpbmUKICAoYDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vanNvbiIgY2xhc3M9ImN4LW1hcF9fZGF0YSI+YCkgb3IgbmFtZSB0aGUgZmlsZSBpbiBgZGF0YS1jeC1tYXBgLgotIFRoZSBwYXJ0IGZpdHMgdGhlIHBpbiwgdGhlIHdhbGsgYW5kIGJvdGggbmFtZXMgaW50byB0aGUgZnJlZSBwYXJ0IG9mIHRoZSBmcmFtZSAocmlnaHQgb2YgdGhlIGNhcmQKICBmcm9tIDkwMHB4IG9mIHdpZHRoOyB1bmRlciA5MDBweCB0aGUgY2FyZCBzaXRzIGJlbG93IGFuZCB0aGUgbWFwIGtlZXBzIHRoZSB3aG9sZSB3aWR0aCksIG5ldmVyCiAgY2xvc2VyIHRoYW4gYWJvdXQgMSBtIGEgcGl4ZWw7IG5hbWVzIGdvIG9uIHRoZSBzaWRlIHRoZSB3YWxrIGRvZXMgbm90IGxlYXZlIGJ5IChhYm92ZSBvciBiZWxvdyBvbiBhCiAgcGhvbmUpLiBTdHJlZXQgbmFtZXMgc2hvdyBvbmx5IHdoZXJlIHRoZXkgZml0IHRoZWlyIHN0cmVldCBhbmQgY2xlYXIgZXZlcnkgb3RoZXIgbGFiZWwuCi0gTGlnaHQgcGFnZXM6IHdoaXRlIHN0cmVldHMgd2l0aCBhIGhhaXJsaW5lIGNhc2luZyBvbiBhIGxhbmQgb25lIHN0ZXAgZGFya2VyIHRoYW4gdGhlIHBhZ2UuIERhcmsKICBwYWdlczogbGlnaHRlciBzdHJlZXRzIG9uIGEgbGFuZCBvbmUgc3RlcCBsaWdodGVyLiBXYXRlciBhbmQgcGFya3Mga2VlcCBhIG5hdHVyYWwgYmx1ZSBhbmQgZ3JlZW4KICBtaXhlZCBpbnRvIHRoZSBsYW5kIChuYXR1cmFsIGNvbG91ciwgbGlrZSB0aGUgYG1lYWRvd2AgbGFuZHNjYXBlKS4KLSBQb2ludGVkIGF0LCBvciBpdHMgZGlyZWN0aW9ucyBsaW5rIGZvY3VzZWQsIHRoZSB3YWxrIGlzIGRyYXduIGZyb20gdGhlIHN0YXRpb24gdG8gdGhlIGRvb3IgYW5kIHRoZQogIHBpbidzIGhhbG8gYW5zd2VycyBvbmNlLiBOb3RoaW5nIG1vdmVzIGF0IHJlc3Qgb3Igb24gc2Nyb2xsLgotIERyYXduIG9ubHkgZm9yIGEgc3RyZWV0IHRoZSBicmllZiBnaXZlczsgdGhlIHBpbiBzaXRzIG9uIHRoZSBzdHJlZXQgbGluZSwgbmV2ZXIgb24gYSBidWlsZGluZzsKICB0aGUgY2FyZCBzYXlzIHRoZSB3YWxrIGluIHdvcmRzICgiNSBtaW51dGVzIG9uIGZvb3QgZnJvbSBUaGUgU2hvcmUgdHJhbSBzdG9wIikgYW5kIG5hbWVzIHN0cmVldCBhbmQKICBkaXN0cmljdCBvbmx5IChgY29weS5tZGAsIENvbnRhY3RzKS4gR2V0IGRpcmVjdGlvbnMgb3BlbnMKICBgaHR0cHM6Ly93d3cub3BlbnN0cmVldG1hcC5vcmcvc2VhcmNoP3F1ZXJ5PTxzdHJlZXQ+KzxkaXN0cmljdD5gLCBuZXZlciBjb29yZGluYXRlcyBvciBhIHJvdXRlCiAgbGluay4gT24gYSBwbGFjZSwgYW5kIG9uIGFueSBvdGhlciBwYWdlIG9mIGtpbmQgb3RoZXIsIGl0IGlzIGJha2VkIHdpdGggYC0tZnJvbSBub25lYCAobm8gd2Fsaywgbm8KICBtaW51dGVzIGNoaXApIGFuZCBub3RoaW5nIG1vdmVzLiBUaGUgY29vcmRpbmF0ZXMgZ28gb25seSB0byB0aGUgYmFrZSwgbmV2ZXIgb250byB0aGUgcGFnZS4gVGhlCiAgT3BlblN0cmVldE1hcCBjcmVkaXQgKCJNYXAgZGF0YSDCqSBPcGVuU3RyZWV0TWFwIGNvbnRyaWJ1dG9ycyIpIGpvaW5zIHRoZSBmb290ZXIncyBvbmUgY3JlZGl0cyBsaW5lLAogIG5ldmVyIG9uIG9yIHVuZGVyIHRoZSBtYXAuCi0gTm8gbmV0d29yayBhdCBidWlsZCB0aW1lLCBvciBhIHN0cmVldCB0aGUgYnJpZWYgZG9lcyBub3QgZ2l2ZTogbm8gbWFwOyB0aGUgdmlzaXQgc2hvd3MgaXRzCiAgcGhvdG9ncmFwaC4gTmV2ZXIgc2hpcCBhIGNvbnRvdXIgb3IgZG90IGZhbGxiYWNrIGFzIGEgbWFwLgoKIyMgQSBwaG90b2dyYXBoIHdpdGggY29weSAoYGZ4LXBob3RvYCkKCi0gVGhlIGNsaWVudCdzIHBob3RvZ3JhcGggaW4gaXRzIG5hdHVyYWwgY29sb3VyLCB0aGUgY29weSBvbiBpdHMgY2FsbSwgZGFyayBjb3JuZXIgKHdoaXRlIHR5cGUsIG5vCiAgc2NyaW0pLCBhcyBmaWdtYS5jb20gYW5kIHguYWkgc2hvdyB0aGVpcnM7IGluIGEgbGluayBpdCB6b29tcyAxLjAyIHRvIDEuMDMgaW5zaWRlIGl0cyBmcmFtZQogIChgbW90aW9uLm1kYCkuIFdvcmRzIG9uIGEgcGhvdG9ncmFwaCBvbmx5IGluIHRoZSBoZXJvIGFuZCBvbmUgYmFuZCBhIHBhZ2UsIG5ldmVyIG9uIGEgcGxhY2UuCi0gTm8gZmlsdGVyIG92ZXIgaXQ6IG5vIGhhbGZ0b25lLCBkaXRoZXIsIGRpc3NvbHZlLCBwcmludCwgZHVvdG9uZSBvciBibHVyIChgZGF0YS1jeC1ncmFkZWAgc3RheXMKICBvZmYpLgotIFRoZSBwaG90b2dyYXBoZXIncyBjcmVkaXQgZ29lcyBpbiB0aGUgcGFnZSdzIG9uZSBmb290ZXIgY3JlZGl0IGxpbmUsIG5ldmVyIHVuZGVyIHRoZSBwaWN0dXJlLgotIEl0IHRha2VzIG5vIGRlYWx0IGVmZmVjdDogaXRzIGBlZmZlY3RzYCBsaXN0IGlzIGVtcHR5IG9uIHB1cnBvc2UgYW5kIGBkYXRhLWN4LWVmZmVjdGAgaXMgaWdub3JlZC4KICBObyBXZWJHTCBhbmQgbm90aGluZyBhdCByZXN0OyB1bmRlciByZWR1Y2VkIG1vdGlvbiB0aGUgem9vbSBpcyBvZmYuCgojIyBUaGUgdGVjaG5pcXVlcyAoYGNvbXBvbmVudHMvc2hhcmVkLmpzYCkKCi0gYHN0aWxsKGVsLCBpZClgOiBhbiBlZmZlY3QgdGhhdCBkb2VzIG5vdCBtb3ZlLCBkcmF3biBvbmNlIGFuZCBrZXB0IGFzIGEgcGljdHVyZSAoc2VlIENvc3QpLgotIGBmaWxsKGVsLCBpZClgOiB0aGUgZ2x5cGhzIG9mIGBlbGAgKG9yIGl0cyBgW2RhdGEtZmlsbF1gIHBhcnRzKSBzaG93IHRoZSBlZmZlY3QuIFRoZSBvdmVybGF5IHNpdHMKICBuZXh0IHRvIGBlbGAsIG5ldmVyIGluc2lkZSBpdCwgc28gdGhlIHRleHQgYW5kIEhUTUwgc3RheSBjbGVhbi4gYHsgc3RpbGw6IHRydWUgfWAgZm9yIGEgc3RpbGwgZmlsbC4KLSBgd2luZG93cyhob3N0LCB0YXJnZXRzKWA6IG9uZSBjYW52YXMgc2VlbiB0aHJvdWdoIG1hbnkgc2hhcGVzIChjaGlwcywgYmFycywgY2FyZHMpLgotIGBjeC1yaW5nYDogYSBob3N0IHNob3duIG9ubHkgaW4gaXRzIHBhZGRpbmcsIGEgMS41cHggYm9yZGVyIG9mIHRoZSBlZmZlY3QuCi0gYGN4LWdsb3dgOiBhIGhvc3QgYmx1cnJlZCBpbnRvIGEgc29mdCBsaWdodCBiZWhpbmQgb25lIG9iamVjdC4KLSBgcGF1c2VyKGhvc3QpYDogYSByb3VuZCBwYXVzZSBidXR0b24gaW4gb25lIGNvcm5lciBvZiBhIGxvb3BpbmcgdmlzdWFsLiAqKkV2ZXJ5IGxvb3AgdGhhdCBydW5zIG9uCiAgaXRzIG93biBmb3IgbW9yZSB0aGFuIGFib3V0IDUgcyBnZXRzIG9uZSoqIChXQ0FHIDIuMi4yKTogdGhlIHBhbmVsIGRlbW9zLCB0aGUgZGl0aGVyIG9iamVjdCwgdGhlCiAgcHJvbXB0IGdsb3csIHRoZSBnbG9iZSwgdGhlIGxvZ28gbGlnaHQsIHRoZSBjYWxsIHByZXZpZXcsIHRoZSBpbXBvcnQgcHJldmlldy4gVW5kZXIgcmVkdWNlZCBtb3Rpb24KICB0aGUgbG9vcHMgaG9sZCBvbmUgc3RhdGUgYW5kIHRoZSBidXR0b24gaXMgaGlkZGVuLiBTdGlsbHMgKHRoZSBtYXAsIHRoZSBiYW5kKSBuZWVkIG5vbmUuCgojIyBXaGVuIHRvIHVzZSBlYWNoCgp8IFBhcnQgfCBVc2UgaXQgZm9yIHwgTm90IGZvciB8CnwtLS18LS0tfC0tLXwKfCBgZngtZmVhdHVyZS1jYXJkYCB8IEEgMngyIG9mIHByb2R1Y3QgZmVhdHVyZXMgfCBGZWF0dXJlcyB3aXRoIG5vdGhpbmcgdG8gc2hvdyBpbiBhIHdpbmRvdyB8CnwgYGZ4LWRpdGhlci1vYmplY3RgIHwgVGhlIHByb2R1Y3QgYXMgYW4gb2JqZWN0LCB3aXRoIG5vIHBob3RvZ3JhcGggKHRoZSBwcmludCByZW5kZXIpIHwgRGVjb3JhdGlvbiB0aGF0IGlzIG5vdCB0aGUgcHJvZHVjdDsgYSBzdHVkaW8gcmVuZGVyIHwKfCBgZngtaGVhZGxpbmVgIHwgVGhlIGhlcm8gbGluZSBvciBjbG9zaW5nIGxpbmU7IGZpbGwgMi0zIHdvcmRzIHwgQm9keSB0ZXh0LCB0d28gZmlsbGVkIGxpbmVzIG9uIGEgcGFnZSB8CnwgYGZ4LXN0YXRgIHwgMi00IHByb29mIG51bWJlcnMgZnJvbSB0aGUgYnJpZWYsIGF0IHRoZSBzdGF0IHNpemUgKGAtLXQtc3RhdGAsIDM4IGF0IDE0NDApIHwgU21hbGwgbnVtYmVycywgY291bnQtdXBzLCBpbnZlbnRlZCBmaWd1cmVzIHwKfCBgZngtYnV0dG9uYCB8IFRoZSBvbmUgcHJpbWFyeSBjYWxsIHRvIGFjdGlvbiB8IEV2ZXJ5IGJ1dHRvbiB8CnwgYGZ4LXByb21wdGAgfCBUaGUgaGVybyBwcm9tcHQgYm94IG9mIGFuIEFJIG9yIGRldiBwcm9kdWN0IHwgT3JkaW5hcnkgZm9ybXMgfAp8IGBmeC1zZWFyY2hgIHwgRG9jcyBvciBjb21tYW5kIHNlYXJjaCB8IEEgZmllbGQgdGhhdCBhbHdheXMgZ2xvd3MgfAp8IGBmeC10YWJzYCB8IEEgcHJvZHVjdCB0b3VyIG9yIGRhc2hib2FyZCBwcmV2aWV3IHwgTmF2aWdhdGlvbiB8CnwgYGZ4LWljb24tdGlsZXNgIHwgQSBmZWF0dXJlIGdyaWQgd2l0aCBkcmF3biBnbHlwaHMgfCBCcmFuZCBsb2dvcyB8CnwgYGZ4LXNwb3RsaWdodGAgfCBBIHJvdyBvZiBwbGFpbiBmZWF0dXJlIGNhcmRzIChzZWN1cml0eSwgYWRtaW4pIHwgQSBwYWdlIHdpdGggYW5vdGhlciBwb2ludGVyIGVmZmVjdCB8CnwgYGZ4LWdsb2JlYCB8IFByb2R1Y3RzIHdpdGggZ2xvYmFsIHJlYWNoIHwgTG9jYWwgYnVzaW5lc3NlcyB8CnwgYGZ4LW1hcGAgfCBWaXNpdCBvciBjb250YWN0OiB0aGUgcmVhbCBzdHJlZXRzIGFyb3VuZCB0aGUgZG9vciwgYmFrZWQgc3RpbGwgfCBBIHByb2R1Y3Qgd2l0aG91dCBhIHBsYWNlIHwKfCBgZngtY2hhcnRgIHwgT25lIG1ldHJpYyBvdmVyIHRpbWUgfCBEZWNvcmF0aW9uIHdpdGhvdXQgbnVtYmVycyB8CnwgYGZ4LWJhcnNgIHwgTW9udGhseSBmaWd1cmVzIG9uIGEgbGFiZWxsZWQgc2NhbGUgfCBNb3JlIHRoYW4gMTYgYmFycyB8CnwgYGZ4LXBob3RvYCB8IFRoZSBjbGllbnQncyBvd24gcGhvdG9ncmFwaCBvZiB0aGUgc3ViamVjdCwgaW4gY29sb3VyIHwgTW9vZCBzdG9jaywgYmxhbmsgbm90ZWJvb2tzLCBmaWx0ZXJzIHwKfCBgZngtYXZhdGFyYCB8IENhbGxzLCBwcmVzZW5jZSwgYSB0ZWFtIGxpc3QgfCBTdGF0aWMgdGVhbSBncmlkcyB8CnwgYGZ4LXByaWNpbmdgIHwgVGhlIHJlY29tbWVuZGVkIHBsYW4gfCBBbGwgcGxhbnMgfAp8IGBmeC1wcm9ncmVzc2AgfCBPbmx5IGluc2lkZSBhIHByb2R1Y3Qgd2luZG93LCBhcyBpdHMgb3duIGltcG9ydCBvciBzZXR1cCBzdGVwIChhIFVJIGZyYWdtZW50KSB8IEEgcHJvZ3Jlc3MgYmFyIGFzIGEgY2FyZCBvciB2aXN1YWwgb2YgaXRzIG93biAodGhlIGp1ZGdlIG1hcmtzIGl0KTsgcGFnZSBsb2FkZXJzIHwKCiMjIFBpY2tpbmcgdGhlIGVmZmVjdAoKLSAqKlBhbmVscyBpbiBmZWF0dXJlIGNhcmRzOioqIGBwYWludGVybHktbGFuZHNjYXBlYCAod2l0aCBhIHNjZW5lKSwgYGdyYWluLWdyYWRpZW50YDsKICBgcnVsZWQtZ3JvdW5kc2AgZm9yIGEgdGVjaG5pY2FsIHByb2R1Y3QncyBwYW5lbCB0aGF0IGhvbGRzIG5vIFVJIChuZXZlciBiZWhpbmQgYSB3aW5kb3cgb3IgZnJhZ21lbnQsIGBjYXJkcy5tZGApLgotICoqSW5zaWRlIGxldHRlcnMgYW5kIGRpZ2l0czoqKiBgc2lsay1mb2xkc2AsIGBhdXJvcmEtY3VydGFpbnNgIChkYXJrIGFuZCBjb2xvdXIgcGFnZXMpLCBzdGlsbC4gT24gYQogIGxpZ2h0IHBhZ2UsIHN0YXQgZGlnaXRzIGdldCBhIHBsYWluIGluayBmYWRlIGluc3RlYWQgKGFuIGVmZmVjdCBpbiBkaWdpdHMgb24gd2hpdGUgcmVhZHMgYXMgc2NyYXRjaGVkCiAgbWV0YWwpLiBOZXZlciBgZmx1dGVkLWdsYXNzYCBpbiB0eXBlOiBvbiBhIGNvbG91ciBncm91bmQgaXQgcGFpbnRzIHRoaWNrIGFjY2VudCBiYXJzIHRocm91Z2ggdGhlCiAgbGV0dGVycy4gTmV2ZXIgYGNhdXN0aWNzYCwgYGhhbGZ0b25lLXNjcmVlbmAgb3IgYGxpbmUtZW5ncmF2aW5nYCBpbiB0eXBlLgotICoqSW5zaWRlIHNtYWxsIHNoYXBlcyoqIChjaGlwcywgcGlsbHMsIGJhcnMpOiBgZ3JhaW4tZ3JhZGllbnRgIHdpdGggc3RpbGwgZ3JhaW4sIGxvdyBjb250cmFzdC4gTm8KICBzaWxrLCBnbGFzcyBvciBtZXRhbCBzaGVlbiBpbiBhIHBpbGwgb3IgYSBiYXIuCi0gKipJbnNpZGUgZGF0YToqKiBhIHBsYWluIGFjY2VudCBmYWRlIHVuZGVyIGEgbGluZSAodGhlIGNoYXJ0IGRlZmF1bHQpIG9yIGEgc3RpbGwgYHJ1bGVkLWdyb3VuZHNgOwogIGJhcnMgdGFrZSBhIHN0aWxsLCBsb3ctY29udHJhc3QgYGdyYWluLWdyYWRpZW50YC4gTmV2ZXIgYW4gZWZmZWN0IHRoYXQgZHJhd3MgaXRzIG93biBncmlkIG9yIG1vdmluZwogIHRyYWNlcyBvdmVyIGEgY2hhcnQsIGFuZCBuZXZlciBgaGFsZnRvbmUtc2NyZWVuYCBpbiBhIGNoYXJ0IGFyZWEgKGl0cyB0b25lIHJ1bnMgYWNyb3NzIHRoZSBmcmFtZSwKICBzbyBoYWxmIHRoZSBhcmVhIGdvZXMgZW1wdHkpLgotICoqQSBtYXAqKiAoYGZ4LW1hcGApIGlzIHRoZSBiYWtlZCBzdHJlZXRzLCBuZXZlciBhbiBlZmZlY3QsIGFuZCBoYXMgbm8gZmFsbGJhY2sgZ3JvdW5kLgotIEVhY2ggcGFydCBrZWVwcyBhIHRhYmxlIG9mIHBhcmFtcyBwZXIgZWZmZWN0IGl0IHRha2VzIGFuZCBwYXNzZXMgb25seSB0aGF0IGVmZmVjdCdzIG93bjogb25lCiAgZWZmZWN0J3MgbnVtYmVycyBtZWFuIHNvbWV0aGluZyBlbHNlIHRvIGFub3RoZXIgKGNvbnRvdXItbGluZXMnIG9wYWNpdHkgMC4zMiBhbmQgY2FsbSAwLjU1IGxlZnQKICBkb3QtdGVycmFpbiBhbG1vc3QgYmxhbmspLgotICoqQSBidXR0b24ncyBmaWxsOioqIGFuIGV2ZW4sIGxvdy1jb250cmFzdCBncmFpbiB0aGF0IG1vdmVzIG9ubHkgd2hpbGUgcG9pbnRlZCBhdDsgbm8gYmxvYnMgdGhhdAogIHNldHRsZSBhdCBvbmUgZW5kIG9mIHRoZSBidXR0b24uCi0gV2hlbiB0aGUgcGFnZSdzIGRlYWwgZ2l2ZXMgYW4gZWZmZWN0IGxpc3RlZCBpbiBhIHBhcnQncyBgbWV0YS5qc29uYCBgZWZmZWN0c2AsIHVzZSBpdCB0aGVyZQogIChgZGF0YS1jeC1lZmZlY3RgLCBgZGF0YS1jeC1maWxsYCBmb3IgdHlwZSk7IG90aGVyd2lzZSBpdHMgYGRlZmF1bHRgLiBBIHBhcnQgd2l0aCBhbiBlbXB0eSBsaXN0CiAgKGBmeC1waG90b2AsIGBmeC1kaXRoZXItb2JqZWN0YCkgdGFrZXMgbm8gZGVhbHQgZWZmZWN0OiBhIHBob3RvZ3JhcGggaXMgbmV2ZXIgZmlsdGVyZWQuCi0gUmV0aXJlZCBlZmZlY3RzIChgbWFyYmxlLXdhcnBgLCBgdHJ1Y2hldC1hcmNzYCwgYHBpeGVsLW1vc2FpY2AgYW5kIHRoZSBvdGhlcnMgbGlzdGVkIGluCiAgYGFzc2V0cy9lZmZlY3RzL1JFQURNRS5tZGApIGFyZSBpbiBubyBwYXJ0J3MgbGlzdC4gYGdyaWQtcHVsc2VgIHN0YXlzIG91dCBvZiBjaGFydHM6IGl0cyB0cmFjZXMKICBibGluayBhdCByYW5kb20uCgojIyBDb2xvdXIKCkV2ZXJ5IHBhcnQgcmVhZHMgdGhlIHBhZ2UgdG9rZW5zLiBgaW5rUGFsZXR0ZWAgZHJhd3MgYW4gZWZmZWN0IGFzIGluayAocGFsZSBvbiBkYXJrIHBhZ2VzLCBkZWVwIG9uCmxpZ2h0IG9uZXMpOyBgYWNjZW50UGFsZXR0ZWAga2VlcHMgaXQgbmVhciB0aGUgYWNjZW50IHdpdGggdGhlIGxhYmVsIGF0IDQuNToxOyBgdG9uZShwLCBrKWAgbWF0Y2hlcwp0aGUgQ1NTIGNhcmQgc3RlcHMuIE5vIGZpeGVkIGh1ZXMsIHdpdGggdGhyZWUgZXhjZXB0aW9ucywgYWxsIG5hdHVyYWwgY29sb3VyIGFzIGEgcGhvdG9ncmFwaCBvciBhIG1hcAphcHAgd291bGQgc2hvdyBpdDogdGhlIGBtZWFkb3dgIGxhbmRzY2FwZSAoYSBibHVlIHNreSBvdmVyIGdyYXNzKSwgdGhlIGdvbGQgaG9yaXpvbiBvZiBgZHVza2AgKHRoZQpvdGhlciBsYW5kc2NhcGVzIGFyZSBidWlsdCBmcm9tIHRoZSBwYWdlJ3Mgb3duIGh1ZXMgYW5kIGdyZXlzKSwgYW5kIHRoZSBtYXAncyB3YXRlciBhbmQgcGFya3MgKGEgYmx1ZQphbmQgYSBncmVlbiBtaXhlZCBpbnRvIHRoZSBsYW5kKS4gTmV2ZXIgdmlvbGV0IG9yIGxhdmVuZGVyLgoKIyMgVXNlCgpMaW5rIGBzeXN0ZW0uY3NzYCwgYGNvbXBvbmVudHMvYmFzZS5jc3NgIGFuZCB0aGUgcGFydCdzIGBjb21wb25lbnQuY3NzYCwgcGFzdGUgaXRzIG1hcmt1cCwgdGhlbgpgY29uc3QgcGFydCA9IGluaXQocm9vdClgIGZyb20gaXRzIGBjb21wb25lbnQuanNgIChgcGFydC5kZXN0cm95KClgIHRvIHJlbW92ZSkuIFRleHQsIGNvbnRyb2xzIGFuZApkYXRhIHN0YXkgcmVhbCBIVE1MOyB0aGUgZWZmZWN0IGlzIHRoZSBwaWN0dXJlIG9yIHRoZSBsaWdodCBvbiB0aGVtLiBSZXBsYWNlIGV2ZXJ5IG51bWJlciwgbmFtZSBhbmQKdGhlIHN0YW5kLWluIHBob3RvZ3JhcGggd2l0aCB0aGUgY2xpZW50J3Mgb3duOyBhIGZpZ3VyZSB0aGUgYnJpZWYgZG9lcyBub3QgZ2l2ZSBpcyBsZWZ0IG91dCwgbmV2ZXIKaW52ZW50ZWQgYW5kIG5ldmVyIHRhZ2dlZCAic2FtcGxlIiAoYGNvcHkubWRgKS4K
+# Effects beyond backgrounds
+
+An effect can be a part of the page, not only its ground: the picture in a feature card, a real object
+drawn in dither, the letters of a headline, a button's fill, a border, an icon chip, a chart's area, a
+map. The parts are in `assets/components/` (a folder each: `component.html`, `.css`, `.js`,
+`meta.json`); `index.html` there shows them live with a palette switcher, starting each part only
+while it is near the screen.
+
+**Tech pages only** (site-kind software, gaming or tech: hardware), except `fx-photo` (every kind, as
+a plain photograph) and `fx-map` (every kind with a door, a place included, baked still, and only
+for a street the brief gives). What each kind may carry: `effects-usage.md`. `fx-band` is out: a
+drawn band between sections is not a section. `fx-logos` is out: real logos show in their full
+colours and never move (rule 7, MO-57; `sections-library.md` logo-row).
+
+## Under the one-effect rule
+
+- **Every part that holds a WebGL context is the page's one effect** (`effects-usage.md`): the
+  dither object, a filled headline or stat, the globe, the avatar ring, the logo light, the progress
+  light, the prompt glow, the edge-glow plan, `fx-spotlight`, and `fx-button`'s fill (on the one
+  primary call to action, or one pair, fading in on hover or focus). It sits in the hero or the one
+  `[data-visual]` frame, or serves a dealt moment in its own section; never beside a live hero
+  ground. Painted panels in a 2x2 are card grounds drawn still, not the effect.
+- **One pointer effect a page:** `fx-button`, `fx-spotlight`, a turning object, or a hover or liquid
+  moment (`moments.md`), never two. The street map and a photograph are content, not effects.
+- Everything else stays **quiet**: a search glow only while focused, one ring on the recommended
+  plan, chips with a still grain. **One lit border a page** (`fx-prompt` or `fx-pricing`).
+- A glow only on a dark ground, once, behind the key object in the hero or `[data-visual]`, still,
+  never spilling onto text or round a button. One-shot transitions (a tile flip, a melt, a crack)
+  only once, on a click or as a hero reveal, inside the `[data-visual]`; scroll-driven only as a
+  dealt section moment. Ray marching only in a dark hero, at half resolution; halftone and dither
+  only as a still ground, never on a photograph.
+- Nothing moves with scroll; a card never moves by itself. Motion lives inside a visual: a pointer
+  clicking in a UI window, rotors that spin up under the pointer, a seat that swivels after it.
+
+## Cost: light enough for a laptop's integrated GPU
+
+A laptop's graphics chip shares about 2 GB with everything else; too many live canvases crash it.
+
+- **At most 4 live WebGL contexts per page** (house rule; `perf.md`), and only for things that move: the
+  one effect and a dealt moment's own canvas. Everything still holds none at rest.
+- **Stills render once.** An effect that does not move (speed and drift 0) goes through `still()` in
+  `shared.js` (or `fill(el, id, { still: true })` for type): drawn once as it nears the screen,
+  copied into a plain picture, its context freed. Stills draw one after another, so they never hold
+  more than one context at a time. Never leave a still effect mounted with its frame loop running,
+  and never give a still to a pause button (Play would start its loop).
+- **Screenshots wait for the stills.** On a CPU renderer each still takes about a second (a new
+  context, its shader compiled, one frame), so a screen captured a fixed time after a scroll catches
+  some blank and a panel cut by two screens comes out half lit. While stills near the screen have no
+  picture yet, `<html data-cx-baking="n">` says how many. A screenshot must wait until it is gone;
+  `shoot.mjs` and `consistency.mjs` do not wait on it yet, so shoot a page with stills (filled stats,
+  type in an effect, painted panels) with `--wait 1500` and look for unfilled digits before judging.
+- **Per-pixel and raymarched work at 1 sample per CSS pixel at most** (0.75 when the canvas is large)
+  and about 1.5 megapixels at most, whatever the screen's DPR. `fx-dither-object` runs once per
+  dither cell (a ninth of the CSS pixels); `painterly-landscape` at 0.6.
+- **Everything pauses** off screen and in a hidden tab (fx.js does it for every mounted effect), and
+  a loop that runs on its own for more than about 5 s has a pause button.
+- What holds a context on a page: `fx-dither-object` (20 fps), `fx-prompt`, `fx-globe`, `fx-avatar`
+  and `fx-progress`, each only while near the screen; `fx-button` only while
+  pointed at (freed 4 s later), `fx-search` only while focused. A page carries one of these (the
+  effect). Every other part is a still, and so is the dither object under reduced motion. `fx-map`
+  (plain SVG) and `fx-photo` (the photograph itself) hold no context at all.
+
+## Feature cards with inset panels (`fx-feature-card`)
+
+The card reviewers point at, as x.ai and Figma build it: a 2x2 of cards, each a title and two grey lines,
+then an inset panel with its own 8px margin (radius = card radius - margin). The panel holds a bright
+ground and one UI window that runs out through the panel's bottom edge.
+
+- Ground: `painterly-landscape` (default) or `grain-gradient`, still, drawn once as pictures (the
+  cards hold no context at rest).
+- A landscape is a picture, so it takes a natural light near the page, never one hue over everything.
+  Each panel names its light in `data-cx-scene` and its composition in `data-cx-params` (horizon,
+  side, slope), so no two panels look alike:
+  - `day`: a pale sky over hills that step down to a near slope; graphite hills under a warm accent,
+    blue-grey under a cool one, the accent itself when it is green or neutral, deeper shades of the
+    page colour on a colour page.
+  - `dusk`: an evening as it looks: a deep blue sky that lights up in gold only along the horizon,
+    dark hills with a lit crest, whatever the accent (a blue glow under a blue accent read as the
+    `day` panel again, only darker); the gold leans toward a warm accent but stays between amber and
+    gold (red-orange turns the crests rust). On a colour page, a light shade of the page colour.
+  - `meadow`: daylight as a photograph shows it, whatever the page: a clear blue sky paling to the
+    horizon, a blue far ridge, a sunlit field of grass (on a blue colour page the sky is the page colour).
+    The natural picture among the panels, as on x.ai's cards; one per grid.
+  - A grid of four mixes them: for example `day`, a grain, `dusk`, `meadow`.
+- A grain panel: a light warm ground under a warm accent, a deep one under a cool accent, the page
+  colour's own shades on a colour page.
+- The window shows the feature with real labels: an invoice, a checkout, a list of payouts, an invite.
+  Its content runs out through the panel's bottom edge: no empty space under the last row.
+- Two panels at most run a short pointer demo (glide, click, the state changes, rest), one per row.
+- Rejected: a small dialog centred on an empty ground; an orb or sphere ground; a landscape painted in
+  the accent's hue only (it reads as a filter, and an orange accent turns rust-red); a warm accent mixed
+  into a dark ground or a complementary accent mixed into a colour page (mud).
+
+## Objects in dither (`fx-dither-object`)
+
+A real thing built in code as a lit 3D form and printed in ordered dither in the page tones: ground,
+shade, ink, accent and a deep accent. Use it when the product has no photograph yet, as the hero
+picture or the visual of one split section.
+
+- Objects: `headphones` (over-ear, on their cups), `chair` (an office chair on five castors),
+  `camera` (a mirrorless camera with a zoom lens), `drone` (a camera drone with four rotors). Set
+  `data-cx-object` on the figure.
+- Idle: it sways slowly on its spot. Pointed at, it turns to the pointer, the light comes from the
+  pointer, and it answers with its own working part: sound rings out of the cups, the seat swivels
+  after the pointer (the base stays), the lens zooms out as the pointer rises and its focus ring
+  turns, the rotors spin up into discs and the drone lifts off its legs and tips toward the pointer.
+- The accent paints one part: the ear cups, the seat and back, the camera's body band and shutter,
+  the drone's shell; their shaded side is a deep accent, never grey.
+- Only an object the product really is or sells, on a tech page (a drone, a camera, headphones as
+  hardware). One per page, with no caption under the stage: the section
+  heading or copy says what it is and gives one real fact from the client.
+- A product none of the four fits gets its own photographs or a render from `assets/objects`, never
+  the nearest of these four and never mood stock in its place.
+- The print is the render to use. `data-cx-render="studio"` (the same form as a smooth shaded render)
+  is not for pages yet: at one sample per CSS pixel its edges stair-step, and next to a real product
+  shot its forms read as toys. Never pick it for a shop or a product page; use the print, or the
+  client's own photographs.
+- Under reduced motion it is one still picture with no context and no pause button; without WebGL a
+  line drawing of the same object, its accent part filled.
+- It is a drawing of the product, never a filter: no photograph is ever dithered, halftoned or
+  printed (in testing: a halftone over the hero photograph read as broken and low-res at every width).
+
+## Street map of the place (`fx-map`)
+
+A visit or contact section shows the real streets around the place, as a map app would, in the page's
+colours: the judges marked a contour pattern standing in for a map as a fake drawing.
+
+- **Bake once** at build time: `node assets/components/fx-map/bake.mjs --lat <lat> --lon <lon> --out
+  map.json` fetches the streets, water, parks, rails and stations from OpenStreetMap (one request to
+  an Overpass server) and writes a small JSON (about 55 KB, 18 KB gzipped, for 3 x 2 km of a city):
+  streets in four classes, water (the sea built from coastlines too), parks, rails and trams, up to
+  14 street names placed along the straightest part of each street. `--from none` (the default) leaves
+  the walk out; only on a tech page whose brief names a station, `--from auto` (the nearest station
+  150 m to 1.6 km away) or `--from lat,lon --from-name` adds the walk with its minutes at 80 m a minute. Paste the JSON inline
+  (`<script type="application/json" class="cx-map__data">`) or name the file in `data-cx-map`.
+- The part fits the pin, the walk and both names into the free part of the frame (right of the card
+  from 900px of width; under 900px the card sits below and the map keeps the whole width), never
+  closer than about 1 m a pixel; names go on the side the walk does not leave by (above or below on a
+  phone). Street names show only where they fit their street and clear every other label.
+- Light pages: white streets with a hairline casing on a land one step darker than the page. Dark
+  pages: lighter streets on a land one step lighter. Water and parks keep a natural blue and green
+  mixed into the land (natural colour, like the `meadow` landscape).
+- Pointed at, or its directions link focused, the walk is drawn from the station to the door and the
+  pin's halo answers once. Nothing moves at rest or on scroll.
+- Drawn only for a street the brief gives; the pin sits on the street line, never on a building;
+  the card says the walk in words ("5 minutes on foot from The Shore tram stop") and names street and
+  district only (`copy.md`, Contacts). Get directions opens
+  `https://www.openstreetmap.org/search?query=<street>+<district>`, never coordinates or a route
+  link. On a place, and on any other page of kind other, it is baked with `--from none` (no walk, no
+  minutes chip) and nothing moves. The coordinates go only to the bake, never onto the page. The
+  OpenStreetMap credit ("Map data © OpenStreetMap contributors") joins the footer's one credits line,
+  never on or under the map.
+- No network at build time, or a street the brief does not give: no map; the visit shows its
+  photograph. Never ship a contour or dot fallback as a map.
+
+## A photograph with copy (`fx-photo`)
+
+- The client's photograph in its natural colour, the copy on its calm, dark corner (white type, no
+  scrim), as figma.com and x.ai show theirs; in a link it zooms 1.02 to 1.03 inside its frame
+  (`motion.md`). Words on a photograph only in the hero and one band a page, never on a place.
+- No filter over it: no halftone, dither, dissolve, print, duotone or blur (`data-cx-grade` stays
+  off).
+- The photographer's credit goes in the page's one footer credit line, never under the picture.
+- It takes no dealt effect: its `effects` list is empty on purpose and `data-cx-effect` is ignored.
+  No WebGL and nothing at rest; under reduced motion the zoom is off.
+
+## The techniques (`components/shared.js`)
+
+- `still(el, id)`: an effect that does not move, drawn once and kept as a picture (see Cost).
+- `fill(el, id)`: the glyphs of `el` (or its `[data-fill]` parts) show the effect. The overlay sits
+  next to `el`, never inside it, so the text and HTML stay clean. `{ still: true }` for a still fill.
+- `windows(host, targets)`: one canvas seen through many shapes (chips, bars, cards).
+- `cx-ring`: a host shown only in its padding, a 1.5px border of the effect.
+- `cx-glow`: a host blurred into a soft light behind one object.
+- `pauser(host)`: a round pause button in one corner of a looping visual. **Every loop that runs on
+  its own for more than about 5 s gets one** (WCAG 2.2.2): the panel demos, the dither object, the
+  prompt glow, the globe, the logo light, the call preview, the import preview. Under reduced motion
+  the loops hold one state and the button is hidden. Stills (the map, the band) need none.
+
+## When to use each
+
+| Part | Use it for | Not for |
+|---|---|---|
+| `fx-feature-card` | A 2x2 of product features | Features with nothing to show in a window |
+| `fx-dither-object` | The product as an object, with no photograph (the print render) | Decoration that is not the product; a studio render |
+| `fx-headline` | The hero line or closing line; fill 2-3 words | Body text, two filled lines on a page |
+| `fx-stat` | 2-4 proof numbers from the brief, at the stat size (`--t-stat`, 38 at 1440) | Small numbers, count-ups, invented figures |
+| `fx-button` | The one primary call to action | Every button |
+| `fx-prompt` | The hero prompt box of an AI or dev product | Ordinary forms |
+| `fx-search` | Docs or command search | A field that always glows |
+| `fx-tabs` | A product tour or dashboard preview | Navigation |
+| `fx-icon-tiles` | A feature grid with drawn glyphs | Brand logos |
+| `fx-spotlight` | A row of plain feature cards (security, admin) | A page with another pointer effect |
+| `fx-globe` | Products with global reach | Local businesses |
+| `fx-map` | Visit or contact: the real streets around the door, baked still | A product without a place |
+| `fx-chart` | One metric over time | Decoration without numbers |
+| `fx-bars` | Monthly figures on a labelled scale | More than 16 bars |
+| `fx-photo` | The client's own photograph of the subject, in colour | Mood stock, blank notebooks, filters |
+| `fx-avatar` | Calls, presence, a team list | Static team grids |
+| `fx-pricing` | The recommended plan | All plans |
+| `fx-progress` | Only inside a product window, as its own import or setup step (a UI fragment) | A progress bar as a card or visual of its own (the judge marks it); page loaders |
+
+## Picking the effect
+
+- **Panels in feature cards:** `painterly-landscape` (with a scene), `grain-gradient`;
+  `ruled-grounds` for a technical product's panel that holds no UI (never behind a window or fragment, `cards.md`).
+- **Inside letters and digits:** `silk-folds`, `aurora-curtains` (dark and colour pages), still. On a
+  light page, stat digits get a plain ink fade instead (an effect in digits on white reads as scratched
+  metal). Never `fluted-glass` in type: on a colour ground it paints thick accent bars through the
+  letters. Never `caustics`, `halftone-screen` or `line-engraving` in type.
+- **Inside small shapes** (chips, pills, bars): `grain-gradient` with still grain, low contrast. No
+  silk, glass or metal sheen in a pill or a bar.
+- **Inside data:** a plain accent fade under a line (the chart default) or a still `ruled-grounds`;
+  bars take a still, low-contrast `grain-gradient`. Never an effect that draws its own grid or moving
+  traces over a chart, and never `halftone-screen` in a chart area (its tone runs across the frame,
+  so half the area goes empty).
+- **A map** (`fx-map`) is the baked streets, never an effect, and has no fallback ground.
+- Each part keeps a table of params per effect it takes and passes only that effect's own: one
+  effect's numbers mean something else to another (contour-lines' opacity 0.32 and calm 0.55 left
+  dot-terrain almost blank).
+- **A button's fill:** an even, low-contrast grain that moves only while pointed at; no blobs that
+  settle at one end of the button.
+- When the page's deal gives an effect listed in a part's `meta.json` `effects`, use it there
+  (`data-cx-effect`, `data-cx-fill` for type); otherwise its `default`. A part with an empty list
+  (`fx-photo`, `fx-dither-object`) takes no dealt effect: a photograph is never filtered.
+- Retired effects (`marble-warp`, `truchet-arcs`, `pixel-mosaic` and the others listed in
+  `assets/effects/README.md`) are in no part's list. `grid-pulse` stays out of charts: its traces
+  blink at random.
+
+## Colour
+
+Every part reads the page tokens. `inkPalette` draws an effect as ink (pale on dark pages, deep on
+light ones); `accentPalette` keeps it near the accent with the label at 4.5:1; `tone(p, k)` matches
+the CSS card steps. No fixed hues, with three exceptions, all natural colour as a photograph or a map
+app would show it: the `meadow` landscape (a blue sky over grass), the gold horizon of `dusk` (the
+other landscapes are built from the page's own hues and greys), and the map's water and parks (a blue
+and a green mixed into the land). Never violet or lavender.
+
+## Use
+
+Link `system.css`, `components/base.css` and the part's `component.css`, paste its markup, then
+`const part = init(root)` from its `component.js` (`part.destroy()` to remove). Text, controls and
+data stay real HTML; the effect is the picture or the light on them. Replace every number, name and
+the stand-in photograph with the client's own; a figure the brief does not give is left out, never
+invented and never tagged "sample" (`copy.md`).

@@ -1,1 +1,89 @@
-PiAqKkFkZGl0aW9uYWwgY29udGV4dCBuZWVkZWQqKjogcGVyZm9ybWFuY2UgY29uc3RyYWludHMuCgpVc2UgbW90aW9uIHRvIGV4cGxhaW4gc3RhdGUsIHJlbGF0aW9uc2hpcCwgYW5kIGhpZXJhcmNoeSwgb3IgdG8gY3JlYXRlIG9uZSBhdXRob3JlZCBtb21lbnQgdGhlIHN1cmZhY2UgaGFzIGVhcm5lZC4gRGVjb3JhdGlvbiB3aXRob3V0IHB1cnBvc2UgaXMgYW5pbWF0aW9uIGRlYnQuCgotLS0KCiMjIFZpc2l0b3IgbW9kZQoKLSAqKlBlcnN1YWRlICsgRXhwZXJpZW5jZToqKiBtb3Rpb24gbWF5IGNhcnJ5IHRoZSB2b2ljZS4gUHJlZmVyIG9uZSByZWhlYXJzZWQgZm9jYWwgc2VxdWVuY2UgdG8gcmVwZWF0ZWQgc2VjdGlvbiByZXZlYWxzLgotICoqT3BlcmF0ZSArIFJlYWQ6KiogbW90aW9uIHNlcnZlcyBmZWVkYmFjaywgc3RhdGUsIGFuZCBjb250aW51aXR5LiBLZWVwIHJvdXRpbmUgdHJhbnNpdGlvbnMgZmFzdCBhbmQgZG8gbm90IG1ha2UgdXNlcnMgd2FpdCB0aHJvdWdoIHBhZ2UtbG9hZCBjaG9yZW9ncmFwaHkuCi0gKipOYXRpdmUgKGBpb3NgIC8gYGFuZHJvaWRgIC8gYGFkYXB0aXZlYCk6KiogZm9sbG93IHRoZSBNb3Rpb24gc2VjdGlvbiBvZiBbaW9zLm1kXShpb3MubWQpIG9yIFthbmRyb2lkLm1kXShhbmRyb2lkLm1kKSwgaW5jbHVkaW5nIHRoZSBwbGF0Zm9ybSdzIFJlZHVjZSBNb3Rpb24gYmVoYXZpb3IuIERvIG5vdCBhcHBseSB0aGUgd2ViIHRvb2xpbmcgYmVsb3cuCgojIyBGaW5kIHRoZSBqb2IKCkluc3BlY3QgdGhlIGV4aXN0aW5nIG1vdGlvbiBsYW5ndWFnZSwgaW50ZXJhY3Rpb24gc3RhdGVzLCB0YXJnZXQgZGV2aWNlcywgYW5kIHBlcmZvcm1hbmNlIGJ1ZGdldC4gRmluZCBvbmx5IHRoZSBwbGFjZXMgd2hlcmUgbW90aW9uIHdvdWxkOgoKLSBhY2tub3dsZWRnZSBhbiBhY3Rpb247Ci0gbWFrZSBhIHN0YXRlIGNoYW5nZSBvciBzcGF0aWFsIHJlbGF0aW9uc2hpcCBsZWdpYmxlOwotIHByZXNlcnZlIGNvbnRpbnVpdHkgdGhyb3VnaCBuYXZpZ2F0aW9uIG9yIGxheW91dCBjaGFuZ2U7Ci0gZGlyZWN0IGF0dGVudGlvbiBhdCBhIG1lYW5pbmdmdWwgbW9tZW50OwotIGVtYm9keSB0aGUgc2VsZWN0ZWQgdmlzdWFsIHdvcmxkLgoKQXNrIG9ubHkgd2hlbiBhIG1hdGVyaWFsIGNvbnN0cmFpbnQgY2Fubm90IGJlIGluZmVycmVkLiBEbyBub3QgYW5pbWF0ZSBhIHN0YXRpYyBhcmVhIG1lcmVseSBiZWNhdXNlIGl0IGV4aXN0cy4KCiMjIFNldCB0aGUgbW90aW9uIHRoZXNpcwoKV3JpdGUgYSBzaG9ydCBwbGFuIGJlZm9yZSBpbXBsZW1lbnRhdGlvbjoKCi0gKipGb2NhbCBtb21lbnQ6KiogdGhlIG9uZSBzZXF1ZW5jZSBvciBpbnRlcmFjdGlvbiB0aGF0IGRlc2VydmVzIGF1dGhvcnNoaXAsIGlmIGFueS4KLSAqKkNvbnRpbnVpdHk6KiogdGhlIHN0YXRlLCBsYXlvdXQsIG9yIG5hdmlnYXRpb24gY2hhbmdlcyB0aGF0IG5lZWQgZXhwbGFuYXRpb24uCi0gKipGZWVkYmFjazoqKiB0aGUgY29udHJvbHMgYW5kIG91dGNvbWVzIHRoYXQgbmVlZCBhY2tub3dsZWRnbWVudC4KLSAqKkJ1ZGdldDoqKiB3aGljaCBlZmZlY3RzIG1heSBiZSBleHBlbnNpdmUgYW5kIGhvdyBvZnRlbiB0aGV5IHJ1bi4KClRoZSBmb2NhbCBtb21lbnQgbXVzdCBjb21lIGZyb20gdGhpcyBwcm9kdWN0IGFuZCBzdXJmYWNlIGNvbmNlcHQuIEEgZ2VuZXJpYyBmYWRlLWFuZC1yaXNlLCBob3ZlciBsaWZ0LCBwYXJhbGxheCBsYXllciwgb3Igc2Nyb2xsIHJldmVhbCBpcyBub3QgYSB0aGVzaXMuCgojIyBDaG9vc2UgbWF0ZXJpYWwgYnkgbWVhbmluZwoKVHJhbnNmb3JtIGFuZCBvcGFjaXR5IGFyZSByZWxpYWJsZSBmb3VuZGF0aW9ucywgbm90IHRoZSBlbnRpcmUgcGFsZXR0ZS4gQ2hvb3NlIHByb3BlcnRpZXMgZm9yIHdoYXQgdGhlIHRyYW5zaXRpb24gY29tbXVuaWNhdGVzOgoKLSAqKkNvbnRpbnVpdHkgYW5kIHJlbGF0aW9uc2hpcDoqKiBzaGFyZWQtZWxlbWVudCBtb3Rpb24sIEZMSVAtc3R5bGUgdHJhbnNmb3JtcywgdmlldyB0cmFuc2l0aW9ucywgb3IgZGVsaWJlcmF0ZSBzcGF0aWFsIG1vdmVtZW50LgotICoqRm9jdXMgYW5kIGRlcHRoOioqIGJvdW5kZWQgYmx1ciwgZmlsdGVyLCBiYWNrZHJvcCwgbGlnaHQsIG9yIHNoYWRvdyBjaGFuZ2VzLgotICoqUmV2ZWFsIGFuZCBjb21wb3NpdGlvbjoqKiBtYXNrcywgY2xpcCBwYXRocywgY3JvcHBpbmcsIG9yIGNvbnRyb2xsZWQgb2NjbHVzaW9uLgotICoqTWF0ZXJpYWwgYW5kIGVuZXJneToqKiBjb2xvciwgZ3JhZGllbnQgcG9zaXRpb24sIHRleHR1cmUsIGRpc3RvcnRpb24sIG9yIHNoYWRlciBlZmZlY3RzIHdoZW4gdGhlIHdvcmxkIGFuZCBydW50aW1lIHN1cHBvcnQgdGhlbS4KLSAqKlN0YXRlIGFuZCBmZWVkYmFjazoqKiB0aGUgc21hbGxlc3QgY2hhbmdlIHRoYXQgbWFrZXMgY2F1c2UgYW5kIHJlc3VsdCB1bm1pc3Rha2FibGUuCgpEbyBub3Qgc3RhY2sgdGVjaG5pcXVlcyBmb3Igc3BlY3RhY2xlLiBPbmUgc3Ryb25nIG1hdGVyaWFsIGlkZWEsIGNhcnJpZWQgdGhyb3VnaCB0aGUgZm9jYWwgc2VxdWVuY2UgYW5kIHF1aWV0IHN1cHBvcnRpbmcgc3RhdGVzLCBpcyB1c3VhbGx5IGVub3VnaC4KClNpYmxpbmcgc3RhZ2dlciBpcyBhcHByb3ByaWF0ZSB3aGVuIGEgbGlzdCBhcHBlYXJzIGFzIGEgbGlzdC4gQ2FwIHRoZSB0b3RhbCBkZWxheSwgYW5kIG5ldmVyIHJlaW50ZXJwcmV0IGV2ZXJ5IHNjcm9sbGVkIHNlY3Rpb24gYXMgYSBzdGFnZ2VyZWQgbGlzdC4KCiMjIFRpbWluZyBhbmQgZWFzaW5nCgpUaW1pbmcgc2hvdWxkIGV4cHJlc3MgZGlzdGFuY2UgYW5kIGNvbnNlcXVlbmNlOgoKfCBEdXJhdGlvbiB8IFR5cGljYWwgdXNlIHwKfC0tLXwtLS18CnwgMTAw4oCTMTUwIG1zIHwgaW1tZWRpYXRlIGZlZWRiYWNrIHwKfCAxNTDigJMzMDAgbXMgfCByb3V0aW5lIHN0YXRlIGNoYW5nZSB8CnwgMzAw4oCTNTAwIG1zIHwgbGF5b3V0LCBvdmVybGF5LCBvciB2aWV3IHRyYW5zaXRpb24gfAp8IDUwMOKAkzgwMCBtcyB8IGEgZGVsaWJlcmF0ZWx5IGF1dGhvcmVkIGZvY2FsIGVudHJhbmNlIHwKCkV4aXQgZmFzdGVyIHRoYW4gZW50cmFuY2UuIFVzZSBuYXR1cmFsIGRlY2VsZXJhdGlvbiBzdWNoIGFzIGBjdWJpYy1iZXppZXIoMC4xNiwgMSwgMC4zLCAxKWAgZm9yIGNvbmZpZGVudCBhcnJpdmFsczsgZG8gbm90IHVzZSBib3VuY2Ugb3IgZWxhc3RpYyBjdXJ2ZXMgYnkgcmVmbGV4LiBMb25nIGZlZWRiYWNrIGZlZWxzIGxpa2UgbGF0ZW5jeS4KCiMjIEltcGxlbWVudCB0byB0aGUgcnVudGltZQoKLSBVc2UgQ1NTIHRyYW5zaXRpb25zIGFuZCBrZXlmcmFtZXMgZm9yIGRlY2xhcmF0aXZlIHN0YXRlIGFuZCBib3VuZGVkIHNlcXVlbmNlcy4KLSBVc2UgV2ViIEFuaW1hdGlvbnMgQVBJIG9yIHRoZSBwcm9qZWN0J3MgZXhpc3RpbmcgbW90aW9uIGxpYnJhcnkgZm9yIGludGVycnVwdGlvbiwgc2VxdWVuY2luZywgYW5kIGR5bmFtaWMgdmFsdWVzLgotIFVzZSBWaWV3IFRyYW5zaXRpb25zIG9yIHNoYXJlZC1lbGVtZW50IHRlY2huaXF1ZXMgd2hlbiBjb250aW51aXR5IGFjcm9zcyBzdGF0ZXMgaXMgdGhlIHBvaW50LgotIFVzZSBzY3JvbGwtZHJpdmVuIG1vdGlvbiBvbmx5IHdoZW4gdGhlIHNjcm9sbCByZWxhdGlvbnNoaXAgaXRzZWxmIGNhcnJpZXMgbWVhbmluZywgd2l0aCBhIHJvYnVzdCBmYWxsYmFjay4KLSBEbyBub3QgYWRkIGEgZGVwZW5kZW5jeSBmb3IgYW4gZWZmZWN0IHRoZSBleGlzdGluZyBzdGFjayBjYW4gZXhwcmVzcyBjbGVhbmx5LgoKS2VlcCBjb250ZW50IHZpc2libGUgaW4gdGhlIGRlZmF1bHQgc3RhdGUgc28gZmFpbGVkIHNjcmlwdHMgZG8gbm90IGhpZGUgdGhlIHBhZ2UuIEF2b2lkIGNhc3VhbGx5IGFuaW1hdGluZyBsYXlvdXQtZHJpdmluZyBwcm9wZXJ0aWVzIHN1Y2ggYXMgYHdpZHRoYCwgYGhlaWdodGAsIGB0b3BgLCBgbGVmdGAsIGFuZCBtYXJnaW5zOyB1c2UgRkxJUCwgdHJhbnNmb3Jtcywgb3IgZ3JpZCB0ZWNobmlxdWVzIHdoZW4gYXBwcm9wcmlhdGUuIEJvdW5kIGJsdXIsIGZpbHRlciwgc2hhZG93LCBjYW52YXMsIGFuZCBzaGFkZXIgd29yayB0byBpc29sYXRlZCByZWdpb25zLiBBcHBseSBgd2lsbC1jaGFuZ2VgIG9ubHkgZHVyaW5nIGtub3duIGFuaW1hdGlvbi4gTWVhc3VyZSBvbiB0YXJnZXQgdmlld3BvcnRzIGFuZCBkZXZpY2VzIHJhdGhlciB0aGFuIGFzc3VtaW5nIHRyYW5zZm9ybSBtZWFucyBmYXN0LgoKIyMgQWNjZXNzaWJpbGl0eSBhbmQgY29udHJvbAoKUmVzcGVjdCBhdXRvcGxheSBhbmQgc291bmQgcHJlZmVyZW5jZXMuIEFueSBub25lc3NlbnRpYWwgbG9vcCBtdXN0IHN0b3Agd2hlbiBvZmZzY3JlZW4gb3IgaGlkZGVuLgoKRXZlcnkgd2ViIGFuaW1hdGlvbiBuZWVkcyBhIGBwcmVmZXJzLXJlZHVjZWQtbW90aW9uYCBwYXRoIHdpdGggYW4gaW50ZW50aW9uYWwgYWx0ZXJuYXRpdmUuIFJlbW92ZSBvciByZWR1Y2Ugc3BhdGlhbCBtb3ZlbWVudCB3aGlsZSBwcmVzZXJ2aW5nIG9wYWNpdHksIGNvbG9yLCBhbmQgc3RhdGUgdHJhbnNpdGlvbnMgdGhhdCBjYXJyeSBtZWFuaW5nLiBSZWR1Y2VkIG1vdGlvbiBtZWFucyBmZXdlciBhbmQgZ2VudGxlciBhbmltYXRpb25zLCBub3QgZGlzYWJsaW5nIGFsbCBtb3Rpb247IGZlZWRiYWNrIHRoYXQgY29uZmlybXMgYW4gYWN0aW9uIHNob3VsZCByZW1haW4gbGVnaWJsZS4KCiMjIFZlcmlmeQoKLSBUaGUgZm9jYWwgbW90aW9uIGlzIHNwZWNpZmljIHRvIHRoZSBzZWxlY3RlZCB3b3JsZCBhbmQgc3VyZmFjZS4KLSBFdmVyeSBzdXBwb3J0aW5nIGFuaW1hdGlvbiBleHBsYWlucyBmZWVkYmFjaywgc3RhdGUsIG9yIHJlbGF0aW9uc2hpcC4KLSBJbnRlcnJ1cHRpb24gYW5kIHJlcGVhdGVkIHVzZSBiZWhhdmUgY29ycmVjdGx5LgotIERlc2t0b3AsIG1vYmlsZSwgYW5kIGtleWJvYXJkIHBhdGhzIHJlbWFpbiB1c2FibGUuCi0gVGhlIGBwcmVmZXJzLXJlZHVjZWQtbW90aW9uYCBwYXRoIHJlZHVjZXMgbW92ZW1lbnQgd2l0aG91dCBlcmFzaW5nIG1lYW5pbmdmdWwgZmVlZGJhY2sgb3Igc3RhdGUgY2hhbmdlcy4KLSBFeHBlbnNpdmUgZWZmZWN0cyBzdGF5IHNtb290aCBvbiB0aGUgdGFyZ2V0IGRldmljZS4KLSBSZW1vdmluZyBhbiBhbmltYXRpb24gd291bGQgbG9zZSBtZWFuaW5nIG9yIGF1dGhvcmVkIGNoYXJhY3Rlciwgbm90IG1lcmVseSBkZWNvcmF0aW9uLgoKV2hlbiBtb3Rpb24gZWFybnMgaXRzIHBsYWNlLCBoYW5kIG9mZiB0byBgL2ltcGVjY2FibGUgcG9saXNoYCBmb3IgdGhlIGZpbmFsIHBhc3MuCg==
+> **Additional context needed**: performance constraints.
+
+Use motion to explain state, relationship, and hierarchy, or to create one authored moment the surface has earned. Decoration without purpose is animation debt.
+
+---
+
+## Visitor mode
+
+- **Persuade + Experience:** motion may carry the voice. Prefer one rehearsed focal sequence to repeated section reveals.
+- **Operate + Read:** motion serves feedback, state, and continuity. Keep routine transitions fast and do not make users wait through page-load choreography.
+- **Native (`ios` / `android` / `adaptive`):** follow the Motion section of [ios.md](ios.md) or [android.md](android.md), including the platform's Reduce Motion behavior. Do not apply the web tooling below.
+
+## Find the job
+
+Inspect the existing motion language, interaction states, target devices, and performance budget. Find only the places where motion would:
+
+- acknowledge an action;
+- make a state change or spatial relationship legible;
+- preserve continuity through navigation or layout change;
+- direct attention at a meaningful moment;
+- embody the selected visual world.
+
+Ask only when a material constraint cannot be inferred. Do not animate a static area merely because it exists.
+
+## Set the motion thesis
+
+Write a short plan before implementation:
+
+- **Focal moment:** the one sequence or interaction that deserves authorship, if any.
+- **Continuity:** the state, layout, or navigation changes that need explanation.
+- **Feedback:** the controls and outcomes that need acknowledgment.
+- **Budget:** which effects may be expensive and how often they run.
+
+The focal moment must come from this product and surface concept. A generic fade-and-rise, hover lift, parallax layer, or scroll reveal is not a thesis.
+
+## Choose material by meaning
+
+Transform and opacity are reliable foundations, not the entire palette. Choose properties for what the transition communicates:
+
+- **Continuity and relationship:** shared-element motion, FLIP-style transforms, view transitions, or deliberate spatial movement.
+- **Focus and depth:** bounded blur, filter, backdrop, light, or shadow changes.
+- **Reveal and composition:** masks, clip paths, cropping, or controlled occlusion.
+- **Material and energy:** color, gradient position, texture, distortion, or shader effects when the world and runtime support them.
+- **State and feedback:** the smallest change that makes cause and result unmistakable.
+
+Do not stack techniques for spectacle. One strong material idea, carried through the focal sequence and quiet supporting states, is usually enough.
+
+Sibling stagger is appropriate when a list appears as a list. Cap the total delay, and never reinterpret every scrolled section as a staggered list.
+
+## Timing and easing
+
+Timing should express distance and consequence:
+
+| Duration | Typical use |
+|---|---|
+| 100–150 ms | immediate feedback |
+| 150–300 ms | routine state change |
+| 300–500 ms | layout, overlay, or view transition |
+| 500–800 ms | a deliberately authored focal entrance |
+
+Exit faster than entrance. Use natural deceleration such as `cubic-bezier(0.16, 1, 0.3, 1)` for confident arrivals; do not use bounce or elastic curves by reflex. Long feedback feels like latency.
+
+## Implement to the runtime
+
+- Use CSS transitions and keyframes for declarative state and bounded sequences.
+- Use Web Animations API or the project's existing motion library for interruption, sequencing, and dynamic values.
+- Use View Transitions or shared-element techniques when continuity across states is the point.
+- Use scroll-driven motion only when the scroll relationship itself carries meaning, with a robust fallback.
+- Do not add a dependency for an effect the existing stack can express cleanly.
+
+Keep content visible in the default state so failed scripts do not hide the page. Avoid casually animating layout-driving properties such as `width`, `height`, `top`, `left`, and margins; use FLIP, transforms, or grid techniques when appropriate. Bound blur, filter, shadow, canvas, and shader work to isolated regions. Apply `will-change` only during known animation. Measure on target viewports and devices rather than assuming transform means fast.
+
+## Accessibility and control
+
+Respect autoplay and sound preferences. Any nonessential loop must stop when offscreen or hidden.
+
+Every web animation needs a `prefers-reduced-motion` path with an intentional alternative. Remove or reduce spatial movement while preserving opacity, color, and state transitions that carry meaning. Reduced motion means fewer and gentler animations, not disabling all motion; feedback that confirms an action should remain legible.
+
+## Verify
+
+- The focal motion is specific to the selected world and surface.
+- Every supporting animation explains feedback, state, or relationship.
+- Interruption and repeated use behave correctly.
+- Desktop, mobile, and keyboard paths remain usable.
+- The `prefers-reduced-motion` path reduces movement without erasing meaningful feedback or state changes.
+- Expensive effects stay smooth on the target device.
+- Removing an animation would lose meaning or authored character, not merely decoration.
+
+When motion earns its place, hand off to `/impeccable polish` for the final pass.

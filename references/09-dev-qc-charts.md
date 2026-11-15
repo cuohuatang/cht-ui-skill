@@ -1,1 +1,47 @@
-IyDlt6XnqIvljJbotKjph4/kv53pmpzkuI7lm77ooajpgInlnovlj4LogIPvvIjnrKwgMjMg6aG577yJCgo+ICoq5o6o6I2Q5bel56iL5qCI77yI5Y676YeN5ZCO6IGa54Sm77yJKirvvJrotKjph4/kv53pmpznlKggKipTdG9yeWJvb2sgKyBQbGF5d3JpZ2h0Kiog5Y+M5qC45b+D77yb5Zu+6KGo55SoICoqUmVjaGFydHMqKu+8iOi9u+OAgVJlYWN0IOWOn+eUn+OAgeWjsOaYjuW8j++8jOm7mOiupO+8ieaJk+W6le+8jCoqRUNoYXJ0cyoqIOS7heWcqOOAjOWkjeadguWbvuihqOOAjeaXtuihpeWFheOAggo+IOWFtuS9me+8iENocm9tYXRpYyAvIGF4ZS1jb3JlIC8gVFMrem9kIC8gRVNMaW50IC8gQW50IERlc2lnbiBDaGFydHMgLyBWaXN477yJ5LiA5b6LKirpnZ7pu5jorqTjgIHmjInpnIAqKuKAlOKAlOingeesrOS4ieiKguOAjOS4uuS7gOS5iOS4jeeUqOWFtuWug+OAje+8jOmBv+WFjeazm+azm+e9l+WIl+OAgemHjeWkjeWMheWGheW3suacieiDveWKm+OAggoKLS0tCgojIyDkuIDjgIHmjqjojZDmoIjvvIjlpLTmnaHvvIznm7TmjqXnhafnnYDmkK3vvIkKCnwg6KeS6ImyIHwg5bel5YW3IHwg5LiA5Y+l6K+d5a6a5L2NIHwKfC0tLS0tLXwtLS0tLS18LS0tLS0tLS0tLS18Cnwg57uE5Lu25bGV56S6IC8g54q25oCB5rKJ5reAIHwgKipTdG9yeWJvb2sqKiB8IOavj+S4qiBVSSDnu4Tku7bljZXni6zpmYjliJfjgIHlr7nmr5TvvIzmioogdG9rZW4g5LiO54q25oCB55+p6Zi177yIbG9hZGluZy9lbXB0eS9lcnJvcu+8ieWPr+inhuWMliB8Cnwg56uv5Yiw56uv6aqM6K+BIHwgKipQbGF5d3JpZ2h0KiogfCDmqKHmi5/nnJ/lrp7ngrnlh7vmtYHnqIvvvIzpqozor4HlhbPplK7ot6/lvoTvvIjms6jlhozihpLkuIvljZXihpLmlK/ku5jvvInot5HlvpfpgJrkuI3pgJogfAp8IOWbvuihqO+8iOm7mOiupO+8iSB8ICoqUmVjaGFydHMqKiB8IFJlYWN0IOWOn+eUn+OAgeWjsOaYjuW8j+OAgeS4iuaJi+W/q+KAlOKAlE5leHQuanMg6aG555uu5peg57yd77yM5Yqo5pWI5byA566x5Y2z55SoIHwKfCDlm77ooajvvIjooaXlhYXvvIkgfCAqKkVDaGFydHMqKiB8IOWbvuihqOacgOWFqOOAgeWKqOaViOacgOS4sOWvjOOAgeS4reaWh+ekvuWMuuW8uu+8myoq5Y+q5Zyo5Zu+6KGo5Y+Y5aSN5p2C5pe255SoKirvvIjmoZHln7ov54Ot5YqbL+WcsOWbvi8zROOAgeW8uuS6pOS6ku+8iSB8CgojIyMg6JC95Zyw6KaB54K577yI5Y676YeN77yM5Y+q57uZ5o6o6I2Q6aG5ICsg6KGU5o6l77yJCi0gKipTdG9yeWJvb2sqKu+8mue7hOS7tuW6kyAvIOiuvuiuoeezu+e7n+W/heWkh++8m+aKiuesrCA2IOmhuSBgdWktdXgtY3JhZnRgIOeahCB0b2tlbiDkuI7nirbmgIHnn6npmLXlnKjov5nph4zlj6/op4bljJbmsonmt4DvvIxVSSDmmK/lkKbnu5/kuIDjgIHnu4Tku7bmmK/lkKblpI3nlKjkuIDnnLzlj6/op4HjgIIKLSAqKlBsYXl3cmlnaHQqKu+8muiQveWcqOesrCAxMiDpobkgYHN1cGVycG93ZXJzYCDnmoTjgIzpqozor4EgLyDmtYvor5XjgI3pmLbmrrXigJTigJTlhYggVEREIOWGmeWNlea1i++8jOWGjeeUqCBQbGF5d3JpZ2h0IOi3keWFs+mUrueUqOaIt+i3r+W+hO+8jOabv+S7o+aJi+eCueWbnuW9kuOAggotICoqUmVjaGFydHMqKu+8mum7mOiupOmAieWug+OAguWjsOaYjuW8j+e7hOS7tuebtOaOpeW1jCBKU1jvvIzml6DpnIDpop3lpJblsIHoo4XvvJvkuI7nrKwgMjAg6aG5IGBqc29uLXJlbmRlcmAg55qEIFJlYWN0IOa4suafk+WZqOWkqeeEtuWFvOWuueOAggotICoqRUNoYXJ0cyoq77ya5LiN6KaB5LiA5byA5aeL5LiK44CC5b2T5Ye6546wIFJlY2hhcnRzIOihqOi+vuS4jeS6hueahOWkjeadguWbvuihqCAvIOW8uuS6pOS6kiAvIOmcgOimgeS4reaWh+aWh+aho+aXtu+8jOWGjeW8leWFpSBgZWNoYXJ0cy1mb3ItcmVhY3RgIOWBmuWxgOmDqOihpeWFhe+8jOmBv+WFjeWFqOermea3t+eUqOS4pOWll+WbvuihqOS9k+ezu+OAggoKLS0tCgojIyDkuozjgIHlm77ooajpgInlnovlhrPnrZbvvIjogZrnhKbniYjvvIkKCnwg5L2g5Zyo5YGaIHwg55SoIHwKfC0tLXwtLS18CnwgTmV4dC5qcyDpobnnm67opoHnlLvlm77vvIjpu5jorqTjgIHovbvjgIFSZWFjdCDlj4vlpb3vvIkgfCAqKlJlY2hhcnRzKiogfAp8IOWbvuihqOWPmOWkjeadgu+8muahkeWfuiAvIOeDreWKmyAvIOWcsOWbviAvIDNE44CB5by65Lqk5LqS44CB6KaB5Lit5paH55Sf5oCBIHwgKipFQ2hhcnRzKirvvIjkvZzkuLogUmVjaGFydHMg55qE6KGl5YWF77yM5bGA6YOo5byV5YWl77yJIHwKfCDlhrPlrprjgIzku4DkuYjmlbDmja7nlKjku4DkuYjlm77jgI3vvIjkuovlrp7lsYLvvIkgfCDnrKwgMjEg6aG5IGB1aS11eC1wcm8tbWF4YCDnmoTjgIwyNSDlm77ooajjgI3nn6Xor4blupMgfAp8IOaKiuWbvuihqOWBmuaIkOWKqOaViOWxleekuueJhyB8IOesrCAxNiDpobkgYGRlc2lnbi10by1tb3Rpb25g77yI5Luq6KGo55uYL+WbvuihqOiiq+ivu+OAgeaVsOaNrua7muWKqOWFpeWcuu+8iSB8CnwgQUkg55Sf5oiQ5Y+X5o6n5Zu+6KGoIFVJIHwg56ysIDIwIOmhuSBganNvbi1yZW5kZXJgIOeahCBjYXRhbG9nIOaKpOagj++8iOWjsOaYjuWFgeiuuOeahOWbvuihqOe7hOS7tu+8iSB8CgotLS0KCiMjIOS4ieOAgeS4uuS7gOS5iOS4jeeUqOWFtuWug++8iOWOu+mHjeivtOaYju+8iQoK5Lul5LiLKirkuI3mmK/pu5jorqTmjqjojZAqKu+8jOS7heWcqOaYjuehrumcgOimgeaXtuiAg+iZke+8m+Wug+S7rOeahOiDveWKm+acrOWMheWFtuWug+mhueW3sumDqOWIhuimhueblu+8jOaVheS4jemHjeWkjeWxleW8gO+8mgoKLSAqKkFudCBEZXNpZ24gQ2hhcnRzIC8gVmlzeCoq77ya5LyB5Lia5ZCO5Y+w5oql6KGo6aOO77yIQW50RCBDaGFydHPvvInmiJbmnInlg4/ntKDnuqflrprliLbpnIDmsYLvvIhWaXN477yJ5pe25omN5LiK77yb6buY6K6k5qCIIFJlY2hhcnRzIOW3suimhuebliA5MCUg5Zy65pmv77yM5LiN6KaB5Li644CM5Y+v6IO955So5Yiw44CN5o+Q5YmN5byV5YWl44CCCi0gKipDaHJvbWF0aWMqKu+8iOinhuinieWbnuW9ku+8ie+8mumFjSBTdG9yeWJvb2sg5pe25ZyoIENJIOi3keW/q+eFp+aLpuOAjOaUueW0qeWIq+eahOmhteOAje+8m+WxnuS6jiBTdG9yeWJvb2sg55qE5Y+v6YCJ5aKe5by677yM6Z2e54us56uL5b+F6YCJ44CCCi0gKipheGUtY29yZSAvIGplc3QtYXhlKirvvIjml6Dpmpznoo3or63kuYnvvInvvJrlu7rorq4qKuS/neeVmeS9nOiHquWKqOWMluW6lee6vyoq4oCU4oCU5a6D6IO95p+l56Gs6ZSZ6K+v77yM56ysIDE5IOmhuSBgamFrdWJrcmVoZWwtc2tpbGxzYCDnmoQgYGJldHRlci1hY2Nlc3NpYmlsaXR5YCDkuI7nrKwgMjIg6aG5IGBoYWxsbWFya2Ag55qEICoqRmxvb3Ig6Ze46ZeoKirvvIjlr7nmr5TluqYvZm9jdXMvcmVkdWNlZC1tb3Rpb27vvInooaXlroPmn6XkuI3liLDnmoTjgIzkvZPpqozmgKfml6Dpmpznoo3jgI3vvIzkuKTogIXlj6DliqDogIzpnZ7kuozpgInkuIDjgIIKLSAqKlR5cGVTY3JpcHQgKyB6b2QqKu+8iOWJjeWQjuerr+Wlkee6pu+8ie+8muW7uuiuruS/neeVme+8m+S4juesrCAyMCDpobkgYGpzb24tcmVuZGVyYCDnmoQgdmFsaWRhdGlvbiDmiqTmoI/jgIHnrKwgNiDpobkgYHVpLXV4LWNyYWZ0YCDnmoQgdG9rZW4g6KeE6IyD5LiA6Ie077yM6L6555WM5aSE77yIQVBJIOWTjeW6lC/ooajljZXvvInlgZrov5DooYzml7bmoKHpqozjgIIKLSAqKkVTTGludCDns7vliJfop4TliJkqKu+8muW7uuiuruS/neeVme+8m+mFjSBkZXNpZ24tdG9rZW4g6KeE5YiZ5oum44CM56Gs57yW56CBIGAjM2I4MmY2YOOAgeWGmeatuyAxNHB444CN6L+Z57G76KeE6IyD6YCD6YC477yM5a+56b2QIGByZWZlcmVuY2VzLzA2LXVpLXV4LWNyYWZ0Lm1kYOOAggoKPiDkuIDlj6Xor53vvJoqKum7mOiupOWwsSBTdG9yeWJvb2sgKyBQbGF5d3JpZ2h0ICsgUmVjaGFydHPvvIzlpI3mnYLlm77ooajooaUgRUNoYXJ0cyoq77yb5YW25L2Z5oyJ6ZyA77yM5LiN5aCG56CM44CCCg==
+# 工程化质量保障与图表选型参考（第 23 项）
+
+> **推荐工程栈（去重后聚焦）**：质量保障用 **Storybook + Playwright** 双核心；图表用 **Recharts**（轻、React 原生、声明式，默认）打底，**ECharts** 仅在「复杂图表」时补充。
+> 其余（Chromatic / axe-core / TS+zod / ESLint / Ant Design Charts / Visx）一律**非默认、按需**——见第三节「为什么不用其它」，避免泛泛罗列、重复包内已有能力。
+
+---
+
+## 一、推荐栈（头条，直接照着搭）
+
+| 角色 | 工具 | 一句话定位 |
+|------|------|-----------|
+| 组件展示 / 状态沉淀 | **Storybook** | 每个 UI 组件单独陈列、对比，把 token 与状态矩阵（loading/empty/error）可视化 |
+| 端到端验证 | **Playwright** | 模拟真实点击流程，验证关键路径（注册→下单→支付）跑得通不通 |
+| 图表（默认） | **Recharts** | React 原生、声明式、上手快——Next.js 项目无缝，动效开箱即用 |
+| 图表（补充） | **ECharts** | 图表最全、动效最丰富、中文社区强；**只在图表变复杂时用**（桑基/热力/地图/3D、强交互） |
+
+### 落地要点（去重，只给推荐项 + 衔接）
+- **Storybook**：组件库 / 设计系统必备；把第 6 项 `ui-ux-craft` 的 token 与状态矩阵在这里可视化沉淀，UI 是否统一、组件是否复用一眼可见。
+- **Playwright**：落在第 12 项 `superpowers` 的「验证 / 测试」阶段——先 TDD 写单测，再用 Playwright 跑关键用户路径，替代手点回归。
+- **Recharts**：默认选它。声明式组件直接嵌 JSX，无需额外封装；与第 20 项 `json-render` 的 React 渲染器天然兼容。
+- **ECharts**：不要一开始上。当出现 Recharts 表达不了的复杂图表 / 强交互 / 需要中文文档时，再引入 `echarts-for-react` 做局部补充，避免全站混用两套图表体系。
+
+---
+
+## 二、图表选型决策（聚焦版）
+
+| 你在做 | 用 |
+|---|---|
+| Next.js 项目要画图（默认、轻、React 友好） | **Recharts** |
+| 图表变复杂：桑基 / 热力 / 地图 / 3D、强交互、要中文生态 | **ECharts**（作为 Recharts 的补充，局部引入） |
+| 决定「什么数据用什么图」（事实层） | 第 21 项 `ui-ux-pro-max` 的「25 图表」知识库 |
+| 把图表做成动效展示片 | 第 16 项 `design-to-motion`（仪表盘/图表被读、数据滚动入场） |
+| AI 生成受控图表 UI | 第 20 项 `json-render` 的 catalog 护栏（声明允许的图表组件） |
+
+---
+
+## 三、为什么不用其它（去重说明）
+
+以下**不是默认推荐**，仅在明确需要时考虑；它们的能力本包其它项已部分覆盖，故不重复展开：
+
+- **Ant Design Charts / Visx**：企业后台报表风（AntD Charts）或有像素级定制需求（Visx）时才上；默认栈 Recharts 已覆盖 90% 场景，不要为「可能用到」提前引入。
+- **Chromatic**（视觉回归）：配 Storybook 时在 CI 跑快照拦「改崩别的页」；属于 Storybook 的可选增强，非独立必选。
+- **axe-core / jest-axe**（无障碍语义）：建议**保留作自动化底线**——它能查硬错误，第 19 项 `jakubkrehel-skills` 的 `better-accessibility` 与第 22 项 `hallmark` 的 **Floor 闸门**（对比度/focus/reduced-motion）补它查不到的「体验性无障碍」，两者叠加而非二选一。
+- **TypeScript + zod**（前后端契约）：建议保留；与第 20 项 `json-render` 的 validation 护栏、第 6 项 `ui-ux-craft` 的 token 规范一致，边界处（API 响应/表单）做运行时校验。
+- **ESLint 系列规则**：建议保留；配 design-token 规则拦「硬编码 `#3b82f6`、写死 14px」这类规范逃逸，对齐 `references/06-ui-ux-craft.md`。
+
+> 一句话：**默认就 Storybook + Playwright + Recharts，复杂图表补 ECharts**；其余按需，不堆砌。

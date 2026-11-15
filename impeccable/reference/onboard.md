@@ -1,1 +1,234 @@
-PiAqKkFkZGl0aW9uYWwgY29udGV4dCBuZWVkZWQqKjogdGhlICJhaGEgbW9tZW50IiB5b3Ugd2FudCB1c2VycyB0byByZWFjaCwgYW5kIHVzZXJzJyBleHBlcmllbmNlIGxldmVsLgoKR2V0IHVzZXJzIHRvIGZpcnN0IHZhbHVlIGFzIGZhc3QgYXMgcG9zc2libGUuIE9uYm9hcmRpbmcncyBqb2IgaXMgbm90IHRvIHRlYWNoIHRoZSBwcm9kdWN0LiBJdHMgam9iIGlzIHRvIGdldCBwZW9wbGUgdG8gdGhlIG1vbWVudCB0aGF0IHByb3ZlcyB0aGUgcHJvZHVjdCBpcyB3b3J0aCB0aGVpciB0aW1lLgoKIyMgQXNzZXNzIE9uYm9hcmRpbmcgTmVlZHMKClVuZGVyc3RhbmQgd2hhdCB1c2VycyBuZWVkIHRvIGxlYXJuIGFuZCB3aHk6CgoxLiAqKklkZW50aWZ5IHRoZSBjaGFsbGVuZ2UqKjoKICAgLSBXaGF0IGFyZSB1c2VycyB0cnlpbmcgdG8gYWNjb21wbGlzaD8KICAgLSBXaGF0J3MgY29uZnVzaW5nIG9yIHVuY2xlYXIgYWJvdXQgY3VycmVudCBleHBlcmllbmNlPwogICAtIFdoZXJlIGRvIHVzZXJzIGdldCBzdHVjayBvciBkcm9wIG9mZj8KICAgLSBXaGF0J3MgdGhlICJhaGEgbW9tZW50IiB3ZSB3YW50IHVzZXJzIHRvIHJlYWNoPwoKMi4gKipVbmRlcnN0YW5kIHRoZSB1c2VycyoqOgogICAtIFdoYXQncyB0aGVpciBleHBlcmllbmNlIGxldmVsPyAoQmVnaW5uZXJzLCBwb3dlciB1c2VycywgbWl4ZWQ/KQogICAtIFdoYXQncyB0aGVpciBtb3RpdmF0aW9uPyAoRXhjaXRlZCBhbmQgZXhwbG9yaW5nPyBSZXF1aXJlZCBieSB3b3JrPykKICAgLSBXaGF0J3MgdGhlaXIgdGltZSBjb21taXRtZW50PyAoNSBtaW51dGVzPyAzMCBtaW51dGVzPykKICAgLSBXaGF0IGFsdGVybmF0aXZlcyBkbyB0aGV5IGtub3c/IChDb21pbmcgZnJvbSBjb21wZXRpdG9yPyBOZXcgdG8gY2F0ZWdvcnk/KQoKMy4gKipEZWZpbmUgc3VjY2VzcyoqOgogICAtIFdoYXQncyB0aGUgbWluaW11bSB1c2VycyBuZWVkIHRvIGxlYXJuIHRvIGJlIHN1Y2Nlc3NmdWw/CiAgIC0gV2hhdCdzIHRoZSBrZXkgYWN0aW9uIHdlIHdhbnQgdGhlbSB0byB0YWtlPyAoRmlyc3QgcHJvamVjdD8gRmlyc3QgaW52aXRlPykKICAgLSBIb3cgZG8gd2Uga25vdyBvbmJvYXJkaW5nIHdvcmtlZD8gKENvbXBsZXRpb24gcmF0ZT8gVGltZSB0byB2YWx1ZT8pCgpPbmJvYXJkaW5nIHNob3VsZCBnZXQgdXNlcnMgdG8gdmFsdWUgYXMgcXVpY2tseSBhcyBwb3NzaWJsZSwgbm90IHRlYWNoIGV2ZXJ5dGhpbmcgcG9zc2libGUuCgojIyBPbmJvYXJkaW5nIFByaW5jaXBsZXMKCkZvbGxvdyB0aGVzZSBjb3JlIHByaW5jaXBsZXM6CgojIyMgU2hvdywgRG9uJ3QgVGVsbAotIERlbW9uc3RyYXRlIHdpdGggd29ya2luZyBleGFtcGxlcywgbm90IGp1c3QgZGVzY3JpcHRpb25zCi0gUHJvdmlkZSByZWFsIGZ1bmN0aW9uYWxpdHkgaW4gb25ib2FyZGluZywgbm90IHNlcGFyYXRlIHR1dG9yaWFsIG1vZGUKLSBVc2UgcHJvZ3Jlc3NpdmUgZGlzY2xvc3VyZSwgdGVhY2ggb25lIHRoaW5nIGF0IGEgdGltZQoKIyMjIE1ha2UgSXQgT3B0aW9uYWwgKFdoZW4gUG9zc2libGUpCi0gTGV0IGV4cGVyaWVuY2VkIHVzZXJzIHNraXAgb25ib2FyZGluZwotIERvbid0IGJsb2NrIGFjY2VzcyB0byBwcm9kdWN0Ci0gUHJvdmlkZSAiU2tpcCIgb3IgIkknbGwgZXhwbG9yZSBvbiBteSBvd24iIG9wdGlvbnMKCiMjIyBUaW1lIHRvIFZhbHVlCi0gR2V0IHVzZXJzIHRvIHRoZWlyICJhaGEgbW9tZW50IiBBU0FQCi0gRnJvbnQtbG9hZCBtb3N0IGltcG9ydGFudCBjb25jZXB0cwotIFRlYWNoIDIwJSB0aGF0IGRlbGl2ZXJzIDgwJSBvZiB2YWx1ZQotIFNhdmUgYWR2YW5jZWQgZmVhdHVyZXMgZm9yIGNvbnRleHR1YWwgZGlzY292ZXJ5CgojIyMgQ29udGV4dCBPdmVyIENlcmVtb255Ci0gVGVhY2ggZmVhdHVyZXMgd2hlbiB1c2VycyBuZWVkIHRoZW0sIG5vdCB1cGZyb250Ci0gRW1wdHkgc3RhdGVzIGFyZSBvbmJvYXJkaW5nIG9wcG9ydHVuaXRpZXMKLSBUb29sdGlwcyBhbmQgaGludHMgYXQgcG9pbnQgb2YgdXNlCgojIyMgUmVzcGVjdCBVc2VyIEludGVsbGlnZW5jZQotIERvbid0IHBhdHJvbml6ZSBvciBvdmVyLWV4cGxhaW4KLSBCZSBjb25jaXNlIGFuZCBjbGVhcgotIEFzc3VtZSB1c2VycyBjYW4gZmlndXJlIG91dCBzdGFuZGFyZCBwYXR0ZXJucwoKIyMgRGVzaWduIE9uYm9hcmRpbmcgRXhwZXJpZW5jZXMKCkNyZWF0ZSBhcHByb3ByaWF0ZSBvbmJvYXJkaW5nIGZvciB0aGUgY29udGV4dDoKCiMjIyBJbml0aWFsIFByb2R1Y3QgT25ib2FyZGluZwoKKipXZWxjb21lIFNjcmVlbioqOgotIENsZWFyIHZhbHVlIHByb3Bvc2l0aW9uICh3aGF0IGlzIHRoaXMgcHJvZHVjdD8pCi0gV2hhdCB1c2VycyB3aWxsIGxlYXJuL2FjY29tcGxpc2gKLSBUaW1lIGVzdGltYXRlIChob25lc3QgYWJvdXQgY29tbWl0bWVudCkKLSBPcHRpb24gdG8gc2tpcCAoZm9yIGV4cGVyaWVuY2VkIHVzZXJzKQoKKipBY2NvdW50IFNldHVwKio6Ci0gTWluaW1hbCByZXF1aXJlZCBpbmZvcm1hdGlvbiAoY29sbGVjdCBtb3JlIGxhdGVyKQotIEV4cGxhaW4gd2h5IHlvdSdyZSBhc2tpbmcgZm9yIGVhY2ggcGllY2Ugb2YgaW5mb3JtYXRpb24KLSBTbWFydCBkZWZhdWx0cyB3aGVyZSBwb3NzaWJsZQotIFNvY2lhbCBsb2dpbiB3aGVuIGFwcHJvcHJpYXRlCgoqKkNvcmUgQ29uY2VwdCBJbnRyb2R1Y3Rpb24qKjoKLSBJbnRyb2R1Y2UgMS0zIGNvcmUgY29uY2VwdHMgKG5vdCBldmVyeXRoaW5nKQotIFVzZSBzaW1wbGUgbGFuZ3VhZ2UgYW5kIGV4YW1wbGVzCi0gSW50ZXJhY3RpdmUgd2hlbiBwb3NzaWJsZSAoZG8sIGRvbid0IGp1c3QgcmVhZCkKLSBQcm9ncmVzcyBpbmRpY2F0aW9uIChzdGVwIDEgb2YgMykKCioqRmlyc3QgU3VjY2VzcyoqOgotIEd1aWRlIHVzZXJzIHRvIGFjY29tcGxpc2ggc29tZXRoaW5nIHJlYWwKLSBQcmUtcG9wdWxhdGVkIGV4YW1wbGVzIG9yIHRlbXBsYXRlcwotIENlbGVicmF0ZSBjb21wbGV0aW9uIChidXQgZG9uJ3Qgb3ZlcmRvIGl0KQotIENsZWFyIG5leHQgc3RlcHMKCiMjIyBGZWF0dXJlIERpc2NvdmVyeSAmIEFkb3B0aW9uCgoqKkVtcHR5IFN0YXRlcyoqOgpJbnN0ZWFkIG9mIGJsYW5rIHNwYWNlLCBzaG93OgotIFdoYXQgd2lsbCBhcHBlYXIgaGVyZSAoZGVzY3JpcHRpb24gKyBzY3JlZW5zaG90L2lsbHVzdHJhdGlvbikKLSBXaHkgaXQncyB2YWx1YWJsZQotIENsZWFyIENUQSB0byBjcmVhdGUgZmlyc3QgaXRlbQotIEV4YW1wbGUgb3IgdGVtcGxhdGUgb3B0aW9uCgpFeGFtcGxlOgpgYGAKTm8gcHJvamVjdHMgeWV0ClByb2plY3RzIGhlbHAgeW91IG9yZ2FuaXplIHlvdXIgd29yayBhbmQgY29sbGFib3JhdGUgd2l0aCB5b3VyIHRlYW0uCltDcmVhdGUgeW91ciBmaXJzdCBwcm9qZWN0XSBvciBbU3RhcnQgZnJvbSB0ZW1wbGF0ZV0KYGBgCgoqKkNvbnRleHR1YWwgVG9vbHRpcHMqKjoKLSBBcHBlYXIgYXQgcmVsZXZhbnQgbW9tZW50IChmaXJzdCB0aW1lIHVzZXIgc2VlcyBmZWF0dXJlKQotIFBvaW50IGRpcmVjdGx5IGF0IHJlbGV2YW50IFVJIGVsZW1lbnQKLSBCcmllZiBleHBsYW5hdGlvbiArIGJlbmVmaXQKLSBEaXNtaXNzYWJsZSAod2l0aCAiRG9uJ3Qgc2hvdyBhZ2FpbiIgb3B0aW9uKQotIE9wdGlvbmFsICJMZWFybiBtb3JlIiBsaW5rCgoqKkZlYXR1cmUgQW5ub3VuY2VtZW50cyoqOgotIEhpZ2hsaWdodCBuZXcgZmVhdHVyZXMgd2hlbiB0aGV5J3JlIHJlbGVhc2VkCi0gU2hvdyB3aGF0J3MgbmV3IGFuZCB3aHkgaXQgbWF0dGVycwotIExldCB1c2VycyB0cnkgaW1tZWRpYXRlbHkKLSBEaXNtaXNzYWJsZQoKKipQcm9ncmVzc2l2ZSBPbmJvYXJkaW5nKio6Ci0gVGVhY2ggZmVhdHVyZXMgd2hlbiB1c2VycyBlbmNvdW50ZXIgdGhlbQotIEJhZGdlcyBvciBpbmRpY2F0b3JzIG9uIG5ldy91bnVzZWQgZmVhdHVyZXMKLSBVbmxvY2sgY29tcGxleGl0eSBncmFkdWFsbHkgKGRvbid0IHNob3cgYWxsIG9wdGlvbnMgaW1tZWRpYXRlbHkpCgojIyMgR3VpZGVkIFRvdXJzICYgV2Fsa3Rocm91Z2hzCgoqKldoZW4gdG8gdXNlKio6Ci0gQ29tcGxleCBpbnRlcmZhY2VzIHdpdGggbWFueSBmZWF0dXJlcwotIFNpZ25pZmljYW50IGNoYW5nZXMgdG8gZXhpc3RpbmcgcHJvZHVjdAotIEluZHVzdHJ5LXNwZWNpZmljIHRvb2xzIG5lZWRpbmcgZG9tYWluIGtub3dsZWRnZQoKKipIb3cgdG8gZGVzaWduKio6Ci0gU3BvdGxpZ2h0IHNwZWNpZmljIFVJIGVsZW1lbnRzIChkaW0gcmVzdCBvZiBwYWdlKQotIEtlZXAgc3RlcHMgc2hvcnQgKDMtNyBzdGVwcyBtYXggcGVyIHRvdXIpCi0gQWxsb3cgdXNlcnMgdG8gY2xpY2sgdGhyb3VnaCB0b3VyIGZyZWVseQotIEluY2x1ZGUgIlNraXAgdG91ciIgb3B0aW9uCi0gTWFrZSByZXBsYXlhYmxlIChoZWxwIG1lbnUpCgoqKkJlc3QgcHJhY3RpY2VzKio6Ci0gSW50ZXJhY3RpdmUgb3ZlciBwYXNzaXZlIChsZXQgdXNlcnMgY2xpY2sgcmVhbCBidXR0b25zKQotIEZvY3VzIG9uIHdvcmtmbG93LCBub3QgZmVhdHVyZXMgKCJDcmVhdGUgYSBwcm9qZWN0IiBub3QgIlRoaXMgaXMgdGhlIHByb2plY3QgYnV0dG9uIikKLSBQcm92aWRlIHNhbXBsZSBkYXRhIHNvIGFjdGlvbnMgd29yawoKIyMjIEludGVyYWN0aXZlIFR1dG9yaWFscwoKKipXaGVuIHRvIHVzZSoqOgotIFVzZXJzIG5lZWQgaGFuZHMtb24gcHJhY3RpY2UKLSBDb25jZXB0cyBhcmUgY29tcGxleCBvciB1bmZhbWlsaWFyCi0gSGlnaCBzdGFrZXMgKGJldHRlciB0byBwcmFjdGljZSBpbiBzYWZlIGVudmlyb25tZW50KQoKKipIb3cgdG8gZGVzaWduKio6Ci0gU2FuZGJveCBlbnZpcm9ubWVudCB3aXRoIHNhbXBsZSBkYXRhCi0gQ2xlYXIgb2JqZWN0aXZlcyAoIkNyZWF0ZSBhIGNoYXJ0IHNob3dpbmcgc2FsZXMgYnkgcmVnaW9uIikKLSBTdGVwLWJ5LXN0ZXAgZ3VpZGFuY2UKLSBWYWxpZGF0aW9uIChjb25maXJtIHRoZXkgZGlkIGl0IHJpZ2h0KQotIEdyYWR1YXRpb24gbW9tZW50ICh5b3UncmUgcmVhZHkhKQoKIyMjIERvY3VtZW50YXRpb24gJiBIZWxwCgoqKkluLXByb2R1Y3QgaGVscCoqOgotIENvbnRleHR1YWwgaGVscCBsaW5rcyB0aHJvdWdob3V0IGludGVyZmFjZQotIEtleWJvYXJkIHNob3J0Y3V0IHJlZmVyZW5jZQotIFNlYXJjaC1hYmxlIGhlbHAgY2VudGVyCi0gVmlkZW8gdHV0b3JpYWxzIGZvciBjb21wbGV4IHdvcmtmbG93cwoKKipIZWxwIHBhdHRlcm5zKio6Ci0gYD9gIGljb24gbmVhciBjb21wbGV4IGZlYXR1cmVzCi0gIkxlYXJuIG1vcmUiIGxpbmtzIGluIHRvb2x0aXBzCi0gS2V5Ym9hcmQgc2hvcnRjdXQgaGludHMgKGDijJhLYCBzaG93biBvbiBzZWFyY2ggYm94KQoKIyMgRW1wdHkgU3RhdGUgRGVzaWduCgpFdmVyeSBlbXB0eSBzdGF0ZSBuZWVkczoKCiMjIyBXaGF0IFdpbGwgQmUgSGVyZQoiWW91ciByZWNlbnQgcHJvamVjdHMgd2lsbCBhcHBlYXIgaGVyZSIKCiMjIyBXaHkgSXQgTWF0dGVycwoiUHJvamVjdHMgaGVscCB5b3Ugb3JnYW5pemUgeW91ciB3b3JrIGFuZCBjb2xsYWJvcmF0ZSB3aXRoIHlvdXIgdGVhbSIKCiMjIyBIb3cgdG8gR2V0IFN0YXJ0ZWQKW0NyZWF0ZSBwcm9qZWN0XSBvciBbSW1wb3J0IGZyb20gdGVtcGxhdGVdCgojIyMgVmlzdWFsIEludGVyZXN0CklsbHVzdHJhdGlvbiBvciBpY29uIChub3QganVzdCB0ZXh0IG9uIGJsYW5rIHBhZ2UpCgojIyMgQ29udGV4dHVhbCBIZWxwCiJOZWVkIGhlbHAgZ2V0dGluZyBzdGFydGVkPyBbV2F0Y2ggMi1taW4gdHV0b3JpYWxdIgoKKipFbXB0eSBzdGF0ZSB0eXBlcyoqOgotICoqRmlyc3QgdXNlKio6IE5ldmVyIHVzZWQgdGhpcyBmZWF0dXJlIChlbXBoYXNpemUgdmFsdWUsIHByb3ZpZGUgdGVtcGxhdGUpCi0gKipVc2VyIGNsZWFyZWQqKjogSW50ZW50aW9uYWxseSBkZWxldGVkIGV2ZXJ5dGhpbmcgKGxpZ2h0IHRvdWNoLCBlYXN5IHRvIHJlY3JlYXRlKQotICoqTm8gcmVzdWx0cyoqOiBTZWFyY2ggb3IgZmlsdGVyIHJldHVybmVkIG5vdGhpbmcgKHN1Z2dlc3QgZGlmZmVyZW50IHF1ZXJ5LCBjbGVhciBmaWx0ZXJzKQotICoqTm8gcGVybWlzc2lvbnMqKjogQ2FuJ3QgYWNjZXNzIChleHBsYWluIHdoeSwgaG93IHRvIGdldCBhY2Nlc3MpCi0gKipFcnJvciBzdGF0ZSoqOiBGYWlsZWQgdG8gbG9hZCAoZXhwbGFpbiB3aGF0IGhhcHBlbmVkLCByZXRyeSBvcHRpb24pCgojIyBJbXBsZW1lbnRhdGlvbiBQYXR0ZXJucwoKIyMjIFRlY2huaWNhbCBhcHByb2FjaGVzOgoKKipUb29sdGlwIGxpYnJhcmllcyoqOiBUaXBweS5qcywgUG9wcGVyLmpzCioqVG91ciBsaWJyYXJpZXMqKjogSW50cm8uanMsIFNoZXBoZXJkLmpzLCBSZWFjdCBKb3lyaWRlCioqTW9kYWwgcGF0dGVybnMqKjogRm9jdXMgdHJhcCwgYmFja2Ryb3AsIEVTQyB0byBjbG9zZQoqKlByb2dyZXNzIHRyYWNraW5nKio6IExvY2FsU3RvcmFnZSBmb3IgInNlZW4iIHN0YXRlcwoqKkFuYWx5dGljcyoqOiBUcmFjayBjb21wbGV0aW9uLCBkcm9wLW9mZiBwb2ludHMKCioqU3RvcmFnZSBwYXR0ZXJucyoqOgpgYGBqYXZhc2NyaXB0Ci8vIFRyYWNrIHdoaWNoIG9uYm9hcmRpbmcgc3RlcHMgdXNlciBoYXMgc2Vlbgpsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnb25ib2FyZGluZy1jb21wbGV0ZWQnLCAndHJ1ZScpOwpsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnZmVhdHVyZS10b29sdGlwLXNlZW4tcmVwb3J0cycsICd0cnVlJyk7CmBgYAoKU2hvdyBvbmJvYXJkaW5nIG9uY2U6IHRyYWNrIGNvbXBsZXRpb24gYW5kIHJlc3BlY3QgZGlzbWlzc2Fscy4KCioqQXZvaWQqKjoKLSBGb3JjZSB1c2VycyB0aHJvdWdoIGxvbmcgb25ib2FyZGluZyBiZWZvcmUgdGhleSBjYW4gdXNlIHByb2R1Y3QKLSBQYXRyb25pemUgdXNlcnMgd2l0aCBvYnZpb3VzIGV4cGxhbmF0aW9ucwotIFNob3cgc2FtZSB0b29sdGlwIHJlcGVhdGVkbHkgKHJlc3BlY3QgZGlzbWlzc2FscykKLSBCbG9jayBhbGwgVUkgZHVyaW5nIHRvdXIgKGxldCB1c2VycyBleHBsb3JlKQotIENyZWF0ZSBzZXBhcmF0ZSB0dXRvcmlhbCBtb2RlIGRpc2Nvbm5lY3RlZCBmcm9tIHJlYWwgcHJvZHVjdAotIE92ZXJ3aGVsbSB3aXRoIGluZm9ybWF0aW9uIHVwZnJvbnQgKHByb2dyZXNzaXZlIGRpc2Nsb3N1cmUhKQotIEhpZGUgIlNraXAiIG9yIG1ha2UgaXQgaGFyZCB0byBmaW5kCi0gRm9yZ2V0IGFib3V0IHJldHVybmluZyB1c2VycyAoZG9uJ3Qgc2hvdyBpbml0aWFsIG9uYm9hcmRpbmcgYWdhaW4pCgojIyBWZXJpZnkgT25ib2FyZGluZyBRdWFsaXR5CgpUZXN0IHdpdGggcmVhbCB1c2VyczoKCi0gKipUaW1lIHRvIGNvbXBsZXRpb24qKjogQ2FuIHVzZXJzIGNvbXBsZXRlIG9uYm9hcmRpbmcgcXVpY2tseT8KLSAqKkNvbXByZWhlbnNpb24qKjogRG8gdXNlcnMgdW5kZXJzdGFuZCBhZnRlciBjb21wbGV0aW5nPwotICoqQWN0aW9uKio6IERvIHVzZXJzIHRha2UgZGVzaXJlZCBuZXh0IHN0ZXA/Ci0gKipTa2lwIHJhdGUqKjogQXJlIHRvbyBtYW55IHVzZXJzIHNraXBwaW5nPyAoTWF5YmUgaXQncyB0b28gbG9uZyBvciBub3QgdmFsdWFibGUpCi0gKipDb21wbGV0aW9uIHJhdGUqKjogQXJlIHVzZXJzIGNvbXBsZXRpbmc/IChJZiBsb3csIHNpbXBsaWZ5KQotICoqVGltZSB0byB2YWx1ZSoqOiBIb3cgbG9uZyB1bnRpbCB1c2VycyBnZXQgZmlyc3QgdmFsdWU/CgpXaGVuIHVzZXJzIGhpdCB0aGUgYWhhIG1vbWVudCBmYXN0IGFuZCBkb24ndCBkcm9wIG9mZiwgaGFuZCBvZmYgdG8gYC9pbXBlY2NhYmxlIHBvbGlzaGAgZm9yIHRoZSBmaW5hbCBwYXNzLgo=
+> **Additional context needed**: the "aha moment" you want users to reach, and users' experience level.
+
+Get users to first value as fast as possible. Onboarding's job is not to teach the product. Its job is to get people to the moment that proves the product is worth their time.
+
+## Assess Onboarding Needs
+
+Understand what users need to learn and why:
+
+1. **Identify the challenge**:
+   - What are users trying to accomplish?
+   - What's confusing or unclear about current experience?
+   - Where do users get stuck or drop off?
+   - What's the "aha moment" we want users to reach?
+
+2. **Understand the users**:
+   - What's their experience level? (Beginners, power users, mixed?)
+   - What's their motivation? (Excited and exploring? Required by work?)
+   - What's their time commitment? (5 minutes? 30 minutes?)
+   - What alternatives do they know? (Coming from competitor? New to category?)
+
+3. **Define success**:
+   - What's the minimum users need to learn to be successful?
+   - What's the key action we want them to take? (First project? First invite?)
+   - How do we know onboarding worked? (Completion rate? Time to value?)
+
+Onboarding should get users to value as quickly as possible, not teach everything possible.
+
+## Onboarding Principles
+
+Follow these core principles:
+
+### Show, Don't Tell
+- Demonstrate with working examples, not just descriptions
+- Provide real functionality in onboarding, not separate tutorial mode
+- Use progressive disclosure, teach one thing at a time
+
+### Make It Optional (When Possible)
+- Let experienced users skip onboarding
+- Don't block access to product
+- Provide "Skip" or "I'll explore on my own" options
+
+### Time to Value
+- Get users to their "aha moment" ASAP
+- Front-load most important concepts
+- Teach 20% that delivers 80% of value
+- Save advanced features for contextual discovery
+
+### Context Over Ceremony
+- Teach features when users need them, not upfront
+- Empty states are onboarding opportunities
+- Tooltips and hints at point of use
+
+### Respect User Intelligence
+- Don't patronize or over-explain
+- Be concise and clear
+- Assume users can figure out standard patterns
+
+## Design Onboarding Experiences
+
+Create appropriate onboarding for the context:
+
+### Initial Product Onboarding
+
+**Welcome Screen**:
+- Clear value proposition (what is this product?)
+- What users will learn/accomplish
+- Time estimate (honest about commitment)
+- Option to skip (for experienced users)
+
+**Account Setup**:
+- Minimal required information (collect more later)
+- Explain why you're asking for each piece of information
+- Smart defaults where possible
+- Social login when appropriate
+
+**Core Concept Introduction**:
+- Introduce 1-3 core concepts (not everything)
+- Use simple language and examples
+- Interactive when possible (do, don't just read)
+- Progress indication (step 1 of 3)
+
+**First Success**:
+- Guide users to accomplish something real
+- Pre-populated examples or templates
+- Celebrate completion (but don't overdo it)
+- Clear next steps
+
+### Feature Discovery & Adoption
+
+**Empty States**:
+Instead of blank space, show:
+- What will appear here (description + screenshot/illustration)
+- Why it's valuable
+- Clear CTA to create first item
+- Example or template option
+
+Example:
+```
+No projects yet
+Projects help you organize your work and collaborate with your team.
+[Create your first project] or [Start from template]
+```
+
+**Contextual Tooltips**:
+- Appear at relevant moment (first time user sees feature)
+- Point directly at relevant UI element
+- Brief explanation + benefit
+- Dismissable (with "Don't show again" option)
+- Optional "Learn more" link
+
+**Feature Announcements**:
+- Highlight new features when they're released
+- Show what's new and why it matters
+- Let users try immediately
+- Dismissable
+
+**Progressive Onboarding**:
+- Teach features when users encounter them
+- Badges or indicators on new/unused features
+- Unlock complexity gradually (don't show all options immediately)
+
+### Guided Tours & Walkthroughs
+
+**When to use**:
+- Complex interfaces with many features
+- Significant changes to existing product
+- Industry-specific tools needing domain knowledge
+
+**How to design**:
+- Spotlight specific UI elements (dim rest of page)
+- Keep steps short (3-7 steps max per tour)
+- Allow users to click through tour freely
+- Include "Skip tour" option
+- Make replayable (help menu)
+
+**Best practices**:
+- Interactive over passive (let users click real buttons)
+- Focus on workflow, not features ("Create a project" not "This is the project button")
+- Provide sample data so actions work
+
+### Interactive Tutorials
+
+**When to use**:
+- Users need hands-on practice
+- Concepts are complex or unfamiliar
+- High stakes (better to practice in safe environment)
+
+**How to design**:
+- Sandbox environment with sample data
+- Clear objectives ("Create a chart showing sales by region")
+- Step-by-step guidance
+- Validation (confirm they did it right)
+- Graduation moment (you're ready!)
+
+### Documentation & Help
+
+**In-product help**:
+- Contextual help links throughout interface
+- Keyboard shortcut reference
+- Search-able help center
+- Video tutorials for complex workflows
+
+**Help patterns**:
+- `?` icon near complex features
+- "Learn more" links in tooltips
+- Keyboard shortcut hints (`⌘K` shown on search box)
+
+## Empty State Design
+
+Every empty state needs:
+
+### What Will Be Here
+"Your recent projects will appear here"
+
+### Why It Matters
+"Projects help you organize your work and collaborate with your team"
+
+### How to Get Started
+[Create project] or [Import from template]
+
+### Visual Interest
+Illustration or icon (not just text on blank page)
+
+### Contextual Help
+"Need help getting started? [Watch 2-min tutorial]"
+
+**Empty state types**:
+- **First use**: Never used this feature (emphasize value, provide template)
+- **User cleared**: Intentionally deleted everything (light touch, easy to recreate)
+- **No results**: Search or filter returned nothing (suggest different query, clear filters)
+- **No permissions**: Can't access (explain why, how to get access)
+- **Error state**: Failed to load (explain what happened, retry option)
+
+## Implementation Patterns
+
+### Technical approaches:
+
+**Tooltip libraries**: Tippy.js, Popper.js
+**Tour libraries**: Intro.js, Shepherd.js, React Joyride
+**Modal patterns**: Focus trap, backdrop, ESC to close
+**Progress tracking**: LocalStorage for "seen" states
+**Analytics**: Track completion, drop-off points
+
+**Storage patterns**:
+```javascript
+// Track which onboarding steps user has seen
+localStorage.setItem('onboarding-completed', 'true');
+localStorage.setItem('feature-tooltip-seen-reports', 'true');
+```
+
+Show onboarding once: track completion and respect dismissals.
+
+**Avoid**:
+- Force users through long onboarding before they can use product
+- Patronize users with obvious explanations
+- Show same tooltip repeatedly (respect dismissals)
+- Block all UI during tour (let users explore)
+- Create separate tutorial mode disconnected from real product
+- Overwhelm with information upfront (progressive disclosure!)
+- Hide "Skip" or make it hard to find
+- Forget about returning users (don't show initial onboarding again)
+
+## Verify Onboarding Quality
+
+Test with real users:
+
+- **Time to completion**: Can users complete onboarding quickly?
+- **Comprehension**: Do users understand after completing?
+- **Action**: Do users take desired next step?
+- **Skip rate**: Are too many users skipping? (Maybe it's too long or not valuable)
+- **Completion rate**: Are users completing? (If low, simplify)
+- **Time to value**: How long until users get first value?
+
+When users hit the aha moment fast and don't drop off, hand off to `/impeccable polish` for the final pass.

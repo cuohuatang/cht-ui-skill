@@ -1,1 +1,138 @@
-IyBDb3B5IG1vdmVzCgpUaGUgbW92ZSBmb3IgZWFjaCBwYXJ0IG9mIHRoZSBwYWdlLCBkaXN0aWxsZWQgZnJvbSBhIHN0dWR5IG9mIHByb2Zlc3Npb25hbCBzaXRlcyB3cml0dGVuIGJlZm9yZQpsYW5ndWFnZSBtb2RlbHMgKDIwMTQgdG8gMjAyMSkuIEV2ZXJ5IGV4YW1wbGUgaGVyZSBpcyB3cml0dGVuIGZvciB0aGlzIGZpbGUsIGZvciBtYWRlLXVwIGNsaWVudHM6IGxlYXJuCnRoZSBtb3ZlLCBuZXZlciB0aGUgbGluZS4gVGhlIHJ1bGVzIG9mIGBjb3B5Lm1kYCBob2xkIHRocm91Z2hvdXQ6IHRoZSBoMSBuYW1lcyB0aGUgY2F0ZWdvcnksIGV2ZXJ5CmhlYWRpbmcgaGFzIGl0cyBub3VuLCBidXR0b25zIGFyZSBhIHZlcmIgYW5kIGFuIG9iamVjdCwgbm90aGluZyBpcyBpbnZlbnRlZC4KCiMjIFRoZSBoZXJvCgpQcm9mZXNzaW9uYWwgaGVyb2VzIGFyZSBzaG9ydCAoMiB0byA5IHdvcmRzKSwgb25lIGNsYXVzZSwgbmV2ZXIgdHdvIGFkamVjdGl2ZXMgc3RhY2tlZC4gT24gYSB0YXN0ZXNraWxsCnBhZ2UgdGhlIGgxIG5hbWVzIHRoZSBjYXRlZ29yeSwgc28gdGhlIGZvcm0gaXMgY2hvc2VuIGFtb25nIHRoZSBvbmVzIHRoYXQgZG86Cgp8IEZvcm0gfCBFeGFtcGxlIHwgV2hlbiB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCBDYXRlZ29yeSBhbmQgYnV5ZXIgfCAiUGF5cm9sbCBhcHAgZm9yIHJlc3RhdXJhbnQgdGVhbXMiIHwgc29mdHdhcmUsIGEgc2VydmljZSBub2JvZHkga25vd3MgeWV0IHwKfCBDYXRlZ29yeSBhbmQgcGxhY2UgfCAiQmFrZXJ5IG9uIE1pbGwgU3RyZWV0LCBMZWl0aCIgfCBldmVyeSBwbGFjZSB8CnwgQ2F0ZWdvcnkgYW5kIGEgdHJ1ZSwgdW5leHBlY3RlZCBwcm9taXNlIHwgIlRheCByZXR1cm4gYXBwIHRoYXQgYXNrcyBlbGV2ZW4gcXVlc3Rpb25zIiB8IHRoZSBjYXRlZ29yeSBpcyBrbm93biBhbmQgdGhlIHR3aXN0IGlzIGluIHRoZSBicmllZiB8CnwgQ2F0ZWdvcnkgYW5kIG9uZSBzdHJpa2luZyBjdXN0b21lciB8ICJSb3RhIHBsYW5uZXIgZm9yIHRoZSBuaWdodCBzaGlmdCBhdCB0aHJlZSBob3NwaXRhbHMiIHwgdGhlIGJyaWVmIG5hbWVzIHRoYXQgY3VzdG9tZXIgYW5kIGl0IG1heSBiZSBzaG93biB8CnwgQ2F0ZWdvcnkgYW5kIHNjb3BlIHwgIkNhcmQgcGF5bWVudHMgZm9yIG1hcmtldCBzdGFsbHMiIHwgaW5mcmFzdHJ1Y3R1cmUsIEIyQiB3aXRoIGEgcmVhbCBzY29wZSB8CnwgQ2F0ZWdvcnksIHBsYWNlIGFuZCB5ZWFyIHwgIkd1ZXN0aG91c2Ugb24gdGhlIGxha2Ugc2hvcmUgc2luY2UgMTk2MiIgfCB0aGUgYnJpZWYgZ2l2ZXMgdGhlIHllYXIgfAp8IEEgbmFycm93IHN1cGVybGF0aXZlIHwgIlRoZSBvbmx5IGZlcnJ5IHRvIHRoZSBpc2xhbmQgaW4gd2ludGVyIiB8IHRoZSBicmllZiBwcm92ZXMgaXQsIGFuZCB0aGUgbmV4dCBsaW5lIHNheXMgaG93IHwKfCBOYW1lIGFuZCBnZW5yZSB8ICJLZWxwbW9vciwgYSBjby1vcCBzYWlsaW5nIGdhbWUiIHwgYSBnYW1lIHwKClRoZSBvdGhlciBmb3JtcyBwcm9mZXNzaW9uYWxzIHVzZSAoYSBncmVldGluZywgYSBsaW5lIHRvIHRoZSByZWFkZXIncyBzdGF0ZSBvZiBtaW5kLCBhIHF1ZXN0aW9uLCBhbgppbXBlcmF0aXZlLCBhbiBlbmVteSwgYSB0d2lzdGVkIGlkaW9tLCBwcm9kdWN0IG5ld3MpIG5ldmVyIHRha2UgdGhlIGgxLiBUaGV5IGNhbiB0YWtlIHRoZSBzdWItbGluZSwgYQpzZWN0aW9uJ3MgZmlyc3QgbGluZSwgdGhlIGNsb3NlLCBvciB0aGUgcGFnZSdzIG9uZSBicmFuZCBsaW5lLCBlYWNoIHdpdGggYSBmYWN0IGJlc2lkZSBpdDoKCi0gKipUaGUgcmVhZGVyJ3Mgc3RhdGU6KiogIlRocmVlIGh1bmRyZWQgZW1haWxzIHNpbmNlIEZyaWRheT8gVGhlIGluYm94IHNvcnRzIHRoZW0gYnkgc2VuZGVyIGJlZm9yZSB5b3UKICBvcGVuIGl0LiIKLSAqKkFuIGVuZW15LCBhIGhhYml0IG9yIGEgY2F0ZWdvcnk6KiogIk1vc3QgYm9va2luZyBmb3JtcyBhc2sgZm9yIHlvdXIgbGlmZSBzdG9yeS4gT3VycyBhc2tzIGZvciB0d28KICBkYXRlcy4iCi0gKipQcm9kdWN0IG5ld3MsIHBsYWluOioqICJOZXcgdGhpcyBzcHJpbmc6IHRoZSAxMi1saXRyZSBtb2RlbCwgc2FtZSBwcmljZS4iCgoqKlRoZSBzdWItbGluZToqKiBzb2Z0d2FyZSBhbmQgc2VydmljZXM6IGhvdyBpdCB3b3JrcyBhbmQgdGhlIG1haW4gYmVuZWZpdCwgMTUgdG8gMzAgd29yZHMsIG9uZSBmYWN0IG9yCm9uZSBtZWNoYW5pc20sIG5ldmVyIGEgcm93IG9mIGFkamVjdGl2ZXMuIEEgcGxhY2U6IHRoZSBmYWN0IHdpdGggdG9kYXkncyBob3VycywgODAgY2hhcmFjdGVycyBhdCBtb3N0LgoKIyMgU2VjdGlvbiBoZWFkaW5ncwoKLSAqKlRoZSBuYW1lIHdpdGggYSBjbGFpbSB1bmRlciBpdCoqIGlzIHRoZSBkZWZhdWx0OiBhIGhlYWRpbmcgdGhhdCBuYW1lcyB0aGUgcGFydCAoIlJvb21zIGFuZAogIHByaWNlcyIpIGFuZCBvbmUgbGluZSB1bmRlciBpdCB0aGF0IGNsYWltcyAoIlNpeCByb29tcywgYWxsIHdpdGggdGhlIGxha2Ugb24gb25lIHNpZGUiKS4KLSAqKkEgdmVyYiBhbmQgdGhlIHRoaW5nKiogd29ya3Mgd2hlcmUgdGhlIHJlYWRlciBkb2VzIHNvbWV0aGluZzogIlNlbmQgaW52b2ljZXMgZnJvbSB0aGUgdmFuIiwgIlBsYW4KICB0aGUgd2VlaydzIHNoaWZ0cyIuIE5ldmVyIGEgYmFyZSBjb21tYW5kICgiR2V0IHN0YXJ0ZWQiLCAiQ29tZSBjbGltYiIpLgotICoqQSBwbGFpbiBjbGFpbSB3aXRoIGl0cyBub3VuOioqICJQYXlzIHN0YWZmIG9uIHRoZSBzYW1lIGRheSIuCi0gKipBIGZpZ3VyZSBmcm9tIHRoZSBicmllZjoqKiAiMjEyIHJvdXRlcywgcmVzZXQgZXZlcnkgVHVlc2RheSIuCi0gKipRdWVzdGlvbnMgb25seSBpbiB0aGUgRkFRLioqIEEgaGVhZGluZyBpcyBuZXZlciBhIHF1ZXN0aW9uIChgY29weS5tZGApOyB0aGUgbGluZSB1bmRlciB0aGUgY2xvc2UncwogIGhlYWRpbmcgbWF5IGFzayBvbmNlLCBwbGFpbmx5LCB3aGVuIHRoZSByZWdpc3RlciBhbGxvd3MgaXQuCgojIyBBYm91dCBhbmQgc3RvcnkKCjEuICoqU3RhcnQgaW4gYSBtb21lbnQgdGhlIGJyaWVmIGdpdmVzLCBub3QgYSB0aGVzaXM6KiogdGhlIGRheSB0aGUgb3ZlbiBhcnJpdmVkLCB0aGUgZmlyc3QgbWFya2V0CiAgIHN0YWxsLCB0aGUgc2Vhc29uIHRoZSByaXZlciBmbG9vZGVkIHRoZSBjZWxsYXIuCjIuICoqQW5lY2RvdGVzLCBhIHRpbWVsaW5lIG9yIHF1ZXN0aW9ucywgbmV2ZXIgdmFsdWUgcGlsbGFycyoqICgiT3VyIHZhbHVlczogcXVhbGl0eSwgY29tbXVuaXR5LAogICBwYXNzaW9uIiBpcyB0aGUgd2Vha2VzdCBhYm91dCBwYWdlIHRoZXJlIGlzKS4KMy4gKipGYWlsdXJlIGFuZCBsdWNrIGJlbG9uZyBpbiB0aGUgcGxvdCoqIHdoZW4gdGhlIGJyaWVmIGhhcyB0aGVtOiB0aGUgZmlyc3QgcGxhbiB0aGF0IGRpZCBub3Qgd29yaywKICAgdGhlIGxhbmRsb3JkIHdobyBzYWlkIHllcy4KNC4gKipGb3VuZGVycyBhcyBwZW9wbGUsIG5vdCB0aXRsZXMsKiogYW5kIG9ubHkgdGhlIG5hbWVzIHRoZSBicmllZiBnaXZlcy4KNS4gKipWYWx1ZXMgYXMgYmVoYXZpb3VycyB3aXRoIG51bWJlcnM6KiogIldlIHBheSBncm93ZXJzIHR3aWNlIHRoZSBtYXJrZXQgcHJpY2UiOyBhIHJ1bGUsIG5vdCBhbgogICBhZGplY3RpdmUuCjYuICoqRW5kIGluIGEgbW9kZXN0IHByZXNlbnQgdGVuc2UsKiogbm90IGEgdmlzaW9uOiAiRWxldmVuIG9mIHVzIG5vdywgYW5kIHRoZSBzYW1lIG92ZW4uIgo3LiAqKlNheSBob3cgdG8gcmVhY2ggdGhlbToqKiB0aGUgZm9ybSwgdGhlIHN0cmVldCwgdGhlIGhvdXJzLgoKQSBwb3J0Zm9saW8ncyBhYm91dDogb25lIGxpbmUgd2l0aCB3aGF0IHRoZSBwZXJzb24gZG9lcyAoYSBkZWZsYXRpbmcgd29yZCB3ZWxjb21lKSwgd2hhdCB0aGV5IG1ha2UgYW5kCmZvciB3aG9tLCBvbmUgb3IgdHdvIHByb2plY3RzIHdpdGggZGF0ZXMsIG9uZSBzZW50ZW5jZSBvZiBiZWxpZWYsIGF2YWlsYWJpbGl0eSBhcyBhIHBsYWluIGRhdGUuCgojIyBGZWF0dXJlcyBhbmQgaG93IGl0IHdvcmtzCgotICoqVGhlIG1lY2hhbmlzbSBpbiB2ZXJiLWxlZCBzdGVwczoqKiAiRm9yd2FyZCB0aGUgaW52b2ljZS4gVGhlIGFwcCByZWFkcyB0aGUgdG90YWwgYW5kIHRoZSBkdWUgZGF0ZS4KICBJdCBwYXlzIG9uIHRoZSBkYXkgeW91IGNob29zZS4iCi0gKipUaGUgb3V0Y29tZSBmaXJzdCwgdGhlIGZlYXR1cmUgYXMgaXRzIHByb29mOioqICJOb2JvZHkgbWlzc2VzIGEgc2hpZnQgY2hhbmdlIiwgdGhlbiBob3cgdGhlCiAgcmVtaW5kZXIgd29ya3MuCi0gKipBIG1vbWVudCwgbm90IGEgdXNlIGNhc2U6KiogIllvdXIgZHJ1bW1lciBjYW5jZWxzIGF0IHNpeDsgdGhlIHN0YW5kLWluIGdldHMgdGhlIHNldCBsaXN0IGF0CiAgNjowMS4iCi0gKipSZWFsIHZhbHVlcyBpbiB0aGUgZXhhbXBsZXM6KiogdGltZXMsIHNpemVzLCBhbW91bnRzLCBuZXZlciAiY3VzdG9taXNhYmxlIi4KLSAqKlRoZSBwcm9kdWN0IGRvaW5nIHRoZSB3b3JrOioqIFVJIGZyYWdtZW50cyB3aXRoIHRoZSBjbGllbnQncyBvd24gZGF0YSwgbmFtZXMgYW5kIG51bWJlcnMKICAoYGNhcmRzLm1kYCkuIE9uIHRlY2ggdGhlIFVJIGNhcnJpZXMgbW9zdCBvZiB0aGUgd29yZHMgKGBjb3B5Lm1kYCwgdGhlIHRlY2ggd29yZCBidWRnZXQpLgotICoqTmFtZXMgYXJlIGNvcHkgdG9vOioqIHJvb21zLCBwbGFucywgYmxlbmRzIGFuZCBtb2RlbHMgdGhlIGJyaWVmIG5hbWVzLCB1c2VkIHRoZSBzYW1lIHdheSBldmVyeQogIHRpbWUuCi0gKipDYXJkIGxlbmd0aCB2YXJpZXMgd2l0aCB0aGUgbWF0ZXJpYWw6KiogYSB0aXRsZSAoYSB2ZXJiIGFuZCBhbiBvYmplY3QpIGFuZCBvbmUgb3IgdHdvIHNlbnRlbmNlczsKICBhIGNhcmQgdGhlIGJyaWVmIGtub3dzIGEgbG90IGFib3V0IG1heSBydW4gbG9uZ2VyIHRoYW4gaXRzIG5laWdoYm91cnMuCgojIyBQcm9vZgoKLSAqKk9ubHkgd2hhdCB0aGUgYnJpZWYgZ2l2ZXM6KiogcXVvdGVzIHdvcmQgZm9yIHdvcmQgd2l0aCB0aGUgbmFtZSBhbmQgcm9sZSBvciB0b3duLCBmaWd1cmVzIHdpdGgKICB0aGVpciBzb3VyY2UsIGxvZ29zIG9mIHJlYWwgY3VzdG9tZXJzIHdobyBtYXkgYmUgc2hvd24uCi0gKipMZXQgb3RoZXJzIHNheSB0aGUgc3VwZXJsYXRpdmVzLCoqIHdpdGggZnVsbCBhdHRyaWJ1dGlvbi4KLSAqKlJvdWdoIGJlYXRzIHBvbGlzaGVkOioqIGEgcmVhbCBxdW90ZSBzdGF5cyBhcyB3cml0dGVuLCBsb3dlcmNhc2UgYW5kIGFsbC4KLSAqKkEgcnVsZSBpbnN0ZWFkIG9mIGEgY2xhaW06KiogIkV2ZXJ5IGZyYW1lIGlzIGJyYXplZCBieSB0aGUgcGVyc29uIHdobyBtZWFzdXJlZCB5b3UiIHByb3ZlcyB0aGUKICBjcmFmdCB3aXRob3V0IHRoZSB3b3JkLgotICoqTm9uZSBpcyBmaW5lLioqIENyYWZ0LCBsdXh1cnkgYW5kIHNtYWxsIHBsYWNlcyBvZnRlbiBzaG93IG5vIHRlc3RpbW9uaWFsczogdGhlIHBob3RvZ3JhcGhzIGFuZCB0aGUKICBmYWN0cyBjYXJyeSB0aGUgcGFnZS4KCiMjIFByaWNlcywgRkFRLCBib29raW5nOiB0aGUgcGxhaW4gem9uZQoKLSAqKlRoZSB0b25lIGRyb3BzIHRvIGZhY3RzOioqIHRoZSByZWFkZXIgaXMgYW54aW91cyBoZXJlLgotICoqUGVya3MgcHJpY2VkIGFuZCBsaXRlcmFsOioqICJMYXRlIGNoZWNrb3V0IHVudGlsIDE0OjAwIGZvciAxNSBldXJvIiwgIkJpa2UgaGlyZSAxMiBldXJvIGEgZGF5Ii4KLSAqKkEgcmlzayByZXZlcnNhbCBiZXNpZGUgdGhlIGJ1dHRvbiwgb25seSB3aGVuIHRydWU6KiogIkNhbmNlbCB1cCB0byB0d28gZGF5cyBiZWZvcmUsIGZyZWUiLgotICoqQWRtaXQgbGltaXRzIGluIHRoZSBGQVE6KiogIkFuZHJvaWQgY29tZXMgbmV4dCB5ZWFyOyB0b2RheSBpdCBpcyBpUGhvbmUgb25seS4iCi0gKipBc2sgdGhlIGJ1eWVyJ3MgcmVhbCBvYmplY3Rpb24gYW5kIGFuc3dlciBpdCBmbGF0bHk6KiogIkNhbiBJIHRha2UgbXkgZGF0YSBvdXQ/IFllczogZXZlcnkgdGFibGUKICBleHBvcnRzIGFzIENTViwgYW55IHRpbWUuIgoKIyMgQnV0dG9ucyBhbmQgdGhlIGNsb3NlCgotICoqQSB2ZXJiIGFuZCB0aGUgcmVhbCBvYmplY3QqKiAoYGNvcHkubWRgIHJ1bGUgNCk6ICJCb29rIGEgcm9vbSIsICJPcmRlciBhIGNha2UiLCAiU3RhcnQgYSBmcmVlCiAgdHJpYWwiLgotICoqTGl0ZXJhbCBldmVuIHdoZW4gdGhlIHJlZ2lzdGVyIHBsYXlzOioqIHRoZSBidXR0b24gc2F5cyB3aGF0IGhhcHBlbnMgbmV4dC4KLSAqKkEgbG93LXByZXNzdXJlIGV4aXQgZm9yIGJyb3dzZXJzKiogd2hlcmUgdGhlIHJlZ2lzdGVyIGZpdHM6ICJTZWUgdGhlIHJvb21zIGZpcnN0Ii4KLSAqKlRoZSBjbG9zZSByZXN0YXRlcyB0aGUgaGVybydzIHByb21pc2Ugd2l0aCBvbmUgZmFjdCoqIGZyb20gdGhlIGJyaWVmLCBhbmQgdGhlIG1haW4gYWN0aW9uIHdvcmQgZm9yCiAgd29yZC4KCiMjIE1pY3JvY29weTogd2hlcmUgYSB2b2ljZSBpcyBtb3N0IHdlbGNvbWUKCldyaXRlIHRoZXNlIHdoZW5ldmVyIHRoZSBwYWdlIGhhcyB0aGVtOyBhIHN0b2NrIGZvcm0gZXJyb3IgdW5kZXIgYSBoYW5kLXR1bmVkIGhlcm8gZ2l2ZXMgdGhlIGdhbWUKYXdheS4gVGhlIGZvcm0gcnVsZXMgb2YgYGNvcHkubWRgIGhvbGQgKGEgbGFiZWwgc2F5cyB3aGF0IGdvZXMgaW4sIGFuIGVycm9yIG5hbWVzIHRoZSBmaWVsZCBhbmQgd2hhdCB0bwp0eXBlLCB0aGUgc2VudCBsaW5lIG5hbWVzIHdoYXQgd2FzIHNlbnQgaW4gdGhlIGJ1dHRvbidzIHdvcmRzKTsgdGhlIHJlZ2lzdGVyIHNob3dzIGluIHRoZSB3b3JkcyBhcm91bmQKdGhlbToKCi0gKipGb3JtIGVycm9yOioqICJNb25kYXlzIHdlIGFyZSBjbG9zZWQ6IGNob29zZSBhIGRheSBmcm9tIFR1ZXNkYXkgdG8gU3VuZGF5LiIKLSAqKlNlbnQgbWVzc2FnZToqKiAiWW91ciB0YWJsZSByZXF1ZXN0IGlzIGluLiBXZSBhbnN3ZXIgYmVmb3JlIG5vb24gdGhlIG5leHQgZGF5LiIgKHRoZSB0aW1lIGZyb20gdGhlIGJyaWVmKQotICoqRW1wdHkgc3RhdGU6KiogIk5vIG5vdGVzIHlldC4gWW91ciBmaXJzdCBtZWV0aW5nIGxhbmRzIGhlcmUgd2hlbiBpdCBlbmRzLiIKLSAqKjQwNDoqKiAiVGhpcyBwYWdlIG1vdmVkLiBUaGUgbWVudSBhbmQgdGhlIGhvdXJzIGFyZSBvbmUgY2xpY2sgdXAuIgotICoqTmV3c2xldHRlciBjb25maXJtYXRpb246KiogIlN1YnNjcmliZWQuIFRoZSBuZXh0IGxldHRlciBnb2VzIG91dCBvbiB0aGUgZmlyc3QgU3VuZGF5IG9mIHRoZQogIG1vbnRoLiIgKHRoZSByaHl0aG0gZnJvbSB0aGUgYnJpZWYpCi0gKipGaWVsZCBoaW50OioqICJPbmx5IGZvciB0aGlzIGJvb2tpbmcuIiAoYW5kIG9ubHkgd2hhdCB0aGUgYnJpZWYgcHJvbWlzZXMpCgojIyBUaGUgZm9vdGVyCgpGYWN0cyBvbmx5OiB0aGUgbGVnYWwgcm93IG9mIGBjb3B5Lm1kYCAodGhlIGJyYW5kLCB0aGlzIHllYXIsIFByaXZhY3ksIFRlcm1zLCB0aGUgY3JlZGl0cyBsaW5lKSwgdGhlCnN0cmVldCBhbmQgZGlzdHJpY3QsIHRoZSBob3VycyBvbiBhIHBsYWNlLiBObyBzaWduLW9mZiwgbm8gcHVuIGJ1aWx0IG9uIHRoZSBuYW1lLgoKIyMgTnVtYmVycyBhbmQgaHVtb3VyCgotICoqT2RkIGh1bWFuIG51bWJlcnMgYmVhdCByb3VuZCBiaWcgb25lczoqKiAiZWxldmVuIHBlb3BsZSBjYW1lIHRvIHRoZSBmaXJzdCB0YXN0aW5nIiwgIjQ1IHNlY29uZHMKICBwZXIgc2lkZSIsIHdoZW4gdGhlIGJyaWVmIGdpdmVzIHRoZW0uCi0gKipFdmVyeSBudW1iZXIgc2l0cyBpbiBhIHNlbnRlbmNlLCoqIGJlc2lkZSB0aGUgY2xhaW0gaXQgcHJvdmVzLgotICoqSHVtb3VyIHBvaW50cyBhdCBvdXJzZWx2ZXMsIG5ldmVyIHRoZSBjdXN0b21lciwqKiBhbmQgbGl2ZXMgaW4gYnJhY2tldHMsIGFzaWRlcyBhbmQgbWljcm9jb3B5LCBub3QKICBhdCB0aGUgZW5kIG9mIGV2ZXJ5IHBhcmFncmFwaC4gTm9uZSBvbiBhIHNlcmlvdXMgcHVyY2hhc2UgKG1vbmV5LCBoZWFsdGgpIGJleW9uZCB0aGUgbWljcm9jb3B5LgotICoqUmh5dGhtIG9uIHB1cnBvc2UsIG9uY2U6KiogYSBydW4gb2Ygc2hvcnQgc2VudGVuY2VzIHRoYXQgcGFpbnRzIGEgc2NlbmUsIGEgbGlzdCB0aGF0IGVuZHMgb24gYQogIHN1cnByaXNlLCBvbmUgbG9uZyBzZW50ZW5jZSBiZXNpZGUgYSBzaG9ydCBvbmUuCg==
+# Copy moves
+
+The move for each part of the page, distilled from a study of professional sites written before
+language models (2014 to 2021). Every example here is written for this file, for made-up clients: learn
+the move, never the line. The rules of `copy.md` hold throughout: the h1 names the category, every
+heading has its noun, buttons are a verb and an object, nothing is invented.
+
+## The hero
+
+Professional heroes are short (2 to 9 words), one clause, never two adjectives stacked. On a tasteskill
+page the h1 names the category, so the form is chosen among the ones that do:
+
+| Form | Example | When |
+| --- | --- | --- |
+| Category and buyer | "Payroll app for restaurant teams" | software, a service nobody knows yet |
+| Category and place | "Bakery on Mill Street, Leith" | every place |
+| Category and a true, unexpected promise | "Tax return app that asks eleven questions" | the category is known and the twist is in the brief |
+| Category and one striking customer | "Rota planner for the night shift at three hospitals" | the brief names that customer and it may be shown |
+| Category and scope | "Card payments for market stalls" | infrastructure, B2B with a real scope |
+| Category, place and year | "Guesthouse on the lake shore since 1962" | the brief gives the year |
+| A narrow superlative | "The only ferry to the island in winter" | the brief proves it, and the next line says how |
+| Name and genre | "Kelpmoor, a co-op sailing game" | a game |
+
+The other forms professionals use (a greeting, a line to the reader's state of mind, a question, an
+imperative, an enemy, a twisted idiom, product news) never take the h1. They can take the sub-line, a
+section's first line, the close, or the page's one brand line, each with a fact beside it:
+
+- **The reader's state:** "Three hundred emails since Friday? The inbox sorts them by sender before you
+  open it."
+- **An enemy, a habit or a category:** "Most booking forms ask for your life story. Ours asks for two
+  dates."
+- **Product news, plain:** "New this spring: the 12-litre model, same price."
+
+**The sub-line:** software and services: how it works and the main benefit, 15 to 30 words, one fact or
+one mechanism, never a row of adjectives. A place: the fact with today's hours, 80 characters at most.
+
+## Section headings
+
+- **The name with a claim under it** is the default: a heading that names the part ("Rooms and
+  prices") and one line under it that claims ("Six rooms, all with the lake on one side").
+- **A verb and the thing** works where the reader does something: "Send invoices from the van", "Plan
+  the week's shifts". Never a bare command ("Get started", "Come climb").
+- **A plain claim with its noun:** "Pays staff on the same day".
+- **A figure from the brief:** "212 routes, reset every Tuesday".
+- **Questions only in the FAQ.** A heading is never a question (`copy.md`); the line under the close's
+  heading may ask once, plainly, when the register allows it.
+
+## About and story
+
+1. **Start in a moment the brief gives, not a thesis:** the day the oven arrived, the first market
+   stall, the season the river flooded the cellar.
+2. **Anecdotes, a timeline or questions, never value pillars** ("Our values: quality, community,
+   passion" is the weakest about page there is).
+3. **Failure and luck belong in the plot** when the brief has them: the first plan that did not work,
+   the landlord who said yes.
+4. **Founders as people, not titles,** and only the names the brief gives.
+5. **Values as behaviours with numbers:** "We pay growers twice the market price"; a rule, not an
+   adjective.
+6. **End in a modest present tense,** not a vision: "Eleven of us now, and the same oven."
+7. **Say how to reach them:** the form, the street, the hours.
+
+A portfolio's about: one line with what the person does (a deflating word welcome), what they make and
+for whom, one or two projects with dates, one sentence of belief, availability as a plain date.
+
+## Features and how it works
+
+- **The mechanism in verb-led steps:** "Forward the invoice. The app reads the total and the due date.
+  It pays on the day you choose."
+- **The outcome first, the feature as its proof:** "Nobody misses a shift change", then how the
+  reminder works.
+- **A moment, not a use case:** "Your drummer cancels at six; the stand-in gets the set list at
+  6:01."
+- **Real values in the examples:** times, sizes, amounts, never "customisable".
+- **The product doing the work:** UI fragments with the client's own data, names and numbers
+  (`cards.md`). On tech the UI carries most of the words (`copy.md`, the tech word budget).
+- **Names are copy too:** rooms, plans, blends and models the brief names, used the same way every
+  time.
+- **Card length varies with the material:** a title (a verb and an object) and one or two sentences;
+  a card the brief knows a lot about may run longer than its neighbours.
+
+## Proof
+
+- **Only what the brief gives:** quotes word for word with the name and role or town, figures with
+  their source, logos of real customers who may be shown.
+- **Let others say the superlatives,** with full attribution.
+- **Rough beats polished:** a real quote stays as written, lowercase and all.
+- **A rule instead of a claim:** "Every frame is brazed by the person who measured you" proves the
+  craft without the word.
+- **None is fine.** Craft, luxury and small places often show no testimonials: the photographs and the
+  facts carry the page.
+
+## Prices, FAQ, booking: the plain zone
+
+- **The tone drops to facts:** the reader is anxious here.
+- **Perks priced and literal:** "Late checkout until 14:00 for 15 euro", "Bike hire 12 euro a day".
+- **A risk reversal beside the button, only when true:** "Cancel up to two days before, free".
+- **Admit limits in the FAQ:** "Android comes next year; today it is iPhone only."
+- **Ask the buyer's real objection and answer it flatly:** "Can I take my data out? Yes: every table
+  exports as CSV, any time."
+
+## Buttons and the close
+
+- **A verb and the real object** (`copy.md` rule 4): "Book a room", "Order a cake", "Start a free
+  trial".
+- **Literal even when the register plays:** the button says what happens next.
+- **A low-pressure exit for browsers** where the register fits: "See the rooms first".
+- **The close restates the hero's promise with one fact** from the brief, and the main action word for
+  word.
+
+## Microcopy: where a voice is most welcome
+
+Write these whenever the page has them; a stock form error under a hand-tuned hero gives the game
+away. The form rules of `copy.md` hold (a label says what goes in, an error names the field and what to
+type, the sent line names what was sent in the button's words); the register shows in the words around
+them:
+
+- **Form error:** "Mondays we are closed: choose a day from Tuesday to Sunday."
+- **Sent message:** "Your table request is in. We answer before noon the next day." (the time from the brief)
+- **Empty state:** "No notes yet. Your first meeting lands here when it ends."
+- **404:** "This page moved. The menu and the hours are one click up."
+- **Newsletter confirmation:** "Subscribed. The next letter goes out on the first Sunday of the
+  month." (the rhythm from the brief)
+- **Field hint:** "Only for this booking." (and only what the brief promises)
+
+## The footer
+
+Facts only: the legal row of `copy.md` (the brand, this year, Privacy, Terms, the credits line), the
+street and district, the hours on a place. No sign-off, no pun built on the name.
+
+## Numbers and humour
+
+- **Odd human numbers beat round big ones:** "eleven people came to the first tasting", "45 seconds
+  per side", when the brief gives them.
+- **Every number sits in a sentence,** beside the claim it proves.
+- **Humour points at ourselves, never the customer,** and lives in brackets, asides and microcopy, not
+  at the end of every paragraph. None on a serious purchase (money, health) beyond the microcopy.
+- **Rhythm on purpose, once:** a run of short sentences that paints a scene, a list that ends on a
+  surprise, one long sentence beside a short one.

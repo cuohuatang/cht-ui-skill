@@ -1,1 +1,126 @@
-IyBDb3B5IHRlbGxzCgpXaGF0IG1ha2VzIHdlYnNpdGUgY29weSByZWFkIGFzIG1vZGVsLXdyaXR0ZW4sIHdpdGggdGhlIGZpeCBmb3IgZWFjaC4gRGF0ZWQgTm92ZW1iZXIgMjAyNjogdGhlIHRlbGxzCm1vdmUgd2l0aCBldmVyeSBtb2RlbCBnZW5lcmF0aW9uLCBzbyBsZWFybiB3aHkgZWFjaCBvbmUgcmVhZHMgYXMgYSBtb2RlbCBhbmQgZG8gbm90IGp1c3QgbWVtb3Jpc2UgdGhlCmxpc3QuIE9uZSB0ZWxsIHByb3ZlcyBsaXR0bGU7IGNsdXN0ZXJzIGFuZCByZXBldGl0aW9uIGFyZSB0aGUgc2lnbmFsLiBgc2NyaXB0cy9jb3B5LWxpbnQubWpzYCBjb3VudHMgdGhlCm9uZXMgdGhhdCBjYW4gYmUgY291bnRlZDsgaXRzIGlkIGlzIGluIGJyYWNrZXRzLgoKU2V2ZXJpdHk6ICoqYmFuKiogKG9uZSBpcyBhIHRlbGwpLCAqKmNhcCoqIChmaW5lIG9uY2UsIGEgdGVsbCB3aGVuIHJlcGVhdGVkKSwgKipjb250ZXh0KiogKGNvdW50cyBvbmx5CmJlc2lkZSBvdGhlciB0ZWxscykuCgojIyBXaHkgaXQgaGFwcGVucwoKQSBtb2RlbCBwaWNrcyB0aGUgcGhyYXNpbmcgdGhhdCBmaXRzIHRoZSBtb3N0IHBhZ2VzLCBhbmQgdHVuaW5nIHNtb290aHMgaXQgdG93YXJkIHNhZmUsIHBvc2l0aXZlLApkZW5zZSBwcm9zZS4gVGhlIG9kZCB0cnVlIGZhY3QgZ2V0cyByZXBsYWNlZCBieSBhIGNsYWltIHRoYXQgZml0cyBhbnkgYnVzaW5lc3MuIFNvIHRoZSBzcGVjaWZpYyBoYXMgdG8KY29tZSBmcm9tIHRoZSBpbnB1dCAodGhlIGJyaWVmLCB0aGUgY2xpZW50J3Mgd29yZHMpLCBuZXZlciBmcm9tIHN0eWxlIHJ1bGVzOyBhbmQgZXZlcnkgcnVsZSB0aGF0IGJhbnMgYQpoYWJpdCBuZWVkcyBhIHBvc2l0aXZlIG1vdmUgYmVzaWRlIGl0LCBvciB0aGUgbW9kZWwgcmVhY2hlcyBmb3IgdGhlIG5lYXJlc3Qgc3Vic3RpdHV0ZS4KCiMjIEZpcnN0IGdlbmVyYXRpb246IHRoZSBvbGQgdGVsbHMgKG1vc3RseSBhdm9pZGVkIG5vdzsgc3RpbGwgY2hlY2tlZCkKCi0gKipCYW4gd29yZHMqKiBbY29weS1zbG9wLXdvcmRdOiBkZWx2ZSwgdGFwZXN0cnksIHRlc3RhbWVudCB0bywgcmVhbG0sIGVtYmFyaywgYmVhY29uLCBtdWx0aWZhY2V0ZWQsCiAgcGFyYWRpZ20sIG15cmlhZCwgcGxldGhvcmEsIG1ldGljdWxvdXMsIGludHJpY2F0ZSwgaW50ZXJwbGF5LCBnYXJuZXIsIGJvYXN0cyAoZm9yICJoYXMiKTsgZWxldmF0ZSwKICB1bmxvY2ssIHVubGVhc2gsIGVtcG93ZXIsIGhhcm5lc3MsIHN1cGVyY2hhcmdlLCB0dXJib2NoYXJnZSwgc2VhbWxlc3MsIGVmZm9ydGxlc3MsIGN1dHRpbmctZWRnZSwKICByZXZvbHV0aW9uYXJ5LCB0cmFuc2Zvcm1hdGl2ZSwgaG9saXN0aWMsIG5leHQtbGV2ZWwsIG5leHQtZ2VuZXJhdGlvbiwgd29ybGQtY2xhc3MsIGJlc3QtaW4tY2xhc3MsCiAgZ2FtZS1jaGFuZ2VyLCBnYW1lLWNoYW5naW5nLCBzdGF0ZS1vZi10aGUtYXJ0LCBiZXNwb2tlLCBzeW5lcmd5LCBsZXZlcmFnZSwgcmVpbWFnaW5lLCBwb3dlcmZ1bCwKICByb2J1c3QsIG5lc3RsZWQsIHVucGFyYWxsZWxlZCwgdW5yaXZhbGxlZC4gRWFjaCBzdGFuZHMgaW4gZm9yIGEgZmFjdDogInNlYW1sZXNzIiBmb3IgdGhlIHNldHVwIHN0ZXBzLAogICJyb2J1c3QiIGZvciB0aGUgZmFpbHVyZSBjYXNlLCAicG93ZXJmdWwiIGZvciB0aGUgZmlndXJlLiBBIHdvcmQgdGhhdCBpcyBsaXRlcmFsIGZvciB0aGUgdHJhZGUgc3RheXM6CiAgYSBjbGltYmluZyBoYXJuZXNzLCBiZXNwb2tlIHRhaWxvcmluZywgYSBzZWFtbGVzcyBrbml0LCBhbiBlbGV2YXRlZCB0ZXJyYWNlLCBhIGdhbWUncyByZWFsbS4gU28KICBkb2VzIHRoZSBjbGllbnQncyBvd24gbmFtZSAoRWxldmF0ZSBQaWxhdGVzKSB3aGVyZSB0aGUgbG9nbywgdGhlIHRpdGxlIGJlZm9yZSBpdHMgIjoiIG9yCiAgYG9nOnNpdGVfbmFtZWAgd3JpdGVzIGl0OiBvbmUgV0FSTiBbY29weS1icmFuZC13b3JkXSwga2VwdCB3aGVuIHRoZSBicmllZiBnaXZlcyB0aGUgbmFtZS4KLSAqKlN0b2NrIGxpbmVzKiogW2NvcHktc3RvY2stcGhyYXNlXTogIkluIHRvZGF5J3MgZmFzdC1wYWNlZCB3b3JsZCIsICJVbmxvY2sgdGhlIHBvd2VyIG9mIiwgIlRoZQogIGZ1dHVyZSBvZiBYIGlzIGhlcmUiLCAiU2F5IGdvb2RieWUgdG8iLCAiV2hldGhlciB5b3UncmUgQSBvciBCIiwgIkpvaW4gdGhvdXNhbmRzIG9mIiwgIlRydXN0ZWQgYnkgdGVhbXMKICB3b3JsZHdpZGUiLCAiSW1hZ2luZSBhIHdvcmxkIHdoZXJlIiwgIlJlYWR5IHRvIHRyYW5zZm9ybSB5b3VyIFg/IiwgIkxvb2sgbm8gZnVydGhlciIsICJvbmUtc3RvcCBzaG9wIiwKICAiWCBtYWRlIHNpbXBsZSIsICJhdCB5b3VyIGZpbmdlcnRpcHMiLCAiaW4ganVzdCBhIGZldyBjbGlja3MiLCAiSXQncyBub3QganVzdCBhIFgsIGl0J3MgYSBZIiwgIk5vdAogIG9ubHkgWCBidXQgYWxzbyBZIiwgIkhlcmUncyB0aGUgdGhpbmciLCAiTGV0IHRoYXQgc2luayBpbiIuCi0gKipSZXNpZHVlKiogW2NvcHktcmVzaWR1ZV06ICJDZXJ0YWlubHkhIiwgIkkgaG9wZSB0aGlzIGhlbHBzIiwgIltDb21wYW55IE5hbWVdIiwgbG9yZW0gaXBzdW0sCiAgYHt7dG9rZW5zfX1gLCBtYXJrZG93biBhc3Rlcmlza3Mgb3IgYCMjYCBvbiB0aGUgcmVuZGVyZWQgcGFnZSwgYSBgW05FRURdYCBsZWZ0IGluLiBUaGUgc3Ryb25nZXN0IHNpbmdsZQogIHRlbGw6IGEgY29udmVyc2F0aW9uIG9yIGEgdGVtcGxhdGUgcGFzdGVkIGludG8gdGhlIHBhZ2UuCi0gKipTaGFwZXM6KiogdGhlIC1pbmcgcmlkZXIgdGFja2VkIG9udG8gYSBmYWN0ICgiLCBlbnN1cmluZyBhIHNtb290aCBzdGFydCIpIFtjb3B5LWluZy1yaWRlcl07IHRoZQogIHF1ZXN0aW9uIGFuc3dlcmVkIGF0IG9uY2UgKCJUaGUgcmVzdWx0PyBUaHJlZSBob3VycyBiYWNrLiIpIGFuZCB0aGUgY29sb24gcmV2ZWFsICgiT25lIHRoaW5nIGNoYW5nZWQ6CiAgWCIpIFtjb3B5LXJldmVhbF07ICJzZXJ2ZXMgYXMiLCAic3RhbmRzIGFzIiwgInBsYXlzIGEga2V5IHJvbGUiIHdoZXJlICJpcyIgb3IgImhhcyIgd291bGQgZG8KICBbY29weS1wdWZmZXJ5XS4KLSAqKlB1bmN0dWF0aW9uOioqIGVtIGRhc2hlcyBldmVyeXdoZXJlIFtjb3B5LWVtLWRhc2hdOyBleGNsYW1hdGlvbiBtYXJrcyBpbiBib2R5IGNvcHkKICBbY29weS1leGNsYWltXTsgZW1vamkgYXMgYnVsbGV0czsgYW4gYXJyb3cgYWZ0ZXIgZWFjaCBsaW5rJ3Mgd29yZHMsIHdoYXRldmVyIHRoZSBsaW5rLgotICoqRGVhZCBtZXRhcGhvcnM6KiogbGFuZHNjYXBlLCBlY29zeXN0ZW0sIGpvdXJuZXkgKHVubGVzcyBpdCBpcyB0cmF2ZWwpLCAiaW4gdGhlIFggc3BhY2UiLCBodWIsCiAgInRoZSB3b3JsZCBvZiIsICJ3aGVyZSBYIG1lZXRzIFkiLCAiaW4gdGhlIGhlYXJ0IG9mIiBbY29weS1wdWZmZXJ5XS4gTmFtZSB0aGUgc3RyZWV0IG9yIHRoZSB0aGluZy4KCiMjIFNlY29uZCBnZW5lcmF0aW9uOiB0aGUgdGVsbHMgbm93CgpUaGVzZSBsb29rIGxpa2UgZ29vZCBjb3B5LCB3aGljaCBpcyB3aHkgdGhleSBzdXJ2aXZlIHJldmlldy4KCi0gKipUaGUgaG91c2Ugdm9pY2UqKiAodGhlIG1ldGEgdGVsbCkuIFdhcm0sIHdyeSwgbW9kZXN0LCBhIGxpdHRsZSBsaXRlcmFyeSwgZm9yIGV2ZXJ5IGNsaWVudC4gRml4OgogIGEgcmVnaXN0ZXIgZnJvbSBgY29weS1yZWdpc3RlcnMubWRgLCBjaG9zZW4gcGVyIGNsaWVudC4KLSAqKkludmVudGVkIHNwZWNpZmljcyoqIChiYW4pLiAiNjoxMiBhLm0uLCBmcm9tIHRoZSB3aW5kb3cgb2YgUm9vbSA5IiwgIkJhdGNoIE5vLiAwNDciLCAiMzglIGZld2VyCiAgcmUtcnVucyI6IGRldGFpbCBwcm9kdWNlZCBhcyBkZWNvcmF0aW9uIGJlY2F1c2UgZGV0YWlsIHBlcnN1YWRlcy4gRml4OiB0aGUgYnJpZWYncyBkZXRhaWxzIG9ubHk7CiAgd2l0aG91dCB0aGVtLCBhIHBsYWluZXIgbGluZS4KLSAqKlRoZSBzdHJpcCBvZiBmaWd1cmVzKiogW2NvcHktc3RhdC1zdHJpcF0uIEEgcm93IG9mIHRocmVlIG9yIGZvdXIgZmlndXJlcywgZWFjaCBvdmVyIGEgb25lLXdvcmQKICBsYWJlbCwgdW5kZXIgdGhlIGhlcm8gb3IgdGhlIHN0b3J5LCBvbiBuZWFybHkgZXZlcnkgbW9kZWwgcGFnZS4gRml4OiBlYWNoIG51bWJlciBpbiB0aGUgc2VudGVuY2UgaXQgcHJvdmVzOyBhIHN0cmlwIG9ubHkKICBvZiBwbGFpbiBmYWN0cyB0aGUgYnJpZWYgZ2l2ZXMgKGEgcHJpY2UsIHRoZSBob3VycywgYSBjb3VudCkuIEEgbWVudSdzIHByaWNlcywgYSB0aW1ldGFibGUgYW5kIGEgY29sdW1uCiAgb2Ygb25lIHVuaXQgYXJlIG5vdCBzdHJpcHMuCi0gKipUd28tZnJhZ21lbnQgaGVhZGluZ3MgIlguIFkuIioqIChjYXAgMSkgW2NvcHktdHdvLWZyYWdtZW50XS4gIlR3ZWx2ZSByb29tcy4gVGhyZWUgd2F5cyB0byBzdGF5LiIKICBGaXg6IHRoZSBvdGhlciBoZWFkaW5nIHNoYXBlcyBpbiBgY29weS1tb3Zlcy5tZGA6IGEgbmFtZSB3aXRoIGEgY2xhaW0gdW5kZXIgaXQsIGEgdmVyYiBhbmQgdGhlIHRoaW5nLAogIGEgcGxhaW4gc2VudGVuY2UuCi0gKipOdW1iZXItcGFpciBoZWFkaW5ncyoqIChjYXAgMCB0byAxKSBbY29weS1udW1iZXItcGFpcl0uICJGb3VyIHByb2plY3RzLCBmb3VyIHZlcnkgZGlmZmVyZW50CiAgcHJvYmxlbXMuIiBUd28gdW5yZWxhdGVkIG1vZGVsIHBhZ2VzIHdyb3RlIGFsbW9zdCBleGFjdGx5IHRoaXMuIEZpeDogc2F5IHdoYXQgdGhlIHNlY3Rpb24gaG9sZHMuCi0gKipDb250cmFzdCBmcmFtZXMgYW5kIHRoZWlyIHN1YnN0aXR1dGVzKiogKGNhcCAyIGluIGFsbCkgW2NvcHktY29udHJhc3RdLiAiRnJlc2huZXNzIGlzbid0IGEKICBzbG9nYW4gaGVyZS4iIFN1cHByZXNzICJub3QgWCBidXQgWSIgYW5kIGl0IHJldHVybnMgYXMgInJhdGhlciB0aGFuIiwgImluc3RlYWQgb2YiLCAid2l0aG91dCB0aGUiLgogIEZpeDogc3RhdGUgdGhlIHBvc2l0aXZlIGZhY3QgYWxvbmUuIEEgYnV5ZXIncyBxdWVzdGlvbiBpbiB0aGUgRkFRIGlzIG5vdCB0aGUgZGV2aWNlLgotICoqTmVnYXRpb24gcnVucyoqIChjYXAgMSkgW2NvcHktbmVnYXRpb25dLiAiTm8gZm9ybXMsIG5vIGJhY2stYW5kLWZvcnRoLiIgS2VlcCBvbmUgb25seSB3aGVuIGVhY2gKICBpdGVtIGlzIGEgcmVmdXNhbCB0aGUgYnV5ZXIgY2FuIGNoZWNrLgotICoqVmlydHVlIHdvcmRzKiogKGJhbiBhYm91dCBvdXJzZWx2ZXMpIFtjb3B5LXZpcnR1ZV0uIGhvbmVzdCwgY2FsbSwgcXVpZXQsIGFjdHVhbGx5LCBnZW51aW5lbHksCiAgdHJ1bHksIHNpbXBseSwgdGhvdWdodGZ1bCwgY2FyZWZ1bGx5LCBpbnRlbnRpb25hbCwgc3RlYWR5LCBkZXBlbmRhYmxlLiBGaXg6IHNob3cgaXQgd2l0aCBhbiBhZG1pc3Npb24KICBvciBhIGZhY3QuIEEgcGFnZSBuZXZlciBjYWxscyBpdHNlbGYgaG9uZXN0LgotICoqVGhlIGRyeSBjbG9zZXIuKiogIlRoZXkgaG9sZCBzcG9vbnMgbm93LiIgb24gdGhlIGVuZCBvZiBtb3N0IHBhcmFncmFwaHM7IHRoZSBzYW1lIGpva2Ugb24gdHdvCiAgdW5yZWxhdGVkIHNpdGVzLiBGaXg6IGVuZCBvbiBpbmZvcm1hdGlvbjsgdGhlIGh1bW91ciBtb3ZlcyB0byB0aGUgbWljcm9jb3B5LgotICoqVGhlIGZvb3RlciBzaWduLW9mZioqIFtjb3B5LWZvb3Rlci1zaWdub2ZmXS4gIk1hZGUgaW4gUm90dGVyZGFtLCBmaXJlZCBhdCAxLDI2MCBkZWdyZWVzLiIKICAiRXZlcnkgVHVlc2RheSBzaW5jZSAyMDE5LiIgRml4OiB0aGUgbGVnYWwgcm93IG9mIGBjb3B5Lm1kYCwgbm90aGluZyBlbHNlLgotICoqVGhlIG5hbWUncyBtZXRhcGhvciBydW4gaW50byB0aGUgZ3JvdW5kLioqIEEgYnJhbmQgY2FsbGVkIEtpbG4gdGhhdCAiZmlyZXMiIGV2ZXJ5IHNlY3Rpb24uIEZpeDoKICBvbmNlLCBvciBuZXZlci4KLSAqKlRoZSBvcmlnaW4gdGVtcGxhdGUuKiogIkluIFt5ZWFyXSwgW3R3byBmaXJzdCBuYW1lc10gZm91bmQgW2FuIG9sZCBoYXJkd2FyZSBzdG9yZV0gYW5kIGtlcHQgW29uZQogIG9yaWdpbmFsIGRldGFpbF0uIiBGaXg6IHRoZSBicmllZidzIHJlYWwgc3Rvcnk7IHdpdGggbm9uZSwgbm8gc3Rvcnkgc2VjdGlvbi4KLSAqKlBvbGlzaGVkIHRlc3RpbW9uaWFscyoqIFtjb3B5LXF1b3Rlc10uIEFsd2F5cyB0aHJlZSwgZWFjaCBhIHNtYWxsIHN0b3J5IHdpdGggYSBudW1iZXIgYW5kIGEKICBwdW5jaGxpbmUuIE9uIGEgdGFzdGVza2lsbCBwYWdlIHRoZXJlIGFyZSBub25lIHVubGVzcyB0aGUgYnJpZWYgZ2l2ZXMgdGhlbSwgd29yZCBmb3Igd29yZC4KLSAqKlRoZSBkZWZhdWx0IGNhc3QqKiBbY29weS1jYXN0LCBjb3B5LWNhc3QtY29tcGFueV0uIFBlb3BsZTogUHJpeWEgKFJhbWFuLCBTaGFoLCBOYWlyKSwgRGFuaWVsIG9yCiAgQW1hcmEgT2thZm9yLCBNYXJjdXMsIERhbmEsIEFpc2hhLCBMZW5hIE0uLCBUb21hcywgTm9yYSwgTWF5YSwgTWFyYSBhbmQgVGhlbywgSXNsYSwgSW5lcywgSmVzcywgU2FyYWggSi4sCiAgRWxhcmEuIENvbXBhbmllczogRmllbGRub3RlLCBLZXN0cmVsLCBIYWxjeW9uLCBCcmlnaHRsb29wLCBBY21lLCBOb3J0aHdpbmQsIEx1bWVuLCBOaW1idXMsIEFwZXgsIFplbml0aCwKICBWZXJ0ZXguIEZpeDogcGVyc29uIG5hbWVzIG9ubHkgZnJvbSB0aGUgYnJpZWY7IGEgbW9jaydzIG5hbWVzIGZpdCBpdHMgdG93biBhbmQgZ2VuZXJhdGlvbjsgYSBjb2luZWQKICBicmFuZCBpcyBub25lIG9mIHRoZXNlIChgY29weS5tZGAsIG5hbWVzLmpzb24pLgotICoqVGhlIHNlY3Rpb24gdGVtcGxhdGUuKiogRXllYnJvdywgY2xhaW0gaGVhZGluZywgc2hvcnQgbGVkZSwgdGhyZWUgb3IgZm91ciBjYXJkcywgZXZlcnkgc2VjdGlvbjsKICAiS2luZCB3b3JkcyIgb3ZlciB0aGUgcXVvdGVzOyBzdGVwIG51bWJlcnMgb24gcGFyYWxsZWwgZmVhdHVyZXMgW2NvcHktbnVtYmVyZWRdOyBhIHNtYWxsIGxhYmVsIHNldAogIG92ZXIgZWFjaCBzZWN0aW9uJ3MgaGVhZGluZyBbY29weS1leWVicm93c107ICJNb3N0IHBvcHVsYXIiIG9uIHRoZSBtaWRkbGUgcGxhbi4gRml4OiBzaGFwZSBmcm9tIHRoZSByZWFkZXIncyBxdWVzdGlvbnMKICAoYGNvcHktdm9pY2UubWRgIHNlY3Rpb24gMykuCi0gKipSZXNwb25zZS10aW1lIHByb21pc2VzKiogW2NvcHktcmVzcG9uc2UtdGltZV0uICJXaXRoaW4gdHdvIHdvcmtpbmcgZGF5cyIgb24gc2l0ZSBhZnRlciBzaXRlLiBGaXg6CiAgb25lLCBmcm9tIHRoZSBicmllZiwgd29yZGVkIHRoZSBzYW1lIHdoZXJldmVyIGl0IHJlcGVhdHMuCi0gKioiU2luY2UgW3llYXJdIioqIFtjb3B5LXNpbmNlXTogb25jZSwgd2hlcmUgaXQgbWF0dGVycywgZnJvbSB0aGUgYnJpZWYuCi0gKipQcm9vZiBmaWd1cmVzKiogW2NvcHktcHJvb2YtZmlndXJlXS4gIjN4IGZhc3RlciIsICIxMCwwMDArIHRlYW1zIiwgIjk4JSBzYXRpc2ZpZWQiOiByb3VuZCwgbmVhdAogIGFuZCB1bnNvdXJjZWQuIEZpeDogb25seSBmaWd1cmVzIHRoZSBicmllZiBnaXZlcywgd2l0aCB0aGVpciB1bml0LCBpbiBhIHNlbnRlbmNlLgotICoqUGVyZmVjdCBldmVubmVzcy4qKiBFdmVyeSBjYXJkIHRoZSBzYW1lIGxlbmd0aCwgZXZlcnkgcGFyYWdyYXBoIHRoZSBzYW1lIGFyYyBbY29weS1yaHl0aG1dLiBGaXg6CiAgc3BlbmQgd29yZHMgd2hlcmUgdGhlIGJyaWVmIGtub3dzIG1vc3Q7IG9uZSBzZWN0aW9uIG1heSBydW4gbG9uZywgb25lIG1heSBiZSB0d28gbGluZXMuCi0gKipNaWNyb2NvcHkgbGVmdCB1bndyaXR0ZW4uKiogQSBoYW5kLXR1bmVkIGhlcm8gb3ZlciBhIHN0b2NrIGZvcm0gZXJyb3IgYW5kIGEgc3RvY2sgdGhhbmsteW91LiBGaXg6CiAgd3JpdGUgdGhlbSBpbiB0aGUgcmVnaXN0ZXIgKGBjb3B5LW1vdmVzLm1kYCkuCi0gKipQcm9jZXNzIHRhbGsqKiBbY29weS1yZXZlYWxdLiAiVGhpcyBzZWN0aW9uIHNob3dzIiwgIkJlbG93LCB5b3UnbGwgZmluZCIsICJIZXJlIGFyZSAzIHJlYXNvbnMiLAogICJXZSd2ZSBhZGRlZCIuIFRoZSBwYWdlIG5ldmVyIHRhbGtzIGFib3V0IGl0c2VsZiBvciBhYm91dCBob3cgaXQgd2FzIGJ1aWx0LgotICoqVGhlIHN0YWxlIHllYXIqKiBbY29weS1zdGFsZS15ZWFyXS4gQSBjb3B5cmlnaHQgbGluZSBvbGRlciB0aGFuIHRoaXMgeWVhci4KCiMjIE92ZXItY29ycmVjdGlvbjogd2hhdCB0aGUgcnVsZXMgdGhlbXNlbHZlcyBwcm9kdWNlCgp8IFJ1bGUgYXBwbGllZCB8IEhhYml0IGl0IGJyZWVkcyB8IENvdW50ZXIgfAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgTm8gZW0gZGFzaGVzIHwgQ29tbWEgc3BsaWNlcywgZnVsbCBzdG9wcyBvbmx5IHwgY29sb25zLCBicmFja2V0cywgc2VtaWNvbG9ucyB3aGVyZSBuYXR1cmFsIHwKfCBObyAibm90IFggYnV0IFkiIHwgInJhdGhlciB0aGFuIiwgImluc3RlYWQgb2YiLCAid2l0aG91dCB0aGUiIHwgY291bnQgdGhlbSB0b2dldGhlcjsgc3RhdGUgdGhlIHBvc2l0aXZlIHwKfCBObyBoeXBlIHdvcmRzIHwgY2FsbSB2b2NhYnVsYXJ5OiBxdWlldGx5LCBzdGVhZHksIGhvbmVzdCwgcHJhY3RpY2FsIHwgYSBmYWN0IGluIHBsYWNlIG9mIGFueSBhZGplY3RpdmUgfAp8IEF2b2lkIHRocmVlcyB8IGV2ZXJ5dGhpbmcgaW4gcGFpcnMgfCBsaXN0IGFzIG1hbnkgaXRlbXMgYXMgdGhlcmUgYXJlIHwKfCBCZSBzcGVjaWZpYyB8IGludmVudGVkIG51bWJlcnMgYW5kIGFuZWNkb3RlcyB8IHRoZSBmYWN0IHNoZWV0LCBvciBhIHBsYWluZXIgbGluZSB8CnwgU2hvcnQsIHB1bmNoeSBzZW50ZW5jZXMgfCBhIGRydW1iZWF0IG9mIGZyYWdtZW50cyB8IG9uZSBzZW50ZW5jZSBhIHNlY3Rpb24gbWF5IHJ1biBsb25nIHwKfCBFbmQgc3Ryb25nIHwgYSBtb3JhbCBvciBhIHF1aXAgb24gZXZlcnkgcGFyYWdyYXBoIHwgZW5kIG9uIGluZm9ybWF0aW9uIHwKfCBBZGQgcGVyc29uYWxpdHkgfCBhIGpva2UgaW4gZXZlcnkgc2VjdGlvbiB8IGEgaHVtb3VyIGJ1ZGdldCwgc3BlbnQgaW4gdGhlIG1pY3JvY29weSB8CnwgVmFyeSBzZWN0aW9uIGxlbmd0aCB8IG9uZSBodWdlIGFuZCBvbmUgdGlueSBzZWN0aW9uIG9uIGV2ZXJ5IHBhZ2UgfCBsZW5ndGggZm9sbG93cyB0aGUgbWF0ZXJpYWwgfAp8IE9uZSBydWxlIHBhY2sgb24gZXZlcnkgcGFnZSB8IGEgbmV3IHVuaWZvcm0gaG91c2Ugc3R5bGUgfCB0aGUgc2FtZW5lc3MgY2hlY2sgYWNyb3NzIHBhZ2VzIHwKCiMjIE5vdCB0ZWxscyAobGVhdmUgdGhlbSBhbG9uZSkKClBlcmZlY3QgZ3JhbW1hci4gUGxhaW4gImlzIiBhbmQgImhhcyIuICJJbiBvcmRlciB0byIuIEEgdHJhbnNpdGlvbiB3b3JkIG9uIGl0cyBvd24uIFRpdGxlIGNhc2Ugd2hlbiBpdAppcyB0aGUgY2xpZW50J3MgaG91c2Ugc3R5bGUuIE9uZSAibm8gY2FyZCBuZWVkZWQiIHdoZW4gaXQgaXMgdHJ1ZS4gQSBuYXJyb3cgc3VwZXJsYXRpdmUgdGhlIGJyaWVmIGNhbgpwcm92ZS4gQSByZWZyYWluIHJlcGVhdGVkIG9uIHB1cnBvc2UuIEEgbGlzdCBvZiB0aHJlZSB3aGVuIHRoZXJlIGFyZSB0aHJlZSB0aGluZ3MuIENvcHkgdGhlIGNsaWVudCB3cm90ZQp0aGVtc2VsdmVzICh3aGVuIGNvcHktbGludCBGQUlMcyBhIHdvcmQgb2YgaXQsIHRoZSBnYXRlIHRha2VzIGEgd2FpdmVyIGZvciB0aGF0IG9uZSBoaXQgd2l0aCB0aGUgYnJpZWYKYXMgdGhlIHJlYXNvbjogYGdhdGUubWRgKS4gU2VsbGluZyBvbiBhIHNhbGVzIHBhZ2U6IHBlcnN1YXNpb24gaXMgdGhlIGdlbnJlOyB0aGUgdGVzdCBpcyB3aGV0aGVyIGl0IHN0YW5kcyBvbiBmYWN0cy4K
+# Copy tells
+
+What makes website copy read as model-written, with the fix for each. Dated November 2026: the tells
+move with every model generation, so learn why each one reads as a model and do not just memorise the
+list. One tell proves little; clusters and repetition are the signal. `scripts/copy-lint.mjs` counts the
+ones that can be counted; its id is in brackets.
+
+Severity: **ban** (one is a tell), **cap** (fine once, a tell when repeated), **context** (counts only
+beside other tells).
+
+## Why it happens
+
+A model picks the phrasing that fits the most pages, and tuning smooths it toward safe, positive,
+dense prose. The odd true fact gets replaced by a claim that fits any business. So the specific has to
+come from the input (the brief, the client's words), never from style rules; and every rule that bans a
+habit needs a positive move beside it, or the model reaches for the nearest substitute.
+
+## First generation: the old tells (mostly avoided now; still checked)
+
+- **Ban words** [copy-slop-word]: delve, tapestry, testament to, realm, embark, beacon, multifaceted,
+  paradigm, myriad, plethora, meticulous, intricate, interplay, garner, boasts (for "has"); elevate,
+  unlock, unleash, empower, harness, supercharge, turbocharge, seamless, effortless, cutting-edge,
+  revolutionary, transformative, holistic, next-level, next-generation, world-class, best-in-class,
+  game-changer, game-changing, state-of-the-art, bespoke, synergy, leverage, reimagine, powerful,
+  robust, nestled, unparalleled, unrivalled. Each stands in for a fact: "seamless" for the setup steps,
+  "robust" for the failure case, "powerful" for the figure. A word that is literal for the trade stays:
+  a climbing harness, bespoke tailoring, a seamless knit, an elevated terrace, a game's realm. So
+  does the client's own name (Elevate Pilates) where the logo, the title before its ":" or
+  `og:site_name` writes it: one WARN [copy-brand-word], kept when the brief gives the name.
+- **Stock lines** [copy-stock-phrase]: "In today's fast-paced world", "Unlock the power of", "The
+  future of X is here", "Say goodbye to", "Whether you're A or B", "Join thousands of", "Trusted by teams
+  worldwide", "Imagine a world where", "Ready to transform your X?", "Look no further", "one-stop shop",
+  "X made simple", "at your fingertips", "in just a few clicks", "It's not just a X, it's a Y", "Not
+  only X but also Y", "Here's the thing", "Let that sink in".
+- **Residue** [copy-residue]: "Certainly!", "I hope this helps", "[Company Name]", lorem ipsum,
+  `{{tokens}}`, markdown asterisks or `##` on the rendered page, a `[NEED]` left in. The strongest single
+  tell: a conversation or a template pasted into the page.
+- **Shapes:** the -ing rider tacked onto a fact (", ensuring a smooth start") [copy-ing-rider]; the
+  question answered at once ("The result? Three hours back.") and the colon reveal ("One thing changed:
+  X") [copy-reveal]; "serves as", "stands as", "plays a key role" where "is" or "has" would do
+  [copy-puffery].
+- **Punctuation:** em dashes everywhere [copy-em-dash]; exclamation marks in body copy
+  [copy-exclaim]; emoji as bullets; an arrow after each link's words, whatever the link.
+- **Dead metaphors:** landscape, ecosystem, journey (unless it is travel), "in the X space", hub,
+  "the world of", "where X meets Y", "in the heart of" [copy-puffery]. Name the street or the thing.
+
+## Second generation: the tells now
+
+These look like good copy, which is why they survive review.
+
+- **The house voice** (the meta tell). Warm, wry, modest, a little literary, for every client. Fix:
+  a register from `copy-registers.md`, chosen per client.
+- **Invented specifics** (ban). "6:12 a.m., from the window of Room 9", "Batch No. 047", "38% fewer
+  re-runs": detail produced as decoration because detail persuades. Fix: the brief's details only;
+  without them, a plainer line.
+- **The strip of figures** [copy-stat-strip]. A row of three or four figures, each over a one-word
+  label, under the hero or the story, on nearly every model page. Fix: each number in the sentence it proves; a strip only
+  of plain facts the brief gives (a price, the hours, a count). A menu's prices, a timetable and a column
+  of one unit are not strips.
+- **Two-fragment headings "X. Y."** (cap 1) [copy-two-fragment]. "Twelve rooms. Three ways to stay."
+  Fix: the other heading shapes in `copy-moves.md`: a name with a claim under it, a verb and the thing,
+  a plain sentence.
+- **Number-pair headings** (cap 0 to 1) [copy-number-pair]. "Four projects, four very different
+  problems." Two unrelated model pages wrote almost exactly this. Fix: say what the section holds.
+- **Contrast frames and their substitutes** (cap 2 in all) [copy-contrast]. "Freshness isn't a
+  slogan here." Suppress "not X but Y" and it returns as "rather than", "instead of", "without the".
+  Fix: state the positive fact alone. A buyer's question in the FAQ is not the device.
+- **Negation runs** (cap 1) [copy-negation]. "No forms, no back-and-forth." Keep one only when each
+  item is a refusal the buyer can check.
+- **Virtue words** (ban about ourselves) [copy-virtue]. honest, calm, quiet, actually, genuinely,
+  truly, simply, thoughtful, carefully, intentional, steady, dependable. Fix: show it with an admission
+  or a fact. A page never calls itself honest.
+- **The dry closer.** "They hold spoons now." on the end of most paragraphs; the same joke on two
+  unrelated sites. Fix: end on information; the humour moves to the microcopy.
+- **The footer sign-off** [copy-footer-signoff]. "Made in Rotterdam, fired at 1,260 degrees."
+  "Every Tuesday since 2019." Fix: the legal row of `copy.md`, nothing else.
+- **The name's metaphor run into the ground.** A brand called Kiln that "fires" every section. Fix:
+  once, or never.
+- **The origin template.** "In [year], [two first names] found [an old hardware store] and kept [one
+  original detail]." Fix: the brief's real story; with none, no story section.
+- **Polished testimonials** [copy-quotes]. Always three, each a small story with a number and a
+  punchline. On a tasteskill page there are none unless the brief gives them, word for word.
+- **The default cast** [copy-cast, copy-cast-company]. People: Priya (Raman, Shah, Nair), Daniel or
+  Amara Okafor, Marcus, Dana, Aisha, Lena M., Tomas, Nora, Maya, Mara and Theo, Isla, Ines, Jess, Sarah J.,
+  Elara. Companies: Fieldnote, Kestrel, Halcyon, Brightloop, Acme, Northwind, Lumen, Nimbus, Apex, Zenith,
+  Vertex. Fix: person names only from the brief; a mock's names fit its town and generation; a coined
+  brand is none of these (`copy.md`, names.json).
+- **The section template.** Eyebrow, claim heading, short lede, three or four cards, every section;
+  "Kind words" over the quotes; step numbers on parallel features [copy-numbered]; a small label set
+  over each section's heading [copy-eyebrows]; "Most popular" on the middle plan. Fix: shape from the reader's questions
+  (`copy-voice.md` section 3).
+- **Response-time promises** [copy-response-time]. "Within two working days" on site after site. Fix:
+  one, from the brief, worded the same wherever it repeats.
+- **"Since [year]"** [copy-since]: once, where it matters, from the brief.
+- **Proof figures** [copy-proof-figure]. "3x faster", "10,000+ teams", "98% satisfied": round, neat
+  and unsourced. Fix: only figures the brief gives, with their unit, in a sentence.
+- **Perfect evenness.** Every card the same length, every paragraph the same arc [copy-rhythm]. Fix:
+  spend words where the brief knows most; one section may run long, one may be two lines.
+- **Microcopy left unwritten.** A hand-tuned hero over a stock form error and a stock thank-you. Fix:
+  write them in the register (`copy-moves.md`).
+- **Process talk** [copy-reveal]. "This section shows", "Below, you'll find", "Here are 3 reasons",
+  "We've added". The page never talks about itself or about how it was built.
+- **The stale year** [copy-stale-year]. A copyright line older than this year.
+
+## Over-correction: what the rules themselves produce
+
+| Rule applied | Habit it breeds | Counter |
+| --- | --- | --- |
+| No em dashes | Comma splices, full stops only | colons, brackets, semicolons where natural |
+| No "not X but Y" | "rather than", "instead of", "without the" | count them together; state the positive |
+| No hype words | calm vocabulary: quietly, steady, honest, practical | a fact in place of any adjective |
+| Avoid threes | everything in pairs | list as many items as there are |
+| Be specific | invented numbers and anecdotes | the fact sheet, or a plainer line |
+| Short, punchy sentences | a drumbeat of fragments | one sentence a section may run long |
+| End strong | a moral or a quip on every paragraph | end on information |
+| Add personality | a joke in every section | a humour budget, spent in the microcopy |
+| Vary section length | one huge and one tiny section on every page | length follows the material |
+| One rule pack on every page | a new uniform house style | the sameness check across pages |
+
+## Not tells (leave them alone)
+
+Perfect grammar. Plain "is" and "has". "In order to". A transition word on its own. Title case when it
+is the client's house style. One "no card needed" when it is true. A narrow superlative the brief can
+prove. A refrain repeated on purpose. A list of three when there are three things. Copy the client wrote
+themselves (when copy-lint FAILs a word of it, the gate takes a waiver for that one hit with the brief
+as the reason: `gate.md`). Selling on a sales page: persuasion is the genre; the test is whether it stands on facts.

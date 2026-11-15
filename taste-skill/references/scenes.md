@@ -1,1 +1,127 @@
-IyBCaWcgc2NlbmVzCgpUaGUgb25lIHN0cmV0Y2ggb2YgYSB0ZWNoIHBhZ2Ugd2hlcmUgdGhlIHdob2xlIHNjcmVlbiBiZWNvbWVzIGEgc2NlbmUsIGRyaXZlbiBieSB0aGUgc2Nyb2xsLiBFYWNoIGlzCmEgZm9sZGVyIGluIGBhc3NldHMvc2NlbmVzLzxpZD4vYCAoYHNjZW5lLmpzYCwgYHNjZW5lLmNzc2AsIGBtZXRhLmpzb25gLCBgZGVtby5odG1sYCk7IGBpbmRleC5qc29uYApsaXN0cyB0aGVtLCBgbGliLmpzYCBpcyB0aGUgaGVsZCBzdGFnZSB0aGV5IHNoYXJlLCBgc2NlbmVzLmpzYCBsb2FkcyB0aGVtLCBgcHJpbnQuanNgIG1vdW50cyBhbgpvYmplY3QgcmVuZGVyIGZvciB0aGUgdHdvIG9iamVjdCBzY2VuZXMuCgojIyBXaG8gZ2V0cyBvbmUKCi0gKipUZWNoIHBhZ2VzIG9ubHk6Kiogc29mdHdhcmUgKGFwcHMsIEFJLCBkZXZlbG9wZXIgdG9vbHMsIGZpbnRlY2gpLCB0ZWNoIChhIHRlY2huaWNhbCBwcm9kdWN0LAogIGhhcmR3YXJlLCBhIG5ldHdvcmspIGFuZCBnYW1pbmcuIEEgcGxhY2UsIGEgc2VydmljZSBvciBhIHBsYWluIHByb2R1Y3QgKHNpdGUta2luZCBvdGhlcjogYSBjYWZlLAogIGEgZ3Vlc3Rob3VzZSwgYSBzaG9wLCBhIHN0dWRpbykgbmV2ZXIgZ2V0cyBhIHNjZW5lOiBpdCBnZXRzIHBob3RvZ3JhcGhzLiBUaGUgYHR5cGVzYCBpbiBgaW5kZXguanNvbmAgYXJlIGV4YWN0bHkKICBgc29mdHdhcmVgLCBgdGVjaGAgYW5kIGBnYW1pbmdgLgotICoqQXQgbW9zdCBvbmUgYSBwYWdlLCoqIGFuZCBvbmx5IHdoZW4gdGhlIGJyaWVmIGhhcyB3aGF0IHRoZSBzY2VuZSBgbmVlZHNgIChpdHMgb3duIHBob3RvZ3JhcGhzLAogIGl0cyBvd24gc2NyZWVuLCBpdHMgb3duIHdvcmRzOyBhIGdhbWUncyBrZXkgYXJ0IGFuZCBpbi1lbmdpbmUgc2hvdHMgYXJlIGl0cyBwaG90b2dyYXBocykuIE5vIG5lZWQKICBtZXQsIG5vIHNjZW5lOiBuZXZlciBhIHN0YW5kLWluIGZvciB0aGUgY2xpZW50J3MgcGljdHVyZXMuIEEgZ2FtZSB3aXRob3V0IGFydCBmaWxlcyBzZXRzIGl0cyBuYW1lCiAgbGFyZ2Ugb3ZlciBzdGFuZC1pbiBwaG90b2dyYXBocyBvZiBpdHMgc2V0dGluZyAodGhlIGBwaG90b2AgaGVybyBhbmQgaXRzIHdvcmxkIHNlY3Rpb247IGEgcmVuZGVyCiAgb25seSB3aGVuIHRoZSBicmllZiBhc2tzIGZvciAzRCksIG5ldmVyIGFuIGVmZmVjdCBpbiBpdHMgcGxhY2UgKGBzZWN0aW9ucy5tZGAsIEdhbWluZykuCi0gKipEZWFsIGF0IHJhbmRvbSoqIGFtb25nIHRoZSBzY2VuZXMgd2hvc2UgYGZpdHNgIGhhcyB0aGUgc2VjdGlvbiwgd2hvc2UgYHR5cGVzYCBoYXMgdGhlIHBhZ2UncwogIHR5cGUgYW5kIHdob3NlIGBuZWVkc2AgdGhlIGJyaWVmIG1lZXRzLCB3ZWlnaHRlZCBieSBgd2VpZ2h0YCwgYXdheSBmcm9tIHRoZSBsYXN0IHRocmVlIGluCiAgYC50YXN0ZS1za2lsbC9zY2VuZXMtaGlzdG9yeS5qc29uYCAodGhlIGNvbW1hbmQgaXMgaW4gYGVmZmVjdHMtdXNhZ2UubWRgKS4gTmFtZSB0aGUgc2NlbmUgYW5kIGl0cwogIHNlY3Rpb24gaW4gdGhlIHBsYW4uIEEgYmlnIHNjZW5lIGlzIHRoZSBwYWdlJ3Mgb25lIGVmZmVjdDogbm8gc2hhZGVyIGdyb3VuZCwgbm8gV2ViR0wgcGFydCBiZXNpZGUKICBpdC4KLSAqKlRoZSBoZXJvIGhvbGRzIG9uZSBzY3JlZW4gYXQgcmVzdCwqKiBzbyBhIHNjZW5lIGlzIGRlYWx0IGFzIHRoZSBoZXJvIG9ubHkgd2hlbiBpdHMgYHJlc3RIYCBpcyAxLgogIEEgc2NlbmUgd2hvc2UgYHJlc3RIYCBpcyAyICh0b2RheSBhbGwgdGhyZWUgaGVybyBzY2VuZXMpIGdvZXMgYmVsb3cgdGhlIGhlcm8gb25seSwgYXMgYQogIHR3by1zY3JlZW4gc2VjdGlvbiAoYC0taDogMmApIHdob3NlIGhlYWRpbmcgaXMgYW4gaDI7IHRoZSBoZXJvIGlzIHRoZW4gZGVhbHQgYXMgdXN1YWwuCi0gKipUaGUgdHdvIG9iamVjdCBzY2VuZXMqKiAoYGZpeGVkLWhlcm8tb2JqZWN0YCwgYG9iamVjdC10aHJvdWdoLWdpYW50LXR5cGVgKSBkcmF3IGEgV2ViR0wgcmVuZGVyCiAgb2YgYW4gb2JqZWN0IG9mIHRoZSBjbGllbnQncyBvd24gdHJhZGUgKGEgZGVjayBvZiBjYXJkcyBmb3IgYSBjYXJkLWdhbWUgZW5naW5lLCBhIGdsb2JlIGZvciBhbgogIGVkZ2UgbmV0d29yayk7IG5ldmVyIGFuIG9iamVjdCBvZiBhbm90aGVyIHRyYWRlLCBuZXZlciBhIGN1cCBvbiBhIGNhZmUuCi0gKipUaGUgcmVzdCBvZiB0aGUgcGFnZSBzdGF5cyBjYWxtOioqIG5vIGNhcmQsIHJvdyBvciB0aWxlIG1vdmVzIGJlY2F1c2UgdGhlIHBhZ2Ugc2Nyb2xsZWQuIEJlc2lkZQogIGEgc2NlbmUgdGhlIHBhZ2UgbWF5IHN0aWxsIHRha2Ugb25lIG9yIHR3byBzZWN0aW9uIG1vbWVudHMgKHRoZSBob3VzZSBvdmVycmlkZXM6IG9uZSBiaWcgc2NlbmUgYW5kCiAgb25lIG9yIHR3byBzY3JvbGwgbW9tZW50cyksIGRlYWx0IGFzIGBtb21lbnRzLm1kYCBzYXlzIChvbmUgb24gYSBzaG9ydCBwYWdlLCB0d28gb24gZWlnaHQKICBzZWN0aW9ucyBvciBtb3JlKSwgbmV2ZXIgaW4gdGhlIHNjZW5lJ3Mgc2VjdGlvbiBvciB0aGUgb25lIGJlc2lkZSBpdCwgbmV2ZXIgb25lIGluIHRoZSBzY2VuZSdzCiAgYGF2b2lkTW9tZW50c2Agb3IgaXRzIHR3aW4gKGBlZmZlY3RzLXVzYWdlLm1kYCwgQmlnIHNjZW5lKS4KCnwgaWQgfCBmaXRzIHwgdHlwZXMgfCBuZWVkcyB8IFdlYkdMIHwgcmVzdEggfCBwaG9uZSB8CnwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwKfCBgZGVzY2VuZC10aHJvdWdoLXdlYXRoZXJgIHwgaGVybyAoYmVsb3cgaXQgb25seSkgfCB0ZWNoLCBnYW1pbmcgfCB0d28gcGhvdG9ncmFwaHMgb2YgdGhlIGNsaWVudCdzIHdvcmxkLCBoaWdoIGFuZCBsb3cgfCAtIHwgMiB8IHN0aWxsIHwKfCBgc2hhcGVkLXdpbmRvdy1vdmVyLWZpeGVkLXdvcmxkYCB8IGhlcm8gKGJlbG93IGl0IG9ubHkpIHwgdGVjaCwgZ2FtaW5nIHwgb25lIHdpZGUgcGhvdG9ncmFwaCBvZiB0aGUgY2xpZW50J3Mgd29ybGQgfCAtIHwgMiB8IHN0aWxsIHwKfCBgZml4ZWQtaGVyby1vYmplY3RgIHwgaGVybyAoYmVsb3cgaXQgb25seSkgfCB0ZWNoLCBnYW1pbmcgfCBhbiBvYmplY3QgcmVuZGVyIG9yIGN1dC1vdXQsIDEtNCBjaGFwdGVycyB8IDEgfCAyIHwgc3RpbGwgfAp8IGBwb3dlcnMtb2YtdGVuLXB1bGxiYWNrYCB8IHByb2R1Y3QgfCBzb2Z0d2FyZSwgdGVjaCB8IHRoZSBwcm9kdWN0J3MgVUkgYXQgdHJ1ZSBzaXplIHwgLSB8IDEgfCBzdGlsbCB8CnwgYHByb2R1Y3QtYXNzZW1ibGVzLWludG8taXRzLWFjdGlvbmAgfCBwcm9kdWN0IHwgc29mdHdhcmUsIHRlY2ggfCB0aGUgc2NyZWVuIGFzIEhUTUwsIDQtNiBzdGVwcyB8IC0gfCAxIHwgc3RpbGwgfAp8IGBwYXJ0cy1sb2NrLWludG8tdGhlLXdob2xlYCB8IHByb2R1Y3QgfCBzb2Z0d2FyZSwgdGVjaCB8IHRoZSBzY3JlZW4gY3V0IGFsb25nIGl0cyBwYW5lbHMgfCAtIHwgMSB8IHN0aWxsIHwKfCBgZmx5LWludG8tdGhlLXNoYXBlYCB8IGJldHdlZW4sIHByb2R1Y3QgfCBzb2Z0d2FyZSwgdGVjaCwgZ2FtaW5nIHwgdGhlIG1hcmsgYXMgb25lIHBhdGgsIG9uZSBkYXJrIHBob3RvZ3JhcGggfCAtIHwgMSB8IHN0aWxsIHwKfCBgbGV0dGVyLXBoeXNpY3NgIHwgc3RhdGVtZW50IHwgc29mdHdhcmUsIHRlY2gsIGdhbWluZyB8IGEgY2xhaW0gYW5kIGl0cyBhbnN3ZXIgfCAtIHwgMSB8IGxpZ2h0IHwKfCBgb2JqZWN0LXRocm91Z2gtZ2lhbnQtdHlwZWAgfCBzdGF0ZW1lbnQgfCBzb2Z0d2FyZSwgdGVjaCwgZ2FtaW5nIHwgYSBxdW90ZSBvZiAzLTUgc2hvcnQgbGluZXMsIGFuIG9iamVjdCB8IDEgfCAxIHwgc3RpbGwgfAp8IGBkb3QtYmVjb21lcy10aGUtZnVsbC1zdG9wYCB8IHN0YXRlbWVudCB8IHNvZnR3YXJlLCB0ZWNoLCBnYW1pbmcgfCBvbmUgY2xhaW0gb2YgNC02IHdvcmRzIHwgLSB8IDEgfCBsaWdodCB8CnwgYGxldHRlci1iYXItZmxvb2RzLXRoZS1ncm91bmRgIHwgYmV0d2Vlbiwgc3RhdGVtZW50IHwgc29mdHdhcmUsIHRlY2gsIGdhbWluZyB8IHR3byBzdGF0ZW1lbnRzLCBhbiBpbnZlcnNlIHNlY3Rpb24gYWZ0ZXIgfCAtIHwgMSB8IHN0aWxsIHwKCmBwb3dlcnMtb2YtdGVuLXB1bGxiYWNrYCBpcyBuZXZlciB0aGUgaGVybzogaXRzIGZpcnN0IHNjcmVlbiBoYXMgbm8gaGVhZGxpbmUgYW5kIG5vIGFjdGlvbi4KRXZlcnkgc2NlbmUncyBoZWFkZXIgY29tbWVudCBpbiBgc2NlbmUuanNgIGhvbGRzIGl0cyBtYXJrdXAgYW5kIG9wdGlvbnM7IGBtZXRhLmpzb25gIGhvbGRzIGl0cwpgbG9va2AsIGBuZWVkc2AsIGBuZXZlcmAgYW5kIGBhdm9pZFdpdGhgLgoKIyMgUHV0IG9uZSBvbiB0aGUgcGFnZQoKQ29weSB0aGUgc2NlbmUncyBmb2xkZXIgYW5kIHRoZSBzaGFyZWQgZmlsZXMgKGBzY2VuZXMuanNgLCBgbGliLmpzYCwgYHNjZW5lcy5jc3NgLCBhbmQgYHByaW50LmpzYApmb3IgYW4gb2JqZWN0IHNjZW5lKSBpbnRvIGBhc3NldHMvc2NlbmVzYC4gV3JpdGUgdGhlIG1hcmt1cCBmcm9tIHRoZSBzY2VuZSdzIGhlYWRlciBjb21tZW50IHdpdGgKdGhlIGNsaWVudCdzIG93biB3b3JkcyBhbmQgcGljdHVyZXMuIEluIGA8aGVhZD5gLCB0aGUgb25lIGxpbmUgdGhhdCBtYXJrcyBzY3JpcHQgZWFybHkgYW5kIGJvdGgKc3R5bGVzaGVldHMsIHNvIHRoZSBmaW5pc2hlZCBjb21wb3NpdGlvbiBpcyBzdHlsZWQgd2l0aG91dCBzY3JpcHQgYW5kIG5vdGhpbmcganVtcHMgd2hlbiB0aGUgc2NlbmUKbW91bnRzOyBhdCB0aGUgZW5kIG9mIGA8Ym9keT5gLCB0aGUgcnVudGltZSBvbmNlOgoKYGBgaHRtbAo8aGVhZD4KICDigKYKICA8c2NyaXB0PmRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5jbGFzc0xpc3QuYWRkKCdzYy1qcycpO3NldFRpbWVvdXQoKCk9PmRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5jbGFzc0xpc3QuYWRkKCdzYy1zYWZlJyksMjUwMCk8L3NjcmlwdD4KICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImFzc2V0cy9zY2VuZXMvc2NlbmVzLmNzcyI+CiAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJhc3NldHMvc2NlbmVzLzxpZD4vc2NlbmUuY3NzIj4KPC9oZWFkPgrigKYKPHNlY3Rpb24gY2xhc3M9InNjIiBkYXRhLWJpZy1zY2VuZT0iPGlkPiIgZGF0YS1iaWctc2NlbmUtb3B0cz0neyJob2xkIjogMX0nIHN0eWxlPSItLWg6IDx0aGUgc2NlbmUncyByZXN0SD4iIGFyaWEtbGFiZWxsZWRieT0i4oCmIj4KICA8ZGl2IGNsYXNzPSJzY19fc3RhZ2UiPuKApjwvZGl2Pgo8L3NlY3Rpb24+CuKApgo8c2NyaXB0IHR5cGU9Im1vZHVsZSIgc3JjPSJhc3NldHMvc2NlbmVzL3NjZW5lcy5qcyI+PC9zY3JpcHQ+CmBgYAoKVGhlIHNlY3Rpb24gaXMgYSBkaXJlY3QgY2hpbGQgb2YgYG1haW5gLiBgPGh0bWwgZGF0YS1zY2VuZXMtcmVhZHk+YCBzYXlzIGl0IGlzIG1vdW50ZWQ7CmBkYXRhLXNjZW5lcy1vdmVyYCBpcyBhIGZhdWx0LiBTY2VuZXMgdGFrZSB0aGUgcGFnZSdzIHRva2VucywgZmFjZSwgcmFkaXVzIGFuZCBidXR0b25zLgoKIyMjIEl0cyBoZWlnaHQgKHJ1bGUgMykKClRoZSBzY2VuZSdzIHNlY3Rpb24gc3RheXMgaW4gdGhlIHBhZ2Ugcmh5dGhtIGxpa2UgZXZlcnkgb3RoZXI6IGV4YWN0bHkgb25lIG9yIHR3byBzY3JlZW5zLCBpdHMKd29yZHMgdW5kZXIgdGhlIG5hdi4gTGl2ZSBpdCBpcyAoaG9sZCArIDEpIHNjcmVlbnM7IGBsaWIuanNgIGFuZCBldmVyeSBzY2VuZSBkZWZhdWx0IGBob2xkYCB0byAxLApzbyB0aGUgbGl2ZSBzZWN0aW9uIGlzIHR3byBzY3JlZW5zICgxODAwcHggYXQgMTQ0MHg5MDApLiBBdCByZXN0IChhIHBob25lLCByZWR1Y2VkIG1vdGlvbiwgbm8Kc2NyaXB0KSBgc2NlbmVzLmNzc2Aga2VlcHMgdGhlIHNlY3Rpb24ncyBgLS1oYCBhbmQgcGFkZGluZyBhcyBhIG1pbmltdW0gaGVpZ2h0LCBzbyBnaXZlIGl0IGAtLWhgID0KdGhlIHNjZW5lJ3MgYHJlc3RIYCAodGhlIHRhYmxlIGFib3ZlKSBhbmQgd3JpdGUgbm8gcGFnZSBDU1MgZm9yIGl0OiBhIGZpeGVkIGhlaWdodCB3b3VsZCBjdXQgdGhlCmNvbXBvc2l0aW9uIGFuZCBydW4gaXQgb3ZlciB0aGUgbmV4dCBzZWN0aW9uLiBOZXZlciBoaWRlIGEgc2NlbmUgZnJvbSB0aGUgY2hlY2sgd2l0aApgZGF0YS1zY3JlZW49ImZyZWUiYC4gTG9vayBhdCB0aGUgMzkwIHNob3Q6IGEgcmVzdCBjb21wb3NpdGlvbiB0aGF0IGZpbGxzIHVuZGVyIGhhbGYgaXRzIHNjcmVlbgpyZWFkcyBlbXB0eSAocnVsZSAyKS4KCiMjIFJ1bGVzCgotICoqVGhlIGRlbW8gaXMgYSBwbGFjZWhvbGRlcjoqKiBldmVyeSBwaWN0dXJlLCB3b3JkIGFuZCBvYmplY3QgaW4gYSBzaGlwcGVkIHNjZW5lIGlzIHRoZSBjbGllbnQncy4KICBDcmVkaXQgdGhlIHBob3RvZ3JhcGhzIGluIHRoZSBmb290ZXIgbGluZSwgd2l0aCAiYWRhcHRlZCIgZm9yIG9uZSBjcm9wcGVkIGJleW9uZCBpdHMgZnJhbWUuCi0gKipSZWFkYWJsZSB3aXRob3V0IGl0OioqIHRoZSBzY2VuZSdzIHdvcmRzIGFyZSByZWFsIHRleHQgaW4gdGhlIG1hcmt1cCwgaW4gcmVhZGluZyBvcmRlcjsgdGhlCiAgZmluaXNoZWQgY29tcG9zaXRpb24gc2F5cyBldmVyeXRoaW5nIHRoZSBzY2VuZSBzYXlzLgotICoqTmF0aXZlIHNjcm9sbCBvbmx5OioqIHRoZSBzdGFnZSBzdGlja3MgZm9yIGBob2xkYCBzY3JlZW5zOyBub3RoaW5nIGNhcHR1cmVzIHRoZSB3aGVlbC4KLSAqKlBob25lcyBnZXQgdGhlIHN0aWxsIG9yIHRoZSBsaWdodCB2ZXJzaW9uLCBuZXZlciB0aGUgZnVsbCBzY2VuZToqKiB1bmRlciA3NjhweCBldmVyeSBzY2VuZQogIHNob3dzIGl0cyBmaW5pc2hlZCBjb21wb3NpdGlvbiwgZXhjZXB0IHRoZSB0d28gdHlwZSBzY2VuZXMgbWFya2VkIGxpZ2h0IChubyBkZXB0aCwgbm90aGluZwogIG92ZXJsYXBwaW5nKS4KLSAqKlJlZHVjZWQgbW90aW9uLCBubyBzY3JpcHQsIGEgZmFpbGVkIG1vZHVsZToqKiB0aGUgZmluaXNoZWQgY29tcG9zaXRpb24sIHdoaWNoIGlzIGFsc28gdGhlCiAgaG9sZCdzIGVuZC4gVGhlIG9iamVjdCBzY2VuZXMgdGhlbiBzaG93IHRoZSBvYmplY3QncyBzdGlsbCBwaWN0dXJlIGFuZCBtb3VudCBubyBXZWJHTC4KLSAqKldlYkdMOioqIG9uZSBjb250ZXh0IGF0IG1vc3QgYSBzY2VuZSwgdGFrZW4gZnJvbSB0aGUgcGFnZSdzIHNoYXJlZCBidWRnZXQgKGBsaWIuZ2xCdWRnZXRgLAogIGB3aW5kb3cuX190cEdsYCwgZm91ciBvbiBhIHBhZ2UpLCBtb3VudGVkIG9ubHkgd2hpbGUgdGhlIHNlY3Rpb24gaXMgbGl2ZSBhbmQgd2l0aGluIGEgc2NyZWVuIG9mCiAgdGhlIHZpZXdwb3J0LCBkZXN0cm95ZWQgd2hlbiBpdCBsZWF2ZXM7IGEgc3RpbGwgcGljdHVyZSB1bmRlciBpdCB3aGVuZXZlciBXZWJHTCBvciB0aGUgc2hhZGVyCiAgZmFpbHMuIE5ldmVyIGEgR0xTTCBFUyByZXNlcnZlZCB3b3JkIGFzIGEgbmFtZS4KLSAqKk5vdGhpbmcgbW92aW5nIGNyb3NzZXMgd29yZHMgYmVpbmcgcmVhZDsqKiBzdGF0ZW1lbnRzIHJlYWQgd2hvbGUgYXQgZXZlcnkgcmVzdC4gVGV4dCBvdmVyIGEKICBwaG90b2dyYXBoIHN0YW5kcyBvbiBhIGZsYXQgYmFuZCBvZiB0aGUgcGFnZSdzIGdyb3VuZCBvciBvbiB0aGUgcGhvdG9ncmFwaCdzIGNhbG0sIGRhcmsgcGFydCBhdAogIDQuNToxICgzOjEgZm9yIGRpc3BsYXkgdGV4dCk7IG5ldmVyIGEgc2NyaW0gb3IgZ3JhZGllbnQgb3ZlciBhIHBob3RvZ3JhcGggKGBzeXN0ZW0ubWRgKS4KLSAqKkNvc3Q6KiogdHJhbnNmb3JtLCBvcGFjaXR5IGFuZCBjbGlwLXBhdGggb24gZml4ZWQtc2l6ZSBsYXllcnM7IG5ldmVyIHdpZHRoLCBoZWlnaHQgb3IgYW4gU1ZHCiAgY2xpcCByZXBhaW50ZWQgZXZlcnkgZnJhbWUuCi0gKipObyBjYXB0aW9ucyoqIHRoYXQgZXhwbGFpbiB0aGUgc2NlbmUsIHVuZGVyIGl0IG9yIGJlc2lkZSBpdDsgbm8gY2FyZCBjaHJvbWUsIGNoaXBzIG9yIGxhYmVscwogIGZseWluZyB3aXRoIHRoZSBzY3JvbGwuCgojIyBDaGVjayBpdAoKYGBgYmFzaApub2RlIDxza2lsbD4vYXNzZXRzL3NjZW5lcy9fZGVtby9zaG9vdC5tanMgc2hvb3QgLS1vdXQgPGRpcj4gLS1wcm9maWxlIDx5b3VyIG93biBDaHJvbWUgcHJvZmlsZSBkaXI+IFstLW9ubHkgPGlkPl0gWy0tcGFnZSA8dXJsPl0gWy0tcmVkdWNlZF0gWy0tcG9ydCA1ODM2XQpub2RlIDxza2lsbD4vYXNzZXRzL3NjZW5lcy9fZGVtby9zaG9vdC5tanMgaW5kZXggWy0tb3V0IDxmaWxlfGRpcj5dICAgIyBmcm9tIHRoZSBwcm9qZWN0IGZvbGRlcjogaXRzIG93biBpbmRleC5qc29uCmBgYAoKYGluZGV4YCB3cml0ZXMgdGhlIHByb2plY3QncyBvd24gYGFzc2V0cy9zY2VuZXMvaW5kZXguanNvbmAgd2hlbiBydW4gZnJvbSBhIHByb2plY3QgZm9sZGVyIHRoYXQgaGFzIGBhc3NldHMvc2NlbmVzYCAob3Igd2l0aCBgLS1vdXQgPGZpbGV8ZGlyPmApLgpJbnNpZGUgdGhlIGluc3RhbGxlZCBza2lsbCBpdCByZWZ1c2VzIGFuZCB3cml0ZXMgbm90aGluZzsgYC0taW4tc2tpbGxgIHJld3JpdGVzIHRoZSBza2lsbCdzIG93biBpbmRleCBvbiBwdXJwb3NlLCB3aGljaAppcyBub3QgYSBwYWdlJ3Mgd29yay4gQSBwYWdlIG5lZWRzIGl0IG9ubHkgYWZ0ZXIgYSBzY2VuZSdzIGBtZXRhLmpzb25gIGNoYW5nZXMsIHNvIG9uIGEgbm9ybWFsIHBhZ2Ugc2tpcCBpdC4KCk9uZSBoZWFkbGVzcyBDaHJvbWUgd2l0aCBXZWJHTCBvbiB0aGUgQ1BVLCBjbG9zZWQgYnkgaXRzIG93biBQSUQ6IHN0YXJ0LCBtaWRkbGUgYW5kIGVuZCBhdCAxNDQwIGFuZAozOTAsIGEgY29udGFjdCBzaGVldCBhIHNjZW5lLiBSZWFkIGV2ZXJ5IHNoZWV0OyBzaG9vdCBgLS1yZWR1Y2VkYCBvbmNlLgo=
+# Big scenes
+
+The one stretch of a tech page where the whole screen becomes a scene, driven by the scroll. Each is
+a folder in `assets/scenes/<id>/` (`scene.js`, `scene.css`, `meta.json`, `demo.html`); `index.json`
+lists them, `lib.js` is the held stage they share, `scenes.js` loads them, `print.js` mounts an
+object render for the two object scenes.
+
+## Who gets one
+
+- **Tech pages only:** software (apps, AI, developer tools, fintech), tech (a technical product,
+  hardware, a network) and gaming. A place, a service or a plain product (site-kind other: a cafe,
+  a guesthouse, a shop, a studio) never gets a scene: it gets photographs. The `types` in `index.json` are exactly
+  `software`, `tech` and `gaming`.
+- **At most one a page,** and only when the brief has what the scene `needs` (its own photographs,
+  its own screen, its own words; a game's key art and in-engine shots are its photographs). No need
+  met, no scene: never a stand-in for the client's pictures. A game without art files sets its name
+  large over stand-in photographs of its setting (the `photo` hero and its world section; a render
+  only when the brief asks for 3D), never an effect in its place (`sections.md`, Gaming).
+- **Deal at random** among the scenes whose `fits` has the section, whose `types` has the page's
+  type and whose `needs` the brief meets, weighted by `weight`, away from the last three in
+  `.taste-skill/scenes-history.json` (the command is in `effects-usage.md`). Name the scene and its
+  section in the plan. A big scene is the page's one effect: no shader ground, no WebGL part beside
+  it.
+- **The hero holds one screen at rest,** so a scene is dealt as the hero only when its `restH` is 1.
+  A scene whose `restH` is 2 (today all three hero scenes) goes below the hero only, as a
+  two-screen section (`--h: 2`) whose heading is an h2; the hero is then dealt as usual.
+- **The two object scenes** (`fixed-hero-object`, `object-through-giant-type`) draw a WebGL render
+  of an object of the client's own trade (a deck of cards for a card-game engine, a globe for an
+  edge network); never an object of another trade, never a cup on a cafe.
+- **The rest of the page stays calm:** no card, row or tile moves because the page scrolled. Beside
+  a scene the page may still take one or two section moments (the house overrides: one big scene and
+  one or two scroll moments), dealt as `moments.md` says (one on a short page, two on eight
+  sections or more), never in the scene's section or the one beside it, never one in the scene's
+  `avoidMoments` or its twin (`effects-usage.md`, Big scene).
+
+| id | fits | types | needs | WebGL | restH | phone |
+| --- | --- | --- | --- | --- | --- | --- |
+| `descend-through-weather` | hero (below it only) | tech, gaming | two photographs of the client's world, high and low | - | 2 | still |
+| `shaped-window-over-fixed-world` | hero (below it only) | tech, gaming | one wide photograph of the client's world | - | 2 | still |
+| `fixed-hero-object` | hero (below it only) | tech, gaming | an object render or cut-out, 1-4 chapters | 1 | 2 | still |
+| `powers-of-ten-pullback` | product | software, tech | the product's UI at true size | - | 1 | still |
+| `product-assembles-into-its-action` | product | software, tech | the screen as HTML, 4-6 steps | - | 1 | still |
+| `parts-lock-into-the-whole` | product | software, tech | the screen cut along its panels | - | 1 | still |
+| `fly-into-the-shape` | between, product | software, tech, gaming | the mark as one path, one dark photograph | - | 1 | still |
+| `letter-physics` | statement | software, tech, gaming | a claim and its answer | - | 1 | light |
+| `object-through-giant-type` | statement | software, tech, gaming | a quote of 3-5 short lines, an object | 1 | 1 | still |
+| `dot-becomes-the-full-stop` | statement | software, tech, gaming | one claim of 4-6 words | - | 1 | light |
+| `letter-bar-floods-the-ground` | between, statement | software, tech, gaming | two statements, an inverse section after | - | 1 | still |
+
+`powers-of-ten-pullback` is never the hero: its first screen has no headline and no action.
+Every scene's header comment in `scene.js` holds its markup and options; `meta.json` holds its
+`look`, `needs`, `never` and `avoidWith`.
+
+## Put one on the page
+
+Copy the scene's folder and the shared files (`scenes.js`, `lib.js`, `scenes.css`, and `print.js`
+for an object scene) into `assets/scenes`. Write the markup from the scene's header comment with
+the client's own words and pictures. In `<head>`, the one line that marks script early and both
+stylesheets, so the finished composition is styled without script and nothing jumps when the scene
+mounts; at the end of `<body>`, the runtime once:
+
+```html
+<head>
+  …
+  <script>document.documentElement.classList.add('sc-js');setTimeout(()=>document.documentElement.classList.add('sc-safe'),2500)</script>
+  <link rel="stylesheet" href="assets/scenes/scenes.css">
+  <link rel="stylesheet" href="assets/scenes/<id>/scene.css">
+</head>
+…
+<section class="sc" data-big-scene="<id>" data-big-scene-opts='{"hold": 1}' style="--h: <the scene's restH>" aria-labelledby="…">
+  <div class="sc__stage">…</div>
+</section>
+…
+<script type="module" src="assets/scenes/scenes.js"></script>
+```
+
+The section is a direct child of `main`. `<html data-scenes-ready>` says it is mounted;
+`data-scenes-over` is a fault. Scenes take the page's tokens, face, radius and buttons.
+
+### Its height (rule 3)
+
+The scene's section stays in the page rhythm like every other: exactly one or two screens, its
+words under the nav. Live it is (hold + 1) screens; `lib.js` and every scene default `hold` to 1,
+so the live section is two screens (1800px at 1440x900). At rest (a phone, reduced motion, no
+script) `scenes.css` keeps the section's `--h` and padding as a minimum height, so give it `--h` =
+the scene's `restH` (the table above) and write no page CSS for it: a fixed height would cut the
+composition and run it over the next section. Never hide a scene from the check with
+`data-screen="free"`. Look at the 390 shot: a rest composition that fills under half its screen
+reads empty (rule 2).
+
+## Rules
+
+- **The demo is a placeholder:** every picture, word and object in a shipped scene is the client's.
+  Credit the photographs in the footer line, with "adapted" for one cropped beyond its frame.
+- **Readable without it:** the scene's words are real text in the markup, in reading order; the
+  finished composition says everything the scene says.
+- **Native scroll only:** the stage sticks for `hold` screens; nothing captures the wheel.
+- **Phones get the still or the light version, never the full scene:** under 768px every scene
+  shows its finished composition, except the two type scenes marked light (no depth, nothing
+  overlapping).
+- **Reduced motion, no script, a failed module:** the finished composition, which is also the
+  hold's end. The object scenes then show the object's still picture and mount no WebGL.
+- **WebGL:** one context at most a scene, taken from the page's shared budget (`lib.glBudget`,
+  `window.__tpGl`, four on a page), mounted only while the section is live and within a screen of
+  the viewport, destroyed when it leaves; a still picture under it whenever WebGL or the shader
+  fails. Never a GLSL ES reserved word as a name.
+- **Nothing moving crosses words being read;** statements read whole at every rest. Text over a
+  photograph stands on a flat band of the page's ground or on the photograph's calm, dark part at
+  4.5:1 (3:1 for display text); never a scrim or gradient over a photograph (`system.md`).
+- **Cost:** transform, opacity and clip-path on fixed-size layers; never width, height or an SVG
+  clip repainted every frame.
+- **No captions** that explain the scene, under it or beside it; no card chrome, chips or labels
+  flying with the scroll.
+
+## Check it
+
+```bash
+node <skill>/assets/scenes/_demo/shoot.mjs shoot --out <dir> --profile <your own Chrome profile dir> [--only <id>] [--page <url>] [--reduced] [--port 5836]
+node <skill>/assets/scenes/_demo/shoot.mjs index [--out <file|dir>]   # from the project folder: its own index.json
+```
+
+`index` writes the project's own `assets/scenes/index.json` when run from a project folder that has `assets/scenes` (or with `--out <file|dir>`).
+Inside the installed skill it refuses and writes nothing; `--in-skill` rewrites the skill's own index on purpose, which
+is not a page's work. A page needs it only after a scene's `meta.json` changes, so on a normal page skip it.
+
+One headless Chrome with WebGL on the CPU, closed by its own PID: start, middle and end at 1440 and
+390, a contact sheet a scene. Read every sheet; shoot `--reduced` once.

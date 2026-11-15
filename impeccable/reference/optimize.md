@@ -1,1 +1,257 @@
-UGVyZm9ybWFuY2UgaXMgYSBmZWF0dXJlLiBJZGVudGlmeSB0aGUgYWN0dWFsIGJvdHRsZW5lY2sgZm9yIFRISVMgaW50ZXJmYWNlLCBmaXggaXQsIHRoZW4gbWVhc3VyZS4gRG9uJ3Qgb3B0aW1pemUgd2hhdCBpc24ndCBzbG93LgoKIyMgQXNzZXNzIFBlcmZvcm1hbmNlIElzc3VlcwoKVW5kZXJzdGFuZCBjdXJyZW50IHBlcmZvcm1hbmNlIGFuZCBpZGVudGlmeSBwcm9ibGVtczoKCjEuICoqTWVhc3VyZSBjdXJyZW50IHN0YXRlKio6CiAgIC0gKipDb3JlIFdlYiBWaXRhbHMqKjogTENQLCBJTlAsIENMUyBzY29yZXMKICAgLSAqKkxvYWQgdGltZSoqOiBUaW1lIHRvIGludGVyYWN0aXZlLCBmaXJzdCBjb250ZW50ZnVsIHBhaW50CiAgIC0gKipCdW5kbGUgc2l6ZSoqOiBKYXZhU2NyaXB0LCBDU1MsIGltYWdlIHNpemVzCiAgIC0gKipSdW50aW1lIHBlcmZvcm1hbmNlKio6IEZyYW1lIHJhdGUsIG1lbW9yeSB1c2FnZSwgQ1BVIHVzYWdlCiAgIC0gKipOZXR3b3JrKio6IFJlcXVlc3QgY291bnQsIHBheWxvYWQgc2l6ZXMsIHdhdGVyZmFsbAoKMi4gKipJZGVudGlmeSBib3R0bGVuZWNrcyoqOgogICAtIFdoYXQncyBzbG93PyAoSW5pdGlhbCBsb2FkPyBJbnRlcmFjdGlvbnM/IEFuaW1hdGlvbnM/KQogICAtIFdoYXQncyBjYXVzaW5nIGl0PyAoTGFyZ2UgaW1hZ2VzPyBFeHBlbnNpdmUgSmF2YVNjcmlwdD8gTGF5b3V0IHRocmFzaGluZz8pCiAgIC0gSG93IGJhZCBpcyBpdD8gKFBlcmNlaXZhYmxlPyBBbm5veWluZz8gQmxvY2tpbmc/KQogICAtIFdobydzIGFmZmVjdGVkPyAoQWxsIHVzZXJzPyBNb2JpbGUgb25seT8gU2xvdyBjb25uZWN0aW9ucz8pCgpNZWFzdXJlIGJlZm9yZSBhbmQgYWZ0ZXIuIE9wdGltaXppbmcgd2l0aG91dCBhIG1lYXN1cmVtZW50IHNwZW5kcyBlZmZvcnQgb24gdGhpbmdzIHRoYXQgZG8gbm90IG1hdHRlci4KCiMjIE9wdGltaXphdGlvbiBTdHJhdGVneQoKQ3JlYXRlIHN5c3RlbWF0aWMgaW1wcm92ZW1lbnQgcGxhbjoKCiMjIyBMb2FkaW5nIFBlcmZvcm1hbmNlCgoqKk9wdGltaXplIEltYWdlcyoqOgotIFVzZSBtb2Rlcm4gZm9ybWF0cyAoV2ViUCwgQVZJRikKLSBQcm9wZXIgc2l6aW5nIChkb24ndCBsb2FkIDMwMDBweCBpbWFnZSBmb3IgMzAwcHggZGlzcGxheSkKLSBMYXp5IGxvYWRpbmcgZm9yIGJlbG93LWZvbGQgaW1hZ2VzCi0gUmVzcG9uc2l2ZSBpbWFnZXMgKGBzcmNzZXRgLCBgcGljdHVyZWAgZWxlbWVudCkKLSBDb21wcmVzcyBpbWFnZXMgKDgwLTg1JSBxdWFsaXR5IGlzIHVzdWFsbHkgaW1wZXJjZXB0aWJsZSkKLSBVc2UgQ0ROIGZvciBmYXN0ZXIgZGVsaXZlcnkKCmBgYGh0bWwKPGltZyAKICBzcmM9Imhlcm8ud2VicCIKICBzcmNzZXQ9Imhlcm8tNDAwLndlYnAgNDAwdywgaGVyby04MDAud2VicCA4MDB3LCBoZXJvLTEyMDAud2VicCAxMjAwdyIKICBzaXplcz0iKG1heC13aWR0aDogNDAwcHgpIDQwMHB4LCAobWF4LXdpZHRoOiA4MDBweCkgODAwcHgsIDEyMDBweCIKICBhbHQ9Ikhlcm8gaW1hZ2UiCi8+CmBgYAoKKipSZWR1Y2UgSmF2YVNjcmlwdCBCdW5kbGUqKjoKLSBDb2RlIHNwbGl0dGluZyAocm91dGUtYmFzZWQsIGNvbXBvbmVudC1iYXNlZCkKLSBUcmVlIHNoYWtpbmcgKHJlbW92ZSB1bnVzZWQgY29kZSkKLSBSZW1vdmUgdW51c2VkIGRlcGVuZGVuY2llcwotIExhenkgbG9hZCBub24tY3JpdGljYWwgY29kZQotIFVzZSBkeW5hbWljIGltcG9ydHMgZm9yIGxhcmdlIGNvbXBvbmVudHMKCmBgYGphdmFzY3JpcHQKLy8gTGF6eSBsb2FkIGhlYXZ5IGNvbXBvbmVudApjb25zdCBIZWF2eUNoYXJ0ID0gbGF6eSgoKSA9PiBpbXBvcnQoJy4vSGVhdnlDaGFydCcpKTsKYGBgCgoqKk9wdGltaXplIENTUyoqOgotIFJlbW92ZSB1bnVzZWQgQ1NTCi0gQ3JpdGljYWwgQ1NTIGlubGluZSwgcmVzdCBhc3luYwotIE1pbmltaXplIENTUyBmaWxlcwotIFVzZSBDU1MgY29udGFpbm1lbnQgZm9yIGluZGVwZW5kZW50IHJlZ2lvbnMKCioqT3B0aW1pemUgRm9udHMqKjoKLSBVc2UgYGZvbnQtZGlzcGxheTogc3dhcGAgb3IgYG9wdGlvbmFsYAotIFN1YnNldCBmb250cyAob25seSBjaGFyYWN0ZXJzIHlvdSBuZWVkKQotIFByZWxvYWQgY3JpdGljYWwgZm9udHMKLSBVc2Ugc3lzdGVtIGZvbnRzIHdoZW4gYXBwcm9wcmlhdGUKLSBMaW1pdCBmb250IHdlaWdodHMgbG9hZGVkCgpgYGBjc3MKQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdDdXN0b21Gb250JzsKICBzcmM6IHVybCgnL2ZvbnRzL2N1c3RvbS53b2ZmMicpIGZvcm1hdCgnd29mZjInKTsKICBmb250LWRpc3BsYXk6IHN3YXA7IC8qIFNob3cgZmFsbGJhY2sgaW1tZWRpYXRlbHkgKi8KICB1bmljb2RlLXJhbmdlOiBVKzAwMjAtMDA3RjsgLyogQmFzaWMgTGF0aW4gb25seSAqLwp9CmBgYAoKKipPcHRpbWl6ZSBMb2FkaW5nIFN0cmF0ZWd5Kio6Ci0gQ3JpdGljYWwgcmVzb3VyY2VzIGZpcnN0IChhc3luYy9kZWZlciBub24tY3JpdGljYWwpCi0gUHJlbG9hZCBjcml0aWNhbCBhc3NldHMKLSBQcmVmZXRjaCBsaWtlbHkgbmV4dCBwYWdlcwotIFNlcnZpY2Ugd29ya2VyIGZvciBvZmZsaW5lL2NhY2hpbmcKLSBIVFRQLzIgb3IgSFRUUC8zIGZvciBtdWx0aXBsZXhpbmcKCiMjIyBSZW5kZXJpbmcgUGVyZm9ybWFuY2UKCioqQXZvaWQgTGF5b3V0IFRocmFzaGluZyoqOgpgYGBqYXZhc2NyaXB0Ci8vIOKdjCBCYWQ6IEFsdGVybmF0aW5nIHJlYWRzIGFuZCB3cml0ZXMgKGNhdXNlcyByZWZsb3dzKQplbGVtZW50cy5mb3JFYWNoKGVsID0+IHsKICBjb25zdCBoZWlnaHQgPSBlbC5vZmZzZXRIZWlnaHQ7IC8vIFJlYWQgKGZvcmNlcyBsYXlvdXQpCiAgZWwuc3R5bGUuaGVpZ2h0ID0gaGVpZ2h0ICogMjsgLy8gV3JpdGUKfSk7CgovLyDinIUgR29vZDogQmF0Y2ggcmVhZHMsIHRoZW4gYmF0Y2ggd3JpdGVzCmNvbnN0IGhlaWdodHMgPSBlbGVtZW50cy5tYXAoZWwgPT4gZWwub2Zmc2V0SGVpZ2h0KTsgLy8gQWxsIHJlYWRzCmVsZW1lbnRzLmZvckVhY2goKGVsLCBpKSA9PiB7CiAgZWwuc3R5bGUuaGVpZ2h0ID0gaGVpZ2h0c1tpXSAqIDI7IC8vIEFsbCB3cml0ZXMKfSk7CmBgYAoKKipPcHRpbWl6ZSBSZW5kZXJpbmcqKjoKLSBVc2UgQ1NTIGBjb250YWluYCBwcm9wZXJ0eSBmb3IgaW5kZXBlbmRlbnQgcmVnaW9ucwotIE1pbmltaXplIERPTSBkZXB0aCAoZmxhdHRlciBpcyBmYXN0ZXIpCi0gUmVkdWNlIERPTSBzaXplIChmZXdlciBlbGVtZW50cykKLSBVc2UgYGNvbnRlbnQtdmlzaWJpbGl0eTogYXV0b2AgZm9yIGxvbmcgbGlzdHMKLSBWaXJ0dWFsIHNjcm9sbGluZyBmb3IgdmVyeSBsb25nIGxpc3RzIChyZWFjdC13aW5kb3csIFRhblN0YWNrIFZpcnR1YWwpCgoqKlJlZHVjZSBQYWludCAmIENvbXBvc2l0ZSoqOgotIFVzZSBgdHJhbnNmb3JtYCBhbmQgYG9wYWNpdHlgIGZvciByZWxpYWJsZSBtb3ZlbWVudCwgYnV0IGFsbG93IGJsdXIsIGZpbHRlcnMsIG1hc2tzLCBjbGlwIHBhdGhzLCBzaGFkb3dzLCBhbmQgY29sb3Igc2hpZnRzIHdoZW4gdGhleSBjcmVhdGUgbWVhbmluZ2Z1bCBwb2xpc2gKLSBBdm9pZCBjYXN1YWwgYW5pbWF0aW9uIG9mIGxheW91dC1kcml2aW5nIHByb3BlcnRpZXMgKGB3aWR0aGAsIGBoZWlnaHRgLCBgdG9wYCwgYGxlZnRgLCBtYXJnaW5zKQotIFVzZSBgd2lsbC1jaGFuZ2VgIHNwYXJpbmdseSBmb3Iga25vd24gZXhwZW5zaXZlIG9wZXJhdGlvbnMKLSBCb3VuZCBleHBlbnNpdmUgcGFpbnQgYXJlYXMgZm9yIGJsdXIvZmlsdGVyL3NoYWRvdyBlZmZlY3RzIChzbWFsbGVyIGFuZCBpc29sYXRlZCBpcyBmYXN0ZXIpCgojIyMgQW5pbWF0aW9uIFBlcmZvcm1hbmNlCgoqKkdQVSBBY2NlbGVyYXRpb24qKjoKYGBgY3NzCi8qIOKchSBHUFUtYWNjZWxlcmF0ZWQgKGZhc3QpICovCi5hbmltYXRlZCB7CiAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKDEwMHB4KTsKICBvcGFjaXR5OiAwLjU7Cn0KCi8qIOKdjCBDUFUtYm91bmQgKHNsb3cpICovCi5hbmltYXRlZCB7CiAgbGVmdDogMTAwcHg7CiAgd2lkdGg6IDMwMHB4Owp9CmBgYAoKKipTbW9vdGggNjBmcHMqKjoKLSBUYXJnZXQgMTZtcyBwZXIgZnJhbWUgKDYwZnBzKQotIFVzZSBgcmVxdWVzdEFuaW1hdGlvbkZyYW1lYCBmb3IgSlMgYW5pbWF0aW9ucwotIERlYm91bmNlL3Rocm90dGxlIHNjcm9sbCBoYW5kbGVycwotIFVzZSBDU1MgYW5pbWF0aW9ucyB3aGVuIHBvc3NpYmxlCi0gQXZvaWQgbG9uZy1ydW5uaW5nIEphdmFTY3JpcHQgZHVyaW5nIGFuaW1hdGlvbnMKCioqSW50ZXJzZWN0aW9uIE9ic2VydmVyKio6CmBgYGphdmFzY3JpcHQKLy8gRWZmaWNpZW50bHkgZGV0ZWN0IHdoZW4gZWxlbWVudHMgZW50ZXIgdmlld3BvcnQKY29uc3Qgb2JzZXJ2ZXIgPSBuZXcgSW50ZXJzZWN0aW9uT2JzZXJ2ZXIoKGVudHJpZXMpID0+IHsKICBlbnRyaWVzLmZvckVhY2goZW50cnkgPT4gewogICAgaWYgKGVudHJ5LmlzSW50ZXJzZWN0aW5nKSB7CiAgICAgIC8vIEVsZW1lbnQgaXMgdmlzaWJsZSwgbGF6eSBsb2FkIG9yIGFuaW1hdGUKICAgIH0KICB9KTsKfSk7CmBgYAoKIyMjIFJlYWN0L0ZyYW1ld29yayBPcHRpbWl6YXRpb24KCioqUmVhY3Qtc3BlY2lmaWMqKjoKLSBVc2UgYG1lbW8oKWAgZm9yIGV4cGVuc2l2ZSBjb21wb25lbnRzCi0gYHVzZU1lbW8oKWAgYW5kIGB1c2VDYWxsYmFjaygpYCBmb3IgZXhwZW5zaXZlIGNvbXB1dGF0aW9ucwotIFZpcnR1YWxpemUgbG9uZyBsaXN0cwotIENvZGUgc3BsaXQgcm91dGVzCi0gQXZvaWQgaW5saW5lIGZ1bmN0aW9uIGNyZWF0aW9uIGluIHJlbmRlcgotIFVzZSBSZWFjdCBEZXZUb29scyBQcm9maWxlcgoKKipGcmFtZXdvcmstYWdub3N0aWMqKjoKLSBNaW5pbWl6ZSByZS1yZW5kZXJzCi0gRGVib3VuY2UgZXhwZW5zaXZlIG9wZXJhdGlvbnMKLSBNZW1vaXplIGNvbXB1dGVkIHZhbHVlcwotIExhenkgbG9hZCByb3V0ZXMgYW5kIGNvbXBvbmVudHMKCiMjIyBOZXR3b3JrIE9wdGltaXphdGlvbgoKKipSZWR1Y2UgUmVxdWVzdHMqKjoKLSBDb21iaW5lIHNtYWxsIGZpbGVzCi0gVXNlIFNWRyBzcHJpdGVzIGZvciBpY29ucwotIElubGluZSBzbWFsbCBjcml0aWNhbCBhc3NldHMKLSBSZW1vdmUgdW51c2VkIHRoaXJkLXBhcnR5IHNjcmlwdHMKCioqT3B0aW1pemUgQVBJcyoqOgotIFVzZSBwYWdpbmF0aW9uIChkb24ndCBsb2FkIGV2ZXJ5dGhpbmcpCi0gR3JhcGhRTCB0byByZXF1ZXN0IG9ubHkgbmVlZGVkIGZpZWxkcwotIFJlc3BvbnNlIGNvbXByZXNzaW9uIChnemlwLCBicm90bGkpCi0gSFRUUCBjYWNoaW5nIGhlYWRlcnMKLSBDRE4gZm9yIHN0YXRpYyBhc3NldHMKCioqT3B0aW1pemUgZm9yIFNsb3cgQ29ubmVjdGlvbnMqKjoKLSBBZGFwdGl2ZSBsb2FkaW5nIGJhc2VkIG9uIGNvbm5lY3Rpb24gKG5hdmlnYXRvci5jb25uZWN0aW9uKQotIE9wdGltaXN0aWMgVUkgdXBkYXRlcwotIFJlcXVlc3QgcHJpb3JpdGl6YXRpb24KLSBQcm9ncmVzc2l2ZSBlbmhhbmNlbWVudAoKIyMgQ29yZSBXZWIgVml0YWxzIE9wdGltaXphdGlvbgoKIyMjIExhcmdlc3QgQ29udGVudGZ1bCBQYWludCAoTENQIDwgMi41cykKLSBPcHRpbWl6ZSBoZXJvIGltYWdlcwotIElubGluZSBjcml0aWNhbCBDU1MKLSBQcmVsb2FkIGtleSByZXNvdXJjZXMKLSBVc2UgQ0ROCi0gU2VydmVyLXNpZGUgcmVuZGVyaW5nCgojIyMgSW50ZXJhY3Rpb24gdG8gTmV4dCBQYWludCAoSU5QIDwgMjAwbXMpCi0gQnJlYWsgdXAgbG9uZyB0YXNrcwotIERlZmVyIG5vbi1jcml0aWNhbCBKYXZhU2NyaXB0Ci0gVXNlIHdlYiB3b3JrZXJzIGZvciBoZWF2eSBjb21wdXRhdGlvbgotIFJlZHVjZSBKYXZhU2NyaXB0IGV4ZWN1dGlvbiB0aW1lCgojIyMgQ3VtdWxhdGl2ZSBMYXlvdXQgU2hpZnQgKENMUyA8IDAuMSkKLSBTZXQgZGltZW5zaW9ucyBvbiBpbWFnZXMgYW5kIHZpZGVvcwotIERvbid0IGluamVjdCBjb250ZW50IGFib3ZlIGV4aXN0aW5nIGNvbnRlbnQKLSBVc2UgYGFzcGVjdC1yYXRpb2AgQ1NTIHByb3BlcnR5Ci0gUmVzZXJ2ZSBzcGFjZSBmb3IgYWRzL2VtYmVkcwotIEF2b2lkIGFuaW1hdGlvbnMgdGhhdCBjYXVzZSBsYXlvdXQgc2hpZnRzCgpgYGBjc3MKLyogUmVzZXJ2ZSBzcGFjZSBmb3IgaW1hZ2UgKi8KLmltYWdlLWNvbnRhaW5lciB7CiAgYXNwZWN0LXJhdGlvOiAxNiAvIDk7Cn0KYGBgCgojIyBQZXJmb3JtYW5jZSBNb25pdG9yaW5nCgoqKlRvb2xzIHRvIHVzZSoqOgotIENocm9tZSBEZXZUb29scyAoTGlnaHRob3VzZSwgUGVyZm9ybWFuY2UgcGFuZWwpCi0gV2ViUGFnZVRlc3QKLSBDb3JlIFdlYiBWaXRhbHMgKENocm9tZSBVWCBSZXBvcnQpCi0gQnVuZGxlIGFuYWx5emVycyAod2VicGFjay1idW5kbGUtYW5hbHl6ZXIpCi0gUGVyZm9ybWFuY2UgbW9uaXRvcmluZyAoU2VudHJ5LCBEYXRhRG9nLCBOZXcgUmVsaWMpCgoqKktleSBtZXRyaWNzKio6Ci0gTENQLCBJTlAsIENMUyAoQ29yZSBXZWIgVml0YWxzOyBJTlAgcmVwbGFjZWQgRklEIGluIE1hcmNoIDIwMjQpCi0gVGltZSB0byBJbnRlcmFjdGl2ZSAoVFRJKQotIEZpcnN0IENvbnRlbnRmdWwgUGFpbnQgKEZDUCkKLSBUb3RhbCBCbG9ja2luZyBUaW1lIChUQlQpCi0gQnVuZGxlIHNpemUKLSBSZXF1ZXN0IGNvdW50CgpNZWFzdXJlIG9uIHJlYWwgZGV2aWNlcyB3aXRoIHJlYWwgbmV0d29yayBjb25kaXRpb25zLiBEZXNrdG9wIENocm9tZSBvbiBhIGZhc3QgY29ubmVjdGlvbiBpc24ndCByZXByZXNlbnRhdGl2ZS4KCioqQXZvaWQqKjoKLSBPcHRpbWl6ZSB3aXRob3V0IG1lYXN1cmluZyAocHJlbWF0dXJlIG9wdGltaXphdGlvbikKLSBTYWNyaWZpY2UgYWNjZXNzaWJpbGl0eSBmb3IgcGVyZm9ybWFuY2UKLSBCcmVhayBmdW5jdGlvbmFsaXR5IHdoaWxlIG9wdGltaXppbmcKLSBVc2UgYHdpbGwtY2hhbmdlYCBldmVyeXdoZXJlIChjcmVhdGVzIG5ldyBsYXllcnMsIHVzZXMgbWVtb3J5KQotIExhenkgbG9hZCBhYm92ZS1mb2xkIGNvbnRlbnQKLSBPcHRpbWl6ZSBtaWNyby1vcHRpbWl6YXRpb25zIHdoaWxlIGlnbm9yaW5nIG1ham9yIGlzc3VlcyAob3B0aW1pemUgdGhlIGJpZ2dlc3QgYm90dGxlbmVjayBmaXJzdCkKLSBGb3JnZXQgYWJvdXQgbW9iaWxlIHBlcmZvcm1hbmNlIChvZnRlbiBzbG93ZXIgZGV2aWNlcywgc2xvd2VyIGNvbm5lY3Rpb25zKQoKIyMgVmVyaWZ5IEltcHJvdmVtZW50cwoKVGVzdCB0aGF0IG9wdGltaXphdGlvbnMgd29ya2VkOgoKLSAqKkJlZm9yZS9hZnRlciBtZXRyaWNzKio6IENvbXBhcmUgTGlnaHRob3VzZSBzY29yZXMKLSAqKlJlYWwgdXNlciBtb25pdG9yaW5nKio6IFRyYWNrIGltcHJvdmVtZW50cyBmb3IgcmVhbCB1c2VycwotICoqRGlmZmVyZW50IGRldmljZXMqKjogVGVzdCBvbiBsb3ctZW5kIEFuZHJvaWQsIG5vdCBqdXN0IGZsYWdzaGlwIGlQaG9uZQotICoqU2xvdyBjb25uZWN0aW9ucyoqOiBUaHJvdHRsZSB0byAzRywgdGVzdCBleHBlcmllbmNlCi0gKipObyByZWdyZXNzaW9ucyoqOiBFbnN1cmUgZnVuY3Rpb25hbGl0eSBzdGlsbCB3b3JrcwotICoqVXNlciBwZXJjZXB0aW9uKio6IERvZXMgaXQgKmZlZWwqIGZhc3Rlcj8KCldoZW4gdGhlIHVzZXItZmFjaW5nIG51bWJlcnMgbW92ZSwgaGFuZCBvZmYgdG8gYC9pbXBlY2NhYmxlIHBvbGlzaGAgZm9yIHRoZSBmaW5hbCBwYXNzLgo=
+Performance is a feature. Identify the actual bottleneck for THIS interface, fix it, then measure. Don't optimize what isn't slow.
+
+## Assess Performance Issues
+
+Understand current performance and identify problems:
+
+1. **Measure current state**:
+   - **Core Web Vitals**: LCP, INP, CLS scores
+   - **Load time**: Time to interactive, first contentful paint
+   - **Bundle size**: JavaScript, CSS, image sizes
+   - **Runtime performance**: Frame rate, memory usage, CPU usage
+   - **Network**: Request count, payload sizes, waterfall
+
+2. **Identify bottlenecks**:
+   - What's slow? (Initial load? Interactions? Animations?)
+   - What's causing it? (Large images? Expensive JavaScript? Layout thrashing?)
+   - How bad is it? (Perceivable? Annoying? Blocking?)
+   - Who's affected? (All users? Mobile only? Slow connections?)
+
+Measure before and after. Optimizing without a measurement spends effort on things that do not matter.
+
+## Optimization Strategy
+
+Create systematic improvement plan:
+
+### Loading Performance
+
+**Optimize Images**:
+- Use modern formats (WebP, AVIF)
+- Proper sizing (don't load 3000px image for 300px display)
+- Lazy loading for below-fold images
+- Responsive images (`srcset`, `picture` element)
+- Compress images (80-85% quality is usually imperceptible)
+- Use CDN for faster delivery
+
+```html
+<img 
+  src="hero.webp"
+  srcset="hero-400.webp 400w, hero-800.webp 800w, hero-1200.webp 1200w"
+  sizes="(max-width: 400px) 400px, (max-width: 800px) 800px, 1200px"
+  alt="Hero image"
+/>
+```
+
+**Reduce JavaScript Bundle**:
+- Code splitting (route-based, component-based)
+- Tree shaking (remove unused code)
+- Remove unused dependencies
+- Lazy load non-critical code
+- Use dynamic imports for large components
+
+```javascript
+// Lazy load heavy component
+const HeavyChart = lazy(() => import('./HeavyChart'));
+```
+
+**Optimize CSS**:
+- Remove unused CSS
+- Critical CSS inline, rest async
+- Minimize CSS files
+- Use CSS containment for independent regions
+
+**Optimize Fonts**:
+- Use `font-display: swap` or `optional`
+- Subset fonts (only characters you need)
+- Preload critical fonts
+- Use system fonts when appropriate
+- Limit font weights loaded
+
+```css
+@font-face {
+  font-family: 'CustomFont';
+  src: url('/fonts/custom.woff2') format('woff2');
+  font-display: swap; /* Show fallback immediately */
+  unicode-range: U+0020-007F; /* Basic Latin only */
+}
+```
+
+**Optimize Loading Strategy**:
+- Critical resources first (async/defer non-critical)
+- Preload critical assets
+- Prefetch likely next pages
+- Service worker for offline/caching
+- HTTP/2 or HTTP/3 for multiplexing
+
+### Rendering Performance
+
+**Avoid Layout Thrashing**:
+```javascript
+// ❌ Bad: Alternating reads and writes (causes reflows)
+elements.forEach(el => {
+  const height = el.offsetHeight; // Read (forces layout)
+  el.style.height = height * 2; // Write
+});
+
+// ✅ Good: Batch reads, then batch writes
+const heights = elements.map(el => el.offsetHeight); // All reads
+elements.forEach((el, i) => {
+  el.style.height = heights[i] * 2; // All writes
+});
+```
+
+**Optimize Rendering**:
+- Use CSS `contain` property for independent regions
+- Minimize DOM depth (flatter is faster)
+- Reduce DOM size (fewer elements)
+- Use `content-visibility: auto` for long lists
+- Virtual scrolling for very long lists (react-window, TanStack Virtual)
+
+**Reduce Paint & Composite**:
+- Use `transform` and `opacity` for reliable movement, but allow blur, filters, masks, clip paths, shadows, and color shifts when they create meaningful polish
+- Avoid casual animation of layout-driving properties (`width`, `height`, `top`, `left`, margins)
+- Use `will-change` sparingly for known expensive operations
+- Bound expensive paint areas for blur/filter/shadow effects (smaller and isolated is faster)
+
+### Animation Performance
+
+**GPU Acceleration**:
+```css
+/* ✅ GPU-accelerated (fast) */
+.animated {
+  transform: translateX(100px);
+  opacity: 0.5;
+}
+
+/* ❌ CPU-bound (slow) */
+.animated {
+  left: 100px;
+  width: 300px;
+}
+```
+
+**Smooth 60fps**:
+- Target 16ms per frame (60fps)
+- Use `requestAnimationFrame` for JS animations
+- Debounce/throttle scroll handlers
+- Use CSS animations when possible
+- Avoid long-running JavaScript during animations
+
+**Intersection Observer**:
+```javascript
+// Efficiently detect when elements enter viewport
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      // Element is visible, lazy load or animate
+    }
+  });
+});
+```
+
+### React/Framework Optimization
+
+**React-specific**:
+- Use `memo()` for expensive components
+- `useMemo()` and `useCallback()` for expensive computations
+- Virtualize long lists
+- Code split routes
+- Avoid inline function creation in render
+- Use React DevTools Profiler
+
+**Framework-agnostic**:
+- Minimize re-renders
+- Debounce expensive operations
+- Memoize computed values
+- Lazy load routes and components
+
+### Network Optimization
+
+**Reduce Requests**:
+- Combine small files
+- Use SVG sprites for icons
+- Inline small critical assets
+- Remove unused third-party scripts
+
+**Optimize APIs**:
+- Use pagination (don't load everything)
+- GraphQL to request only needed fields
+- Response compression (gzip, brotli)
+- HTTP caching headers
+- CDN for static assets
+
+**Optimize for Slow Connections**:
+- Adaptive loading based on connection (navigator.connection)
+- Optimistic UI updates
+- Request prioritization
+- Progressive enhancement
+
+## Core Web Vitals Optimization
+
+### Largest Contentful Paint (LCP < 2.5s)
+- Optimize hero images
+- Inline critical CSS
+- Preload key resources
+- Use CDN
+- Server-side rendering
+
+### Interaction to Next Paint (INP < 200ms)
+- Break up long tasks
+- Defer non-critical JavaScript
+- Use web workers for heavy computation
+- Reduce JavaScript execution time
+
+### Cumulative Layout Shift (CLS < 0.1)
+- Set dimensions on images and videos
+- Don't inject content above existing content
+- Use `aspect-ratio` CSS property
+- Reserve space for ads/embeds
+- Avoid animations that cause layout shifts
+
+```css
+/* Reserve space for image */
+.image-container {
+  aspect-ratio: 16 / 9;
+}
+```
+
+## Performance Monitoring
+
+**Tools to use**:
+- Chrome DevTools (Lighthouse, Performance panel)
+- WebPageTest
+- Core Web Vitals (Chrome UX Report)
+- Bundle analyzers (webpack-bundle-analyzer)
+- Performance monitoring (Sentry, DataDog, New Relic)
+
+**Key metrics**:
+- LCP, INP, CLS (Core Web Vitals; INP replaced FID in March 2024)
+- Time to Interactive (TTI)
+- First Contentful Paint (FCP)
+- Total Blocking Time (TBT)
+- Bundle size
+- Request count
+
+Measure on real devices with real network conditions. Desktop Chrome on a fast connection isn't representative.
+
+**Avoid**:
+- Optimize without measuring (premature optimization)
+- Sacrifice accessibility for performance
+- Break functionality while optimizing
+- Use `will-change` everywhere (creates new layers, uses memory)
+- Lazy load above-fold content
+- Optimize micro-optimizations while ignoring major issues (optimize the biggest bottleneck first)
+- Forget about mobile performance (often slower devices, slower connections)
+
+## Verify Improvements
+
+Test that optimizations worked:
+
+- **Before/after metrics**: Compare Lighthouse scores
+- **Real user monitoring**: Track improvements for real users
+- **Different devices**: Test on low-end Android, not just flagship iPhone
+- **Slow connections**: Throttle to 3G, test experience
+- **No regressions**: Ensure functionality still works
+- **User perception**: Does it *feel* faster?
+
+When the user-facing numbers move, hand off to `/impeccable polish` for the final pass.
