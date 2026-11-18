@@ -2,11 +2,11 @@
 name: cht-ui-skill
 display_name: "CHT 前端视觉与动效技能集"
 display_name_en: "CHT UI Skills"
-description: "一站式前端视觉与动效技能集，融合 24 大能力：p5.js 创意编码、CSS Doodle 图案生成、Theatre.js 时间轴编排、React Spring 物理动画、Inure 精致微交互、UI-UX Craft 设计规范工艺、React PostFX 后期特效、Chakra UI 组件系统、oil-ui 界面设计/改版/评审、draw-ui 设计稿生成与截图还原、m3e-canvas 可拖拽 UI 设计、superpowers 开发方法论（头脑风暴/计划/TDD/调试/验证/评审）、frontend-design 设计哲学（Anthropic 官方，反 AI 默认陷阱）、taste-skill 研究方向引擎（脚本发牌 + 反 slop 实测）、garden-skills 风格配方库（25 种风格 + 6 技能）、ai-design-skills 设计演示与转化引擎（design-to-motion 静态设计稿→像素级 HTML 复刻并导出 MP4/GIF 展示片、landing-page-design 高转化落地页完整系统）、impeccable 设计词汇表与反-slop 方向盘（24 条改稿指令 + 62 条确定性反-slop 规则 + critique/audit 评审）、jakubkrehel-skills 界面评审打磨套件（14 子技能：better-interface/accessibility/typography/colors/layout/writing/ui、interface-review、state-machine、variant、break 等）、json-render 生成式 UI 框架（vercel-labs，⭐~18.8k，Apache-2.0：catalog 护栏约束下 AI 生成受控 JSON Spec → renderer 流式渲染，覆盖 React/RN/Vue/Svelte/Solid/3D/邮件/PDF/终端）、ui-ux-pro-max 设计智能数据库（nextlevelbuilder，⭐~142k，MIT：79 UI 风格 / 192 配色 / 74 字体配对 / 119 UX 准则 / 25 图表 / 22 技术栈，含 BM25 检索脚本与输出模板，选型时优先查库而非凭空杜撰）、hallmark 反 AI 味设计技能（Nutlope/hallmark，Together AI 出品，⭐~42k，MIT：50 套带成品图的主题素材发牌 + 从"页面要干什么"出发布局 + 三级闸门 Floor/Reflex/Finish + 真实浏览器 lint 拦 AI 特征 + 新鲜上下文独立评审 + redesign/audit 指令、工程化质量保障与图表选型参考（推荐栈：Storybook + Playwright 质量保障、Recharts 默认图表 + ECharts 补复杂，其余按需；衔接 jakubkrehel 无障碍 / superpowers TDD / ui-ux-pro-max 图表事实库 / design-to-motion）、prompt-architect 提示词架构师（任务型输入先优化提示词：自动补齐角色/风格/格式 + 出精简通用版与高阶顶配版两版 + 适配所有 AGENT 并规避逻辑漏洞；对寒暄致谢/纯事实问答翻译摘要/延续性修改/已点名技能或文件/只要判断不要优化这五类禁止优化））。按任务路由到对应分册。"
+description: "一站式前端视觉与动效技能集，融合 25 大能力：p5.js 创意编码、CSS Doodle 图案生成、Theatre.js 时间轴编排、React Spring 物理动画、Inure 精致微交互、UI-UX Craft 设计规范工艺、React PostFX 后期特效、Chakra UI 组件系统、oil-ui 界面设计/改版/评审、draw-ui 设计稿生成与截图还原、m3e-canvas 可拖拽 UI 设计、superpowers 开发方法论（头脑风暴/计划/TDD/调试/验证/评审）、frontend-design 设计哲学（Anthropic 官方，反 AI 默认陷阱）、taste-skill 研究方向引擎（脚本发牌 + 反 slop 实测）、garden-skills 风格配方库（25 种风格 + 6 技能）、ai-design-skills 设计演示与转化引擎（design-to-motion 静态设计稿→像素级 HTML 复刻并导出 MP4/GIF 展示片、landing-page-design 高转化落地页完整系统）、impeccable 设计词汇表与反-slop 方向盘（24 条改稿指令 + 62 条确定性反-slop 规则 + critique/audit 评审）、jakubkrehel-skills 界面评审打磨套件（14 子技能：better-interface/accessibility/typography/colors/layout/writing/ui、interface-review、state-machine、variant、break 等）、json-render 生成式 UI 框架（vercel-labs，⭐~18.8k，Apache-2.0：catalog 护栏约束下 AI 生成受控 JSON Spec → renderer 流式渲染，覆盖 React/RN/Vue/Svelte/Solid/3D/邮件/PDF/终端）、ui-ux-pro-max 设计智能数据库（nextlevelbuilder，⭐~142k，MIT：79 UI 风格 / 192 配色 / 74 字体配对 / 119 UX 准则 / 25 图表 / 22 技术栈，含 BM25 检索脚本与输出模板，选型时优先查库而非凭空杜撰）、hallmark 反 AI 味设计技能（Nutlope/hallmark，Together AI 出品，⭐~42k，MIT：50 套带成品图的主题素材发牌 + 从"页面要干什么"出发布局 + 三级闸门 Floor/Reflex/Finish + 真实浏览器 lint 拦 AI 特征 + 新鲜上下文独立评审 + redesign/audit 指令、工程化质量保障与图表选型参考（推荐栈：Storybook + Playwright 质量保障、Recharts 默认图表 + ECharts 补复杂，其余按需；衔接 jakubkrehel 无障碍 / superpowers TDD / ui-ux-pro-max 图表事实库 / design-to-motion）、prompt-architect 提示词架构师（任务型输入先优化提示词：自动补齐角色/风格/格式 + 出精简通用版与高阶顶配版两版 + 适配所有 AGENT 并规避逻辑漏洞；对寒暄致谢/纯事实问答翻译摘要/延续性修改/已点名技能或文件/只要判断不要优化这五类禁止优化）、ponytail 懒人高级工程师模式（DietrichGebert/ponytail，⭐~194k，MIT，v5.3.3：专治 AI 写代码过度设计——六步 YAGNI 决策阶梯拦掉多余依赖/封装/抽象，/ponytail-review 审查 diff、/ponytail-audit 全库审计，四档强度 lite/full/ultra/off，永不削减校验/错误处理/安全/无障碍）。按任务路由到对应分册。"
 description_zh: "cht-ui-skill：前端视觉/动效/设计/工程/审美全家桶——创意编码、生成图案、动画编排、物理动画、微交互、设计规范、后期特效、组件系统、界面设计评审、设计稿生成还原、可拖拽 UI 设计、开发方法论（TDD/计划/验证/评审）、设计哲学（反 AI 味）、研究方向引擎、25 种风格配方、设计稿动效展示（MP4/GIF 导出）、高转化落地页系统、设计词汇表（24 改稿指令 + 62 反-slop 规则 + critique/audit 评审）、界面评审打磨（无障碍/字体/色彩/布局/文案/UI 精修 + 组件状态机/变体）、生成式 UI 框架（catalog 护栏约束的 AI 受控 JSON Spec → 流式渲染，覆盖 React/RN/Vue/Svelte/Solid/3D/邮件/PDF/终端）"
 description_en: "cht-ui-skill: a frontend visual & motion toolkit covering p5.js, css-doodle, Theatre.js, React Spring, Inure micro-interactions, UI/UX craft, React PostFX, Chakra UI, oil-ui design/review, draw-ui design-to-code, m3e-canvas draggable UI design, superpowers dev methodology, Anthropic frontend-design philosophy, taste-skill direction engine, garden-skills style recipes, ai-design-skills demo/conversion engine (design-to-motion, landing-page-design), impeccable design-vocabulary & anti-slop steerer (24 steer commands + 62 deterministic slop rules + critique/audit), and jakubkrehel-skills interface review/polish suite (14 sub-skills), and json-render generative-UI framework (vercel-labs, Apache-2.0: catalog-guarded AI-generated JSON specs streamed to renderers across React/RN/Vue/Svelte/Solid/3D/email/PDF/terminal), and prompt-architect meta-skill (auto-optimizes user prompts for task-type inputs; forbidden on 5 categories: greetings/thanks, pure factual Q&A/translation/summary, continuation edits, already-named skill/file, judgment-only)."
 category: frontend
-version: 1.9.0
+version: 1.10.0
 author: cuohuatang
 tags:
   - frontend
@@ -56,10 +56,10 @@ allowed-tools: Read,Write,Bash
 
 # cht-ui-skill —— 前端视觉与动效技能集
 
-> 把 24 个前端视觉/动效/设计/工程能力**嫁接成一个技能包**。每个能力都是对应知名开源项目（或官方/策展来源）的实战工艺指南，
+> 把 25 个前端视觉/动效/设计/工程能力**嫁接成一个技能包**。每个能力都是对应知名开源项目（或官方/策展来源）的实战工艺指南，
 > 本文件是**总入口与路由**，具体 API、模板、配方都在 `references/` 分册里（渐进披露，按需读取）。
 
-## 一、24 大能力一览
+## 一、25 大能力一览
 
 | # | 能力 | 开源来源 | 一句话 |
 |---|------|----------|--------|
@@ -87,6 +87,7 @@ allowed-tools: Read,Write,Bash
 | 22 | **hallmark 反 AI 味设计技能** | `Nutlope/hallmark`（⭐ ~42k，MIT，Together AI 出品） | 给 AI 编程助手补"设计品味"：50 套带成品图的主题素材发牌 3 套供选 + 从"页面要干什么"出发布局（预约页就是预约、订阅页止于订阅）+ **三级闸门**（Floor 永不放行：对比度/focus/reduced-motion/编造事实/手机端损坏；Reflex 模型默认套路可有理由推翻；Finish 工艺细节只提示）+ 真实浏览器 lint 拦 AI 特征（eyebrow 滥用/全大写字距标签/标题单彩词/页尾必挂订阅/表单假感谢）+ **新鲜上下文独立评审员** + `/hallmark redesign` 保内容重搭、`/hallmark audit` 只出报告 + 755 张开放版权真实照片（技能型整包嫁接：收 skills/hallmark 全 183 文件 + 根 README/LICENSE） |
 | 23 | **工程化质量保障与图表选型参考** | 自归纳（推荐工程栈） | **去重聚焦的推荐栈**：质量保障用 Storybook + Playwright 双核心，图表用 Recharts（轻、React 原生、声明式，默认）打底、ECharts 仅补充复杂图表（桑基/热力/地图/3D）；Chromatic/axe-core/TS+zod/ESLint/Ant Design Charts/Visx 一律非默认按需，已去重衔接 jakubkrehel 无障碍、superpowers TDD、ui-ux-pro-max 图表事实库、design-to-motion（见 `references/09-dev-qc-charts.md`） |
 | 24 | **prompt-architect 提示词架构师（元能力）** | 自归纳（用户原生需求） | **任务型输入先优化提示词**：自动补齐隐性需求（角色设定 + 风格约束 + 输出格式）、出「精简通用版」与「高阶顶配版」两版、结构化排版不废话、适配 ChatGPT/Claude Code/豆包/DeepSeek/Kimi 等所有智能体并规避逻辑漏洞与无效指令；对五类输入【禁止优化】：寒暄致谢、纯事实问答/翻译/摘要、「继续/换成蓝色」等延续性修改、用户已点名技能或文件、只要判断不要优化提示（见 `prompt-architect/SKILL.md`） |
+| 25 | **ponytail 懒人高级工程师模式（反过度设计）** | `DietrichGebert/ponytail`（⭐ ~194k，MIT，v5.3.3） | **专治 AI 写代码过度设计**：让 Agent 像「公司里待得比版本控制系统还久的扎马尾老程序员」一样思考——写码前爬六步 YAGNI 决策阶梯（①功能需要存在吗 ②代码库已有吗 ③标准库/原生够吗 ④已装依赖够吗 ⑤能一行写完吗 ⑥都不行写最小实现），停在第一个站得住的档；实测 -53% 代码 / -45% token / -26% 成本（v5 agentic 基准，39 任务，安全 30/30）；**永不削减**校验/错误处理/安全/无障碍；四档强度 lite/full/ultra/off + `/ponytail-review`（diff 审查出可删清单）、`/ponytail-audit`（全库过度工程审计）、`/ponytail-debt`（捷径台账）（curated 嫁接：收 AGENTS.md 规则、skills/ 6 命令、examples 12 案例、INSTALL、agent-portability、中文 README、2 篇基准；跳过 11MB assets/tests/hooks 运行层） |
 
 ## 二、什么时候用 / 不要用
 
@@ -108,6 +109,7 @@ allowed-tools: Read,Write,Bash
 若要**按成熟主题素材出整页并强制过"不像 AI"的闸门**（50 套主题发牌、按页面目的布局、Floor/Reflex/Finish 三级放行、真实浏览器 lint、新鲜上下文评审，或对已有页面跑 `/hallmark audit`、`/hallmark redesign`），路由到 `hallmark/`（第 22 项）。
 若要**在交付前收敛"怎么验证 / 图表用哪个库"的选型决策**（默认就 Storybook + Playwright 做质量保障、Recharts 画图、复杂图表再补 ECharts；其余 Chromatic/axe-core/TS+zod/ESLint/Ant Design Charts/Visx 按需），读 `references/09-dev-qc-charts.md`（第 23 项）——它已去重衔接第 19 项 jakubkrehel 无障碍、第 12 项 superpowers TDD、第 21 项 ui-ux-pro-max 图表事实库与第 16 项 design-to-motion，只做选型决策不重复 API。
 若用户给出的输入是**任务型**（下任务/归纳总结/生成/安装/修复/转换/推送/产出文件/写码/设计/分析/写文档），且**不是五类禁止优化输入**（寒暄致谢、纯事实问答/翻译/摘要、延续性修改、已点名技能或文件、只要判断不要优化提示），则**第一步先走 `prompt-architect/SKILL.md`（第 24 项）把提示词优化到位**再开工；若用户要的是「一段能用的提示词」（"帮我写个给 X 的提示词""优化这段"），直接产出两版优化提示词即交付物。
+若用户抱怨 **AI 写代码过度设计/太臃肿/装了一堆依赖/套了一层又一层抽象**，或说 "ponytail"、"be lazy"、"YAGNI"、"最简方案"，或要在写码/改码前让 Agent 先问「这真的需要吗」——路由到 `ponytail/`（第 25 项）：按六步决策阶梯动手，用 `/ponytail-review` 审当前 diff、`/ponytail-audit` 审全库；与 superpowers 互补——superpowers 管「怎么工程化交付」，ponytail 管「什么不该写」。
 
 **不用：** 纯后端、纯业务逻辑、与视觉/交互无关的任务无需激活。若只是静态样式微调（颜色/间距），
 可走 `ui-ux-craft` 分册的 token 规范；若需要选整体设计风格方向，与 `ui-ux-pro-max` 互补（它选方向，本技能落地）。
@@ -140,6 +142,7 @@ allowed-tools: Read,Write,Bash
 | 主题素材发牌出整页 / 三级闸门 Floor·Reflex·Finish / 真实浏览器拦 AI 特征 / 新鲜上下文评审 / redesign·audit 已有页面 | `hallmark/`（SKILL.md + references/ 50 主题 + scripts/ sloplint + agents/，Together AI） |
 | 交付前怎么验证 / 图表用哪个库 / 推荐工程栈（Storybook+Playwright+Recharts，ECharts 补复杂） | `references/09-dev-qc-charts.md`（默认栈 + 其余按需；已去重衔接 jakubkrehel/superpowers/ui-ux-pro-max/design-to-motion） |
 | 用户不会写提示词 / 想让任何 AGENT 出好结果 / 要「帮我写或优化一段提示词」 | `prompt-architect/SKILL.md`（第 24 项：判定任务型 vs 五类禁止优化 → 自动补齐角色/风格/格式、出精简通用版 + 高阶顶配版、结构化排版、适配所有智能体并规避逻辑漏洞与无效指令） |
+| AI 过度设计 / 代码臃肿 / 依赖堆砌 / 要最简实现 / YAGNI / /ponytail-review·audit | `ponytail/`（第 25 项：AGENTS.md 六步决策阶梯 + skills/ 6 命令 SKILL + examples/ 12 before-after 案例 + INSTALL 14+ 宿主安装 + docs/agent-portability.md 20 家 Agent 映射 + 基准报告） |
 
 **组合模式（常见）：** Theatre.js 编排转场 + React Spring 做交互反馈 + React PostFX 做画面；
 UI-UX Craft 定 token 与状态规范作为其它所有能力的统一底座；
@@ -169,6 +172,7 @@ UI-UX Craft 定 token 与状态规范作为其它所有能力的统一底座；
 17. **生成式 UI 必须 catalog 护栏约束**（json-render）：任何"AI 生成 UI"场景，必须先定义 catalog（声明允许的组件/动作/数据绑定/visibility/validation），让 AI 只生成受约束的 JSON Spec、再交给 renderer 流式渲染——禁止无 catalog 自由生成不可预测 UI；输出须可校验、可回放、失败可降级。
 18. **选型查库，禁止凭空杜撰**（ui-ux-pro-max）：涉及具体**风格 / 配色 / 字体配对 / UX 准则 / 技术栈**时，优先用 `ui-ux-pro-max/src/ui-ux-pro-max/scripts/` 检索其数据库（79 风格 / 192 配色 / 74 字体配对 / 119 UX 准则 / 25 图表 / 22 技术栈）取事实，再落设计；不得凭记忆编造"某风格有 N 种配色""某字体叫什么"——库里没有的才自行设计，并明确标注是新增而非既有。
 19. **任务型输入先优化提示词**（prompt-architect，第 24 项）：用户给出「任务型」输入（下任务/归纳总结/生成/安装/修复/转换/推送/产出文件/写码/设计/分析/写文档）时，**第一步先按 `prompt-architect/SKILL.md` 把提示词优化到位再开工**——自动补齐角色设定、风格约束、输出格式，产出「精简通用版」与「高阶顶配版」两版，适配 ChatGPT/Claude Code/豆包/DeepSeek/Kimi 等所有智能体并规避逻辑漏洞与无效指令。但**五类输入禁止优化**：①寒暄致谢 ②纯事实问答/翻译/摘要 ③「继续/换成蓝色」等延续性修改 ④用户已点名技能或文件 ⑤只要判断不要优化提示——命中任一类则安静照办，不强行优化、不回"提示词已优化"之类废话。
+20. **最简完整实现，过度设计即缺陷**（ponytail，第 25 项）：写任何代码前爬六步决策阶梯——①这功能需要存在吗（没人要的特性/选项/灵活性跳过，一行点名）②代码库已有吗（复用，别重写）③标准库/原生平台够吗（`input type=date` 而非装日历库；项目自有组件优先于原生）④已装依赖够吗（绝不为几行代码加包）⑤能一行写完且一眼读懂吗 ⑥都不行才写最小实现——停在第一个站得住的档。永不削减：信任边界校验、防数据丢失的错误处理、安全、无障碍、用户明确要的东西；代码变短是因为必要，不是 golf。新写的非平凡逻辑（分支/循环/解析/钱/安全/新脚本）至少留一个小测试或 assert 自检；带已知限制的捷径用 `shortcut: <限制>, <何时升级>` 注释标出；回复末尾一两行说明跳过了什么、没查什么、有何风险。
 
 ## 五、分册索引（触发词 → 文件）
 
@@ -197,6 +201,7 @@ UI-UX Craft 定 token 与状态规范作为其它所有能力的统一底座；
 | `ui-ux-pro-max/skill.json` 或 `README.md` | ui-ux-pro-max、设计智能、design intelligence、风格库、配色库、字体配对、UX 准则、技术栈、79 风格·192 配色·74 字体配对·119 UX、BM25 检索、选型数据库、nextlevelbuilder |
 | `hallmark/SKILL.md` | hallmark、反 AI 味、anti-slop、主题发牌、50 主题、Floor、Reflex、Finish、三级闸门、新鲜上下文评审、fresh-context、sloplint、redesign、audit、Together AI、Nutlope |
 | `prompt-architect/SKILL.md` | 提示词架构师、优化提示词、帮我写个提示词、优化这段、任务型、禁止优化、精简通用版、高阶顶配版、适配所有 AGENT、ChatGPT、Claude Code、豆包、DeepSeek、Kimi、规避逻辑漏洞、角色设定、输出格式 |
+| `ponytail/AGENTS.md` 或 `ponytail/skills/ponytail/SKILL.md` | ponytail、懒人高级工程师、lazy senior dev、过度设计、over-engineering、YAGNI、最简实现、最短 diff、决策阶梯、/ponytail-review、/ponytail-audit、/ponytail-debt、代码臃肿、依赖堆砌、别装依赖、DietrichGebert |
 
 ## 六、与其它技能的关系
 
@@ -214,6 +219,7 @@ UI-UX Craft 定 token 与状态规范作为其它所有能力的统一底座；
 - `ui-ux-pro-max`（第 21 项，nextlevelbuilder）：**设计智能数据库**——把"选风格/配色/字体"从凭感觉变成**查库动作**：79 种 UI 风格 / 192 套配色 / 74 组字体配对 / 119 条 UX 准则 / 25 种图表 / 22 个技术栈（v2.15.0，实测强于视频里的 50/97/9），配 `scripts/` BM25 检索 CLI 与 `templates/` 输出模板。它是 cht-ui-skill 缺的"**可检索设计知识层**"，与 frontend-design（审美立场）、garden-skills/taste-skill（方向素材）衔接：先查库取事实 → 再定方向 → 落地实现；遵守铁律 18「选型查库，禁止凭空杜撰」。
 - `hallmark`（第 22 项，Nutlope / Together AI）：**反 AI 味设计技能（主题发牌 + 三级闸门）**——50 套带成品图的主题素材发牌 3 套、按"页面要干什么"布局（行动放在品类该在的位置、页面以它收尾）、真实浏览器 lint 拦 AI 特征、**Floor（永不放行）/ Reflex（有理由可推翻）/ Finish（只提示）**三级闸门 + 新鲜上下文独立评审员。它与 frontend-design（哲学立场）、impeccable（改稿动词与规则库）、taste-skill（实测循环）互补：hallmark 提供的是**成套主题素材 + 放行机制**——前者补"从哪抄成熟版式"，后者把"不像 AI"变成可执行闸门；对已有页面用 `/hallmark audit`（只报告）与 `/hallmark redesign`（保内容重搭）。
 - `prompt-architect`（第 24 项，自归纳元能力）：**提示词架构师**——把"不会写提示词"变成"复制一段话给任何 AI 都能出好结果"。它是一条**全局前置行为**：用户给出任务型输入时，第一步先优化提示词（自动补齐角色/风格/格式、出精简通用版 + 高阶顶配版两版、结构化排版、适配所有智能体），再开工；命中五类禁止优化输入（寒暄致谢/纯事实问答翻译摘要/延续性修改/已点名技能或文件/只要判断不要优化提示）时则安静照办、不优化。它不依赖任何前端知识，是 cht-ui-skill 里唯一跨领域的"元能力"，服务于"用户用 AGENT 干活"这一最底层诉求——其余 23 项负责"做出什么"，它负责"先把要做的说清楚"。
+- `ponytail`（第 25 项，DietrichGebert，⭐ ~194k，MIT，v5.3.3）：**懒人高级工程师模式（专治 AI 过度设计）**——「最好的代码是从未写过的代码」：写码前爬六步 YAGNI 决策阶梯（需要存在吗→库里有吗→标准库/原生→已装依赖→一行→最小实现），实测 39 任务 agentic 基准 -53% 代码 / -45% token / -26% 成本 / -41% 耗时且安全 30/30（日期选择器 335 行→10 行）。与 superpowers 的 YAGNI/DRY 条目互补成显性阶梯、与 impeccable×jakubkrehel 的交付前评审互补成"审查减法"命令（/ponytail-review 审 diff、/ponytail-audit 审全库、/ponytail-debt 收捷径台账）、与 prompt-architect 衔接（用户要"最简方案"类任务先优化提示词再按阶梯动手）。**永不削减**校验/错误处理/安全/无障碍——代码小是因为必要，不是 golf。curated 嫁接收规则/命令/案例/文档/基准共 40 文件，运行层（hooks）走上游插件安装。
 - `ui-ux-pro-max`：负责选「风格方向」（风格/配色/字体）；本技能负责把方向**落地**成可运行代码与规范。
 - `web-design-guidelines`（可访问性审计）：可在交付前做质量复核。
 - 本技能是「实践工艺 + 审美哲学 + 工程方法论 + 转化/演示 + 评审打磨」层，与它们构成「审美底座(frontend-design) → 方向选择(风格配方库/研究方向引擎) → 落地页转化视角(landing-page-design) → 设计判断(oil-ui) → 设计稿生成/还原(draw-ui) 或 可拖改原型(m3e-canvas) → 规范制定 → 工程化实现(superpowers) → 动效展示/导出(design-to-motion) → 改稿动词与客观评审(impeccable) → 证据驱动精修(jakubkrehel-skills) → 实测验收(taste-skill) → 可访问性审计」的前端质量闭环。

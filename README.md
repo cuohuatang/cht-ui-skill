@@ -1,6 +1,6 @@
 # cht-ui-skill
 
-一站式前端视觉与动效技能集，融合 24 大能力，并内置一条「审美打底 → 出方案矩阵 → 出稿（静态稿 / 可拖改原型）→ 生成可运行代码（快速 / 工程模式）→ 完成前验证 → 生成式 UI（json-render）→ 动效展示导出 → 交付前评审（impeccable × jakubkrehel-skills × hallmark）→ 实测验收」的编排工作流。
+一站式前端视觉与动效技能集，融合 25 大能力，并内置一条「审美打底 → 出方案矩阵 → 出稿（静态稿 / 可拖改原型）→ 生成可运行代码（快速 / 工程模式）→ 完成前验证 → 生成式 UI（json-render）→ 动效展示导出 → 交付前评审（impeccable × jakubkrehel-skills × hallmark）→ 实测验收」的编排工作流。
 
 ## 工作流（内置）
 
@@ -28,7 +28,7 @@ oil-ui + 8 大分册 → 出「风格 × 技术」方案矩阵（默认 6-9 版�
 你手动接进项目、git 提交、部署
 ```
 
-## 24 大能力
+## 25 大能力
 
 | # | 能力 | 开源来源 | 一句话 |
 |---|------|----------|--------|
@@ -56,6 +56,7 @@ oil-ui + 8 大分册 → 出「风格 × 技术」方案矩阵（默认 6-9 版�
 | 22 | hallmark 反 AI 味设计技能 | `Nutlope/hallmark`（Together AI） | 50 套带成品图主题素材发牌 + 按页面目的布局 + Floor/Reflex/Finish 三级闸门 + 真实浏览器 sloplint 拦 AI 特征 + 新鲜上下文独立评审 + redesign/audit 指令（技能型整包嫁接：skills/hallmark 全 183 文件 + 根 README/LICENSE） |
 | 23 | 工程化质量保障与图表选型参考 | 自归纳（推荐工程栈） | **去重聚焦的推荐栈**：质量保障用 Storybook + Playwright 双核心，图表用 Recharts（轻、React 原生、声明式，默认）打底、ECharts 仅补充复杂图表（桑基/热力/地图/3D）；Chromatic/axe-core/TS+zod/ESLint/Ant Design Charts/Visx 一律非默认按需，去重衔接 jakubkrehel 无障碍、superpowers TDD、ui-ux-pro-max 图表事实库、design-to-motion（见 `references/09-dev-qc-charts.md`） |
 | 24 | prompt-architect 提示词架构师（元能力） | 自归纳（用户原生需求） | **任务型输入先优化提示词**：自动补齐角色/风格/格式、出精简通用版 + 高阶顶配版两版、适配所有智能体并规避逻辑漏洞；五类输入禁止优化（寒暄致谢/纯事实问答翻译摘要/延续性修改/已点名技能或文件/只要判断不要优化提示），见 `prompt-architect/SKILL.md` |
+| 25 | ponytail 懒人高级工程师模式（反过度设计） | `DietrichGebert/ponytail`（⭐~194k，MIT，v5.3.3） | **专治 AI 写代码过度设计**：六步 YAGNI 决策阶梯（需要存在吗→库里有吗→标准库/原生→已装依赖→一行→最小实现），实测 -53% 代码 / -45% token，安全 30/30；永不削减校验/错误处理/安全/无障碍；四档强度 + /ponytail-review·audit·debt 命令（curated 嫁接 40 文件：AGENTS.md 规则 + skills/ 命令 + examples 案例 + INSTALL + 基准） |
 
 ## 安装
 
@@ -87,4 +88,5 @@ cht-ui-skill/
 └── ui-ux-pro-max/          # 第 21 项：设计智能数据库（README/README.zh/LICENSE/skill.json + src/ui-ux-pro-max/{data,scripts,templates}），来源 nextlevelbuilder/ui-ux-pro-max-skill（MIT，⭐~142k，79 风格/192 配色/74 字体配对/119 UX 准则/22 技术栈）
 └── hallmark/               # 第 22 项：反 AI 味设计技能（SKILL.md + references/ 50 主题成品图 + scripts/ sloplint + agents/ + LICENSE/README/ROADMAP），来源 Nutlope/hallmark（MIT，Together AI，⭐~42k）
 └── prompt-architect/       # 第 24 项：提示词架构师元能力（SKILL.md）——任务型输入先优化提示词、五类输入禁止优化、出精简通用版+高阶顶配版、适配所有 AGENT
+└── ponytail/               # 第 25 项：懒人高级工程师模式（AGENTS.md 六步决策阶梯 + skills/ 6 命令 + commands/ + examples/ 12 案例 + docs/ + i18n zh + 基准 2 篇 + GRAFT-NOTES），来源 DietrichGebert/ponytail（MIT，⭐~194k，v5.3.3），专治 AI 写代码过度设计
 ```

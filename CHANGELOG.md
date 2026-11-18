@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v1.10.0 — 2026-11-19
+
+**新增（第 25 项能力：ponytail 懒人高级工程师模式，专治 AI 写代码过度设计）**
+- 新增 `ponytail/`（curated 精选嫁接，40 文件 / ~176KB），来源 `DietrichGebert/ponytail`（⭐ ~194k，MIT，v5.3.3，2026-10-29）。
+  - **收**：`AGENTS.md`（懒人高级工程师完整规则）、`.cursor/rules/ponytail.mdc`（always-on 规则；与 .clinerules/.windsurf/.kiro/.qoder/.agents 6 份拷贝同文，去重只收此份）、`skills/`（ponytail 主技能 + review/audit/debt/gain/help 5 命令 SKILL）、`commands/`（6 个 Codex toml）、`README.md`、`INSTALL.md`（14+ 宿主安装路径）、`docs/agent-portability.md`（20 家 Agent 映射）、`i18n/README.zh-CN.md`（中文版）、`examples/`（12 个 before/after 案例：日期选择器 335→10 行、防抖、限流、邮箱校验…）、`benchmarks/README.md` + `results/2026-10-07-agentic.md`（v5：-53% 代码 / -41% 耗时 / -26% 成本 / -45% token，39 任务，6 项安全任务 30/30）+ `results/2026-06-18-agentic.md`（v4 基准）、`LICENSE`、`package.json`、`.claude-plugin/` 与 `.codex-plugin/` 的 plugin.json；自写 `GRAFT-NOTES.md` 嫁接说明。
+  - **跳过**：`assets/`（11MB 图片）、`tests/`、`hooks/`（20 文件运行层 Node 脚本与 UI 面板——真实宿主走 `/plugin marketplace add DietrichGebert/ponytail` + `/plugin install ponytail@ponytail` 获完整运行层）、benchmarks 脚本、`.openclaw/`/`.opencode/` 等镜像、i18n es/ja/ko。
+- 核心规则落成**全局铁律第 20 条**：写码前爬六步 YAGNI 决策阶梯（①需要存在吗 ②代码库已有吗 ③标准库/原生够吗 ④已装依赖够吗 ⑤能一行写完吗 ⑥都不行写最小实现），停在第一个站得住的档；**永不削减**信任边界校验 / 防数据丢失的错误处理 / 安全 / 无障碍 / 用户明确要的东西；非平凡新逻辑至少留一个小测试或 assert 自检；捷径用 `shortcut: <限制>, <何时升级>` 注释；回复末尾说明跳过了什么与风险。
+- 接线：能力表第 25 项、路由段（二）、决策树（三）、分册索引（五）、技能关系段（六）；计数 24 → 25，版本 `1.9.0 → 1.10.0`，描述补 ponytail 提及，README 能力表/结构树同步。
+
 ## v1.9.0 — 2026-11-15
 
 **新增（第 24 项能力：prompt-architect 提示词架构师，元能力）**
